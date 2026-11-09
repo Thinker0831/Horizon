@@ -5,43 +5,67 @@ date: 2026-11-09
 lang: zh
 ---
 
-> 从 32 条内容中筛选出 9 条重要资讯。
+> 从 33 条内容中筛选出 11 条重要资讯。
 
 ---
 
 **科技新闻**
-1. [KetchUp：基于 Rust 和 WebGPU 的开源 SketchUp 替代品发布](#item-tech-news-1) ⭐️ 7.0/10
-2. [高盛限制银行和交易员使用 Claude Code](#item-tech-news-2) ⭐️ 7.0/10
-3. [284B DeepSeek 模型可在 64GB 内存无 GPU 本地运行](#item-tech-news-3) ⭐️ 7.0/10
-4. [Outlook.com 开始静默拒收无 DMARC 域名邮件](#item-tech-news-4) ⭐️ 7.0/10
-5. [Drex Max v1.1 多模态决策模型发布，声称达成 SOTA 并开放权重](#item-tech-news-5) ⭐️ 7.0/10
-6. [GRFNet：面向多通道时序分类的 PyTorch 模型开源发布](#item-tech-news-6) ⭐️ 7.0/10
-7. [美议员呼吁立法禁止 AI 递归自我改进](#item-tech-news-7) ⭐️ 7.0/10
-8. [中国模型占全球开源模型企业支出 89%](#item-tech-news-8) ⭐️ 7.0/10
+1. [Drex Max v1.1 多模态决策模型发布，声称达成 SOTA 并开放权重](#item-tech-news-1) ⭐️ 8.0/10
+2. [KetchUp：基于 Rust 和 WebGPU 的开源 3D 建模工具发布](#item-tech-news-2) ⭐️ 7.0/10
+3. [Llama-modchip 实现 284B 参数 LLM 在 64GB 内存无 GPU 本地推理](#item-tech-news-3) ⭐️ 7.0/10
+4. [从 Claude 迁移到 Pi：AI 工具链接口变革](#item-tech-news-4) ⭐️ 7.0/10
+5. [高盛限制银行家和交易员使用 Claude Code](#item-tech-news-5) ⭐️ 7.0/10
+6. [Outlook.com 开始拒收无 DMARC 域名邮件](#item-tech-news-6) ⭐️ 7.0/10
+7. [GRFNet：面向多通道时序分类的 PyTorch 模型开源发布](#item-tech-news-7) ⭐️ 7.0/10
+8. [可玩宝可梦红宝石扩散世界模型与 System 1/2 代理架构](#item-tech-news-8) ⭐️ 7.0/10
+9. [中国模型占全球开源模型企业支出 89%](#item-tech-news-9) ⭐️ 7.0/10
+10. [Anthropic 报告：科学家用 Claude 以数据分析和写作为主](#item-tech-news-10) ⭐️ 7.0/10
 
 **财经新闻**
-1. [英伟达董事会调查黄仁勋是否遭外国情报锁定](#item-finance-news-1) ⭐️ 7.0/10
+1. [英伟达董事会对黄仁勋涉间谍指控展开独立调查](#item-finance-news-1) ⭐️ 7.0/10
 
 ---
 
 ## 科技新闻
 
 <a id="item-tech-news-1"></a>
-### [KetchUp：基于 Rust 和 WebGPU 的开源 SketchUp 替代品发布](https://ketchup3d.github.io/app/) ⭐️ 7.0/10
+### [Drex Max v1.1 多模态决策模型发布，声称达成 SOTA 并开放权重](https://www.reddit.com/r/MachineLearning/comments/1xr4hkm/artificial_analysis_multimodal_decision_model/) ⭐️ 8.0/10
 
-KetchUp 是一个开源的 3D 建模工具，采用 Rust 和 WebGPU 技术开发，可直接在浏览器中运行。它定位为 SketchUp（广泛使用的专有 3D 建模软件）的替代方案，强调跨平台和高性能。用户无需安装本地应用即可进行 3D 建模，适用于希望在网页端进行设计的开发者和爱好者。目前已可在线访问。
+Nace 团队发布了 Drex Max v1.1 多模态决策模型，声称在决策模型领域达成了最新的 SOTA（state-of-the-art）表现，并位于帕累托前沿。该模型权重采用 Open RAIL-M 许可开放，支持本地推理，且上下文窗口约为 256k，远超 Glide1.2（64k）和 Mammoth（16k）等同类模型。团队还公开了完整训练流程文档，并计划很快发布 v1.1 的开源权重。
 
-hackernews · dcoulmbe · 11月8日 22:35 · [社区讨论](https://news.ycombinator.com/item?id=50418176)
+reddit · r/MachineLearning · /u/m4rkGS · 11月8日 17:54
 
-**「背景信息」** SketchUp 是一款广泛使用的专有 3D 建模软件，因其易用性和广泛的社区资源受到欢迎。KetchUp 作为开源替代方案，采用 Rust 语言和 WebGPU 技术，后者是一种现代 Web 图形 API，能够在浏览器中实现高性能 3D 渲染。Rust 与 WebGPU 的结合为跨平台、高性能的浏览器 3D 建模工具提供了新的技术路径。
-
-**「影响」** 对于需要轻量级、易用且无需安装的 3D 建模工具的用户，KetchUp 提供了一个新的开源选择，尤其适合教育、业余爱好者和开发者快速原型设计。其基于现代技术栈，有望推动更多高性能 Web 端 3D 应用的开发。
-
-**「社区讨论」** 有用户称赞 KetchUp 的 Rust UI 在浏览器中的表现流畅，甚至认为 Rust 可能是未来跨平台 Web 和移动应用的关键技术。部分用户建议增加功能展示和示例文件，以提升新用户的上手体验，也有用户反馈默认操作流程（如绘制矩形时强制命名）不够友好。
+**「背景信息」** Drex Max 是 Nace.AI 推出的多模态决策模型，能够基于文本、JSON 和图像等多种输入格式回答问题，并为每个选项返回概率分布。此前，Drex Max v1 已在 Hugging Face 上以开放权重形式发布，并支持本地推理。该模型自称在 Decision Index 0.4 基准上取得了 67.52 的自报分数，且为 Drex v2.0 的继任者。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://pooya.ai/webgpu/">Rust WebGPU Examples &amp; Tutorials | wgpu &amp; WGSL</a></li>
+<li><a href="https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/">Nace AI Open-Sources Drex Max v 1 : A 27B Decision Model That...</a></li>
+<li><a href="https://openrouter.ai/nace-ai/drex-max">Drex Max - API Pricing &amp; Providers | OpenRouter</a></li>
+<li><a href="https://huggingface.co/nace-ai/drex-max-v1">nace-ai/ drex - max - v 1 · Hugging Face</a></li>
+
+</ul>
+</details>
+
+**标签**: `#machine learning`, `#AI models`, `#open source`, `#multimodal`
+
+---
+
+<a id="item-tech-news-2"></a>
+### [KetchUp：基于 Rust 和 WebGPU 的开源 3D 建模工具发布](https://ketchup3d.github.io/app/) ⭐️ 7.0/10
+
+KetchUp 是一款全新开源的 3D 建模工具，采用 Rust 和 WebGPU 技术开发，定位为 SketchUp 的现代替代品。该项目可直接在浏览器中运行，面向需要免费、开放 3D 建模解决方案的用户和开发者。KetchUp 目前已上线，用户可通过其官网体验。其主要亮点在于利用 Rust 提供高性能 Web 端 3D 建模体验，并填补了 SketchUp 逐步远离免费和开放开发后的市场空白。
+
+hackernews · dcoulmbe · 11月8日 22:35 · [社区讨论](https://news.ycombinator.com/item?id=50418176)
+
+**「背景信息」** SketchUp 曾是一款广受欢迎的易用 3D 建模软件，但其免费和开放性逐步减少，引发用户对替代方案的需求。KetchUp 采用 Rust 语言和 WebGPU 技术开发，Rust 是一种注重安全性和性能的现代编程语言，而 WebGPU 则是新一代网页图形 API，支持高效的跨平台 3D 渲染。Rust 社区的 wgpu 项目为 WebGPU 在多平台上的实现提供了基础，使得在浏览器中运行高性能 3D 应用成为可能。
+
+**「影响」** 对于习惯使用 SketchUp 但受限于其商业化和闭源政策的个人和爱好者，KetchUp 提供了一个无需安装、可自由修改和分发的现代替代方案。开发者还可借助其基于 Rust 的架构进行二次开发或集成，推动更多基于 WebGPU 的 3D 应用创新。
+
+**「社区讨论」** 多位用户表达了对 SketchUp 逐步商业化和功能停滞的不满，对 KetchUp 作为“精神继承者”表示欢迎。有用户称赞其 Rust 实现的 Web 端 UI 表现流畅，另有反馈建议优化默认交互体验（如绘制矩形时不应强制命名对象）。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://github.com/gfx-rs/wgpu">GitHub - gfx-rs/wgpu: A cross-platform, safe, pure- Rust graphics API.</a></li>
 
 </ul>
 </details>
@@ -50,158 +74,163 @@ hackernews · dcoulmbe · 11月8日 22:35 · [社区讨论](https://news.ycombin
 
 ---
 
-<a id="item-tech-news-2"></a>
-### [高盛限制银行和交易员使用 Claude Code](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers) ⭐️ 7.0/10
+<a id="item-tech-news-3"></a>
+### [Llama-modchip 实现 284B 参数 LLM 在 64GB 内存无 GPU 本地推理](https://github.com/synchopate/llama-modchip) ⭐️ 7.0/10
 
-高盛已决定限制其银行和交易员对 Claude Code 的使用，原因涉及安全、合规和成本等多方面考量。该举措反映出在金融等高度敏感行业中，企业级 AI 工具的部署面临实际的操作、监管和财务挑战。此次调整主要影响到直接接触客户、交易和内部敏感信息的前线金融专业人员。高盛此举并非完全禁止 AI 工具，而是针对特定风险场景采取了更严格的管控措施。
+Llama-modchip 项目实现了在仅有 64GB 内存且无 GPU 的本地硬件上运行 2840 亿参数的 DeepSeek 大语言模型（LLM）推理。这一成果依赖于模型量化和资源高效利用，使得超大模型的本地部署门槛大幅降低。该项目已开源，适用于希望在普通工作站上运行大模型的开发者和研究者。需要注意的是，具体性能表现和兼容性可能因硬件和量化策略而异。
+
+hackernews · joshcsimmons · 11月8日 10:22 · [社区讨论](https://news.ycombinator.com/item?id=50411961)
+
+**「背景信息」** llama-modchip 是一个开源项目，旨在通过自定义压缩和内存分块技术，使 2840 亿参数的 DeepSeek-V4-Flash 大型语言模型能够在仅有 64GB 内存、无 GPU 的 CPU 系统上本地推理运行。该项目支持多种模型和平台，并通过极致量化（如 1.71 bits per weight）和高效内存管理，显著降低了硬件门槛。此前，运行如此大规模模型通常需要昂贵的多卡 GPU 服务器或更高内存配置。
+
+**「影响」** 开发者和个人用户无需昂贵的 GPU，即可在较为常见的高内存工作站上本地运行超大规模语言模型，有助于降低 AI 应用的硬件门槛并促进模型私有化部署。
+
+**「社区讨论」** 有用户指出，激进的量化策略会导致模型性能非线性下降，4-bit 通常是性能与体积的最佳平衡点，低于此阈值则质量显著下降。另有评论认为该项目的实际性能与 llama.cpp 类似，但预填速度更快，且具体效果依赖于硬件配置和量化实现。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://github.com/synchopate/llama-modchip">GitHub - synchopate/llama-modchip: Run 284B DeepSeek-V4 ...</a></li>
+<li><a href="https://www.inferwire.com/en/posts/llama-modchip-runs-284b-deepseek-model-on-64gb-ram-cpus">Llama-modchip Runs 284B DeepSeek Model on 64GB RAM CPUs</a></li>
+<li><a href="https://braindetox.kr/en/posts/llama_modchip_deepseek_284b_cpu_64gb.html">llama-modchip 284B: DeepSeek-V4-Flash on 64GB RAM, No GPU</a></li>
+
+</ul>
+</details>
+
+**标签**: `#large language models`, `#model quantization`, `#AI infrastructure`, `#open source`
+
+---
+
+<a id="item-tech-news-4"></a>
+### [从 Claude 迁移到 Pi：AI 工具链接口变革](https://caleb.software/posts/claude-to-pi.html) ⭐️ 7.0/10
+
+一篇技术性较强的讨论文章分析了部分高级用户从主流大语言模型（如 Claude、ChatGPT）接口迁移到替代方案（如 Pi harness）的现象。文章及社区评论详细探讨了接口设计、API 使用、模型行为和第三方封装工具的复杂性与风险，包括兼容性、API 隐藏参数、缓存机制等技术细节。该讨论反映出 AI 工具链日益复杂，开发者在选择和集成 LLM 时需权衡原生与第三方接口的优劣。Pi harness 因其灵活性和可扩展性受到部分用户青睐，但也存在与官方模型兼容性和服务条款风险。
+
+hackernews · karagenit · 11月8日 03:11 · [社区讨论](https://news.ycombinator.com/item?id=50410107)
+
+**「背景信息」** 近年来，开源本地大语言模型（LLM）代理工具（harness）如 Pi、OpenCode 等逐渐流行，成为开发者替代主流 LLM 接口（如 Claude、ChatGPT）的新选择。这些 harness 允许用户在本地运行和管理 AI 模型，提升了灵活性和数据隐私控制。例如，Pi harness 支持与本地 LLM 集成，能够自动化项目搭建和功能实现，适用于多种操作系统和开发环境。
+
+**「影响」** 对于开发者和高级用户而言，采用 Pi 等第三方 harness 可以获得更高的灵活性和定制能力，但需注意潜在的兼容性问题、API 行为差异以及违反模型服务条款的风险。部分用户反馈在非原生 harness 下模型 token 消耗异常，且部分功能无法完整复现官方接口体验。
+
+**「社区讨论」** 有用户认为第三方 harness（如 Pi）在灵活性和集成能力上优于官方接口，但也有观点指出使用非官方 harness 可能导致服务被封禁、模型行为异常及缓存失效等问题。部分开发者分享了在业务项目中自研 harness 的经验，强调 harness 设计对模型效率和功能实现的影响。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.marktechpost.com/2026/09/18/best-open-source-agent-harnesses-for-local-llms-in-2026/">Best Open-Source Agent Harnesses for Local LLMs in 2026</a></li>
+<li><a href="https://github.com/locknet11/pi-local-harness">GitHub - locknet11/pi-local-harness: Pi wrapper tunned for ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#large-language-models`, `#developer-tools`, `#ai-interfaces`, `#software-engineering`
+
+---
+
+<a id="item-tech-news-5"></a>
+### [高盛限制银行家和交易员使用 Claude Code](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers) ⭐️ 7.0/10
+
+高盛已决定限制其银行家和交易员对 Claude Code 的使用，原因包括安全、合规和成本方面的担忧。该措施反映了在高度监管和敏感的金融环境中部署 AI 编码代理所面临的实际挑战，尤其涉及数据隐私、金融风险以及消费型计费模式带来的预算压力。此次调整主要影响到直接接触客户和交易数据的前线金融专业人员。
 
 hackernews · TheWiggles · 11月8日 18:16 · [社区讨论](https://news.ycombinator.com/item?id=50415628)
 
-**「背景信息」** 此前，高盛允许包括交易员和银行家在内的员工使用 Claude Code 和 GitHub 等 AI 编程工具，用于监控客户流、构建交易模型和生成内容报告等任务。根据近期多家媒体报道，高盛在 2026 年 10 月对这些工具的访问权限进行了限制，仅允许软件工程师继续使用，结束了此前面向更广泛员工群体的试点阶段。这一政策调整是在评估了生产力提升与风险管理因素后做出的，反映出金融行业在采用 AI 编程助手时对安全、合规和成本的高度关注。
+**「背景信息」** 据多家媒体报道，2026 年 10 月，高盛集团更新了其内部政策，限制包括 Anthropic 的 Claude Code 在内的 AI 工具的使用范围，仅允许工程师访问，禁止交易员和银行家继续使用。此前，这些非工程技术人员曾利用 Claude Code 和 GitHub Copilot 等工具开发市场模型和监控客户流，这些代码直接运行在处理客户信息的工作站上。此次调整反映出金融行业在数据安全、合规和风险管理方面对 AI 编码工具的高度关注。
 
-**「影响」** 受影响的高盛员工将无法在日常工作中继续使用 Claude Code，需寻找替代工具或回归传统流程，可能导致部分自动化和效率提升项目暂停或调整。对于其他金融机构而言，此举也为 AI 工具的合规和风险管理提供了警示和参考。
+**「影响」** 受影响的高盛员工将无法继续在日常工作中使用 Claude Code，可能需要寻找替代工具或恢复传统工作流程。此外，企业在选择 AI 工具时将更加重视安全、合规和可控成本，推动对计费模式和数据访问权限的严格审查。
 
-**「社区讨论」** 有评论指出，将 AI 编码代理部署在金融专业人员的主力工作站上存在重大数据泄露风险，尤其是在涉及客户、交易和内部网络的场景下。另有用户分享，部分机构因 AI 工具计费过高而收紧使用权限，并倾向选择计费更可控的替代方案，如 Google Gemini。此外，有实际案例显示，AI 工具在合规文档处理中的错误可能导致严重法律后果，甚至团队被解雇。
+**「社区讨论」** 有评论指出，将 AI 编码代理部署在金融专业人员的主力工作站上存在重大数据泄露风险，尤其是在同时访问敏感交易和客户信息的情况下。另有用户分享，因 AI 工具计费过高和合规风险，部分金融机构已转向计费更可控的替代方案，如 Google Gemini，并强调 AI 误用可能导致严重的合规后果甚至法律责任。
 
 <details><summary>参考链接</summary>
 <ul>
 <li><a href="https://www.gate.com/news/detail/GS/goldman-sachs-restricts-claude-code-access-in-october-traders-can-no-longer-25394829">Goldman Sachs restricts Claude Code access in October ...</a></li>
-<li><a href="https://www.siliconreport.com/goldman-sachs-cuts-off-most-staff-from-claude-code-and-github">Goldman Sachs cuts off most staff from Claude Code and GitHub</a></li>
+<li><a href="https://aigovernance.com/news/goldmans-claude-code-ban-exposes-ai-coding-tool-governance-gap">Goldman&#x27;s Claude Code Ban Exposes AI Coding Tool Governance…</a></li>
 <li><a href="https://explainx.ai/blog/goldman-sachs-restricts-traders-bankers-ai-coding-tools-claude-code-engineers-only-2026">Goldman Sachs Restricts AI Coding Tools: What We Know ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI adoption`, `#enterprise security`, `#finance industry`, `#regulatory compliance`
-
----
-
-<a id="item-tech-news-3"></a>
-### [284B DeepSeek 模型可在 64GB 内存无 GPU 本地运行](https://github.com/synchopate/llama-modchip) ⭐️ 7.0/10
-
-llama-modchip 项目实现了在仅有 64GB 内存、无 GPU 的本地硬件上运行 2840 亿参数的 DeepSeek 大语言模型。该项目依赖模型量化等技术以降低硬件门槛，允许用户在普通工作站上进行推理。虽然具体性能和兼容性细节尚不完全明确，但该项目已在开源社区引发了关于量化策略和硬件权衡的讨论。
-
-hackernews · joshcsimmons · 11月8日 10:22 · [社区讨论](https://news.ycombinator.com/item?id=50411961)
-
-**「背景信息」** llama-modchip 是一个开源项目，旨在让用户能够在仅有 64GB 内存且无独立 GPU 的普通 CPU 设备上本地运行 2840 亿参数的 DeepSeek-V4-Flash 语言模型。该项目通过激进的模型量化（如 1.71 bits per weight）和 CPU 优先的推理策略，大幅降低了对硬件的要求。此前，运行如此大规模模型通常需要昂贵的高端 GPU 和更高的内存配置。
-
-**「影响」** 开发者和研究人员现在可以在无需高端 GPU 的情况下，本地实验和部署超大规模语言模型，这有助于降低 AI 研究和应用的硬件成本门槛。但实际性能和模型质量会受到量化方式和内存配置的显著影响，用户需根据自身需求权衡。
-
-**「社区讨论」** 评论者普遍关注量化对模型性能的影响，有人指出 4-bit 量化通常是性能与模型体积的最佳平衡点，低于此会显著降低效果。也有用户质疑该项目的实际功能和与现有工具（如 llama.cpp）的差异，认为文档对量化细节描述不清。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://github.com/synchopate/llama-modchip">GitHub - synchopate/llama-modchip: Run 284B DeepSeek-V4 ...</a></li>
-<li><a href="https://braindetox.kr/en/posts/llama_modchip_deepseek_284b_cpu_64gb.html">llama-modchip 284B: DeepSeek-V4-Flash on 64GB RAM, No GPU</a></li>
-<li><a href="https://www.promptzone.com/mei_bui/llama-modchip-run-284b-deepseek-on-64gb-ram-no-gpu-required-3plk">Llama-modchip: Run 284B DeepSeek on 64GB RAM, No GPU Required</a></li>
-
-</ul>
-</details>
-
-**标签**: `#large language models`, `#model quantization`, `#local inference`, `#hardware requirements`, `#open source`
-
----
-
-<a id="item-tech-news-4"></a>
-### [Outlook.com 开始静默拒收无 DMARC 域名邮件](https://mailroute.net/blog/outlook-rejecting-email-without-dmarc) ⭐️ 7.0/10
-
-Outlook.com 现已悄然开始拒收来自未配置 DMARC（域名基于消息认证、报告和一致性）策略的域名的邮件。此变更影响所有向 Outlook.com 用户发送邮件但未部署 DMARC 的域名，且邮件被拒收时不会有明显提示。该政策调整对邮件投递率和邮件基础设施管理带来直接影响，尤其对尚未实施 DMARC 的组织和个人尤为重要。
-
-hackernews · xmddmx · 11月8日 19:20 · [社区讨论](https://news.ycombinator.com/item?id=50416158)
-
-**「背景信息」** DMARC（基于域的消息认证、报告和一致性）是一项电子邮件身份验证协议，旨在帮助防止伪造和钓鱼邮件。此前，许多邮件服务商建议但未强制要求发件域配置 DMARC。现在，Outlook.com 开始直接拒收未配置 DMARC 的域名发来的邮件，这一做法提升了邮件安全门槛，但也对未及时部署 DMARC 的域造成了影响。
-
-**「影响」** 未配置 DMARC 的域名将无法向 Outlook.com 用户正常投递邮件，且发件方和收件方可能无法察觉邮件被静默丢弃，增加了沟通失败和故障排查难度。邮件管理员需尽快为其域名部署 DMARC 策略以确保邮件可达。
-
-**「社区讨论」** 部分管理员认为微软静默丢弃邮件的做法容易导致发件方误以为邮件已成功送达，增加了排查难度。也有观点认为强制要求 DMARC 是提升安全的合理措施，但对未及时部署的用户造成了不便。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.factae.eu/en/article/outlook-com-quietly-rejects-emails-from-domains-without-dmarc-182744">Outlook . com quietly rejects emails from domains without DMARC</a></li>
-
-</ul>
-</details>
-
-**标签**: `#email`, `#security`, `#infrastructure`, `#policy`
-
----
-
-<a id="item-tech-news-5"></a>
-### [Drex Max v1.1 多模态决策模型发布，声称达成 SOTA 并开放权重](https://www.reddit.com/r/MachineLearning/comments/1xr4hkm/artificial_analysis_multimodal_decision_model/) ⭐️ 7.0/10
-
-Drex Max v1.1 是一款新发布的开源多模态决策模型，声称在决策模型领域达到了最新的 SOTA（state-of-the-art）性能，并实现了帕累托前沿。该模型支持约 256k 的上下文窗口，权重以 Open RAIL-M 许可证开放，支持本地推理（包括在 Mac 上运行），并提供了详细的训练方法论文和资源。虽然这些技术亮点和性能主张具有吸引力，但目前主要信息来自 Reddit 公告，缺乏独立验证，但开放的权重和文档为研究者和开发者提供了实际参考。
-
-reddit · r/MachineLearning · /u/m4rkGS · 11月8日 17:54
-
-**「背景信息」** Drex Max 是由 Nace.AI 推出的多模态决策模型，具备 270 亿参数和 255 路输出头，能够处理文本、JSON 及图像输入，并为每个选项输出概率。该模型以 Open RAIL-M 许可证开源，支持本地推理，包括在 Mac 上运行，并可通过 Python 在 NVIDIA GPU 上部署。此前版本 Drex Max v1 已在 Hugging Face 和 GitHub 上发布，v1.1 进一步提升了性能和兼容性。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://huggingface.co/nace-ai/drex-max-v1">nace-ai/drex-max-v1 · Hugging Face</a></li>
-<li><a href="https://github.com/nace-ai/drex-decision-models/tree/main/models/drex-max-v1">drex-decision-models/models/drex-max-v1 at main · nace-ai ...</a></li>
-<li><a href="https://www.nace.ai/drex">Drex Max, the decision model that sees | Nace.AI</a></li>
-
-</ul>
-</details>
-
-**标签**: `#machine learning`, `#open source`, `#decision models`, `#model release`
+**标签**: `#enterprise-ai`, `#security`, `#finance`, `#regulation`, `#llm`
 
 ---
 
 <a id="item-tech-news-6"></a>
-### [GRFNet：面向多通道时序分类的 PyTorch 模型开源发布](https://www.reddit.com/r/MachineLearning/comments/1xqqj67/grfnet_pytorch_model_for_multichannel_timeseries/) ⭐️ 7.0/10
+### [Outlook.com 开始拒收无 DMARC 域名邮件](https://mailroute.net/blog/outlook-rejecting-email-without-dmarc) ⭐️ 7.0/10
 
-GRFNet 是一个开源的 PyTorch 模型，专为多通道时序数据（如 EEG 脑电信号）分类设计。该架构结合了 ROCKET 方法的随机未训练卷积核、可学习的空间滤波器，并支持根据传感器位置初始化权重。模型默认支持 22 个通道和 4 个分类任务，参数量为 3,847，可适应任意输入长度和采样率。目前作者正基于 PhysioNet 的 EEGMMIDB 数据集进行主体独立评估，并计划与 EEGNet 和 ShallowConvNet 进行对比。
+Outlook.com 现已开始拒绝来自未配置 DMARC（域名基于消息认证、报告和一致性）记录的域名的邮件。这一变更影响所有向 Outlook.com 用户发送邮件但未设置 DMARC 的域名所有者，包括自建邮件服务器和部分组织。该政策调整并未公开宣布，部分用户反馈邮件被静默拒收，实际表现为 5xx 永久性投递失败。此举提升了邮件安全门槛，但对未及时配置 DMARC 的发件方造成了邮件投递中断。
 
-reddit · r/MachineLearning · /u/joekrry · 11月8日 05:13
+hackernews · xmddmx · 11月8日 19:20 · [社区讨论](https://news.ycombinator.com/item?id=50416158)
 
-**「背景信息」** 多通道时间序列分类，尤其是脑电（EEG）等生物信号分析，因数据集规模小、个体差异大和信号采集条件多变而具有挑战性。ROCKET 方法通过随机、未训练的卷积核提取时间序列特征，已被证明在此类任务中有效。PyTorch 是一个广泛使用的深度学习框架，支持灵活的模型开发和开源协作。
+**「背景信息」** DMARC（基于域的消息认证、报告和一致性）是一项电子邮件身份验证协议，用于防止伪造和钓鱼邮件。此前，许多邮件服务商仅建议或鼓励发件域配置 DMARC，但未强制要求。自 2026 年 11 月 5 日起，Outlook.com 及其相关服务（如 Hotmail、Live、MSN）开始拒收未设置 DMARC 记录的域名发来的邮件，这一变化影响了包括小型发件人在内的所有未配置 DMARC 的域。
+
+**「影响」** 未设置 DMARC 的域名将无法向 Outlook.com 用户正常发送邮件，邮件管理员和自建邮件服务器的用户需尽快配置 DMARC 记录以恢复邮件可达性。未及时调整的组织可能会出现邮件丢失或业务沟通中断。
+
+**「社区讨论」** 部分用户认为强制要求 DMARC 是合理的安全措施，但也有管理员抱怨 Outlook.com 的拒信机制不透明，且长期存在即使配置了 SPF/DKIM/DMARC 也被无故拒收的现象。有人指出，邮件服务商对自建服务器的限制越来越严，增加了独立运营邮件服务器的难度。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.youtube.com/watch?v=LyJtbe__2i0">PyTorch 101 Crash Course For Beginners in 2026 - YouTube</a></li>
-<li><a href="https://www.udemy.com/course/pytorch-deep-learning/">PyTorch : Deep Learning and Artificial Intelligence</a></li>
+<li><a href="https://mailroute.net/blog/outlook-rejecting-email-without-dmarc">Outlook.com Is Quietly Rejecting Email From Domains Without DMARC</a></li>
+<li><a href="https://tosend.com/articles/outlook-rejects-email-without-dmarc/">Outlook.com now rejects email from domains without DMARC</a></li>
+<li><a href="https://news.lavx.hu/article/outlook-com-rejects-some-email-from-domains-without-dmarc-records">Outlook.com Rejects Some Email From Domains Without DMARC ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#machine learning`, `#open source`, `#time-series`, `#PyTorch`
+**标签**: `#email-security`, `#infrastructure`, `#policy-change`, `#software-engineering`
 
 ---
 
 <a id="item-tech-news-7"></a>
-### [美议员呼吁立法禁止 AI 递归自我改进](https://x.com/AlexBores/status/2118494668769878037) ⭐️ 7.0/10
+### [GRFNet：面向多通道时序分类的 PyTorch 模型开源发布](https://www.reddit.com/r/MachineLearning/comments/1xqqj67/grfnet_pytorch_model_for_multichannel_timeseries/) ⭐️ 7.0/10
 
-美国民主党议员 Alex Bores 公开呼吁国会在今年内立法，禁止人工智能递归自我改进（RSI），即 AI 自动构建下一代 AI。Bores 援引 OpenAI 和 Anthropic 的时间表，称自动化 AI 研究员和 AI 主导前沿模型开发可能分别在 2028 年和 2027 年实现，并引用 METR 报告支持 AI 研发加速的可信度。他强调，当前 AI 的错误或对齐偏差可能在每一代中被放大，因此立法禁令十分紧迫。
+GRFNet 是一个新开源的 PyTorch 模型，专为多通道时序分类任务（如 EEG 数据）设计。该模型结合了随机与可学习的卷积核，并在空间滤波器部分引入创新：可根据传感器位置初始化通道混合权重。GRFNet 支持任意输入长度和采样率，默认配置下有 3,847 个参数，适用于小样本、高变异性的数据集。作者计划在 PhysioNet 的 EEGMMIDB 数据集上进行主体独立评测，并与 EEGNet、ShallowConvNet 等模型对比。
 
-telegram · zaihuapd · 11月8日 01:30
+reddit · r/MachineLearning · /u/joekrry · 11月8日 05:13
 
-**「递归自我改进（RSI）与监管讨论背景」** 递归自我改进（RSI）指的是 AI 系统能够自动改进自身或开发更强大的下一代 AI，无需人类直接干预。近年来，随着 AI 能力的快速提升，关于是否应立法限制或禁止 RSI 的讨论逐渐增多。部分政策制定者和专家担忧，若不加监管，RSI 可能导致不可控的超级智能或放大现有 AI 的对齐和安全风险。
+**「背景介绍」** GRFNet 基于 ROCKET 架构，后者以随机、未训练的卷积核提取强大的时序特征而著称。GRFNet 针对 EEG 等多通道时序数据的小样本、高变异性特点，结合了可学习的空间滤波器和随机卷积核，旨在提升对这类信号的分类能力。该模型在默认配置下仅有 3,847 个参数，强调轻量化和适应性。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.nytimes.com/2026/10/26/magazine/ai-companies-law-regulations.html">What Should the Rules for A . I . Companies Actually Be?</a></li>
+<li><a href="https://www.kongchang.com/en/articles/grfnet-a-lightweight-pytorch-model-designed-for-multichannel-time-series-classification">GRFNet: A Lightweight PyTorch Model Designed for Multichannel ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI policy`, `#AI safety`, `#regulation`, `#recursive self-improvement`
+**标签**: `#time-series`, `#deep learning`, `#open source`, `#PyTorch`, `#EEG`
 
 ---
 
 <a id="item-tech-news-8"></a>
-### [中国模型占全球开源模型企业支出 89%](http://z.ai/) ⭐️ 7.0/10
+### [可玩宝可梦红宝石扩散世界模型与 System 1/2 代理架构](https://www.reddit.com/r/MachineLearning/comments/1xqt0pk/i_trained_a_playable_diffusion_world_model_of/) ⭐️ 7.0/10
 
-根据 Menlo Ventures 最新报告，中国开源 AI 模型占全球企业在开源模型上的支出高达 89%。其中，月之暗面 Kimi 占 61%，DeepSeek 占 15%，Z.ai 的 GLM 系列占 11%，而 Meta 的 Llama 仅占 7%。不过，开源模型整体仅占企业模型支出的 4%，大部分预算（86%）仍流向 Anthropic 和 OpenAI 的 API 服务。该数据基于 9 月对近 400 名美国企业决策者的调查。
+作者训练了一个基于扩散模型的宝可梦红宝石世界模型，能够根据最近 4 帧和按键输入生成下一帧画面，实现了可交互的游戏模拟。该模型包含 1670 万参数，分辨率为 72×80 灰度，并采用了 DIAMOND 风格的 EDM U-Net 架构。作者还实现了与 Krafton 的 PUBG Ally 类似的 System 1/2 代理架构：System 2 为规划层，能读取游戏内存并制定目标，System 1 为执行层，包含多个在世界模型中训练的小型策略网络。模型在真实游戏中 30 次尝试均成功获得第一枚徽章，但战斗部分尚未完全解决。
 
-telegram · zaihuapd · 11月8日 03:26
+reddit · r/MachineLearning · /u/priyanshu123sah · 11月8日 07:48
 
-**「背景信息」** Menlo Ventures 的报告显示，2025 年第三季度至 2026 年第三季度，前沿模型（如 Anthropic、OpenAI 等）在企业 AI 支出中的份额显著上升，从 35% 增至 63%，而开源模型则主要由中国厂商主导。此前，Anthropic 曾在企业市场份额上超越 OpenAI，显示出企业用户对不同类型模型的偏好正在发生变化。
+**「相关背景」** 扩散模型是一类生成模型，近年来在图像生成等领域表现突出。System 1/2 分层代理架构源自认知科学，近期被 Krafton 在 PUBG Ally 项目中应用，用于将快速反应（System 1）与慢速规划（System 2）结合，提升游戏 AI 的灵活性和智能性。该 Reddit 项目借鉴了这一思路，将其用于宝可梦红的可玩世界模型和代理设计。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://menlovc.com/perspective/2026-the-state-of-enterprise-ai/">2026: The State of Enterprise AI | Menlo Ventures</a></li>
-<li><a href="https://www.zdnet.com/article/anthropic-openai-enterprise-market-share-2025/">While Google and OpenAI battle for model dominance... - ZDNET</a></li>
+<li><a href="https://www.ajupress.com/view/20260616153131697">Krafton unveils &#x27; PUBG Ally &#x27; AI mode in two -week beta | Aju Press</a></li>
+
+</ul>
+</details>
+
+**标签**: `#machine learning`, `#world models`, `#diffusion models`, `#game AI`, `#agent architectures`
+
+---
+
+<a id="item-tech-news-9"></a>
+### [中国模型占全球开源模型企业支出 89%](http://z.ai/) ⭐️ 7.0/10
+
+根据 Menlo Ventures 的最新报告，中国开源 AI 模型占全球企业在开源模型上的支出高达 89%。其中，月之暗面 Kimi 占 61%，DeepSeek 占 15%，Z.ai 的 GLM 系列占 11%，而 Meta 的 Llama 仅占 7%。不过，开源模型整体仅占企业 AI 模型支出的 4%，大部分预算仍流向 Anthropic 和 OpenAI 的 API 服务（合计 86%）。该数据基于 9 月对近 400 名美国企业决策者的调查。
+
+telegram · zaihuapd · 11月8日 03:26
+
+**「背景信息」** 开源大模型在企业级市场的应用近年来持续增长，但与闭源模型相比，其市场份额仍然有限。Menlo Ventures 是一家专注于早期科技投资的风险投资公司，定期发布关于企业 AI 采用和市场趋势的报告。2026 年，企业在 AI 部署上的支出大幅增长，反映出生成式 AI 技术在全球范围内的快速普及和竞争格局的变化。
+
+**「影响」** 对于希望采用开源 AI 模型的企业来说，中国模型已成为主流选择，但整体企业 AI 支出仍以闭源 API 服务为主，表明开源模型在企业级市场的渗透率有限。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://menlovc.com/">Menlo Ventures | Early-Stage Venture Capital Firm</a></li>
 
 </ul>
 </details>
@@ -210,26 +239,49 @@ telegram · zaihuapd · 11月8日 03:26
 
 ---
 
-## 财经新闻
+<a id="item-tech-news-10"></a>
+### [Anthropic 报告：科学家用 Claude 以数据分析和写作为主](https://www.anthropic.com/research/how-researchers-use-claude) ⭐️ 7.0/10
 
-<a id="item-finance-news-1"></a>
-### [英伟达董事会调查黄仁勋是否遭外国情报锁定](https://www.bloomberg.com/news/articles/2026-11-08/nvidia-board-to-probe-spying-case-after-ceo-jensen-huang-admits-infidelity) ⭐️ 7.0/10
+Anthropic 公布的报告分析了 2026 年 8 至 9 月间 20.7 万条科研相关会话，发现科学家主要用 Claude 进行数据分析和写作。具体来看，数据分析占 Claude 使用的 33.7%、Claude Code 的 48.1%，写作占 Claude 的 32%。正式科学（如计算机、数学）用户人均使用量高于实验学科（如化学、医学）。报告还估算，广泛采用现有 AI 能力可使部分领域研究产出翻倍，若 AI 能完全接管非体力工作，计算机等领域产出最高可提升至 15 倍。
 
-英伟达董事会已成立独立委员会并聘请外部律师，调查首席执行官黄仁勋是否成为外国情报行动的目标；黄仁勋承认对妻子不忠并公开道歉，目前将继续担任首席执行官，直至调查结果公布。
+telegram · zaihuapd · 11月9日 01:29
 
-telegram · zaihuapd · 11月8日 21:39
+**「背景信息」** Anthropic 是一家专注于开发大语言模型（LLM）的人工智能公司，其 Claude 系列模型被广泛应用于文本生成、数据分析等任务。此前，AI 公司如 Anthropic 和 OpenAI 定期发布关于用户如何使用其产品（如 Claude、ChatGPT）的报告，但这些报告通常只披露部分数据，具体使用细节和影响仍有限。此次报告基于 2026 年 8 至 9 月间 20.7 万条科研相关会话，分析了 Claude 在科学研究中的实际应用场景和潜在生产力提升。
 
-**「背景」** 此前，英伟达首席执行官黄仁勋承认对妻子不忠，并在媒体报道他可能成为外国情报行动目标后，英伟达董事会宣布将成立独立委员会并配合外部律师展开调查。该调查旨在查明黄仁勋是否受到外国间谍活动影响，属于公司治理和国家安全相关的重大事项。
+**「影响」** 对于正式科学领域的研究人员，积极采用 Claude 及其代码工具有望显著提升数据分析和写作效率，部分领域的研究产出可能实现倍增甚至更高增长。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.bloomberg.com/news/articles/2026-11-08/nvidia-board-to-probe-spying-case-after-ceo-jensen-huang-admits-infidelity">Nvidia Board to Probe Spying Case After CEO Jensen Huang ...</a></li>
-<li><a href="https://www.ft.com/content/1397e2f4-d7f5-4cbb-a4d9-04ecf661d1aa?syn-25a6b1a6=1">Nvidia’s Jensen Huang admits to affair after allegations of ...</a></li>
-<li><a href="https://www.bbc.com/news/articles/c3dxw10rjn9no">Nvidia launches investigation into CEO&#x27;s affair with ... - BBC</a></li>
+<li><a href="https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/480/">We still don’t know how people are really using AI</a></li>
+<li><a href="https://blockchain.news/news/anthropic-ai-scientific-research-claude">Anthropic Report Explores AI&#x27;s Role in Accelerating Scientific Research</a></li>
 
 </ul>
 </details>
 
-**标签**: `#corporate governance`, `#national security`, `#NVIDIA`, `#leadership`
+**标签**: `#AI applications`, `#research productivity`, `#data analysis`, `#scientific writing`
+
+---
+
+## 财经新闻
+
+<a id="item-finance-news-1"></a>
+### [英伟达董事会对黄仁勋涉间谍指控展开独立调查](https://www.bloomberg.com/news/articles/2026-11-08/nvidia-board-to-probe-spying-case-after-ceo-jensen-huang-admits-infidelity) ⭐️ 7.0/10
+
+英伟达董事会已启动独立调查，核查首席执行官黄仁勋在承认婚外情后是否成为外国情报行动目标，调查期间黄仁勋将继续担任首席执行官。
+
+telegram · zaihuapd · 11月8日 21:39
+
+**「背景」** 此前，英伟达首席执行官黄仁勋向公司员工承认婚外情后，董事会因有报道称涉事女性可能与中国情报机构有关，决定启动独立调查。该调查旨在查明黄仁勋是否成为外国情报行动的目标，并由外部律师协助进行。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html">Nvidia investigates CEO Jensen Huang&#x27;s relationship with ...</a></li>
+<li><a href="https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html">Nvidia Opens Investigation Into Jensen Huang’s Relationship ...</a></li>
+<li><a href="https://sfstandard.com/2026/11/08/nvidia-jensen-huang-affair-board-investigation-chinese-spy/">Nvidia launches probe as Jensen Huang admits affair with ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#corporate governance`, `#national security`, `#NVIDIA`, `#executive leadership`, `#investigation`
 
 ---
