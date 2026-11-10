@@ -5,428 +5,591 @@ date: 2026-11-10
 lang: en
 ---
 
-> From 49 items, 20 important content pieces were selected
+> From 44 items, 24 important content pieces were selected
 
 ---
 
 **Technology News**
-1. [Anthropic Releases Claude Fable 5.2 and Mythos 5.2](#item-tech-news-1) ⭐️ 8.0/10
-2. [Google Announces TPU 8tx and TPU 8i Max AI Chips](#item-tech-news-2) ⭐️ 8.0/10
-3. [Google Gemini May Route Consumer Data to Human Annotators](#item-tech-news-3) ⭐️ 8.0/10
-4. [E-means Algorithm Claims Faster Clustering Than k-means](#item-tech-news-4) ⭐️ 8.0/10
-5. [Latent Prediction Outperforms Reconstruction for Tactile Pretraining](#item-tech-news-5) ⭐️ 8.0/10
-6. [ML Model Outperforms NWS in County-Level Power Outage Forecasting](#item-tech-news-6) ⭐️ 8.0/10
-7. [SwarmEvolve: Latent-Agent Swarms Accelerate Math Discovery](#item-tech-news-7) ⭐️ 8.0/10
-8. [Twindex: Replayable Proofs of Parameter Indistinguishability in Scientific Models](#item-tech-news-8) ⭐️ 8.0/10
-9. [Frontier3DBench Benchmarks Coding Agents in 3D World Creation](#item-tech-news-9) ⭐️ 8.0/10
-10. [Meta Releases Muse Ember: Low-Cost Multimodal AI Model](#item-tech-news-10) ⭐️ 8.0/10
-11. [Claude Fable 5.2 Sets New Benchmark Score, Raises Cost Concerns](#item-tech-news-11) ⭐️ 7.0/10
-12. [Web Tool Shows Satellite Passes and Images for Any Location](#item-tech-news-12) ⭐️ 7.0/10
-13. [USPS Releases Official ZIP Code Boundary Polygons](#item-tech-news-13) ⭐️ 7.0/10
-14. [Canada Launches Real-Time Rail \(RTR\) Payment System](#item-tech-news-14) ⭐️ 7.0/10
-15. [2026 ML Conference Papers Added to Topic Pages and Newspapers](#item-tech-news-15) ⭐️ 7.0/10
-16. [OPPO, vivo, Xiaomi, Honor Launch ADV for Sideloaded App Security](#item-tech-news-16) ⭐️ 7.0/10
-17. [SnowLuma Goes Private After Tencent Legal Notice](#item-tech-news-17) ⭐️ 7.0/10
-18. [EU Drafts Digital Fairness Act to Curb Addictive Design](#item-tech-news-18) ⭐️ 7.0/10
-
-**Technology Blog**
-1. [Building a Gravity Compensation Loop for Robot Arms with Holoscan 5](#item-tech-blog-1) ⭐️ 8.0/10
+1. [DeepMind Unveils AlphaProof Code for Automated Formal Verification](#item-tech-news-1) ⭐️ 9.0/10
+2. [Google Publicly Releases Gemini 4 Carbon AI Model](#item-tech-news-2) ⭐️ 9.0/10
+3. [Modern Web Guidance 1.0 Released for Coding Agents and Developers](#item-tech-news-3) ⭐️ 8.0/10
+4. [Claude Code Leaked 2,539 Real Credentials from GitHub Repos](#item-tech-news-4) ⭐️ 8.0/10
+5. [Fireworks Hit by Cyberattack, Customer and AI Data Leaked](#item-tech-news-5) ⭐️ 8.0/10
+6. [MiniMax H3 Image Open-Sourced for Fast 4K Generation](#item-tech-news-6) ⭐️ 8.0/10
+7. [Synaptics Patent Claims Halt Open Source DisplayLink Driver Work](#item-tech-news-7) ⭐️ 7.0/10
+8. [Blender 5.3 Adds Gaussian Splat Support and Workflow Upgrades](#item-tech-news-8) ⭐️ 7.0/10
+9. [AMD Zen 6 Architecture: Memory, I/O, and Core Upgrades Detailed](#item-tech-news-9) ⭐️ 7.0/10
+10. [Val Town Platform Shutting Down](#item-tech-news-10) ⭐️ 7.0/10
+11. [Meta AI Launches Muse Ember: Compact, Efficient Model for Reasoning Tasks](#item-tech-news-11) ⭐️ 7.0/10
+12. [TimesFM 3.0, Chronos-2, Toto 2.0 Fail to Beat Baselines on Stock Data](#item-tech-news-12) ⭐️ 7.0/10
+13. [Apple Logic Pro Adds $50 AI Usage Pack for Cloud Features](#item-tech-news-13) ⭐️ 7.0/10
+14. [Huawei Qingyun HM650 Desktop Uses Only Chinese Components](#item-tech-news-14) ⭐️ 7.0/10
+15. [OpenAI Deploys 35-Second AI Task Shutdown System](#item-tech-news-15) ⭐️ 7.0/10
+16. [Grok 4.8 Enters Reinforcement Learning After C/C++ Rewrite](#item-tech-news-16) ⭐️ 7.0/10
+17. [Anthropic Restricts Access by Region, Excludes Mainland China, HK, Macau](#item-tech-news-17) ⭐️ 7.0/10
 
 **Financial News**
-1. [China Extends Suspension of 24% Extra Tariff on US Goods](#item-finance-news-1) ⭐️ 7.0/10
+1. [Fed Governor Waller Signals Likely December Rate Hike, Possible Larger Increase](#item-finance-news-1) ⭐️ 8.0/10
+2. [California Voters Reject 5% Billionaire Tax Proposal](#item-finance-news-2) ⭐️ 8.0/10
+3. [TSMC October Revenue Rises 59.7% Year-Over-Year](#item-finance-news-3) ⭐️ 8.0/10
+4. [Polymarket Annualized Revenue Tops $1.8 Billion Amid U.S. Growth](#item-finance-news-4) ⭐️ 7.0/10
+5. [China&\#x27;s New Energy Vehicle Exports Surge in 2026](#item-finance-news-5) ⭐️ 7.0/10
+6. [Anthropic Withdraws $69.3 Billion IPO Filing](#item-finance-news-6) ⭐️ 7.0/10
+7. [Chinese Banks Raise US Dollar Deposit Rates Above Fed Benchmark](#item-finance-news-7) ⭐️ 7.0/10
 
 ---
 
 ## Technology News
 
 <a id="item-tech-news-1"></a>
-### [Anthropic Releases Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2) ⭐️ 8.0/10
+### [DeepMind Unveils AlphaProof Code for Automated Formal Verification](https://deepmind.google/blog/introducing-alphaproof-code/) ⭐️ 9.0/10
 
-Anthropic has released Claude Fable 5.2 and Mythos 5.2, both built on a shared architecture and offering improved coding, reasoning, and visual capabilities. Fable 5.2 is available to all users, while Mythos 5.2 requires application through a cybersecurity or life sciences verification program. The models deliver approximately 30% faster output than version 5.1, with reduced pricing to $8 per million input tokens and $40 per million output tokens, and a 2.5x acceleration mode. Notably, a team of 1,000 Fable 5.2 agents formalized Fermat’s Last Theorem in 30 hours with minimal human intervention.
+DeepMind has announced AlphaProof Code, an AI system designed to automate the formal verification of complex, real-world codebases. According to the announcement, AlphaProof Code can generate formal proofs for existing human-written software, aiming to improve software reliability and security. The system is positioned as a significant advance over previous AI-assisted verification tools, though details on its scope, supported languages, and public availability remain unspecified. The announcement claims successful verification of a non-trivial codebase, but does not clarify the breadth of properties checked or the depth of the verification.
 
-hackernews · meetpateltech · Nov 9, 18:56 · [Discussion](https://news.ycombinator.com/item?id=50429906)
+hackernews · ilreb · Nov 10, 12:11 · [Discussion](https://news.ycombinator.com/item?id=50439193)
 
-**「Background」** Claude Fable and Mythos are advanced AI models developed by Anthropic, with previous versions \(5.1\) released in September 2026. The 5.1 update had already improved efficiency and reduced costs compared to earlier versions. The new 5.2 release builds on this foundation, aiming to further enhance technical capabilities and performance across challenging tasks.
+**「Background」** Formal verification is a process in software engineering where mathematical methods are used to prove the correctness of code with respect to a formal specification. AlphaProof Code is a multi-agent AI framework developed by DeepMind that automates this process by dividing verification tasks among AI agents, mimicking the workflow of a human research team. The system was notably used to prove key security properties of libsignal, the reference implementation of the Signal protocol, at the machine-code level.
 
-**「Impact」** Users benefit from faster and more cost-effective AI model access, especially for complex collaborative tasks. However, some users report that for ordinary coding tasks, the distinction between Fable 5.2 and Opus 5.5 is minimal, suggesting the upgrade may be most valuable for highly ambitious or specialized workflows.
+**「Impact」** If AlphaProof Code delivers on its claims, developers and organizations could automate parts of the formal verification process that previously required expert human effort, potentially reducing bugs and vulnerabilities in critical software. However, users should scrutinize the properties being verified and the system&\#x27;s limitations, as automated proofs may not guarantee comprehensive correctness or security.
 
-**「Community Discussion」** Some users express skepticism about model balancing and potential downgrades in other models ahead of this release, while others note that Fable 5.2&\#x27;s advantages are most apparent with challenging prompts. There is also debate over the relevance of Fable and Mythos for typical workflows compared to Opus 5.5, with some users finding little practical difference for standard software development tasks.
+**「Community Discussion」** Some commenters express skepticism about the claim of finding zero bugs in a previously buggy codebase, suggesting that the system may only verify narrow properties or that theorems could be incorrectly specified. Others are optimistic about the potential for AI to make unverified software obsolete, but caution that AI-generated proofs can sometimes be misleading or incomplete.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Claude_%28AI%29">Claude (AI) - Wikipedia</a></li>
+<li><a href="https://deepmind.google/blog/introducing-alphaproof-code/">Formal Verification of Signal’s Protocol with... — Google DeepMind</a></li>
+<li><a href="https://google-deepmind.github.io/code-verification/">AlphaProof Code : Verifying Signal’s Security at the Machine- Code ...</a></li>
+<li><a href="https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/documents/Formal_Verification_of_Signal_4.pdf">AlphaProof Code : Verifying Signal’s Security at</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI models`, `#machine learning`, `#software engineering`, `#research`
+**Tags**: `#formal verification`, `#AI tools`, `#software engineering`, `#machine learning`
 
 ---
 
 <a id="item-tech-news-2"></a>
-### [Google Announces TPU 8tx and TPU 8i Max AI Chips](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/) ⭐️ 8.0/10
+### [Google Publicly Releases Gemini 4 Carbon AI Model](https://deepmind.google/models/model-cards/gemini-4-carbon/) ⭐️ 9.0/10
 
-Google has announced two new Tensor Processing Unit \(TPU\) models: TPU 8tx and TPU 8i Max. The TPU 8tx is designed for government and highly regulated industries, focusing on secure, confidential data processing and will work in conjunction with AMD chips. The TPU 8i Max targets AI applications requiring extremely long context windows, integrating two TPU chips in a single package to deliver higher compute power and larger memory. This marks a departure from Google&\#x27;s previous two-year release cadence, with the company now expanding its TPU lineup more rapidly to address diverse application needs.
+Google has publicly released its flagship Gemini 4 Carbon AI model, which is now accessible via the Gemini API, Google AI Studio, and Gemini for Business. The model emphasizes cybersecurity and long-horizon agent workflows, and it leads benchmarks such as CursorBench 4.0. Pricing matches the Argon model at $2 per million input tokens and $10 per million output tokens, with costs reportedly less than half those of the next-best external models. Gemini 4 Carbon is also available for preview in Antigravity&\#x27;s /swarm multi-agent collaboration environment.
 
-hackernews · \_benx\_ · Nov 9, 21:56 · [Discussion](https://news.ycombinator.com/item?id=50432831)
+telegram · zaihuapd · Nov 10, 15:48
 
-**「Background」** Tensor Processing Units \(TPUs\) are custom AI accelerators developed by Google to speed up machine learning workloads, particularly for deep learning tasks. Previous TPU generations have been used in Google&\#x27;s data centers and made available to select customers for large-scale AI model training and inference. The introduction of new models like TPU 8tx and TPU 8i Max continues Google&\#x27;s strategy of offering specialized hardware to compete with alternatives such as NVIDIA GPUs.
+**「Background」** Gemini 4 Carbon is an advanced AI model developed by Google DeepMind, building on the Gemini 4 Argon architecture. It is designed for complex reasoning, coding, and agentic workflows, and is now accessible to developers and enterprises through the Gemini API, Google AI Studio, and Gemini for business. The model is positioned at the same price point as Gemini 4 Argon, making it a direct successor with enhanced capabilities and benchmark performance.
 
-**「Impact」** Organizations in regulated sectors and those developing large-context AI models will have access to specialized hardware options, potentially improving performance and security for their workloads. However, some community members note that public access to these new TPUs remains limited, with no indication of availability on platforms like Google Colab or for direct purchase.
+**「Impact」** Developers and organizations can now access Gemini 4 Carbon&\#x27;s advanced capabilities for complex knowledge work, software engineering, and scientific reasoning at a lower cost, potentially enabling broader adoption of high-performance AI in enterprise and research settings.
 
-**「Community Discussion」** Commenters express frustration over the lack of public access to the latest TPUs, with some wishing for availability on Google Colab and others questioning why Google does not sell these chips directly. There is also a call for clearer explanations of technical terms like &\#x27;TPU&\#x27; in official announcements.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/">Gemini 4 Carbon is now available</a></li>
+<li><a href="https://deepmind.google/models/model-cards/gemini-4-carbon/">Gemini 4 Carbon - Model Card — Google DeepMind</a></li>
+<li><a href="https://openrouter.ai/google/gemini-4-carbon">Gemini 4 Carbon - API Pricing &amp; Providers | OpenRouter</a></li>
 
-**Tags**: `#hardware`, `#AI`, `#machine learning`, `#cloud infrastructure`
+</ul>
+</details>
+
+**Tags**: `#AI models`, `#Google`, `#machine learning`, `#software engineering`, `#industry news`
 
 ---
 
 <a id="item-tech-news-3"></a>
-### [Google Gemini May Route Consumer Data to Human Annotators](https://github.com/thisisme6598/gemini_files/) ⭐️ 8.0/10
+### [Modern Web Guidance 1.0 Released for Coding Agents and Developers](https://github.com/GoogleChrome/modern-web-guidance) ⭐️ 8.0/10
 
-Google Gemini, when used in consumer mode with connected apps such as Gmail or Google Drive, may route users&\#x27; personal files and emails to human annotators for review. This practice does not apply to Workspace Gemini or enterprise offerings, which claim not to be subject to human review. The distinction raises significant privacy concerns for consumer users, especially those who authorize Gemini to access sensitive personal data. The information is based on technical documentation and community analysis, not an official Google announcement.
+Google Chrome, in collaboration with Firefox, MDN, and Edge, has released version 1.0 of the open-source Modern Web Guidance project. This resource provides over 200 curated guides to help coding agents and developers adopt modern web platform features, replacing outdated JavaScript patterns with native browser primitives. The package includes a CLI tool for searching guidance, scanning codebases for legacy patterns, and integrating with agentic workflows, and claims to improve agent task success rates from 55% to 92% in internal evaluations. The project is available via npm and is designed to be lightweight and easily updatable as web standards evolve.
 
-hackernews · gf74918 · Nov 9, 18:24 · [Discussion](https://news.ycombinator.com/item?id=50429426)
+hackernews · paulirish · Nov 10, 18:01 · [Discussion](https://news.ycombinator.com/item?id=50443812)
 
-**「Background」** Google Gemini is an AI assistant integrated into various Google services, including Gmail and Drive, for consumer users. According to Google&\#x27;s own privacy policy, human reviewers may read and annotate conversations and data processed by Gemini in consumer accounts. This practice is distinct from Google&\#x27;s enterprise offerings, where such human review is not claimed to occur.
+**「Background」** Modern Web Guidance is an open-source project led by Google Chrome, providing curated best practices and expertise on using modern browser APIs and web platform features. The project aims to embed this knowledge directly into coding agents and developer workflows, helping to replace outdated JavaScript patterns with native browser solutions. It is distributed as a CLI tool and npm package, and is developed in collaboration with other browser vendors and the MDN community.
 
-**「Impact」** Consumer users of Google Gemini who connect their Gmail or Drive accounts risk having their personal data reviewed by human annotators, potentially exposing sensitive information. Users concerned about privacy may need to reconsider authorizing Gemini&\#x27;s access to their personal Google services.
+**「Impact」** Developers and AI coding agents can now more easily identify and adopt up-to-date web platform features, potentially reducing reliance on legacy JavaScript and third-party dependencies. However, some features recommended by the guidance may not be fully supported across all browsers, which could introduce compatibility considerations for cross-browser projects.
 
-**「Community Discussion」** Commenters highlight frustration with the erosion of privacy and express concern that personal data could be read or leaked by annotators. Some users note that this policy does not apply to enterprise Workspace Gemini, while others question the broader implications for trust in cloud services.
+**「Community Discussion」** Some commenters express concern that Chrome&\#x27;s influence over the guidance could reinforce browser monoculture, while others request more accessible distribution formats such as a browsable markdown index. There is also skepticism about the long-term value of &\#x27;best practices&\#x27; in an era where AI-generated code may go largely unread by humans.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.deai.org/news/does-google-gemini-train-on-your-data">Does Google Gemini Train on Your Data? What the Policy Says (2026)</a></li>
+<li><a href="https://github.com/GoogleChrome/modern-web-guidance">GitHub - GoogleChrome / modern - web - guidance : Keep your coding...</a></li>
+<li><a href="https://developer.chrome.com/docs/modern-web-guidance">Modern Web Guidance | Chrome for Developers</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI systems`, `#privacy`, `#cloud services`, `#data annotation`
+**Tags**: `#web development`, `#open source`, `#browser technology`, `#AI agents`
 
 ---
 
 <a id="item-tech-news-4"></a>
-### [E-means Algorithm Claims Faster Clustering Than k-means](https://e-means.github.io/) ⭐️ 8.0/10
+### [Claude Code Leaked 2,539 Real Credentials from GitHub Repos](https://www.ithome.com/1/024/888.htm) ⭐️ 8.0/10
 
-E-means is a newly introduced clustering algorithm that reportedly outperforms the widely used k-means algorithm by achieving similar results in roughly one-tenth the number of epochs. Early adopters report significant speedups, especially when implemented on GPUs, with one user citing a 146x improvement in a specific use case. The algorithm is available for experimentation, but independent validation and broad adoption have not yet been established. Its main advantage appears to be reducing the number of dataset passes required for convergence.
+Security firm Apiiro discovered that 2,539 real credentials—including database passwords and API tokens—were leaked from 1,994 GitHub repositories due to Claude Code writing approved shell commands into local configuration files. Over 100,000 Claude Code local settings files were uploaded to public repositories, with about 1,100 containing sensitive data. The issue arises when these files are not excluded by .gitignore and are inadvertently committed. The Claude Code team is investigating preventive measures and considering adding a built-in secret scanning feature.
 
-hackernews · porridgeraisin · Nov 9, 18:45 · [Discussion](https://news.ycombinator.com/item?id=50429734)
+telegram · zaihuapd · Nov 10, 11:20
 
-**「Background」** K-means is a widely used clustering algorithm in machine learning that partitions data into k clusters by minimizing the variance within each cluster. It is commonly implemented using Lloyd&\#x27;s algorithm, which iteratively updates cluster centroids and assignments until convergence. The efficiency and speed of k-means are important for large datasets, motivating research into faster or more scalable alternatives.
+**「Background」** Claude Code is an AI-powered coding assistant developed by Anthropic. The tool stores approved shell commands, including those containing sensitive credentials, in a local settings file \(settings.local.json\). This issue was previously reported in August 2025 on GitHub, where users noted that secrets were being saved in plain text and could be inadvertently committed to public repositories if not properly excluded by .gitignore.
 
-**「Impact」** Practitioners in machine learning and data analysis may benefit from faster clustering, particularly on large datasets or in GPU-accelerated environments. However, suitability may vary by application, as some users report that E-means does not outperform k-means in all contexts, such as mesh relaxation on a sphere.
+**「Impact」** Developers using Claude Code should immediately audit their repositories for exposed configuration files and secrets, update their .gitignore settings, and rotate any potentially compromised credentials. Organizations may need to review their code hygiene and secret management practices to prevent similar incidents.
 
-**「Community Discussion」** Commenters highlight impressive speedups in practical GPU applications and discuss the algorithm&\#x27;s relationship to expectation maximization techniques. Some users note that while E-means reduces computation time, it may not always yield better results for specialized tasks compared to traditional methods.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://cybernews.com/security/ai-agents-leaking-secrets-on-github/">Claude Code secrets leak: thousands exposed on GitHub | Cybernews</a></li>
+<li><a href="https://labs.cloudsecurityalliance.org/research/csa-research-note-claude-code-settings-secret-leak-20261108/">Approved Once, Leaked Forever: Secrets in Claude Code ...</a></li>
 
-**Tags**: `#machine learning`, `#algorithms`, `#clustering`, `#research`
+</ul>
+</details>
+
+**Tags**: `#security`, `#software engineering`, `#devops`, `#incident response`
 
 ---
 
 <a id="item-tech-news-5"></a>
-### [Latent Prediction Outperforms Reconstruction for Tactile Pretraining](https://www.reddit.com/r/MachineLearning/comments/1xs05uo/latent_prediction_beats_reconstruction_for/) ⭐️ 8.0/10
+### [Fireworks Hit by Cyberattack, Customer and AI Data Leaked](https://finance.sina.com.cn/stock/usstock/c/2026-11-10/doc-iniyfzhx2605532.shtml) ⭐️ 8.0/10
 
-A new research paper introduces LingBot-Touch, a self-supervised tactile encoder trained using JEPA-style latent prediction, which predicts masked contact representations instead of reconstructing raw sensor data. Empirical results show that this approach significantly outperforms reconstruction-based methods \(MAE, VAE\) on dexterous manipulation tasks, with tactile-to-video top-5 recall reaching 49.3% after 4,000 hours of pretraining, compared to under 9% for MAE and 3.1% for VAE. The model supports three sensor types and uses a shared Transformer architecture with 5D rotary positional encoding. Public inference code and checkpoints are available, and the model demonstrated strong generalization to unseen hardware and tasks.
+Fireworks has confirmed a new cyberattack that resulted in the leak of some customer billing information, AI model weights, and datasets. The company is working with Palo Alto Networks&\#x27; Unit 42 to investigate the breach. While Harvey, a client, stated its data was not affected, it remains unclear whether other customers or end users were impacted. The incident comes as Fireworks, with annualized revenue of $1 billion as of July, was preparing to launch a new funding round targeting a valuation of at least $30 billion.
 
-reddit · r/MachineLearning · /u/Zealousideal-War7154 · Nov 9, 18:52
+telegram · zaihuapd · Nov 10, 13:00
 
-**「Background」** Self-supervised learning methods for tactile sensing in robotics have traditionally relied on reconstruction-based objectives, such as Masked Autoencoders \(MAE\) and Variational Autoencoders \(VAE\), which attempt to reconstruct raw sensor signals from masked or compressed inputs. However, these approaches can struggle with sparse tactile data, where most sensor readings are near-zero except during contact events. The new approach, inspired by JEPA \(Joint Embedding Predictive Architecture\), instead trains the encoder to predict latent representations of masked contact regions, aiming to capture more meaningful features for downstream dexterous manipulation tasks.
+**「Background」** Fireworks AI previously reported a security incident in October 2026, which involved unauthorized access to certain data and prompted the company to implement additional security measures. The latest breach expands on this, with attackers reportedly accessing development machines via a third-party cloud provider, leading to exposure of customer billing records, datasets, and incomplete model weights. This ongoing series of incidents highlights persistent vulnerabilities in Fireworks&\#x27; infrastructure and the challenges of securing sensitive AI and customer data in cloud environments.
 
-**「Impact」** Researchers and developers working on robotic manipulation and tactile sensing can now leverage LingBot-Touch&\#x27;s pretrained models and code to achieve better performance on dexterous tasks, especially when using diverse sensor types or transferring to new hardware.
+**「Impact」** Some of Fireworks&\#x27; largest enterprise customers, who pay millions annually, are reportedly considering switching providers due to the breach. The exposure of sensitive AI model data and customer information may also affect Fireworks&\#x27; business operations and its upcoming fundraising efforts.
 
-**Tags**: `#machine learning`, `#robotics`, `#self-supervised learning`, `#tactile sensing`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://cybersecuritynews.com/fireworks-ai-data-breach/">Hackers Breach Fireworks AI Through Third-Party Cloud ...</a></li>
+<li><a href="https://fireworks.ai/security/bulletins/october-2026-security-incident-update">Update on October 2026 security incident | Fireworks AI</a></li>
+<li><a href="https://breachhistory.com/blog/fireworks-data-breach-november-2026">Fireworks Data Breach: Billing and Model Weights (Nov 2026)</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#security`, `#data breach`, `#AI industry`, `#enterprise software`
 
 ---
 
 <a id="item-tech-news-6"></a>
-### [ML Model Outperforms NWS in County-Level Power Outage Forecasting](https://www.reddit.com/r/MachineLearning/comments/1xs4hq8/forecasting_new_power_outages_per_county_hourly_2/) ⭐️ 8.0/10
+### [MiniMax H3 Image Open-Sourced for Fast 4K Generation](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) ⭐️ 8.0/10
 
-A machine learning model using XGBoost and HRRR storm-related data has been developed to forecast new power outages at the county level for Missouri and Illinois, predicting the probability that at least 5% of customers will newly lose power in a 6-hour window starting 2 hours ahead. Tested on 2025 data, the model achieved a PR-AUC of 0.094, which is approximately 2.4 times higher than the baseline of National Weather Service \(NWS\) warnings plus SPC Day 1 outlook \(PR-AUC 0.039\). The model specifically targets new outages, excluding ongoing ones, and was validated on 2024 data. Early transfer tests in neighboring states showed similar improvements, and the system has been live since November 1, with forecasts archived for blind testing.
+MiniMax H3 Image, a new open-source image generation model from 稀宇科技, is now available on Hugging Face and via API. The model can generate 4096×4096 \(4K\) images in about 10 seconds, supports up to 16 reference images, and offers advanced features such as complex instruction understanding and image editing. Both standard and Highspeed versions are released, with the latter claiming 3–4x faster generation than mainstream tools. Pricing for the standard 4K version is $0.069 per image, with a launch week discount to $0.034.
 
-reddit · r/MachineLearning · /u/CarRepresentative843 · Nov 9, 21:34
+telegram · zaihuapd · Nov 10, 15:39
 
-**「Background」** Traditional power outage forecasting for severe weather events has relied on National Weather Service \(NWS\) warnings and Storm Prediction Center \(SPC\) outlooks, which provide alerts based on meteorological thresholds and expert analysis. Machine learning models, such as XGBoost, have increasingly been applied to operational forecasting tasks by leveraging high-resolution weather data and local context to improve predictive accuracy. The use of HRRR \(High-Resolution Rapid Refresh\) model data enables more granular, timely forecasts, but benchmarking against established warning systems is necessary to demonstrate practical improvements.
+**「Background」** MiniMax H3 Image is an open-weight image generation model released by MiniMax, supporting text-to-image generation, reference-based generation, and image editing. The model can natively generate 4K \(4096×4096, ~16MP\) images and allows up to 16 reference images as input. It was made available on Hugging Face and via API starting November 10, 2026.
 
-**「Impact」** Operators and emergency planners in affected counties can expect more accurate and timely forecasts of new power outages, potentially improving resource allocation and response during severe weather events. The model&\#x27;s higher precision and recall compared to traditional warning systems may lead to earlier and more targeted interventions.
+**「Impact」** Developers and researchers can now access and deploy a high-speed, high-resolution image generation model with advanced multi-image and instruction capabilities, potentially reducing costs and generation times compared to existing solutions.
 
-**Tags**: `#machine learning`, `#forecasting`, `#applied AI`, `#infrastructure`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.minimax.io/blog/minimax-h3-image">MiniMax H 3 - Image : Bringing 4 K Image Generation into the...</a></li>
+<li><a href="https://news.sulat.com/2026/11/11/minimax-releases-h3-image-open-weights/">MiniMax releases H 3 - Image as open weights - Sulat AI &amp; Tech News</a></li>
+<li><a href="https://h3image.online/">MiniMax H 3 Image : open -weights 16MP / 4 K image model — API...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#generative-ai`, `#open-source`, `#image-generation`, `#machine-learning`
 
 ---
 
 <a id="item-tech-news-7"></a>
-### [SwarmEvolve: Latent-Agent Swarms Accelerate Math Discovery](https://www.reddit.com/r/MachineLearning/comments/1xrunu7/using_latentagent_swarms_for_math_discovery_and/) ⭐️ 8.0/10
+### [Synaptics Patent Claims Halt Open Source DisplayLink Driver Work](https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/) ⭐️ 7.0/10
 
-SwarmEvolve is a new framework for mathematical discovery and optimization that uses swarms of latent-reasoning agents running on large language models such as Qwen3 8B, 14B, and 32B. By enabling agents to communicate via latent space and share KV caches, SwarmEvolve achieves significant speedups—reaching benchmark scores in about 5 minutes that previously took over an hour with methods like OpenEvolve, ShinkaEvolve, and CodeEvolve. The approach scales across different model sizes and has been extended to Qwen3.5 and Muse models, reportedly delivering even better performance. The code is to be released soon, and the authors are seeking collaboration for applying this method to broader scientific discovery problems.
+Synaptics has enforced patent claims that have led to a halt in open source development of DisplayLink drivers. This action raises legal and practical concerns for both hardware vendors and the open source software community, as it affects the ability to support DisplayLink devices on Linux and other platforms. The dispute centers on alleged patent infringement, with Synaptics reportedly demanding monetary compensation for documentation of the supposed infringement. The situation introduces uncertainty for users and developers relying on DisplayLink hardware support.
 
-reddit · r/MachineLearning · /u/QileHQ · Nov 9, 15:30
+hackernews · speckx · Nov 10, 18:02 · [Discussion](https://news.ycombinator.com/item?id=50443824)
 
-**「Background」** Traditional LLM-guided evolutionary search frameworks for mathematical discovery and optimization typically rely on agents generating explicit textual reasoning, which slows down the process due to repeated text generation and evaluation. SwarmEvolve introduces a different approach by running swarms of small agents that reason in latent space and communicate via KV cache transfer, eliminating the need for text output and enabling faster, more diverse exploration of solutions.
+**「Background」** DisplayLink technology enables video output over USB connections, often used in docking stations and adapters. Synaptics, which owns DisplayLink, sent a cease-and-desist letter to the developer of an open-source DisplayLink driver, alleging patent infringement and threatening legal action. Previously, DisplayLink provided some open-source support \(such as LibDLO\), but recent efforts to create new open-source drivers—particularly those using reverse engineering—have faced legal challenges from Synaptics.
+
+**「Impact」** Open source contributors and users of DisplayLink hardware may lose support for these devices on Linux and other non-Windows platforms, potentially forcing organizations to seek alternative hardware solutions or proprietary drivers. Developers face legal risks if they continue work on affected drivers, and hardware vendors may reconsider their reliance on DisplayLink technology.
+
+**「Community Discussion」** Commenters widely criticize Synaptics&\#x27; legal tactics, questioning the validity of demanding compensation for documenting alleged infringement and arguing that reverse engineering is not inherently a patent violation. Some users note that DisplayLink is becoming less relevant due to improved alternatives like Thunderbolt and USB4 docks, while others share negative experiences with DisplayLink hardware reliability.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2611.08483">[2611.08483] SwarmEvolve : Latent Agent Swarms for Evolutionary...</a></li>
-<li><a href="https://huggingface.co/papers/2611.08483">Paper page - SwarmEvolve : Latent Agent Swarms for Evolutionary...</a></li>
+<li><a href="https://www.tomshardware.com/peripherals/docking-stations-hubs/synaptics-sends-cease-and-desist-order-to-creator-of-open-source-displaylink-driver-dares-him-to-publicize-its-threats-dev-reverse-engineers-displaylink-using-claude-ai-and-rust-synaptics-threatens-to-bill-creator-for-legal-documentation">Synaptics sends cease-and-desist order to creator of open - source ...</a></li>
+<li><a href="https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver">Synaptics Appears To Use Legal Threats To Block Open - Source ...</a></li>
+<li><a href="https://www.synaptics.com/products/displaylink-graphics/embedded/sdk">Software Tools | Synaptics</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#machine learning`, `#AI research`, `#optimization`, `#latent agents`, `#math discovery`
+**Tags**: `#patents`, `#open-source`, `#hardware`, `#legal`
 
 ---
 
 <a id="item-tech-news-8"></a>
-### [Twindex: Replayable Proofs of Parameter Indistinguishability in Scientific Models](https://www.reddit.com/r/MachineLearning/comments/1xryhhg/twindex_exact_replayable_proofs_that_your_data/) ⭐️ 8.0/10
+### [Blender 5.3 Adds Gaussian Splat Support and Workflow Upgrades](https://www.blender.org/download/releases/5-3/) ⭐️ 7.0/10
 
-Twindex is a new tool that generates exact, replayable proofs when data cannot distinguish between different parameter sets in ODE, PDE, and PINN models. It produces a JSON certificate and provides a Python-based checker using rational arithmetic \(no floating point\), allowing anyone to verify whether two parameter sets are indistinguishable given the data and a stated noise bound. The tool supports a range of scientific models, including SIR epidemiological models and various ODE/PDE systems, and offers both browser-based and pip-installable interfaces. Limitations include reliance on bounded noise assumptions, scalability challenges for high-dimensional parameter spaces, and the absence of independent expert audits of the proofs.
+Blender 5.3 has been released, introducing support for Gaussian Splat rendering and significant workflow enhancements, including improvements to geometry nodes. Gaussian Splat support enables new rendering techniques for 3D graphics, allowing users to work with point-based representations that can be faster and more flexible than traditional mesh-based methods. The update is available for download from the official Blender website and is compatible with existing Blender workflows. Early user reports indicate that the new features are mature, well-integrated, and beneficial for complex pipelines.
 
-reddit · r/MachineLearning · /u/Longjumping\_Glass852 · Nov 9, 17:50
+hackernews · amlib · Nov 10, 16:15 · [Discussion](https://news.ycombinator.com/item?id=50442426)
 
-**「Parameter identifiability in scientific models」** In scientific modeling, particularly with ordinary and partial differential equations \(ODEs, PDEs\) and physics-informed neural networks \(PINNs\), parameter identifiability refers to the ability to uniquely determine model parameters from observed data. Traditional fitting methods, such as least squares or Bayesian inference, often return a single parameter set but do not guarantee that other, very different parameter sets could not fit the data equally well. This ambiguity can undermine confidence in model-based predictions and interpretations.
+**「Background」** Gaussian Splatting is a rendering technique that represents 3D scenes using collections of 3D Gaussian functions, enabling efficient and photorealistic visualization of complex point cloud data. Prior to Blender 5.3, users relied on external tools or plugins to work with Gaussian Splats. Blender 5.3 introduces native support for importing, manipulating via Geometry Nodes, and rendering Gaussian Splats across its main engines \(Workbench, EEVEE, and Cycles\), streamlining workflows for artists and technical users.
 
-**「Impact」** Researchers and practitioners in scientific modeling and machine learning can now rigorously verify when their data cannot uniquely identify model parameters, potentially preventing overconfident interpretations and guiding experimental design to resolve ambiguities.
+**「Impact」** Users working with large or complex 3D scenes can now leverage Gaussian Splat rendering for potentially faster and more flexible visualization, and the expanded geometry node capabilities simplify scripting and workflow automation for technical artists and developers.
 
-**Tags**: `#machine learning`, `#parameter identifiability`, `#scientific computing`, `#tools`
+**「Community Discussion」** Commenters highlight the maturity and speed of the Gaussian Splat implementation, with one user noting seamless integration even on large scenes. Others emphasize the importance of new geometry node features for advanced workflows, and encourage supporting Blender&\#x27;s ongoing development.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://developer.blender.org/docs/release_notes/5.3/rendering/">Rendering - Blender Developer Documentation</a></li>
+<li><a href="https://digitalproduction.com/2026/09/22/blender-5-3-brings-gaussian-splats-home/">Gaussian Splats in Blender 5.3: Native Import and Rendering</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#3d-graphics`, `#software-release`, `#rendering`, `#open-source`
 
 ---
 
 <a id="item-tech-news-9"></a>
-### [Frontier3DBench Benchmarks Coding Agents in 3D World Creation](https://www.reddit.com/r/MachineLearning/comments/1xrhg3a/can_coding_agents_build_interactive_3d_worlds/) ⭐️ 8.0/10
+### [AMD Zen 6 Architecture: Memory, I/O, and Core Upgrades Detailed](https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast) ⭐️ 7.0/10
 
-Frontier3DBench is a new benchmark released by Einsia to evaluate coding agents&\#x27; abilities to generate and assemble interactive 3D worlds. It tests 11 model–harness configurations across 145 tasks in 9 categories, using Blender for object and scene creation and Unreal Engine for interactive world assembly. The benchmark provides comparative results, showing that GPT-6.1-sol leads in object and scene tasks, while GPT-6-astra excels in interactive world creation. Notably, all configurations perform better on text-driven generation than on reference-based reconstruction, and local mechanisms outperform stateful workflows in world-building tasks.
+Technical analysis of AMD&\#x27;s upcoming Zen 6 CPU family highlights several architectural improvements, including a redesigned I/O die on a smaller process node, an upgraded memory controller, and changes to core microarchitecture such as reduced integer multiply units and increased vector load throughput. The new memory controller is expected to address previous bandwidth limitations seen in Zen 4 and Zen 5, particularly on the AM5 platform. Zen 6 chiplets will reportedly support up to 32 cores each, with enhancements to L3 cache and instruction-level parallelism. These changes are anticipated to improve both memory performance and overall system efficiency, though the update is evolutionary rather than a radical departure.
 
-reddit · r/MachineLearning · /u/OliviaYii · Nov 9, 03:41
+hackernews · pixelpoet · Nov 10, 17:02 · [Discussion](https://news.ycombinator.com/item?id=50443090)
 
-**「Background」** Coding agents are AI systems designed to generate code for complex tasks, including the creation of 3D assets and environments. Prior to the release of Frontier3DBench, there was no comprehensive benchmark specifically evaluating these agents&\#x27; abilities to build interactive 3D worlds across multiple stages—object modeling, scene assembly, and world interactivity—using industry-standard tools like Blender and Unreal Engine. Einsia, the team behind this benchmark, has previously developed other evaluation frameworks for AI agents, but Frontier3DBench is notable for its detailed, multi-level assessment and public leaderboard.
+**「Background」** AMD&\#x27;s Zen CPU microarchitecture has evolved through several generations, with each iteration bringing improvements in performance, efficiency, and system integration. Zen 6, the latest disclosed architecture, reportedly offers significant changes such as a new I/O die on a smaller process node, enhanced memory controllers, and increased core counts per chiplet. These developments build on previous Zen generations, which have been used in both consumer and server CPUs, and address longstanding limitations in memory bandwidth and system scalability.
+
+**「Impact」** Users and system designers can expect improved memory bandwidth and efficiency on Zen 6 platforms, potentially overcoming the memory speed bottlenecks that limited previous AM5-based Zen CPUs. Developers targeting high-core-count workloads may benefit from the increased core density and cache enhancements, but may need to adapt to changes in core-level resources such as reduced integer multipliers.
+
+**「Community Discussion」** Commenters widely anticipate the new memory controller, citing frustration with Zen 4 and Zen 5&\#x27;s memory speed limitations. Technical discussions also focus on the trade-offs in core microarchitecture, such as the reduction in integer multiply units and the implications for instruction throughput and die space allocation.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://github.com/Einsia/Frontier-Engineering">GitHub - Einsia /Frontier-Engineering · GitHub</a></li>
+<li><a href="https://wccftech.com/amd-zen-6-architecture-ipc-cores-memory-performance-epyc-venice/">AMD Zen 6 Architecture Brings A Phenomenal 27% IPC Increase...</a></li>
+<li><a href="https://www.techpowerup.com/review/amd-zen-6-technical-deep-dive/">AMD Zen 6 Technical Deep Dive | TechPowerUp</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI agents`, `#3D environments`, `#benchmarks`, `#machine learning`, `#software engineering`
+**Tags**: `#hardware`, `#cpu`, `#microarchitecture`, `#systems`
 
 ---
 
 <a id="item-tech-news-10"></a>
-### [Meta Releases Muse Ember: Low-Cost Multimodal AI Model](https://research.meta.ai/blog/muse-ember) ⭐️ 8.0/10
+### [Val Town Platform Shutting Down](https://blog.val.town/winding-down) ⭐️ 7.0/10
 
-Meta has launched Muse Ember, a lightweight AI model designed for cost-efficient agent tasks. Muse Ember supports a 1 million token context window and can process text, images, audio, and video, as well as integrate with tools and perform code repair. Meta claims the model matches the performance of Claude Haiku 5.5 on the Artificial Analysis Intelligence Index, but at one-third the cost, and outperforms GPT-6 Luna in several tests. Muse Ember is now available via the Meta Model API, with pricing set at $0.10 per million input tokens and $0.50 per million output tokens.
+Val Town, a developer-oriented platform for end-user programming and rapid prototyping built on the Deno runtime, has announced it is winding down operations. The shutdown affects users who relied on Val Town for cloud-based code execution and prototyping, and comes after the company raised $7 million in venture funding. The decision reflects ongoing challenges in sustaining businesses focused on developer tools, particularly those with dependencies on external runtimes like Deno, which itself will no longer be maintained by its original team after their move to Cloudflare. The announcement signals a shift in the developer tools ecosystem and highlights the difficulty of scaling such platforms.
 
-telegram · zaihuapd · Nov 9, 23:08
+hackernews · tosh · Nov 10, 17:31 · [Discussion](https://news.ycombinator.com/item?id=50443427)
 
-**「Background」** Muse Ember is a new AI model from Meta, a major technology company known for developing advanced AI and social platforms. The model is designed to handle complex reasoning and agent tasks, supporting multimodal inputs and large context windows. Previous AI models from Meta have focused on similar capabilities, but Muse Ember emphasizes lower operational costs and broader tool integration.
+**「Background」** Val Town was a cloud scripting platform that allowed developers to write and deploy TypeScript functions instantly, without needing to manage infrastructure or build steps. It offered features such as cron jobs, APIs, webhooks, and email integration, and was used for rapid prototyping and lightweight backend logic. The platform was particularly popular among developer tool companies for demos and integrations, and operated on a freemium model with a $10/month Pro tier.
 
-**「Impact」** Developers and organizations seeking affordable, high-context AI models for multimodal and agent-based tasks can now access Muse Ember through Meta&\#x27;s API, potentially reducing operational costs compared to competing models. However, the model is not open-weight, limiting customization and self-hosting options.
+**「Impact」** Developers and organizations using Val Town will need to migrate their projects and workflows to alternative platforms, as continued support and maintenance will cease. The shutdown also raises concerns for other services built on Deno, given its uncertain maintenance future.
 
-**「Community Discussion」** Some users expressed disappointment that Muse Ember&\#x27;s model weights are not open, limiting transparency and experimentation. Others noted the model&\#x27;s competitive pricing, especially its lower cache cost compared to alternatives, and discussed the trend toward specialized models for different professional domains.
+**「Community Discussion」** Commenters note that building sustainable businesses in the end-user programming and developer tools space is extremely challenging, regardless of technical quality or funding. Some users also highlight Val Town&\#x27;s transparency and community engagement as positive aspects, while others express confusion about the platform&\#x27;s unique value compared to existing hosting and automation solutions.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Meta_Platforms">Meta Platforms - Wikipedia</a></li>
+<li><a href="https://makerstack.co/reviews/val-town-review/">Val Town Review 2026: 7.6/10, from $10/mo</a></li>
+<li><a href="https://www.val.town/features">Features | Val Town</a></li>
+<li><a href="https://aicoolies.com/tools/val-town">Val Town : Features, Pricing &amp; Alternatives — aicoolies</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI models`, `#multimodal`, `#software engineering`, `#industry news`
+**Tags**: `#developer-tools`, `#end-user-programming`, `#startup-shutdown`, `#deno`
 
 ---
 
 <a id="item-tech-news-11"></a>
-### [Claude Fable 5.2 Sets New Benchmark Score, Raises Cost Concerns](https://artificialanalysis.ai/models/claude-fable-5-2) ⭐️ 7.0/10
+### [Meta AI Launches Muse Ember: Compact, Efficient Model for Reasoning Tasks](https://simonwillison.net/2026/Nov/10/muse-ember/) ⭐️ 7.0/10
 
-Claude Fable 5.2 has achieved a score of 65 on the Artificial Analysis benchmark, the highest recorded so far for any AI model on this test. While this marks a technical advancement, community feedback highlights that the model&\#x27;s cost per task has doubled compared to its predecessor, Fable 5.1, despite a recent price cut. The increase is attributed to a significant rise in output tokens per task, from 118,000 in Fable 5.1 to 274,000 in Fable 5.2. This development is notable for those tracking state-of-the-art AI performance, but it also underscores growing concerns about operational efficiency and deployment costs.
+Meta AI has released Muse Ember, its smallest and most efficient AI model designed for complex reasoning and agent tasks such as tool calls, coding subtasks, and long document parsing. Muse Ember 1.0 is competitively priced at $0.10 per million input tokens and $0.50 per million output tokens for prompts up to 200,000 tokens, with higher rates for longer prompts. The model supports up to a million input tokens and offers six reasoning levels, positioning itself on the efficiency frontier according to Artificial Analysis benchmarks. Compared to similar models like GPT-6 Luna and Claude Haiku 5.5, Muse Ember delivers high reasoning performance at a lower or comparable cost per task, especially for complex workloads.
 
-hackernews · theanonymousone · Nov 9, 20:04 · [Discussion](https://news.ycombinator.com/item?id=50431144)
+rss · Simon Willison · Nov 10, 07:28
 
-**「Benchmarking Claude Fable 5.2」** The Artificial Analysis Intelligence Index is a composite benchmark that evaluates AI models across domains such as knowledge work, coding, science, and general knowledge. Claude Fable 5.2 \(Max, Default Fallback\) achieved a score of 65 on this index, representing the highest performance recorded so far. The Claude Fable 5.2 release includes five models with varying intelligence, performance, and pricing characteristics.
+**「Background」** Muse Ember is a newly released AI model from Meta, designed to be lightweight and highly efficient for tasks that require repeated execution, such as coding subtasks, tool calls, routing, and document processing. It targets agentic workflows and complex reasoning, aiming to provide cost-effective performance for high-volume, everyday automation needs. This model is positioned as Meta&\#x27;s smallest and most efficient offering to date, focusing on practical agent and developer use cases.
 
-**「Impact」** Organizations considering deployment of Claude Fable 5.2 will need to weigh its improved benchmark performance against substantially higher operational costs, especially as the model&\#x27;s token usage per task has more than doubled. This may limit its adoption in cost-sensitive applications or prompt users to evaluate alternative models with better cost-performance ratios.
-
-**「Community Discussion」** Commenters widely acknowledge the technical achievement but express concern over the sharp increase in cost per task, with some noting that the price is now disproportionately high relative to the performance gain. Others point out that Fable 5.2 sits on the pareto frontier for speed and intelligence, suggesting it remains attractive for scenarios where performance is critical, though the real-world value of the improvements is debated.
+**「Impact」** Developers and organizations seeking efficient, cost-effective AI for complex reasoning and agent workflows now have a new option in Muse Ember, which offers competitive pricing and strong performance for both short and long prompts. Users should note that pricing increases for prompts exceeding 200,000 tokens, and performance may vary depending on the selected reasoning level.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://artificialanalysis.ai/models/claude-fable-5-2">Claude Fable 5 . 2 (max) - Intelligence... | Artificial Analysis</a></li>
-<li><a href="https://artificialanalysis.ai/models/releases/claude-fable-5-2">Claude Fable 5 . 2 Models - Intelligence... | Artificial Analysis</a></li>
+<li><a href="https://dev.meta.ai/models/muse-ember">Muse Ember | Meta</a></li>
+<li><a href="https://research.meta.ai/blog/muse-ember">Introducing Our Smallest, Most Efficient Model: Muse Ember</a></li>
+<li><a href="https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/">Meta releases Muse Ember, a new lightweight model for agent ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI models`, `#benchmarking`, `#cost analysis`, `#machine learning`
+**Tags**: `#AI models`, `#model efficiency`, `#industry news`, `#pricing`
 
 ---
 
 <a id="item-tech-news-12"></a>
-### [Web Tool Shows Satellite Passes and Images for Any Location](https://www.watched.earth/) ⭐️ 7.0/10
+### [TimesFM 3.0, Chronos-2, Toto 2.0 Fail to Beat Baselines on Stock Data](https://www.reddit.com/r/MachineLearning/comments/1xsqztt/i_benchmarked_timesfm_30_chronos2_and_toto_20_on/) ⭐️ 7.0/10
 
-A new web tool at watched.earth allows users to enter any location and see every satellite that passed over it in the past seven days, along with available real images from Sentinel-2, Landsat, and NASA. The tool performs real-time orbital calculations in the browser using the SGP4 model and CelesTrak catalog, rendering approximately 17,000 objects on the GPU and solving Kepler&\#x27;s equation per frame. It only marks a location as &\#x27;watched&\#x27; if an actual image exists and does not store user locations. The code is open source and available on GitHub.
+A user benchmarked three prominent time-series foundation models—Google&\#x27;s TimesFM 3.0, Amazon&\#x27;s Chronos-2, and Datadog&\#x27;s Toto 2.0—on 24 US stocks and ETFs using daily, hourly, and 5-minute price data from 2014 to 2026. In zero-shot, default-configuration tests, none of the models outperformed simple baselines such as last observed price or always-up predictions; directional accuracy hovered around 50%, similar to random chance. Even when tested on simulated random walks, the models&\#x27; performance was unchanged, and a basic buy-and-hold strategy outperformed model-driven trading. The experiments did not involve fine-tuning or domain-specific adaptation.
 
-hackernews · a585gupt · Nov 9, 17:51 · [Discussion](https://news.ycombinator.com/item?id=50428907)
+reddit · r/MachineLearning · /u/AdelSexy · Nov 10, 16:14
 
-**「Background」** Satellite tracking tools allow users to visualize the real-time or historical positions of satellites over specific locations, often using public orbital data such as the CelesTrak catalog and algorithms like SGP4 for orbital prediction. Existing services, such as sat-above.com and Satellite Tracker 3D, provide pass predictions and live tracking, but typically do not integrate direct access to recent satellite imagery for each pass. The new tool distinguishes itself by combining precise pass calculations with retrieval of actual Sentinel-2, Landsat, and NASA images for user-specified locations.
-
-**「Impact」** Geospatial professionals, satellite enthusiasts, and the general public can now easily verify which satellites have recently passed over any location and access corresponding imagery, improving transparency and accessibility of Earth observation data.
-
-**「Community Discussion」** Users praised the tool&\#x27;s combination of technical depth and practical utility, especially its ability to show exact satellite images for specific locations. Some users reported usability issues with the location input field, noting difficulties with cursor behavior.
+**「Background」** TimesFM 3.0 is a recent zero-shot time series foundation model developed by Google, designed for multivariate and univariate forecasting and claimed to achieve state-of-the-art results on public benchmarks. Similar models, such as Chronos-2 and Toto 2.0, have also been introduced as general-purpose forecasters. These models are typically evaluated on standard datasets, but their real-world performance on financial market data, which is notoriously difficult to predict, is less well established.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://sat-above.com/">Satellite Tracker — Live ISS &amp; Satellite Pass ... | sat-above.com</a></li>
-<li><a href="https://satellitetracker3d.com/">Satellite Tracker 3D - Starlink, SpaceX, ISS [Free]</a></li>
+<li><a href="https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/">TimesFM - 3 : A zero -shot foundation model for multivariate forecasting</a></li>
+<li><a href="https://www.youtube.com/watch?v=4qypxyHshJw">Google TimesFM 3 . 0 : AI That Predicts the Future in One... - YouTube</a></li>
+<li><a href="https://github.com/google-research/timesfm">google-research/ timesfm : TimesFM ( Time Series Foundation Model )...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#satellite-imagery`, `#geospatial`, `#web-tools`, `#open-source`
+**Tags**: `#machine learning`, `#time series`, `#benchmarking`, `#financial data`
 
 ---
 
 <a id="item-tech-news-13"></a>
-### [USPS Releases Official ZIP Code Boundary Polygons](https://postalpro.usps.com/zcb) ⭐️ 7.0/10
+### [Apple Logic Pro Adds $50 AI Usage Pack for Cloud Features](https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro) ⭐️ 7.0/10
 
-The United States Postal Service \(USPS\) has released official ZIP Code boundary polygons, making authoritative geospatial data on ZIP Code areas available for the first time. Access to this data is offered through the USPS PostalPro platform, but the pricing is high, with the lowest tier reportedly costing $10,000. This release addresses a longstanding gap, as previous ZIP Code boundary data was only available from unofficial or approximate sources. However, the data comes with licensing restrictions and is not freely available to the public.
+Apple has introduced a $49.99 one-time AI usage pack for Logic Pro, making it the first Apple app to charge for additional Apple Intelligence usage. This pack allows users to continue accessing cloud-based AI features that rely on OpenAI or Gemini models, which have usage limits. The purchased quota is tied to the buyer&\#x27;s account, can roll over month-to-month, but expires after 12 months if unused. Apple plans to extend this paid AI usage model to other creative apps like Pixelmator Pro and Final Cut Pro later this month.
 
-hackernews · munro · Nov 9, 19:58 · [Discussion](https://news.ycombinator.com/item?id=50431058)
+telegram · zaihuapd · Nov 10, 01:53
 
-**「Background」** ZIP Codes are a system used by the United States Postal Service \(USPS\) to facilitate mail delivery, but historically, USPS did not provide official geographic boundary data for these codes. Instead, third parties and the U.S. Census Bureau offered approximations, such as ZIP Code Tabulation Areas \(ZCTAs\), which are not always accurate for all applications. The release of official ZIP Code boundary polygons by USPS addresses a longstanding gap in authoritative geospatial data for postal zones.
+**「Background」** Logic Pro is Apple&\#x27;s professional audio production software, and it recently integrated AI-powered features under the &\#x27;Apple Intelligence&\#x27; branding. These features rely on cloud-based models, such as those from OpenAI and Gemini, and come with a usage limit. Previously, all AI functionality was included with the app purchase, but now Apple is introducing paid usage packs for additional access beyond the standard allowance.
 
-**「Impact」** Organizations and developers who require precise ZIP Code boundary data for logistics, mapping, or analytics can now obtain official polygons directly from USPS, improving accuracy over previous unofficial datasets. However, the high cost and restrictive licensing may limit access to larger companies or well-funded projects, while smaller organizations and open data advocates may continue to rely on free but less accurate alternatives such as Census ZCTA shapefiles.
+**「Impact」** Logic Pro users who rely heavily on AI-powered cloud features will now need to purchase additional usage if they exceed their included quota, potentially increasing costs for power users. Developers and users of other creative apps should anticipate similar monetization models as Apple expands this approach.
 
-**「Community Discussion」** Several commenters criticized the high price and lack of free access, arguing that federal data should be publicly available given its importance for transparency and accountability. Others noted that ZIP Codes are fundamentally delivery routes rather than strict geographic areas, questioning the utility and accuracy of representing them as polygons. Some suggested that free alternatives like Census ZCTA shapefiles may suffice for many use cases despite their limitations.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://madrobot.blog/2026/11/09/apple-intelligence-usage-packs-extra-ai/">Apple intelligence usage packs: $49.99 for more AI in Logic Pro</a></li>
+<li><a href="https://www.cultofmac.com/news/apple-intelligence-usage-packs-logic-pro">Apple’s ‘intelligence usage packs’ put a price on extra AI</a></li>
+<li><a href="https://www.gadgets360.com/ai/news/apple-introduces-paid-ai-usage-packs-for-logic-pro-more-apps-to-follow-12308768">Apple Starts Charging for Extra AI Usage in Logic Pro With ...</a></li>
 
-**Tags**: `#geospatial data`, `#open data`, `#government`, `#software engineering`
+</ul>
+</details>
+
+**Tags**: `#Apple`, `#AI monetization`, `#creative software`, `#business models`
 
 ---
 
 <a id="item-tech-news-14"></a>
-### [Canada Launches Real-Time Rail \(RTR\) Payment System](https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy) ⭐️ 7.0/10
+### [Huawei Qingyun HM650 Desktop Uses Only Chinese Components](https://www.techspot.com/news/114490-huawei-new-desktop-pc-contains-only-chinese-components.html) ⭐️ 7.0/10
 
-Payments Canada has launched the Real-Time Rail \(RTR\), a national payment system enabling 24/7 real-time payments across Canada. The RTR is designed to provide instant fund transfers and settlement, and is open to a range of financial institutions and fintechs, not just major banks. The initial cohort of participants includes Wealthsimple, Questbank, Peoples Trust Company, Paramount Commerce, KOHO, DoBusiness.com, Digital Commerce Bank, and Bank of America. This infrastructure aims to modernize Canadian payments and facilitate broader software and fintech integration.
+Huawei has launched the Qingyun HM650 desktop PC, which it claims is built entirely with Chinese-made components and runs its self-developed HarmonyOS operating system. The system features 16 GB Changxin LPDDR5 memory, a 256 GB or 512 GB SSD, and a Kirin X90 processor manufactured by SMIC using a 7nm N+2 process, with CPU cores based on Armv8 architecture. However, the chip manufacturing process still relies on overseas technology, and HarmonyOS cannot natively run Windows .exe applications, requiring enterprises to verify software and peripheral compatibility. This release is positioned as a step toward greater technological self-sufficiency for China.
 
-hackernews · ocd · Nov 9, 16:00 · [Discussion](https://news.ycombinator.com/item?id=50427362)
+telegram · zaihuapd · Nov 10, 03:46
 
-**「Background」** Real-time payment systems allow for instant or near-instant transfer of funds between banks and financial institutions, operating 24/7. Prior to the launch of the Real-Time Rail \(RTR\), Canada primarily relied on systems like Interac e-Transfer for electronic payments, which, while widely used, were proprietary and not fully open to all financial institutions. The introduction of RTR represents a shift toward a more open, national infrastructure for real-time payments.
+**「Background」** Huawei&\#x27;s Qingyun HM650 desktop PC is positioned as the company&\#x27;s first system built entirely from Chinese-made components, including the Kirin X90 processor and HarmonyOS operating system. This move is part of a broader push by Chinese technology firms to reduce reliance on foreign hardware and software, especially in light of ongoing geopolitical and supply chain pressures. The Kirin X90 is a ten-core processor, and HarmonyOS is Huawei&\#x27;s self-developed operating system, both central to the device&\#x27;s claim of domestic origin.
 
-**「Impact」** Canadian consumers and businesses now have access to instant, always-on payments, which could reduce reliance on proprietary systems like Interac e-Transfer and lower transaction friction for fintechs and smaller financial institutions. Developers and payment providers may need to update their systems to integrate with RTR and take advantage of its real-time capabilities.
+**「Impact」** Organizations considering the HM650 for enterprise use must assess compatibility with their existing software and hardware, as HarmonyOS does not support native Windows applications and some peripherals may not be fully supported.
 
-**「Community Discussion」** Commenters note that RTR could democratize access to real-time payments beyond the major banks, with some expressing cautious optimism about its rollout and the involvement of Interac as a partner. Others compare RTR favorably to the US, where real-time payment adoption remains limited and often incurs fees, and discuss the potential for RTR to further reduce the use of cash in everyday transactions.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.notebookcheck.net/The-first-fully-Chinese-desktop-Huawei-launches-PC-with-Kirin-X90-and-HarmonyOS.1445194.0.html">The first fully Chinese desktop : Huawei ... - Notebookcheck News</a></li>
+<li><a href="https://basic-tutorials.com/news/huawei-qingyun-hm650-first-harmonyos-pc-made-entirely-from-chinese-parts/">Huawei Qingyun HM 650 : First HarmonyOS PC Made... - Basic Tutorials</a></li>
+<li><a href="https://www.theregister.com/systems/2026/11/09/huawei-says-its-made-a-100-percent-chinese-pc/5308335">Huawei says it’s made a 100 percent Chinese PC</a></li>
 
-**Tags**: `#payments`, `#financial-infrastructure`, `#software-integration`, `#technology-industry`
+</ul>
+</details>
+
+**Tags**: `#hardware`, `#operating-systems`, `#supply-chain`, `#china-tech`
 
 ---
 
 <a id="item-tech-news-15"></a>
-### [2026 ML Conference Papers Added to Topic Pages and Newspapers](https://www.reddit.com/r/MachineLearning/comments/1xs6494/followup_2026_papers_are_finally_in_the_topic/) ⭐️ 7.0/10
+### [OpenAI Deploys 35-Second AI Task Shutdown System](https://interestingengineering.com/ai-robotics/openai-control-room-35-second-model-shutdown) ⭐️ 7.0/10
 
-A major update has added 2026 papers and benchmark results from ICML, CVPR, ICLR, and AAAI to a large-scale machine learning topic and results aggregation platform. The update covers nearly all 2026 papers from these conferences \(except NeurIPS, which is only partially included due to limited public PDF availability\), bringing the total to about 101,000 full texts and roughly one million extracted findings. The platform now also features &\#x27;newspapers&\#x27; for ICML, CVPR, and ICLR 2026, offering year-over-year comparisons and trends. All topic pages are openly accessible, while full newspaper editions require a free account; extracted numbers are AI-generated and not manually verified.
+OpenAI has deployed an internal &\#x27;control room&\#x27; system that can halt risky AI agent tasks within 35 seconds of receiving a stop command. The system manages training, evaluation, and data processing tasks using unique task IDs, and checks task authorization before inference engines process requests. Advanced reinforcement learning tasks are monitored by independent model monitors that can trigger alerts if problematic behavior is detected. OpenAI is also working to reduce shutdown latency caused by authorization request caching.
 
-reddit · r/MachineLearning · /u/latenticlabs · Nov 9, 22:39
+telegram · zaihuapd · Nov 10, 05:47
 
-**「Background」** Topic and benchmark aggregation platforms in machine learning have become essential for tracking research progress, comparing methods, and identifying trends across major conferences. Previously, these platforms often lagged behind in incorporating the most recent papers and results, limiting their usefulness for up-to-date analysis. The current update addresses this gap by extending coverage to include 2026 papers from leading conferences such as ICML, CVPR, ICLR, and AAAI.
+**「Background」** AI research environments increasingly require robust safety mechanisms to prevent unintended or risky model behaviors. OpenAI&\#x27;s new &\#x27;Control Room&\#x27; system introduces infrastructure-level safety controls by enforcing mandatory authorization checks before every inference request and defaulting to denial if the authorization service is unavailable. This approach prioritizes containment and rapid response over uninterrupted availability, reflecting a shift toward operational safeguards in advanced AI development.
 
-**「Impact」** Researchers and practitioners now have timely access to comprehensive 2026 benchmark records and topic summaries, enabling easier tracking of progress, comparison of baselines, and identification of research trends across major ML conferences. However, users should be cautious as the extracted data is not manually checked and may contain inaccuracies.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://emergent.sh/news/openai-control-room-35-second-kill-switch">OpenAI Control Room: 35-Second Kill Switch for Research</a></li>
 
-**Tags**: `#machine learning`, `#research tools`, `#conference papers`, `#benchmarks`, `#data aggregation`
+</ul>
+</details>
+
+**Tags**: `#AI safety`, `#operational systems`, `#machine learning`, `#risk management`
 
 ---
 
 <a id="item-tech-news-16"></a>
-### [OPPO, vivo, Xiaomi, Honor Launch ADV for Sideloaded App Security](https://mp.weixin.qq.com/s/ZiKBASSLzvsZ6WR2AUmFeg) ⭐️ 7.0/10
+### [Grok 4.8 Enters Reinforcement Learning After C/C++ Rewrite](https://x.com/elonmusk/status/2120088070443655190) ⭐️ 7.0/10
 
-OPPO, vivo, Xiaomi, and Honor have jointly launched the Android Developer Verification \(ADV\) mechanism in mainland China to improve the security and traceability of sideloaded Android apps. The system enables mutual recognition of developer verification results across the four manufacturers. Apps already published on the official platforms of these companies are automatically submitted for verification, while apps lacking verification will trigger a &\#x27;not verified&\#x27; warning during sideload installation, requiring explicit user confirmation to proceed. This initiative aims to help users identify the source and safety of sideloaded apps and to establish a trusted link between developers and their applications.
+Elon Musk announced that Grok 4.8 has entered the reinforcement learning \(RL\) phase after a complete rewrite of its RL and inference stack in C/C++, replacing the previous JAX/SGLang implementation. Pretraining for Grok 4.8 is finished, and evaluation scores are reportedly improving as RL begins. A limited rollout to Bot users is planned for later this week. Musk noted that Grok 4.8 is almost entirely different from 4.7, though he cautioned that the new version is not yet impressive but has a solid foundation.
 
-telegram · zaihuapd · Nov 9, 11:44
+telegram · zaihuapd · Nov 10, 12:28
 
-**「Background」** Sideloading, or installing Android apps from sources outside official app stores, has long been a distinguishing feature of the Android ecosystem, especially in China where Google Play is not the primary app distribution channel. This openness, however, has also introduced security risks, as users may inadvertently install malicious or unverified apps. In response, major Chinese Android manufacturers have previously taken steps to regulate sideloading and improve app traceability, but a unified developer verification mechanism across multiple OEMs is a new development.
-
-**「Impact」** Developers distributing apps outside official app stores in China will need to ensure their identity is verified through ADV to avoid installation warnings that may deter users. Users benefit from clearer security signals when installing sideloaded apps, potentially reducing the risk of installing malicious or untraceable software.
+**「Background」** Grok is an AI language model developed by xAI, with previous versions using JAX and SGLang for their reinforcement learning and inference stacks. In September 2026, Elon Musk announced that Grok 4.8 would be a 2.5 trillion-parameter model and that its training stack was being rewritten in C/C++, with pretraining to finish that week and reinforcement learning to begin immediately after. The current update confirms that pretraining is complete and Grok 4.8 has now entered the reinforcement learning phase on the new C/C++ stack.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://post.smzdm.com/p/anvomm2v/">安 卓 彻底告别自由 侧 载 ？ 谷歌联合六大厂商，装陌生APK等24...</a></li>
+<li><a href="https://www.explainx.ai/blog/grok-4-8-2-5-trillion-parameters-cpp-training-stack-2026">Grok 4.8: 2.5T Params, C++ Stack, RL Next (Sept 2026 ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#android`, `#security`, `#mobile`, `#developer-tools`
+**Tags**: `#AI`, `#reinforcement-learning`, `#software-engineering`, `#large-language-models`
 
 ---
 
 <a id="item-tech-news-17"></a>
-### [SnowLuma Goes Private After Tencent Legal Notice](https://telegram.me/zaihuapd/45023) ⭐️ 7.0/10
+### [Anthropic Restricts Access by Region, Excludes Mainland China, HK, Macau](https://www.anthropic.com/legal/supported-regions) ⭐️ 7.0/10
 
-SnowLuma, a tool that bridges QQ native sessions to the OneBot v11 interface for AI and bot integration, has announced it will become private as of November 9, 2026, after receiving a legal notice from Tencent. The project will no longer be publicly available, and its maintainers have issued a farewell to users. SnowLuma&\#x27;s user agreement had previously stated it was unaffiliated and unauthorized by Tencent, and warned that using such unofficial tools could violate platform terms and pose account risks.
+Anthropic has implemented a whitelist-based regional access policy for its AI products, including Claude.ai, Claude Code, Cowork, and its API, effective November 12. Only users in 185 specified countries and regions will be supported; mainland China, Hong Kong, and Macau are explicitly excluded. The policy prohibits use by anyone physically present in an unsupported region, by entities registered or headquartered there \(regardless of user location\), and by companies majority-controlled by such entities. The list includes some countries not on typical US sanctions lists, reflecting Anthropic&\#x27;s own compliance criteria.
 
-telegram · zaihuapd · Nov 9, 14:57
+telegram · zaihuapd · Nov 10, 13:44
 
-**「Background」** SnowLuma is a framework designed to bridge native QQ sessions to the OneBot v11 interface, enabling integration of QQ messaging with various bot and AI frameworks. The project provided a unified runtime supporting multiple protocols such as WebSocket, HTTP, and SDK, allowing developers to connect QQ with automation and AI tools. Its documentation and user agreement have previously stated that it is not affiliated with or authorized by Tencent, and warned users about potential risks of violating QQ&\#x27;s platform terms.
+**「Background」** Anthropic is a leading AI company known for its Claude models and related services. Previously, Anthropic&\#x27;s products were accessible in many regions without a strict whitelist, but the company has now published a Supported Regions Policy that explicitly restricts access to a list of 185 approved countries and territories. The new policy also prohibits use by individuals physically present in unsupported regions, as well as by entities registered or headquartered in those regions, regardless of where their personnel are located.
 
-**「Impact」** Developers and users who relied on SnowLuma for integrating QQ with AI and bot frameworks will lose access to the tool, disrupting open source and unofficial bot development efforts on the QQ platform.
+**「Impact」** Users and organizations in mainland China, Hong Kong, and Macau will lose access to Anthropic&\#x27;s AI products and APIs starting November 12, and companies with ties to these regions must ensure compliance to avoid violating the new policy.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://snowluma.github.io/en/index.html">SnowLuma Docs · Bring native QQ sessions to your applications</a></li>
+<li><a href="https://www.anthropic.com/legal/supported-regions">Supported Regions Policy - Anthropic</a></li>
+<li><a href="https://www.gate.com/news/detail/anthropic-enforces-whitelist-policy-on-november-12-banning-claude-access-25535601">Anthropic Enforces Whitelist Policy on November 12, Banning ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#open-source`, `#legal`, `#AI-integration`, `#messaging-platforms`
-
----
-
-<a id="item-tech-news-18"></a>
-### [EU Drafts Digital Fairness Act to Curb Addictive Design](https://www.mlex.com/mlex/articles/2546584/digital-businesses-face-addictive-design-controls-under-draft-eu-consumer-law) ⭐️ 7.0/10
-
-The European Union is preparing a draft Digital Fairness Act that would restrict addictive design features in digital products and require game virtual currencies to display their real-world value. The draft mandates that digital businesses allow users to disable autoplay and reward loops, provide clear subscription cancellation options, and obtain explicit consent before converting free trials to paid subscriptions. It also bans loot boxes, pay-to-win mechanics, and targeted ads for minors in games. Companies violating these rules could face fines of up to 6% of global turnover, but the law is still in draft form and requires approval from the European Parliament and member states.
-
-telegram · zaihuapd · Nov 9, 16:42
-
-**「Background」** The Digital Fairness Act is a legislative proposal from the European Commission aimed at regulating digital business practices, particularly those affecting consumer rights and online user experience. The Act is part of a broader EU initiative to address manipulative and addictive design patterns in digital products, as well as to increase transparency in areas such as virtual currencies used in games. The proposal is still in draft form and must be approved by both the European Parliament and EU member states before becoming law.
-
-**「Impact」** If enacted, digital businesses and game developers operating in the EU will need to redesign user interfaces to comply with new transparency and anti-addiction requirements, and clearly disclose the real-world value of in-game currencies. Non-compliance could result in significant financial penalties.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Digital_Fairness_Act">Digital Fairness Act - Wikipedia</a></li>
-<li><a href="https://www.euronews.com/2026/11/09/eu-to-blacklist-ten-manipulative-online-design-traps-leaked-draft-shows">EU to blacklist ten manipulative online design &#x27;traps&#x27;, leaked draft s...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#regulation`, `#software engineering`, `#digital ethics`, `#gaming`
-
----
-
-## Technology Blog
-
-<a id="item-tech-blog-1"></a>
-### [Building a Gravity Compensation Loop for Robot Arms with Holoscan 5](https://developer.nvidia.com/blog/make-a-robot-arm-feel-weightless-with-nvidia-holoscan-5/) ⭐️ 8.0/10
-
-rss · NVIDIA CUDA Technical Blog · Nov 9, 19:09
-
-**「Background」** Enabling a robot arm to feel weightless—so it can be guided by hand while its motors counteract gravity—is a foundational capability for collaborative robotics and learning by demonstration. Achieving this requires a precise, low-latency gravity compensation loop that continuously calculates the torques needed to support the arm&\#x27;s weight, based on accurate models and real-time feedback. Traditional frameworks often introduce overhead, thread handoffs, or inflexible programming models, making it challenging to meet the strict timing and jitter requirements of real-time torque control.
-
-**「Solution」** The author demonstrates how NVIDIA Holoscan 5 can be used to implement a real-time gravity compensation loop for a robot arm, specifically the Seeed Studio reBot Arm B601-DM with quasi-direct-drive actuators. Holoscan&\#x27;s operator-graph model allows developers to express control logic as a series of modular operators: one reads joint states at 400 Hz, another computes gravity compensation torques using the Pinocchio inverse dynamics library, and a third sends commands to the motors. By grouping these operators into a single partition and pinning them to dedicated CPU cores, the system minimizes latency and jitter, as confirmed by detailed measurements using NVIDIA Nsight Systems. The tutorial provides both Python and C++ implementations, revealing that C++ offers significantly lower and more predictable latency \(e.g., p99.99 latency of 17.2 µs pinned vs. 86.6 µs unpinned\), while Python incurs higher overhead but remains practical for less time-critical perception tasks. The approach is validated on multiple hardware platforms and is extensible to more advanced control stacks, including impedance control and perception integration.
-
-**「Takeaway」** Holoscan 5 enables precise, low-latency robotic control by letting developers compose real-time control loops as inspectable operator graphs, with clear tradeoffs between Python and C++ implementations. This architecture provides a robust foundation for building advanced, responsive robot behaviors while maintaining transparency and performance.
-
-**Tags**: `#robotics`, `#real-time systems`, `#control systems`, `#performance engineering`, `#NVIDIA Holoscan`
+**Tags**: `#AI policy`, `#regional access`, `#compliance`, `#Anthropic`
 
 ---
 
 ## Financial News
 
 <a id="item-finance-news-1"></a>
-### [China Extends Suspension of 24% Extra Tariff on US Goods](https://mp.weixin.qq.com/s/nNxJB3y0YA_2zJvOK6onUQ) ⭐️ 7.0/10
+### [Fed Governor Waller Signals Likely December Rate Hike, Possible Larger Increase](https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html) ⭐️ 8.0/10
 
-China will continue suspending a 24% additional tariff on US goods for two months starting November 10, 2026, while keeping a 10% tariff rate in place, according to an official government announcement.
+Federal Reserve Governor Christopher Waller said a December interest rate hike is likely and suggested a half-percentage-point increase could be considered if inflation remains high, rather than the usual quarter-point move. Waller emphasized that following through on expected rate hikes is important to maintain the Fed&\#x27;s credibility.
 
-telegram · zaihuapd · Nov 9, 04:03
+rss · CNBC Finance · Nov 10, 17:13
 
-**「Background」** China had previously imposed additional tariffs on US goods during trade tensions, and adjustments to these tariffs are often linked to diplomatic negotiations between the two countries.
+**「Background」** Christopher J. Waller has served as a member of the Federal Reserve Board of Governors since December 2020, helping set U.S. monetary policy through 2030.
 
-**「Impact」** This decision directly affects US exporters and Chinese importers by maintaining lower tariffs on affected goods, potentially easing trade costs during the suspension period.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Christopher_Waller">Christopher Waller - Wikipedia</a></li>
+<li><a href="https://www.federalreserve.gov/aboutthefed/bios/board/waller.htm">Federal Reserve Board - Christopher J. Waller</a></li>
+<li><a href="https://www.federalreservehistory.org/people/christopher-waller">Christopher J. Waller - Federal Reserve History</a></li>
 
-**Tags**: `#trade policy`, `#tariffs`, `#China`, `#US-China relations`
+</ul>
+</details>
+
+**Tags**: `#Federal Reserve`, `#interest rates`, `#monetary policy`, `#inflation`, `#economic outlook`
+
+---
+
+<a id="item-finance-news-2"></a>
+### [California Voters Reject 5% Billionaire Tax Proposal](https://www.theguardian.com/us-news/2026/nov/09/california-tax-billionaires-prop-40) ⭐️ 8.0/10
+
+California voters rejected Proposition 40, which would have imposed a one-time 5% tax on individuals with net assets over $1 billion as of January 2026 to fund healthcare, education, and food aid.
+
+telegram · zaihuapd · Nov 10, 07:12
+
+**「Background」** Proposition 40 was a California ballot measure in November 2026 that proposed a one-time 5% tax on individuals and trusts with net assets over $1 billion, aiming to fund state healthcare, education, and food assistance programs.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://ballotpedia.org/California_Proposition_40,_One-Time_Wealth_Tax_for_State-Funded_Healthcare,_Education,_and_Food_Assistance_Programs_Initiative_%282026%29">California Proposition 40, One-Time Wealth Tax for State ...</a></li>
+<li><a href="https://calmatters.org/california-voter-guide-2026/proposition-40-billionaire-tax/">Voter guide to Proposition 40: Billionaire tax - CalMatters</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#tax policy`, `#ballot initiative`, `#California`, `#wealth`, `#public finance`
+
+---
+
+<a id="item-finance-news-3"></a>
+### [TSMC October Revenue Rises 59.7% Year-Over-Year](https://pr.tsmc.com/chinese/news/3349) ⭐️ 8.0/10
+
+TSMC reported October 2026 revenue of 586.89 billion New Taiwan dollars, a 59.7% increase from the same month last year.
+
+telegram · zaihuapd · Nov 10, 08:07
+
+**「Background」** TSMC is the world&\#x27;s largest contract chipmaker and regularly reports monthly revenue figures, with October 2026 revenue showing a significant increase compared to both the previous month and the same period last year.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.gate.com/news/detail/TSM/tsmc-october-revenue-jumps-597-to-nt58689-billion-tsm-stocks-rise-25538655">TSMC October Revenue Jumps 59.7% to NT$586.89... | Gate News</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#earnings`, `#semiconductors`, `#technology`, `#company results`
+
+---
+
+<a id="item-finance-news-4"></a>
+### [Polymarket Annualized Revenue Tops $1.8 Billion Amid U.S. Growth](https://www.cnbc.com/2026/11/10/polymarket-annualized-revenue-us-growth.html) ⭐️ 7.0/10
+
+Polymarket reported its annualized revenue has surpassed $1.8 billion, up from over $1 billion in June 2026, driven by rapid growth in its U.S. exchange. The company is also under investigation by the Commodity Futures Trading Commission regarding its advertising and compliance with prior regulatory settlements.
+
+rss · CNBC Finance · Nov 10, 13:00
+
+**「Background」** Polymarket is a prediction market platform that lets users trade on the outcomes of real-world events and operates both a U.S. exchange and an international platform, with the latter not regulated by U.S. authorities like the Commodity Futures Trading Commission \(CFTC\).
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://polymarket.com/">Polymarket | The World’s Largest Prediction Market</a></li>
+<li><a href="https://money.usnews.com/investing/articles/what-are-prediction-markets-predictit-polymarket-and-kalshi">What Are Prediction Markets ? Kalshi, PredictIt and Polymarket</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#fintech`, `#earnings`, `#regulation`, `#markets`, `#funding`
+
+---
+
+<a id="item-finance-news-5"></a>
+### [China&\#x27;s New Energy Vehicle Exports Surge in 2026](https://finance.sina.com.cn/tech/roll/2026-10-26/doc-iniwpfnc2438186.shtml) ⭐️ 7.0/10
+
+China exported 3.887 million new energy vehicles in the first three quarters of 2026, a year-on-year increase of 138.8% according to official data.
+
+telegram · zaihuapd · Nov 10, 02:56
+
+**「Background」** In 2025, China exported over 1.2 million new energy vehicles \(NEVs\), and exports in 2026 are on track to surpass that figure as domestic sales growth slows and automakers seek overseas markets to support their production investments.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.ievchina.com/insights/china-ev-export-boom-2026-navigating-trade-barriers-seizing-new-markets/">China EV Export Boom 2026: Navigating Trade Barriers, Seizing ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#automotive`, `#exports`, `#China`, `#economic data`, `#electric vehicles`
+
+---
+
+<a id="item-finance-news-6"></a>
+### [Anthropic Withdraws $69.3 Billion IPO Filing](https://www.reuters.com/business/anthropic-aims-raise-up-693-billion-blockbuster-ipo-2026-11-10/) ⭐️ 7.0/10
+
+Anthropic withdrew its initial public offering \(IPO\) filing, which had aimed to raise up to $69.3 billion, after stating that the pricing information was inaccurate and promising an updated filing.
+
+telegram · zaihuapd · Nov 10, 06:25
+
+**「Background」** Anthropic, an artificial intelligence company, had circulated documents to banks outlining plans for a major initial public offering \(IPO\) but later retracted these details, stating the pricing information was inaccurate and would be updated.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://tech-insider.org/anthropic-ipo-retracted-math-60-7-to-69-3-billion-2026/">Anthropic IPO Math: $60.7B to $69.3B Retracted [2026]</a></li>
+<li><a href="https://shattered.io/anthropic-ipo-retraction-what-69-3-billion-would-mean-2026/">Anthropic IPO Retraction: What $69.3B Would Mean [2026]</a></li>
+<li><a href="https://shattered.io/anthropic-retracts-ipo-filing-pricing-867m-shares-70-80-range-2026/">Anthropic Retracts IPO Pricing: 867M Shares [2026]</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#IPO`, `#technology`, `#capital markets`, `#corporate finance`
+
+---
+
+<a id="item-finance-news-7"></a>
+### [Chinese Banks Raise US Dollar Deposit Rates Above Fed Benchmark](https://finance.sina.com.cn/roll/2026-11-10/doc-iniyfzhx2584501.shtml) ⭐️ 7.0/10
+
+Several Chinese banks have raised US dollar deposit rates, with some now exceeding the US Federal Reserve&\#x27;s 3.75%-4% benchmark after the Fed&\#x27;s September 2026 rate hike; for example, SPD Bank Shenzhen offers 4.2% for 12-month deposits, up from 3.9% in September, and Bank of China offers 4.09% for 3-year deposits of at least $100,000.
+
+telegram · zaihuapd · Nov 10, 10:57
+
+**「Background」** In September 2026, the US Federal Reserve raised its main interest rate by 0.25 percentage points to a range of 3.75% to 4.0%, prompting banks in other countries to adjust their own US dollar deposit rates in response.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a1.htm">Federal Reserve Board - Implementation Note issued September ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#banking`, `#interest rates`, `#monetary policy`, `#currency`
 
 ---
