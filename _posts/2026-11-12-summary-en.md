@@ -5,505 +5,495 @@ date: 2026-11-12
 lang: en
 ---
 
-> From 48 items, 21 important content pieces were selected
+> From 45 items, 22 important content pieces were selected
 
 ---
 
 **Technology News**
-1. [Nvidia Reportedly Preparing to Replace CEO Jensen Huang](#item-tech-news-1) ⭐️ 9.0/10
-2. [AWS Releases Official Local Emulator for Cloud Services](#item-tech-news-2) ⭐️ 9.0/10
-3. [Google Launches Gemini Decisions API for Multimodal Decision Tasks](#item-tech-news-3) ⭐️ 8.0/10
-4. [AMD Uses AI to Swap Cold DRAM Pages to Flash, Claims 83% Server Cost Savings](#item-tech-news-4) ⭐️ 8.0/10
-5. [Tim Peters, Author of &\#x27;The Zen of Python,&\#x27; Has Died](#item-tech-news-5) ⭐️ 7.0/10
-6. [Guidance on Locking GitHub Actions Dependencies](#item-tech-news-6) ⭐️ 7.0/10
-7. [Apple Researches Faster Retrieval for RAG Systems](#item-tech-news-7) ⭐️ 7.0/10
-8. [AI Agents Used to Identify Previously Documented Maya Site](#item-tech-news-8) ⭐️ 7.0/10
-9. [Emacs, AI Code, and Software Freedom Debated](#item-tech-news-9) ⭐️ 7.0/10
-10. [United Airlines Bans AI Agents from Booking Flights](#item-tech-news-10) ⭐️ 7.0/10
-11. [Anthropic Reveals Multi-Chip AI Strategy in IPO Roadshow](#item-tech-news-11) ⭐️ 7.0/10
-12. [Explorer Indexes 2,100+ CoRL Robotics Papers with Summaries and Code Links](#item-tech-news-12) ⭐️ 7.0/10
-13. [WorkflowArena: Strongest Model Not Always Best Coordinator](#item-tech-news-13) ⭐️ 7.0/10
-14. [Microsoft Patents Distributed AI Training Using Idle Devices](#item-tech-news-14) ⭐️ 7.0/10
-15. [ByteDance Plans Muse-like AI Agent, Targets OpenAI Parity by 2030](#item-tech-news-15) ⭐️ 7.0/10
+1. [Jensen Huang Resigns as Nvidia CEO Amid Export Ban Allegations](#item-tech-news-1) ⭐️ 9.0/10
+2. [22-Year-Old PostgreSQL Bug Enables Remote Code Execution](#item-tech-news-2) ⭐️ 9.0/10
+3. [AMD Zen 6 Architecture: Insights from Mike Clark Interview](#item-tech-news-3) ⭐️ 8.0/10
+4. [Major Microsoft 365 Outage Disrupts Core Services](#item-tech-news-4) ⭐️ 8.0/10
+5. [Rust 1.100 Released with Language and Tooling Enhancements](#item-tech-news-5) ⭐️ 8.0/10
+6. [UMAP 0.6 Adds Faster Initialization and Optimizers](#item-tech-news-6) ⭐️ 8.0/10
+7. [Google Launches Gemini Decisions API for Fast Multi-Modal Decision-Making](#item-tech-news-7) ⭐️ 8.0/10
+8. [US to Finalize Rule Blocking Chinese AI Firms&\#x27; Remote Chip Access](#item-tech-news-8) ⭐️ 8.0/10
+9. [Apple Secure Exclaves: Hardware-Enforced Audio/Video Privacy](#item-tech-news-9) ⭐️ 8.0/10
+10. [Open Source Project Runs Large LLMs on Low-Memory Devices](#item-tech-news-10) ⭐️ 7.0/10
+11. [Google Launches Gemini 4 Hydrogen, Replacing 3.8 Flash](#item-tech-news-11) ⭐️ 7.0/10
+12. [Why Software Correctness Is Hard: Limits of Math Alone](#item-tech-news-12) ⭐️ 7.0/10
+13. [Independent Analysis: TRIBE v2 Fails Retinotopy/Tonotopy, Captures Motion Selectivity](#item-tech-news-13) ⭐️ 7.0/10
+14. [Open-Source Neural Video Retrieval Engine Fine-Tuned from EVA-02](#item-tech-news-14) ⭐️ 7.0/10
+15. [Claude API Adds Dynamic Per-Message Effort Adjustment](#item-tech-news-15) ⭐️ 7.0/10
+16. [Japan Plans Legal Duties for AI Industry on Security](#item-tech-news-16) ⭐️ 7.0/10
+
+**Technology Blog**
+1. [Optimizing DeepSeek-V4.1-Flash for NVIDIA Vera Rubin NVL72](#item-tech-blog-1) ⭐️ 9.0/10
+2. [Integrating Inkling 2 Small MoE Model with vLLM](#item-tech-blog-2) ⭐️ 8.0/10
+3. [Optimizing H3-Image Model Deployment on NVIDIA Vera Rubin GPUs](#item-tech-blog-3) ⭐️ 8.0/10
 
 **Financial News**
-1. [Fed&\#x27;s Goolsbee calls inflation report &\#x27;borderline disturbing&\#x27; as central bank weighs more hikes](#item-finance-news-1) ⭐️ 8.0/10
-2. [China Ends Offshore Trust Tax Transition, Reports Over 1600 Billion Yuan Declared](#item-finance-news-2) ⭐️ 8.0/10
-3. [Report Alleges 240,000 Nvidia AI Chips Worth $7.5 Billion Illegally Imported to China](#item-finance-news-3) ⭐️ 8.0/10
-4. [Senators Question Prediction Markets on Drug Trials](#item-finance-news-4) ⭐️ 7.0/10
-5. [Alibaba Plans Hong Kong Listing for Chip Unit T-Head](#item-finance-news-5) ⭐️ 7.0/10
-6. [Nvidia Board Reportedly Preparing to Remove CEO Jensen Huang](#item-finance-news-6) ⭐️ 7.0/10
+1. [NVIDIA CEO Jensen Huang Resigns, CFO Colette Kress Named Interim CEO](#item-finance-news-1) ⭐️ 9.0/10
+2. [Fed to Skip Interest Rate Vote at October 2027 Meeting](#item-finance-news-2) ⭐️ 7.0/10
+3. [Oil prices rise after Trump says no Iran deal needed: &\#x27;We&\#x27;ve got their Strait&\#x27;](#item-finance-news-3) ⭐️ 7.0/10
 
 ---
 
 ## Technology News
 
 <a id="item-tech-news-1"></a>
-### [Nvidia Reportedly Preparing to Replace CEO Jensen Huang](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad) ⭐️ 9.0/10
+### [Jensen Huang Resigns as Nvidia CEO Amid Export Ban Allegations](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f) ⭐️ 9.0/10
 
-Nvidia is reportedly preparing to replace its founder and CEO, Jensen Huang, according to a Wall Street Journal article. This would mark a significant leadership change at one of the most influential companies in AI and hardware. The report does not specify a timeline or a successor, and there is no confirmation from Nvidia at this time. The move, if confirmed, could have major implications for Nvidia&\#x27;s strategic direction and the broader technology sector.
+Jensen Huang has resigned as CEO of Nvidia, following allegations related to export ban violations and personal conduct involving ties to China. This marks a significant leadership change at Nvidia, a company central to the AI and hardware industries. The resignation comes amid scrutiny over Nvidia&\#x27;s compliance with US export controls and questions about the company&\#x27;s dealings in China. The company has not yet announced a permanent successor.
 
-hackernews · jbredeche · Nov 11, 22:31 · [Discussion](https://news.ycombinator.com/item?id=50459703)
+hackernews · lldb · Nov 12, 13:52 · [Discussion](https://news.ycombinator.com/item?id=50467087)
 
-**「Background」** Jensen Huang has served as Nvidia&\#x27;s CEO and co-founder for over 30 years, playing a central role in the company&\#x27;s rise as a leader in AI and hardware. Recent reports indicate that Huang is under investigation for personal conduct, specifically an alleged affair with an individual suspected of being a Chinese spy. This situation has led to increased scrutiny of Nvidia&\#x27;s leadership and raised questions about the company&\#x27;s future direction and governance.
+**「Background」** Jensen Huang was the long-serving CEO of Nvidia, a leading company in AI hardware and graphics processing. His resignation follows an investigation into his relationship with a Singapore-based tech executive suspected by U.S. officials of spying for China, which raised national security concerns. The company has appointed Colette Kress as interim CEO while these issues are addressed.
 
-**「Community Discussion」** Commenters note that Nvidia&\#x27;s leadership is seen as a critical asset for U.S. economic and national security interests, and that founder-led companies often have structures making such oustings rare. Some express concern about the loss of Huang&\#x27;s unique technical vision, while others speculate that a new CEO may prioritize financial performance over technological innovation. There is also discussion about the potential for Huang to remain influential within Nvidia even if he steps down as CEO.
+**「Impact」** Nvidia&\#x27;s leadership transition introduces uncertainty for partners, investors, and the broader AI ecosystem, as the company faces regulatory scrutiny and potential reputational risks. Stakeholders may need to monitor for changes in Nvidia&\#x27;s strategic direction or compliance practices.
+
+**「Community Discussion」** Commenters are divided on the reasons for Huang&\#x27;s departure, with some emphasizing the importance of perception and public relations in a high-profile CEO role, while others focus on the legal and ethical implications of Nvidia&\#x27;s alleged export ban circumvention. Several users argue that the US government&\#x27;s export policies, rather than Nvidia&\#x27;s actions alone, deserve scrutiny.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.businessinsider.com/jensen-huang-resign-nvidia-ceo-future-debate-2026-11">Will Nvidia CEO Jensen Huang Resign? Leaders Weigh in ...</a></li>
-<li><a href="https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/">Nvidia CEO Jensen Huang&#x27;s affair with alleged Chinese spy: a ...</a></li>
-<li><a href="https://www.theguardian.com/technology/2026/nov/09/jensen-huang-image-nvidia">Jensen Huang’s image has been shattered. Could he be pushed ...</a></li>
+<li><a href="https://apnews.com/live/nvidia-ceo-jensen-huang-resignation-news-updates-11-12-2026">Live updates: Nvidia CEO Jensen Huang resigns after affair ...</a></li>
+<li><a href="https://www.usatoday.com/story/tech/2026/11/12/jensen-huang-nvidia-ceo-resigns-affair-investigation/92734431007/">Jensen Huang out as Nvidia CEO amid Chinese spy investigation</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#leadership`, `#AI industry`, `#hardware`, `#technology business`
+**Tags**: `#leadership-change`, `#AI-industry`, `#hardware`, `#technology-policy`
 
 ---
 
 <a id="item-tech-news-2"></a>
-### [AWS Releases Official Local Emulator for Cloud Services](https://simonwillison.net/2026/Nov/11/aws-emulator/) ⭐️ 9.0/10
+### [22-Year-Old PostgreSQL Bug Enables Remote Code Execution](https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/) ⭐️ 9.0/10
 
-AWS has released an official emulator, aws-emulator, allowing developers to locally test a wide range of AWS services without needing paid API keys. The emulator is written in Rust and currently requires Docker to run on macOS or Windows. This tool was developed with significant contributions from autonomous AI agents, as detailed in a guest post by Swaminathan Sivasubramanian. However, the emulator has notable limitations: it should not be used to test IAM policies, resource-based policies, KMS key policies, cross-account or cross-region access, or other security controls, as its policy evaluation does not fully match AWS&\#x27;s production environment.
+A 22-year-old type confusion vulnerability in PostgreSQL has been demonstrated to allow remote code execution \(RCE\), tracked as CVE-2026-6460. The exploit leverages PostgreSQL&\#x27;s internal handling of data types \(Datum\) to escalate from database access to full server compromise. This vulnerability affects users running unpatched versions of PostgreSQL and is particularly concerning in multi-tenant or shared environments. The issue has existed in the codebase for over two decades, highlighting the importance of thorough security reviews even in mature open-source projects.
 
-rss · Simon Willison · Nov 11, 21:18
+hackernews · ozirus · Nov 12, 18:22 · [Discussion](https://news.ycombinator.com/item?id=50471761)
 
-**「Background」** AWS Emulator is a newly released tool that allows developers to locally emulate over 200 AWS services using API models published by AWS. The emulator&\#x27;s codebase was generated and tested entirely by autonomous AI agents, marking a novel approach to large-scale software development. This tool is intended to provide a high-fidelity local testing environment that closely mirrors AWS service behavior, with updates synchronized to AWS API changes.
+**「Background」** PostgreSQL is a widely used open-source relational database system. The vulnerability in question, CVE-2026-6460, is a type confusion bug that has existed in PostgreSQL for over two decades. This flaw allows an authenticated database user with object creation privileges to execute arbitrary code as the operating system user running the database, primarily through misuse of the ALTER ... SET DATA TYPE command.
 
-**「Impact」** Developers can now perform local integration testing of AWS services more easily and cost-effectively, but must avoid relying on the emulator for security-related testing due to its incomplete policy enforcement. Teams using macOS or Windows must also have Docker installed, and those seeking a standalone binary or broader platform support will need to wait for future updates.
+**「Impact」** Administrators of PostgreSQL databases should urgently review their deployments and apply any available patches or mitigations, as attackers with database access could potentially execute arbitrary code on the underlying server. This risk is especially acute for environments where multiple users or tenants share the same database instance.
 
-**「Community Discussion」** Some users are skeptical about the emulator&\#x27;s long-term support and maintenance, comparing it to existing tools like Floci and Testcontainers, which already offer multi-cloud emulation. Others highlight the limitations around security testing and note the unprecedented scale of AI agent involvement in the project&\#x27;s development, expressing both surprise and concern about the use of Rust and agentic engineering.
+**「Community Discussion」** Some community members argue that the exploit is more accurately described as a privilege escalation rather than true remote code execution, since it requires authenticated database access. Others highlight the technical depth of the bug and the risks posed by PostgreSQL&\#x27;s internal type handling.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://aws.amazon.com/about-aws/whats-new/2026/11/aws-emulator-now-available/">AWS Emulator is now available for building and testing AWS ...</a></li>
-<li><a href="https://www.unite.ai/aws-releases-local-emulator-written-entirely-by-autonomous-ai-agents/">AWS Releases Local Emulator Written Entirely by Autonomous AI ...</a></li>
-<li><a href="https://www.aboutamazon.com/news/aws/how-autonomous-ai-agents-built-aws-emulator">AWS Emulator: a local emulator built 100% by autonomous AI agents</a></li>
+<li><a href="https://www.postgresql.org/support/security/CVE-2026-6460/">PostgreSQL: CVE-2026-6460: PostgreSQL type confusion after ...</a></li>
+<li><a href="https://www.rapid7.com/db/vulnerabilities/cve-2026-6460/">CVE-2026-6460: n/a PostgreSQL: Type confusion in ... - Rapid7</a></li>
+<li><a href="https://www.thehackerwire.com/vulnerability/CVE-2026-6460/">CVE-2026-6460: PostgreSQL Remote Code Execution (RCE ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#cloud`, `#developer-tools`, `#aws`, `#emulation`, `#infrastructure`
+**Tags**: `#security`, `#database`, `#open-source`, `#vulnerability`, `#remote-code-execution`
 
 ---
 
 <a id="item-tech-news-3"></a>
-### [Google Launches Gemini Decisions API for Multimodal Decision Tasks](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/) ⭐️ 8.0/10
+### [AMD Zen 6 Architecture: Insights from Mike Clark Interview](https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at) ⭐️ 8.0/10
 
-Google has released the Gemini Decisions API, powered by the new Gemini Decision 1 model, which enables automated decision-making across text, images, audio, video, and PDF inputs. The API supports yes/no, choice, and rubric-scoring questions, returning probabilities and confidence scores for up to 1,000 questions per request, with an end-to-end latency of 150–250 ms. Pricing is $0.10 per million input tokens \(output tokens are free\), making it about five times cheaper than Gemini 3.5 Flash-Lite and comparable to OpenAI&\#x27;s GPT-6 Luna decision model, though Jev remains less expensive. The API is now available in Google AI Studio.
+An in-depth interview with AMD CPU architect Mike Clark reveals technical details about the upcoming Zen 6 CPU architecture. The discussion covers design decisions, anticipated improvements, and the direction of AMD&\#x27;s next-generation processors. While Zen 6 has not yet been released, the interview provides rare direct commentary from a principal designer, offering valuable context for hardware enthusiasts and industry watchers.
 
-hackernews · iamdelirium · Nov 11, 18:32 · [Discussion](https://news.ycombinator.com/item?id=50456791)
+hackernews · dverlaeckt80 · Nov 12, 14:12 · [Discussion](https://news.ycombinator.com/item?id=50467460)
 
-**「Background」** Decision models like Jev and OpenAI&\#x27;s offerings have recently established a category of APIs that provide structured, probabilistic answers to specific types of questions, such as yes/no, multiple choice, and rubric scoring. Jev, for example, is text-only and introduced the &\#x27;Noul&\#x27; term for yes/no queries, while OpenAI&\#x27;s model added image support. Google&\#x27;s Gemini Decisions API builds on this trend by introducing full multimodal support, allowing inputs from text, images, audio, video, and PDFs, and is based on the new Gemini Decision 1 model.
+**「Background」** Zen 6 is AMD&\#x27;s forthcoming CPU architecture, following previous generations such as Zen 4 and Zen 5. Mike Clark, AMD&\#x27;s Chief CPU Architect, is a key figure behind the design of these architectures and has previously provided technical insights into AMD&\#x27;s processor development. In-depth interviews with principal designers like Clark are uncommon and offer valuable context for understanding the technical direction and innovations in upcoming AMD CPUs.
 
-**「Impact」** Developers can now integrate multimodal decision-making into their applications at a lower cost, especially for use cases requiring analysis of audio and video, which competing models like Jev and OpenAI&\#x27;s decision models do not fully support. This broadens the range of automated evaluation and routing tasks that can be handled programmatically.
-
-**「Community Discussion」** Commenters note that while Gemini Decisions is more expensive than some alternatives, its ability to process audio and video inputs is a significant advantage for certain applications. There is also discussion about the practical uses of decision models and curiosity about how these models calculate probabilities, with some expressing optimism based on positive experiences with related models.
+**「Community Discussion」** A reader notes that such detailed technical interviews with CPU designers are uncommon, highlighting the value of the insights shared by Mike Clark.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://simonwillison.net/2026/Nov/11/gemini-decisions-api/">Gemini Decisions API - simonwillison.net</a></li>
+<li><a href="https://www.indiekings.com/2026/11/talking-zen-6-with-mike-clark-at-amd-in.html">Talking Zen 6 with Mike Clark at AMD In-Depth</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI APIs`, `#multimodal AI`, `#decision models`, `#software engineering`
+**Tags**: `#hardware`, `#cpu`, `#computer systems`, `#industry interview`
 
 ---
 
 <a id="item-tech-news-4"></a>
-### [AMD Uses AI to Swap Cold DRAM Pages to Flash, Claims 83% Server Cost Savings](https://www.theregister.com/systems/2026/11/11/amd-where-were-going-we-dont-need-as-much-dram/5308953) ⭐️ 8.0/10
+### [Major Microsoft 365 Outage Disrupts Core Services](https://status.cloud.microsoft/) ⭐️ 8.0/10
 
-AMD has integrated AI-driven memory management, based on its acquired Mext technology, into its server offerings. This software uses AI models to proactively swap cold memory pages from DRAM to less expensive NVMe flash storage before the operating system or applications detect the need. AMD claims that replacing half of the DRAM with flash can retain up to 99% of server performance and potentially reduce enterprise server costs by as much as 83%. The solution requires purchasing a Mext license alongside AMD Epyc servers.
+On November 12, 2026, Microsoft 365 experienced a significant service degradation affecting core functionalities such as email and collaboration tools, while some services like Teams remained operational. Microsoft identified the issue as related to health check methods on certain infrastructure and began applying an alternative approach to restore service, alongside preparing automated recovery processes. The outage did not impact Azure infrastructure or external services like GitHub. This incident marks the most severe Microsoft 365 outage reported by some organizations since at least 2019.
 
-telegram · zaihuapd · Nov 11, 11:15
+hackernews · dkpk · Nov 12, 18:20 · [Discussion](https://news.ycombinator.com/item?id=50471731)
 
-**「Background」** Traditional server architectures rely heavily on DRAM for memory, which is fast but expensive and volatile. AMD&\#x27;s MEXT technology, originally founded in 2022, uses AI-based page prediction to extend server memory by swapping less frequently used \(&\#x27;cold&\#x27;\) memory pages from DRAM to lower-cost NVMe flash storage. This approach aims to reduce reliance on DRAM by making flash storage behave more like main memory, with AI algorithms managing which pages are kept in DRAM for performance and which are offloaded to flash to optimize cost and capacity.
+**「Background」** Microsoft 365 is a suite of cloud-based productivity and collaboration tools, including Outlook, Teams, SharePoint, and Copilot, widely used by organizations globally. On November 12, 2026, a major outage affected these core services worldwide, with Microsoft attributing the disruption to a large number of its own servers becoming unexpectedly unavailable. There is no current evidence that the outage was caused by a cyberattack; Microsoft has stated that the issue was not due to a surge in traffic.
+
+**「Impact」** Organizations relying on Microsoft 365 faced major disruptions to email and productivity workflows, with some users unable to send or receive messages for over five hours. IT administrators had to monitor status feeds and implement workarounds while awaiting Microsoft&\#x27;s recovery efforts.
+
+**「Community Discussion」** Users reported frustration with the limited functionality, noting that only Teams remained usable for many. Some highlighted the lack of transparency on the official status page and shared alternative methods for receiving updates, while others expressed concern over Microsoft 365&\#x27;s reliability compared to other cloud services.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.guru3d.com/story/amd-mext-uses-flash-to-expand-server-memory-capacity/">AMD MEXT Uses Flash to Expand Server Memory Capacity</a></li>
-<li><a href="https://www.amd.com/en/products/software/mext.html">AMD MEXT Predictive Memory Software</a></li>
-<li><a href="https://wccftech.com/amd-mext-memory-solution-flash-repaces-dram-same-performance/">AMD Unveils MEXT Memory Solution: Leverages Flash To Mitigate...</a></li>
+<li><a href="https://ransomnews.com/microsoft-365-outage-cyberattack-november-2026/">Microsoft 365 outage: was it a cyberattack? What we know</a></li>
+<li><a href="https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/">Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#hardware`, `#AI systems`, `#server architecture`, `#memory management`
+**Tags**: `#cloud services`, `#incident response`, `#enterprise software`, `#infrastructure`
 
 ---
 
 <a id="item-tech-news-5"></a>
-### [Tim Peters, Author of &\#x27;The Zen of Python,&\#x27; Has Died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028) ⭐️ 7.0/10
+### [Rust 1.100 Released with Language and Tooling Enhancements](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/) ⭐️ 8.0/10
 
-Tim Peters, a foundational contributor to the Python programming language and author of &\#x27;The Zen of Python,&\#x27; has died. Peters was also known for his work on the SpamBayes project and contributions to the Python Cookbook. His influence shaped Python&\#x27;s design philosophy and community culture. The news was shared on Python community forums and widely acknowledged by developers.
+Rust 1.100 is now available, introducing several stabilized language features such as the never type and custom allocators, as well as new dependency management options like minimum publish age \(dependency cooldowns\). Cargo, Rust&\#x27;s package manager, now reports unused dependencies by default and improves install behavior by using the lockfile in crate tarballs. The release also includes new APIs \(e.g., bool::toggle, Box::map, str::trim\_prefix\) and quality-of-life improvements for developers. These changes are immediately available to users upgrading to Rust 1.100.
 
-hackernews · ayhanfuat · Nov 11, 07:03 · [Discussion](https://news.ycombinator.com/item?id=50450488)
+hackernews · mbStavola · Nov 12, 18:39 · [Discussion](https://news.ycombinator.com/item?id=50472038)
 
-**「Background」** Tim Peters was a highly influential software engineer in the Python community, best known for authoring &\#x27;The Zen of Python,&\#x27; a set of guiding principles for Python&\#x27;s design and philosophy, first posted in 1999. He contributed significantly to Python&\#x27;s core development, including technical work on modules such as timsort, doctest, and timeit, and played a key role in shaping Python&\#x27;s usability and culture. Peters also contributed to the Python Cookbook and was instrumental in projects like SpamBayes.
+**「Background」** Rust is a systems programming language designed for safety and performance. Users who have previously installed Rust via rustup can upgrade to version 1.100.0 using the standard update command. Each stable release of Rust typically introduces new language features, library APIs, and tooling improvements, continuing the language&\#x27;s regular update cadence.
 
-**「Impact」** Python users and developers are reflecting on Peters&\#x27; legacy, particularly his articulation of Python&\#x27;s guiding principles, which continue to influence code style and community discussions. His passing is prompting tributes and remembrances across the programming community.
+**「Impact」** Developers benefit from more robust dependency management, easier identification of unused dependencies, and access to new language features and APIs, which can streamline code and improve maintainability. Teams using Rust should review the new features and update their toolchains to take advantage of these improvements.
 
-**「Community Discussion」** Commenters highlighted Peters&\#x27; role in shaping Python&\#x27;s philosophy and his technical contributions, such as SpamBayes and the Python Cookbook. Many shared personal anecdotes about his generosity, humor, and impact on their understanding of programming.
+**「Community Discussion」** Commenters highlighted the stabilization of the never type, custom allocators, and dependency cooldowns as major improvements. Several users noted that the release includes many useful APIs not even mentioned in the official blog post, and praised the new Cargo warnings for unused dependencies as a helpful addition.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Zen_of_Python">Zen of Python - Wikipedia</a></li>
-<li><a href="https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028">In Memoriam: Tim Peters 1952–2026 - Core Development...</a></li>
-<li><a href="https://lunduke.locals.com/post/5985667/python-bans-prominent-dev-for-enjoying-the-wrong-old-snl-sketch">Python Bans Prominent Dev for Enjoying the Wrong Old SNL Sketch</a></li>
+<li><a href="https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/">Announcing Rust 1 . 100 .0 | Rust Blog</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#python`, `#community`, `#software-engineering`, `#history`
+**Tags**: `#programming languages`, `#rust`, `#tooling`, `#software engineering`, `#release`
 
 ---
 
 <a id="item-tech-news-6"></a>
-### [Guidance on Locking GitHub Actions Dependencies](https://hugovk.dev/blog/2026/lock-github-actions/) ⭐️ 7.0/10
+### [UMAP 0.6 Adds Faster Initialization and Optimizers](https://www.reddit.com/r/MachineLearning/comments/1xudaah/umap_06_new_initialization_new_optimizers_and/) ⭐️ 8.0/10
 
-A new guide outlines how to securely lock dependencies in GitHub Actions workflows to reduce supply chain risks. The article explains that while lockfiles can pin normal action calls, they do not automatically cover reusable workflows or composite actions, which require manual intervention. Community discussion highlights additional security pitfalls in GitHub Actions defaults, such as broad permissions and lack of timeouts, and notes that trust in commit hashes is not a complete safeguard. The guidance is aimed at developers and DevOps practitioners managing CI/CD pipelines on GitHub.
+UMAP 0.6 introduces a new recursive initialization scheme, new optimizers, and a significantly faster nearest neighbor search, resulting in much improved speed and quality for large-scale dimensionality reduction tasks. The neighbor search is now approximately four times faster due to better use of PyNNDescent, and the new initialization and optimizers enable reproducible, multi-threaded runs. These improvements allow UMAP 0.6 to process datasets with millions of samples in a fraction of the time required by version 0.5, while also resolving finer cluster structures and improving neighborhood accuracy. The new features are currently opt-in via the compatibility\_layout=False setting, with plans to make them default in future releases.
 
-hackernews · gslin · Nov 11, 22:16 · [Discussion](https://news.ycombinator.com/item?id=50459485)
+reddit · r/MachineLearning · /u/lmcinnes · Nov 12, 13:51
 
-**「Background」** GitHub Actions is a popular CI/CD platform that automates software workflows using third-party and custom actions. To address supply chain security risks, GitHub introduced workflow dependency lockfiles, which pin each action used in a workflow to a specific commit hash, ensuring that only reviewed code is executed. This mechanism helps prevent unauthorized or malicious changes in dependencies from affecting workflow runs.
+**「UMAP and Previous Versions」** UMAP \(Uniform Manifold Approximation and Projection\) is a popular open-source Python library for dimensionality reduction, widely used in machine learning and data science to visualize and analyze high-dimensional data. Prior to version 0.6, UMAP 0.5 was the stable release, but it was slower and less effective at handling very large datasets, particularly in terms of neighbor search speed and initialization quality. The improvements in version 0.6 build directly on these earlier limitations, aiming to make UMAP more scalable and accurate for large-scale applications.
 
-**「Community Discussion」** Commenters note that current lockfile solutions only partially address the problem, as reusable workflows and composite actions are not fully covered. Others point out broader security issues with GitHub Actions, such as default permissions and the risk of running compromised actions, and suggest that platform-level improvements are needed for comprehensive protection.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://docs.github.com/en/actions/concepts/security/workflow-dependency-lockfiles">Workflow dependency lockfiles - GitHub Docs</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#security`, `#devops`, `#github-actions`, `#supply-chain`
+**Tags**: `#machine learning`, `#open source`, `#software release`, `#dimensionality reduction`
 
 ---
 
 <a id="item-tech-news-7"></a>
-### [Apple Researches Faster Retrieval for RAG Systems](https://machinelearning.apple.com/research/faster-retrieval) ⭐️ 7.0/10
+### [Google Launches Gemini Decisions API for Fast Multi-Modal Decision-Making](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/) ⭐️ 8.0/10
 
-Apple has published research on more efficient retrieval methods for Retrieval-Augmented Generation \(RAG\) systems, focusing on improving scalability and performance for large-scale AI applications. The work explores learned retrieval techniques, which use machine learning models to select relevant information more quickly and accurately than traditional methods. This research is particularly relevant for organizations handling massive datasets, where retrieval speed and quality directly impact the effectiveness of AI-generated outputs.
+Google has released the Gemini Decisions API, powered by the new Gemini Decision 1 model, for developers needing rapid, closed-form decision support. The API accepts text, image, audio, video, and PDF inputs, and can score up to 1000 items per call, returning probabilities and confidence scores with end-to-end latency of approximately 150–250 milliseconds. Pricing is set at $0.10 per million input tokens, with no charge for output tokens, making it nearly five times cheaper than the Gemini 3.5 Flash-Lite solution according to Google. The API is now available in Google AI Studio.
 
-hackernews · zerop · Nov 11, 16:57 · [Discussion](https://news.ycombinator.com/item?id=50455633)
+telegram · zaihuapd · Nov 12, 00:28
 
-**「Background」** Retrieval-Augmented Generation \(RAG\) is a technique that enhances large language models by allowing them to retrieve and incorporate information from external data sources, improving the accuracy and reliability of generated outputs. This approach is particularly valuable for AI applications that require up-to-date or domain-specific knowledge beyond the model&\#x27;s training data. Apple&\#x27;s research focuses on making this retrieval process faster and more efficient, which is crucial for scaling RAG systems to handle large datasets and real-time demands.
+**「Background」** The Gemini Decisions API is powered by Google&\#x27;s Gemini Decision 1 model, which is designed to answer structured questions such as true/false, multiple choice \(up to 255 options\), and scoring tasks with confidence levels and probability outputs. This API is positioned as a faster and more cost-effective alternative to previous solutions like Gemini 3.5 Flash-Lite, offering rapid multi-modal decision support for developers. It is intended for use cases such as tool selection, strategy checks, and model routing, and is now available through Google AI Studio.
 
-**「Community Discussion」** Practitioners debated the trade-offs between learned retrieval systems and traditional approaches like grep, with some arguing that current embedding models may not outperform simple heuristics for certain tasks. Others noted that learned retrieval methods are most beneficial at hyperscale, while concerns were raised about potential biases and quality trade-offs introduced by retrieval mechanisms.
+**「Impact」** Developers and organizations can now integrate fast, cost-effective multi-modal decision-making into their applications, potentially lowering operational costs and enabling new intelligent system designs that require rapid evaluation of diverse input types.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Retrieval-augmented_generation">Retrieval - augmented generation - Wikipedia</a></li>
-<li><a href="https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/">What Is Retrieval - Augmented Generation aka RAG | NVIDIA Blogs</a></li>
+<li><a href="https://interestingengineering.com/ai-robotics/google-gemini-decisions-api-fast-ai-agents">Google unveils Gemini Decisions API to handle 1,000 questions at...</a></li>
+<li><a href="https://openrouter.ai/google/gemini-decision-1">Gemini Decision 1 - API Pricing &amp; Providers | OpenRouter</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#retrieval-augmented-generation`, `#machine-learning`, `#ai-systems`, `#scalability`
+**Tags**: `#AI APIs`, `#multi-modal`, `#Google`, `#developer tools`, `#decision systems`
 
 ---
 
 <a id="item-tech-news-8"></a>
-### [AI Agents Used to Identify Previously Documented Maya Site](https://pietromiotti.com/latest/maya-site) ⭐️ 7.0/10
+### [US to Finalize Rule Blocking Chinese AI Firms&\#x27; Remote Chip Access](https://www.theinformation.com/articles/commerce-department-finalizing-long-awaited-ai-remote-access-rule) ⭐️ 8.0/10
 
-AI agents were employed to analyze remote sensing data and identified a Maya archaeological site that was believed to be unmapped. However, subsequent updates from the author and community members revealed that the site had already been documented in a 2025 academic paper. This case highlights both the potential and the current limitations of using AI for archaeological discovery, particularly the importance of expert validation and thorough literature review.
+The US Commerce Department is finalizing a rule to prevent Chinese AI companies from remotely accessing advanced AI chips via overseas data centers. The new regulation will expand existing semiconductor export controls to include seven Southeast Asian countries, such as Singapore, Malaysia, and Thailand, aiming to close loopholes related to remote access and chip smuggling. The rule is expected to be published as early as this month, following interagency consultations. This move follows previous White House requests for legislative action and comes despite lobbying from companies like Nvidia, which argued that global AI infrastructure competitiveness would be harmed.
 
-hackernews · eyvindn · Nov 11, 12:05 · [Discussion](https://news.ycombinator.com/item?id=50452455)
+telegram · zaihuapd · Nov 12, 03:42
 
-**「Background」** The use of lidar \(Light Detection and Ranging\) data has become a powerful tool in archaeology, enabling researchers to identify ancient structures hidden beneath dense vegetation. In this case, independent researcher Pietro Miotti deployed 48 AI agents across multiple platforms to analyze 1,200 km² of NASA lidar data from the Maya jungle. While the AI agents flagged a significant Classic-period Maya site, it was later clarified that the site had already been documented in a 2025 academic paper, though it was not listed in Mexico&\#x27;s official INAH register.
+**「Background」** The United States has previously imposed export controls to restrict China&\#x27;s access to advanced AI chips, aiming to limit the country&\#x27;s ability to develop high-end AI and military technologies. However, Chinese AI companies have reportedly circumvented these restrictions by remotely accessing advanced chips hosted in overseas data centers, particularly in Southeast Asian countries like Singapore and Malaysia. In response, US policymakers have been considering new rules and legislation to close this loophole and extend export controls to cover remote access and additional jurisdictions.
 
-**「Impact」** Researchers and AI practitioners are reminded that while AI can accelerate the identification of potential archaeological sites, expert review and cross-referencing with existing records remain essential to avoid redundant claims and ensure scientific accuracy.
-
-**「Community Discussion」** Commenters noted that the site had been previously found and documented, questioning the novelty of the AI discovery. Others emphasized the need for archaeological verification and cautioned against overhyping AI findings without expert confirmation.
+**「Impact」** Chinese AI firms will face new barriers to accessing advanced US chips, even through third-country data centers, potentially disrupting their AI development and operations. Companies operating in or routing services through affected Southeast Asian countries may need to reassess compliance and supply chain strategies.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://emergent.sh/news/48-ai-agents-rediscover-mapped-maya-site-nasa">48 AI Agents Rediscover Mapped Maya Site from NASA Lidar</a></li>
-<li><a href="https://www.winzheng.com/en/article/ai-agents-maya-lidar-discovery-72-hours">48 AI Agents Flag a Maya Site in 72 Hours—but Miss a Key Paper</a></li>
+<li><a href="https://aipolicydaily.org/archive/daily/2026-11-10/">Commerce chip probe went to DOJ | WH seeks chip remote access ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI applications`, `#remote sensing`, `#archaeology`, `#machine learning`
+**Tags**: `#AI policy`, `#hardware export controls`, `#international regulation`, `#technology industry`
 
 ---
 
 <a id="item-tech-news-9"></a>
-### [Emacs, AI Code, and Software Freedom Debated](https://commandlinesystems.com/magic.txt) ⭐️ 7.0/10
+### [Apple Secure Exclaves: Hardware-Enforced Audio/Video Privacy](https://security.apple.com/blog/secure-exclaves/) ⭐️ 8.0/10
 
-A reflective analysis discusses the implications of AI-generated code contributions on open source projects like Emacs, focusing on concerns about software freedom, code provenance, and the evolving role of traditional development tools. The article highlights debates within the Emacs community about whether to accept or reject code written by large language models \(LLMs\), and how this may affect the project&\#x27;s alignment with GNU policies. No new technical features or releases are announced; the discussion centers on ethical and philosophical challenges posed by AI in software development.
+Apple has introduced the Secure Exclaves architecture, which processes audio and video data in a dedicated secure environment on its devices. This architecture is already implemented in HomeView facial and voice recognition and in the privacy indicators of the iPhone 18 Pro. On the iPhone 18 Pro, specialized hardware verifies the color, brightness, and visibility of the microphone indicator before allowing audio to reach the main system, and enforces that the indicator remains visible for at least three seconds during Siri audio sessions. These measures are designed to prevent the recording indicator from being hidden or faked, strengthening user privacy at the hardware level.
 
-hackernews · ggcr · Nov 11, 20:26 · [Discussion](https://news.ycombinator.com/item?id=50458208)
+telegram · zaihuapd · Nov 12, 09:13
 
-**「Background」** Emacs is a long-standing open source text editor maintained by the GNU Project. Recently, concerns have arisen within the Emacs community about the use of code generated by large language models \(LLMs\), leading to the formation of the Human Emacs initiative, which opposes LLM-generated contributions on ethical and legal grounds. This follows GNU Emacs&\#x27;s temporary ban on LLM-generated code, implemented to address legal uncertainties regarding copyright and code provenance.
-
-**「Impact」** Developers and maintainers of Emacs and similar open source projects may face decisions about whether to accept AI-generated code, potentially leading to forks or alternative versions that explicitly exclude LLM contributions. This could affect project governance, contributor guidelines, and the definition of software freedom within these communities.
-
-**「Community Discussion」** Some community members advocate for maintaining an LLM-free version of Emacs regardless of official GNU policy, citing concerns about code provenance and software freedom. Others argue that AI-generated code changes the nature of development and may render traditional tools less relevant, while some stress the need for modularity and clear boundaries to manage maintainability in the age of AI-assisted coding.
+**「Background」** Apple&\#x27;s Secure Exclaves are isolated environments within Apple Silicon chips designed to process camera and microphone data separately from the main operating system. This architecture has been used in products like HomeView and MacBook Neo to control privacy indicators, ensuring users are notified when audio or video recording is active. The Secure Exclave approach aims to prevent unauthorized access to raw audio and video data, reinforcing privacy protections at the hardware level.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://freenode.net/article/emacs-group-vows-fork-if-project-accepts-llm-generated-code">Emacs group vows fork if project accepts LLM-generated code</a></li>
-<li><a href="https://emergent.sh/news/human-emacs-fork-proposal-bans-all-llm">Human Emacs Fork Proposal Bans All LLM Contributions</a></li>
-<li><a href="https://lists.gnu.org/archive/html/emacs-devel/2026-10/msg00508.html">Human Emacs - lists.gnu.org</a></li>
+<li><a href="https://www.wired.com/story/apples-homeview-tries-face-authentication-without-faceid/">Apple ’s HomeView Tries Face Authentication Without FaceID | WIRED</a></li>
+<li><a href="https://www.businesswire.com/news/home/20261013162807/en/Meet-Apple-HomeView-a-new-way-to-enjoy-entertainment-stay-connected-and-manage-the-home">Meet Apple HomeView, a new way to enjoy entertainment, stay...</a></li>
+<li><a href="https://trashexpert.ru/news/software-news/apple-secure-exclaves-camera-microphone-privacy">Apple объяснила защиту данных камер и микрофонов в Secure ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#open source`, `#AI ethics`, `#software engineering`, `#developer tools`
+**Tags**: `#security`, `#hardware`, `#privacy`, `#mobile`
 
 ---
 
 <a id="item-tech-news-10"></a>
-### [United Airlines Bans AI Agents from Booking Flights](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/) ⭐️ 7.0/10
+### [Open Source Project Runs Large LLMs on Low-Memory Devices](https://github.com/hyperionaidev/smolmaxxing/) ⭐️ 7.0/10
 
-United Airlines has implemented a policy that prohibits AI agents from booking flights on behalf of travelers. This ban targets automated tools and services that act as intermediaries between customers and the airline&\#x27;s booking system. The policy is intended to restrict the use of automation in the flight booking process, though the technical means of enforcement and specific exceptions, if any, are not detailed in the available information.
+An open source project led by mrashad74 enables large language models \(LLMs\) with up to 16 billion parameters to run on devices with less than 1GB of memory, such as the first-generation iPad Air and Xiaomi TV box. The project provides custom kernels, reproducible results, and modified models available on Hugging Face, aiming to make advanced AI accessible on older and low-resource hardware. This technical achievement expands the potential for edge AI applications and model optimization on legacy devices.
 
-hackernews · herpderperator · Nov 11, 21:24 · [Discussion](https://news.ycombinator.com/item?id=50458900)
+hackernews · mrashad74 · Nov 12, 15:23 · [Discussion](https://news.ycombinator.com/item?id=50468888)
 
-**「Background」** United Airlines&\#x27; decision to ban AI agents from booking flights is based on concerns about customer privacy, unauthorized transactions, and compliance with federal aviation regulations. The airline cited security risks associated with allowing artificial intelligence agents to make reservations on behalf of travelers. This move comes as AI-powered personal agents have become increasingly capable of automating online tasks, including purchasing airline tickets.
+**「Background」** Running large language models \(LLMs\) on resource-constrained devices has traditionally been limited by memory and compute requirements, often restricting advanced AI capabilities to modern, high-spec hardware. Recent advances in model optimization and custom kernel development have enabled more efficient inference, allowing larger models to run on older or low-memory devices. The smolmaxxing project specifically targets these bottlenecks, demonstrating that even devices with less than 1GB of memory can now run models up to 16 billion parameters, as detailed in its repository.
 
-**「Impact」** Travelers and developers who rely on AI-powered booking assistants will need to revert to manual booking or use approved third-party agencies, as automated agents may now be blocked or result in canceled reservations. This could complicate workflows for users who have integrated AI tools into their travel planning.
+**「Impact」** Developers and hobbyists can now experiment with running large LLMs on inexpensive, widely available older hardware, potentially enabling new offline AI applications and extending the useful life of legacy devices.
 
-**「Community Discussion」** Commenters questioned the practicality of enforcing the ban, noting that users could disguise AI agent activity as normal browser traffic. Some argued that flight booking is already streamlined and that users prefer direct control over such transactions, while others speculated that airlines aim to prevent certain customers from gaining an advantage through automation.
+**「Community Discussion」** Commenters praised the technical accomplishment and noted the rapid progress in model optimization for small devices. Some questioned the practical utility of such small or heavily optimized models, while others expressed excitement about the democratization of AI and the potential for creative edge applications.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/">United Airlines bans AI agents from booking flights on behalf ...</a></li>
-<li><a href="https://www.newsmax.com/newsfront/united-airlines-ai-agents-booking-flights/2026/11/11/id/1275977/">United Airlines Bans AI Agents From Booking Flights</a></li>
-<li><a href="https://www.usatoday.com/story/travel/airline-news/2026/11/11/united-ai-travel-agents-booking/92728156007/">United Airlines bans personal AI agents from booking flights</a></li>
+<li><a href="https://github.com/hyperionaidev/smolmaxxing/">GitHub - hyperionaidev / smolmaxxing : maxxing the ability to run...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI agents`, `#automation`, `#consumer technology`, `#industry policy`
+**Tags**: `#edge-ai`, `#model-optimization`, `#open-source`, `#hardware`
 
 ---
 
 <a id="item-tech-news-11"></a>
-### [Anthropic Reveals Multi-Chip AI Strategy in IPO Roadshow](https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/) ⭐️ 7.0/10
+### [Google Launches Gemini 4 Hydrogen, Replacing 3.8 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/) ⭐️ 7.0/10
 
-Anthropic&\#x27;s IPO roadshow video discloses that the company now trains and serves its Claude AI models across AWS Trainium, Google TPUs, NVIDIA GPUs, and AMD GPUs. This multi-chip approach, previously considered unconventional, is enabled by Anthropic&\#x27;s investment in tailored software and inference stacks for each hardware platform. Notably, the company claims that its Mythos system enabled Claude to run on AMD GPUs in just three days with minimal human intervention. The video also highlights Anthropic&\#x27;s focus on discovering &\#x27;compute multipliers&\#x27;—techniques that increase effective compute capacity—and suggests that future recursive self-improvement could accelerate these gains.
+Google has introduced Gemini 4 Hydrogen, a new AI model that immediately replaces Gemini 3.8 Flash in its product lineup. The company claims Gemini 4 Hydrogen is 2.5 times faster than its predecessor and is now available to users, though it retains the same pricing as the previous 3.8 Flash tier. The new naming convention, using chemical elements, has caused confusion among users about model hierarchy and capabilities. There are also reports of account suspensions and questions about whether Google is moving away from a &\#x27;fast and cheap&\#x27; AI service tier.
 
-rss · Simon Willison · Nov 11, 15:11
+hackernews · dvaplima · Nov 12, 18:01 · [Discussion](https://news.ycombinator.com/item?id=50471431)
 
-**「Background」** Anthropic is an AI company known for developing the Claude language model. Their IPO roadshow video, released as part of their initial public offering process, disclosed for the first time that Claude is trained and served across four major chip families: AWS Trainium, Google TPUs, NVIDIA GPUs, and AMD GPUs. This multi-chip strategy, described by co-founder Tom Brown as unconventional, allows Anthropic to onboard new hardware platforms much faster than before, leveraging internal tools like Mythos to automate much of the adaptation process.
+**「Background」** Gemini 4 Hydrogen is a new AI model from Google designed to deliver fast, cost-efficient performance for agentic workflows and everyday tasks. Unlike Google&\#x27;s more advanced Gemini 4 Carbon and Argon models, which focus on complex, long-horizon reasoning, Hydrogen targets rapid execution and broad accessibility. This model is positioned as an upgrade for users needing speed and efficiency in coding and automation scenarios.
+
+**「Impact」** Users relying on the previous 3.8 Flash model will now be automatically transitioned to Gemini 4 Hydrogen, potentially benefiting from increased speed but facing uncertainty about pricing and service tier distinctions. Some users have experienced account suspensions and unclear support processes, which may disrupt access for developers and businesses.
+
+**「Community Discussion」** Commenters are divided on the new naming scheme, with several expressing confusion about how to compare models and questioning whether the pricing structure still supports affordable, fast AI access. Others report technical and support frustrations, including unexplained account suspensions and difficulties with app reliability and integration compared to competitors like OpenAI.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://todayforai.com/en/items/art-5672236b-42d">Anthropic IPO Roadshow Reveals Four-Chip Training Strategy</a></li>
+<li><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/">Introducing Gemini 4 Hydrogen for Agentic Workflows</a></li>
+<li><a href="https://deepmind.google/models/model-cards/gemini-4-hydrogen/">Gemini 4 Hydrogen - Model Card — Google DeepMind</a></li>
+<li><a href="https://aistudio.google.com/docs/whats-new-gemini-4-hydrogen">What&#x27;s new in Gemini 4 Hydrogen - Gemini API | Google AI Studio</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI infrastructure`, `#IPO`, `#industry news`, `#hardware`
+**Tags**: `#AI models`, `#Google`, `#product release`, `#machine learning`
 
 ---
 
 <a id="item-tech-news-12"></a>
-### [Explorer Indexes 2,100+ CoRL Robotics Papers with Summaries and Code Links](https://www.reddit.com/r/MachineLearning/comments/1xtul3j/i_built_an_explorer_of_2100_robotics_papers/) ⭐️ 7.0/10
+### [Why Software Correctness Is Hard: Limits of Math Alone](https://pron.github.io/posts/correctness-and-complexity) ⭐️ 7.0/10
 
-A new open-source tool has been released that indexes over 2,100 robotics papers from the past 10 years of the Conference on Robot Learning \(CoRL\), covering 2017–2026. The explorer provides TLDR summaries, links to code repositories, project pages, arXiv entries, task tags, summary statistics, and research trend visualizations. The resource is designed to improve accessibility and discovery of robotics research for the community, and contributions are encouraged via GitHub. The tool is available at https://corl.operatic.ai/explore.
+The article analyzes why achieving correct software is inherently difficult and argues that mathematical rigor and formal methods alone cannot fully solve the problem. It highlights the gap between formal correctness and real-world functioning, emphasizing that software must handle unpredictable, complex environments that defy complete specification. The author contends that while formal methods are valuable, their utility is limited by the complexity and ambiguity of real-world requirements. The discussion is reflective and does not introduce new technical results, but rather encourages critical examination of the interplay between theory and practice in software engineering.
 
-reddit · r/MachineLearning · /u/promptdom · Nov 11, 21:42
+hackernews · AriFordsham · Nov 12, 10:28 · [Discussion](https://news.ycombinator.com/item?id=50465352)
 
-**「Background」** The Conference on Robot Learning \(CoRL\) is an annual international event that brings together researchers from robotics and machine learning to discuss advances at their intersection. CoRL has become a key venue for presenting research on learning-based approaches in robotics, with proceedings and papers published each year since its inception in 2017.
+**「Background」** Software correctness refers to the degree to which software behaves according to its intended specification, but achieving this is challenging due to the complexity of real-world requirements and the limitations of formal mathematical methods. While developers often have an intuitive sense of why their code should work, errors still occur at a measurable rate, and formal proofs of correctness are rarely feasible for large, complex systems. This ongoing difficulty has led to debates about the balance between mathematical rigor and empirical, practical approaches in software engineering.
+
+**「Community Discussion」** Commenters broadly agree that formal correctness is valuable but insufficient for real-world software, citing the unpredictable nature of inputs and requirements. Some argue that software correctness resembles contract law in its ambiguity, while others stress the importance of empiricism and question the practicality of relying solely on mathematical approaches.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.corl.org/contributions">CoRL 2026 - Contributions</a></li>
-<li><a href="https://www.corl2023.org/">CoRL 2023</a></li>
+<li><a href="https://news.ycombinator.com/item?id=50465352">Why Writing Correct Software Is Hard | Hacker News</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#robotics`, `#research tools`, `#open source`, `#machine learning`
+**Tags**: `#software-correctness`, `#formal-methods`, `#software-engineering`, `#theory-vs-practice`
 
 ---
 
 <a id="item-tech-news-13"></a>
-### [WorkflowArena: Strongest Model Not Always Best Coordinator](https://www.reddit.com/r/MachineLearning/comments/1xt9hbe/would_you_pick_your_strongest_model_to_coordinate/) ⭐️ 7.0/10
+### [Independent Analysis: TRIBE v2 Fails Retinotopy/Tonotopy, Captures Motion Selectivity](https://www.reddit.com/r/MachineLearning/comments/1xuillf/does_metas_brainresponse_model_tribe_v2_actually/) ⭐️ 7.0/10
 
-Experimental results from the new WorkflowArena benchmark show that the highest-performing model is not always the most effective coordinator in multi-agent workflows. In tests with Opus 5.5 and GPT-6 Astra, Opus&\#x27;s workflows improved the performance of four executor models, while Astra&\#x27;s workflows actually reduced their scores, despite Astra being the stronger model in solo benchmarks. WorkflowArena evaluates coordination across 145 tasks in eight domains, focusing on how well a coordinator&\#x27;s workflow helps other models complete tasks. This challenges the common assumption that the strongest model should always lead in multi-agent setups.
+An independent technical analysis of Meta&\#x27;s TRIBE v2 brain-response model found that it does not recover classic retinotopic or tonotopic maps from fMRI data, despite being able to predict fMRI responses from video, audio, and text. The analysis used standard mapping stimuli and validated methods, revealing that while TRIBE v2 fails to capture spatial \(retinotopy\) and frequency \(tonotopy\) organization, it does sharply capture motion selectivity in the MT+ region. The original TRIBE v2 paper did not test for these neuroscientific benchmarks, and the model&\#x27;s spatial averaging of video features likely explains the lack of position information. These findings clarify the model&\#x27;s limitations and strengths for researchers in machine learning and neuroscience.
 
-reddit · r/MachineLearning · /u/OliviaYii · Nov 11, 05:25
+reddit · r/MachineLearning · /u/Own\_Tank1283 · Nov 12, 17:16
 
-**「Background」** WorkflowArena is a recently introduced benchmark designed to evaluate how language models coordinate multi-agent workflows on 145 long-horizon tasks across eight professional domains. Unlike previous benchmarks that use fixed coordination protocols or assign tasks independently, WorkflowArena allows models to design their own division of labor and workflow structure. This setup enables researchers to assess not just individual model performance, but also how effectively a model can orchestrate and delegate tasks among other agents.
+**「Background」** Meta&\#x27;s TRIBE v2 is a tri-modal foundation model designed to predict human brain activity \(fMRI responses\) from video, audio, and language inputs. Announced in March 2026, TRIBE v2 was trained on over 1,000 hours of fMRI data and claims a significant resolution increase and broad applicability for neuroscientific research. However, the original TRIBE v2 paper did not evaluate the model&\#x27;s ability to reproduce classic topographic maps such as retinotopy or tonotopy, which are standard benchmarks in neuroscience for assessing spatial and functional fidelity in brain-response models.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://lab.einsia.ai/workflowarena/home.html">WorkflowArena · Executable Workflow Orchestration</a></li>
-<li><a href="https://arxiv.org/pdf/2611.12856">WorkflowArena: Benchmarking Executable Workflow Orchestration ...</a></li>
+<li><a href="https://arxiv.org/abs/2605.04326">[2605.04326] A foundation model of vision, audition, and ... Introducing TRIBE v2: A Predictive Foundation Model Trained ... TRIBE: TRImodal Brain Encoder for whole-brain fMRI response ... TRIBE v2 - aidemos.atmeta.com A foundation model of vision, audition, and language for in ... GitHub - facebookresearch/tribev2: This repository contains ... TRIBE v2 explained: what Meta&#x27;s brain encoding model actually ...</a></li>
+<li><a href="https://ai.meta.com/blog/tribe-v2-brain-predictive-foundation-model/">Introducing TRIBE v2: A Predictive Foundation Model Trained ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#multi-agent systems`, `#coordination`, `#benchmarks`, `#machine learning`
+**Tags**: `#machine learning`, `#neuroscience`, `#model evaluation`, `#AI research`
 
 ---
 
 <a id="item-tech-news-14"></a>
-### [Microsoft Patents Distributed AI Training Using Idle Devices](https://www.techspot.com/news/114499-microsoft-patent-describes-paying-you-train-ai-idle.html) ⭐️ 7.0/10
+### [Open-Source Neural Video Retrieval Engine Fine-Tuned from EVA-02](https://www.reddit.com/r/MachineLearning/comments/1xu1pg4/i_finetuned_eva02_in_a_week_to_build_a_neural/) ⭐️ 7.0/10
 
-Microsoft has filed a patent for a system that monitors user devices for idle resources and assigns them AI training tasks when underutilized. Participants would be compensated with cash, app store credits, or early access to AI models, depending on their contribution. The patent describes monitoring CPU, GPU, memory, temperature, and power usage to determine device suitability, and splitting training tasks accordingly. It is not yet clear if or when this system will be implemented.
+A developer has open-sourced a neural video retrieval engine fine-tuned from EVA-02-CLIP-L-14-336, specifically designed to search large unstructured video collections by nuanced visual features such as body poses, clothing details, and camera angles, without relying on uploader metadata. The system uses a frozen EVA-02 vision backbone and updates only the text tower and projection head, enabling training on consumer GPUs with as little as 4.5 GB VRAM. Key technical improvements include multi-instance routing for frame selection, long-tail balancing for rare tags, and a two-stage local search for efficient inference. Benchmarks show significant improvements in Recall@1 and Recall@5 over baseline models like CLIP, especially for fine-grained and cross-domain visual queries.
 
-telegram · zaihuapd · Nov 11, 04:45
+reddit · r/MachineLearning · /u/qn06142 · Nov 12, 03:03
 
-**「Background」** Distributed computing projects, such as SETI@home and Folding@home, have previously used idle computing resources from volunteers&\#x27; devices to process scientific workloads. Microsoft&\#x27;s patent extends this concept to AI training, proposing a system that monitors device resource usage and allocates AI training tasks during periods of low activity. The patent suggests compensation for participants, which could include cash, credits, or early access to AI models, and envisions using a range of devices including servers, desktops, and smartphones.
+**「Background」** CLIP and similar vision-language models like BLIP and SigLIP have enabled semantic search in images and videos by mapping visual and textual data into a shared embedding space. However, these models often struggle with fine-grained visual distinctions, such as specific body postures or clothing details, and can be limited by reliance on metadata or single-frame representations. EVA-02 is a large vision transformer model that, when fine-tuned, can potentially address these limitations by improving recognition of nuanced visual concepts in video content.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.techspot.com/news/114499-microsoft-patent-describes-paying-you-train-ai-idle.html">Microsoft patent describes paying you to train AI on your ...</a></li>
-<li><a href="https://cryptobriefing.com/microsoft-patent-idle-computing-power-ai/">Microsoft patent filing describes paying users for idle ...</a></li>
-<li><a href="https://tbreak.com/microsoft-idle-gpu-patent-ai-training/">Microsoft idle GPU patent pays PC owners to train AI</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#distributed-computing`, `#AI-infrastructure`, `#patents`, `#industry-trends`
+**Tags**: `#machine learning`, `#computer vision`, `#open source`, `#video retrieval`
 
 ---
 
 <a id="item-tech-news-15"></a>
-### [ByteDance Plans Muse-like AI Agent, Targets OpenAI Parity by 2030](https://www.bloomberg.com/news/articles/2026-11-11/bytedance-prepares-muse-like-agent-in-push-to-close-ai-gap) ⭐️ 7.0/10
+### [Claude API Adds Dynamic Per-Message Effort Adjustment](https://platform.claude.com/docs/en/build-with-claude/effort-per-message) ⭐️ 7.0/10
 
-ByteDance has announced plans to launch an AI assistant similar to Meta&\#x27;s Muse in the coming weeks, aiming to strengthen its position in AI video technology. The company intends to invest up to $70 billion in its Seedance video AI platform and has set a goal to reach parity with leading AI labs such as OpenAI and Anthropic by 2029 or 2030. The initiative, outlined by co-founder Zhang Yiming, explicitly avoids reliance on model distillation. This announcement is a forward-looking strategy and does not include the release of any immediate technical breakthroughs or products.
+Anthropic has introduced a Beta feature to the Claude API that allows developers to dynamically adjust the &\#x27;effort&\#x27; level for each message within an ongoing conversation. This is achieved by inserting an empty system message with a new output\_config.effort value, which takes effect from the next user message without requiring changes to the top-level configuration or breaking prompt caching. The feature is available for Fable 5.2, Opus 5.5, Sonnet 5.5, and Haiku 5.5 models, and is supported on Amazon Bedrock, Google Cloud, and Azure platforms. Developers must include the beta header mid-conversation-output-config-2026-07-01 to use this capability.
 
-telegram · zaihuapd · Nov 11, 12:31
+telegram · zaihuapd · Nov 12, 00:58
 
-**「Background」** Meta&\#x27;s Muse is an artificial intelligence agent announced in September 2026, designed to perform long-running tasks for users rather than just responding to single queries like traditional chatbots. Muse can be integrated into devices such as AI glasses, allowing users to delegate tasks hands-free and interact with their environment through the agent. ByteDance&\#x27;s planned AI assistant is described as &\#x27;Muse-like,&\#x27; indicating a focus on persistent, proactive AI capabilities similar to those introduced by Meta.
+**「Background」** The &\#x27;effort&\#x27; parameter in the Claude API allows developers to control the thoroughness and token usage of AI responses, balancing between response quality and efficiency. Previously, this setting was typically applied at the session or conversation level, requiring a reset or reconfiguration to change effort mid-session. The new feature enables per-message adjustment of effort by sending a special system message, allowing dynamic tuning of response depth, speed, and cost within an ongoing conversation.
+
+**「Impact」** Developers building conversational AI applications with Claude can now fine-tune response quality and resource usage on a per-message basis, improving flexibility and efficiency without interrupting the session or losing prompt cache benefits.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Muse_%28AI_agent%29">Muse (AI agent) - Wikipedia</a></li>
-<li><a href="https://www.meta.com/help/ai-glasses/1391796469223757/">How to use Muse on your AI glasses (Beta) | AI Glasses Help ...</a></li>
+<li><a href="https://platform.claude.com/docs/en/build-with-claude/effort">Effort - Claude Platform Docs</a></li>
+<li><a href="https://www.kucoin.com/news/flash/anthropic-adds-effort-adjustment-to-claude-api-for-dynamic-ai-performance">Anthropic Introduces &#x27;Effort&#x27; Adjustment to Claude API for ...</a></li>
+<li><a href="https://platform.claude.com/docs/en/build-with-claude/effort.md">platform.claude.com</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI industry`, `#strategic investment`, `#AI assistants`, `#video AI`
+**Tags**: `#API update`, `#conversational AI`, `#Claude`, `#AI tooling`
+
+---
+
+<a id="item-tech-news-16"></a>
+### [Japan Plans Legal Duties for AI Industry on Security](https://mainichi.jp/articles/20261112/ddm/002/010/086000c) ⭐️ 7.0/10
+
+The Japanese government is considering imposing legal security obligations and new penalties on AI industry participants. This proposal, confirmed in a closed working group, aims to address risks such as cyberattacks and uncontrolled AI misuse. The scope of affected entities is still under discussion, including whether large U.S. IT companies will be covered. A comprehensive policy outline, including potential legal revisions, is expected by the end of the year.
+
+telegram · zaihuapd · Nov 12, 06:04
+
+**「Background」** Japan&\#x27;s current AI regulatory framework is based on the Act on Promotion of Research, Development and Utilization of AI-Related Technologies \(2025\), which emphasizes a soft-law, principles-based approach and sectoral guidance rather than strict legal obligations or penalties. The framework is overseen by the AI Strategic Headquarters and focuses on trustworthy, human-centric AI, with sector-specific guidance under the Act on the Protection of Personal Information. Until now, Japan has promoted innovation-led AI development without prescriptive penalties for non-compliance.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://regulations.ai/regulations/RAI-JP-NA-SUMMARY-2026">Japan AI Regulation Overview | Regulations.AI</a></li>
+<li><a href="https://aisecurityandsafety.org/en/frameworks/japan-ai-promotion-act/">Japan AI Promotion Act (Japan, 2026): What You Need to Know</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI policy`, `#regulation`, `#security`, `#international`
+
+---
+
+## Technology Blog
+
+<a id="item-tech-blog-1"></a>
+### [Optimizing DeepSeek-V4.1-Flash for NVIDIA Vera Rubin NVL72](https://vllm.ai/blog/2026-11-12-deepseek-v41-flash-vera-rubin) ⭐️ 9.0/10
+
+rss · vLLM Blog · Nov 12, 00:00
+
+**「Background」** The authors set out to maximize the performance of DeepSeek-V4.1-Flash, a large language model, on NVIDIA&\#x27;s new Vera Rubin NVL72 GPU rack. Previous work had already optimized the model for the older GB300 NVL72 hardware, but Rubin&\#x27;s unique architecture—featuring split memory domains, advanced FP4 tensor cores, and a unified NVLink domain—presented both new challenges and opportunities for further acceleration. The central problem was how to exploit these hardware features to achieve higher throughput and lower latency, especially under heavy concurrent workloads.
+
+**「Solution」** The team undertook a comprehensive reengineering of DeepSeek-V4.1-Flash&\#x27;s GPU kernels and system-level architecture to align with Rubin&\#x27;s capabilities. They rewrote key kernels—such as those for mixture-of-experts \(MoE\), attention, and GEMM operations—to keep bandwidth-bound data within each streaming multiprocessor&\#x27;s \(SM\) local memory, leveraging SM107&\#x27;s wider mixed-precision MMA instructions for significant speedups. Prefill and decode steps saw 28% and 25% reductions in time, respectively, thanks to optimizations like die-local residual streams, smarter tiling, and deeper kernel pipelines. For ultra-low latency, they developed a specialized tensor-parallel \(TP\) decode path that fused computation and communication across two trays, achieving up to 1,810 tokens/s per user at batch size one. At the system level, they introduced rack-scale memory pooling: KV caches and Engram tables were distributed across DRAM and HBM, accessible via RDMA and NVLink, enabling high concurrency without session pinning. Workload-aware routing dynamically balanced requests, maintaining a 96.5–97% prefix hit rate and drastically reducing tail latencies. Benchmarks using the SemiAnalysis AgentX workload showed a 58× throughput improvement over GB300 NVL72, with per-GPU rates reaching 1.7M tokens/s and peaks of 2.52M tokens/s.
+
+**「Takeaway」** By deeply integrating hardware-aware kernel optimizations with rack-scale memory pooling and dynamic routing, the authors demonstrate that Vera Rubin NVL72 can deliver transformative gains for large language model serving—achieving both massive throughput and low latency that far surpass previous-generation systems.
+
+**Tags**: `#GPU optimization`, `#large language models`, `#systems engineering`, `#performance benchmarking`
+
+---
+
+<a id="item-tech-blog-2"></a>
+### [Integrating Inkling 2 Small MoE Model with vLLM](https://vllm.ai/blog/2026-11-12-inkling2-small) ⭐️ 8.0/10
+
+rss · vLLM Blog · Nov 12, 00:00
+
+**「Background」** Deploying large-scale multimodal mixture-of-experts \(MoE\) models like Inkling 2 Small—which combines text and vision capabilities with 594B total parameters and 1M-token context—poses significant challenges for efficient serving, especially when aiming for high throughput and low latency. Existing approaches often struggle with the memory and compute demands of such models, particularly when supporting advanced features like speculative decoding and mixed-precision quantization.
+
+**「Solution」** The authors detail how vLLM achieved day-0 support for Inkling 2 Small by implementing a series of architectural and kernel-level optimizations. The model itself introduces several upgrades over its predecessor, including block attention residuals, gated attention, a more powerful ViT image encoder, and a mixed-precision MoE setup using NVFP4 and MXFP8 quantization. vLLM integrates these features by fusing memory-bound operations \(such as all-reduce, convolutions, and normalization\) into single kernels, minimizing memory traffic and maximizing register usage. Programmatic dependent launch \(PDL\) overlaps kernel execution to reduce latency, especially at small batch sizes. Expert activations are quantized in-kernel, eliminating redundant passes and leveraging TensorRT-LLM&\#x27;s batched GEMM for efficiency. Sequence parallelism is used during prefill to avoid redundant computation across GPUs, reducing prefill time by up to 26% and freeing GPU memory. For decoding, a custom Gluon attention kernel addresses bottlenecks in FlashAttention-4, significantly reducing decode step latency. Benchmarks show the system achieves up to 630 tokens/sec per user at TP4 and maintains high throughput even with long contexts \(up to 1M tokens\), with accuracy matching the reference implementation across multiple evaluation suites.
+
+**「Takeaway」** Through targeted architectural and kernel optimizations, vLLM enables efficient, accurate serving of the massive, multimodal Inkling 2 Small MoE model, demonstrating that even highly complex models can achieve production-grade throughput and scalability with careful engineering.
+
+**Tags**: `#model serving`, `#MoE`, `#performance optimization`, `#multimodal models`, `#quantization`
+
+---
+
+<a id="item-tech-blog-3"></a>
+### [Optimizing H3-Image Model Deployment on NVIDIA Vera Rubin GPUs](https://vllm.ai/blog/2026-11-12-minimax-h3-image-rubin) ⭐️ 8.0/10
+
+rss · vLLM Blog · Nov 12, 00:00
+
+**「Background」** Deploying large diffusion models like H3-Image for high-resolution text-to-image generation and editing presents significant challenges in latency, throughput, and hardware compatibility. Existing solutions often struggle to deliver native 4K images quickly and efficiently across diverse GPU and accelerator platforms, especially when balancing memory constraints and operational costs.
+
+**「Solution」** The vLLM-Omni team ported MiniMax&\#x27;s H3-Image model to NVIDIA&\#x27;s Vera Rubin GPUs, achieving a median 0.87-second latency for native 4096×4096 image generation using four GPUs in a short-prompt benchmark. This was accomplished through several engineering optimizations: MXFP8 GEMMs accelerated DiT linear layers while reducing memory footprint, and CUDA Graph replay combined with multiple CUDA streams enabled efficient, parallel VAE decoding. Layerwise CPU offload allowed deployment on smaller GPUs by trading off some latency for reduced memory usage. The team benchmarked performance across ten NVIDIA hardware types and provided detailed comparisons for both text-to-image and image editing tasks at 2K and 4K resolutions. Rubin outperformed GB200 and GB300 GPUs in both latency and throughput, with four-GPU systems projecting up to 146,755 images/day and potential gross revenue of over $100/GPU/hour at full utilization \(before costs\). The solution also extends to AMD, Intel, Huawei, and Moore Threads hardware, with tailored recipes and configurations for each. The team addressed reliability issues in 4K output and ensured reproducibility by documenting test setups and configuration details. Integration with OpenDirector further enables creative workflows using H3-Image.
+
+**「Takeaway」** Through targeted optimizations and broad hardware support, the vLLM-Omni team demonstrated that high-throughput, low-latency 4K image generation with H3-Image is feasible on modern GPUs, making large-scale, high-quality diffusion model serving practical and economically attractive across diverse deployment environments.
+
+**Tags**: `#diffusion-models`, `#gpu-optimization`, `#benchmarking`, `#serving-infrastructure`, `#multi-hardware-support`
 
 ---
 
 ## Financial News
 
 <a id="item-finance-news-1"></a>
-### [Fed&\#x27;s Goolsbee calls inflation report &\#x27;borderline disturbing&\#x27; as central bank weighs more hikes](https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html) ⭐️ 8.0/10
+### [NVIDIA CEO Jensen Huang Resigns, CFO Colette Kress Named Interim CEO](https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition) ⭐️ 9.0/10
 
-Fed officials signal heightened concern over persistent inflation after a higher-than-expected CPI report, raising the odds of further and possibly larger interest rate hikes.
+NVIDIA announced that CEO Jensen Huang has resigned effective immediately, with CFO Colette Kress appointed as interim CEO while the board searches for a permanent replacement.
 
-rss · CNBC Finance · Nov 11, 16:49
+telegram · zaihuapd · Nov 12, 13:52
 
-**Tags**: `#Federal Reserve`, `#inflation`, `#interest rates`, `#monetary policy`, `#economic data`
+**「Background」** Jensen Huang had served as NVIDIA&\#x27;s CEO and co-founder since its founding in 1993, leading the company through its rise as a major player in graphics and artificial intelligence chips.
+
+**「Impact」** This sudden leadership change may affect investor confidence and strategic direction at NVIDIA, a key player in the global semiconductor industry.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition">NVIDIA Announces CEO Transition | NVIDIA Newsroom</a></li>
+<li><a href="https://edition.cnn.com/2026/11/12/tech/jensen-huang-nvidia-resigns">CFO Colette Kress to serve as interim leader after Nvidia CEO ...</a></li>
+<li><a href="https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html">Nvidia CEO Jensen Huang resigns : Live updates</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#executive change`, `#semiconductors`, `#NVIDIA`, `#market impact`
 
 ---
 
 <a id="item-finance-news-2"></a>
-### [China Ends Offshore Trust Tax Transition, Reports Over 1600 Billion Yuan Declared](https://www.news.cn/20261111/9bcce99c779b4a6197ff45bbbc3e4c50/c.html) ⭐️ 8.0/10
+### [Fed to Skip Interest Rate Vote at October 2027 Meeting](https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html) ⭐️ 7.0/10
 
-China&\#x27;s 90-day transition period for taxing offshore trust income has ended, with over 1600 billion yuan in personal income tax declared and a nearly 90% year-on-year increase in national personal income tax revenue for October, according to the State Taxation Administration.
+The Federal Reserve announced it will not hold an interest rate vote at its October 2027 meeting, marking a change in its meeting structure and communication approach. This means there will be seven voting meetings in 2027 instead of the usual eight.
 
-telegram · zaihuapd · Nov 11, 10:35
+rss · CNBC Finance · Nov 12, 19:05
 
-**「Background」** In July 2026, China introduced new rules requiring resident individuals to pay individual income tax on gains from transferring property into offshore trusts, with a 90-day transition period for compliance before penalties would apply.
-
-**「Impact」** High-net-worth individuals with offshore trusts face stricter enforcement and potential penalties if they fail to comply with the new tax rules.
+**「Background」** The Federal Reserve usually holds eight meetings a year where it votes on interest rates, but for 2027 it will reduce this to seven voting meetings and use the October session for broader policy discussions without a rate vote, as part of Chairman Kevin Warsh&\#x27;s changes to the meeting structure and communication approach.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.morganlewis.com/pubs/2026/07/china-establishes-new-individual-income-tax-rules-for-offshore-trusts">China Establishes New Individual Income Tax Rules for ...</a></li>
+<li><a href="https://economictimes.indiatimes.com/markets/us-stocks/news/us-fed-sets-new-meeting-schedule-for-2027-as-foretold-by-chairman-kevin-warsh/articleshow/135781878.cms">US Fed sets new meeting schedule for 2027, as foretold by ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#tax policy`, `#offshore trusts`, `#China`, `#personal income tax`, `#regulation`
+**Tags**: `#Federal Reserve`, `#monetary policy`, `#central banks`, `#policy change`, `#meeting schedule`
 
 ---
 
 <a id="item-finance-news-3"></a>
-### [Report Alleges 240,000 Nvidia AI Chips Worth $7.5 Billion Illegally Imported to China](https://www.tomshardware.com/tech-industry/policy/alice-huang-reportedly-instrumental-in-securing-over-usd7-5-billion-of-nvidia-ai-gpu-imports-during-three-year-relationship-with-jensen-huang-helped-move-240-000-banned-chips-into-china-mostly-h100-and-h200) ⭐️ 8.0/10
+### [Oil prices rise after Trump says no Iran deal needed: &\#x27;We&\#x27;ve got their Strait&\#x27;](https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html) ⭐️ 7.0/10
 
-A report from The Information alleges Alice Huang helped facilitate the import of about 240,000 restricted Nvidia AI chips, valued at $7.5 billion, into China despite export controls.
+Oil prices rose after Trump stated no Iran deal was needed and asserted U.S. control over the Strait of Hormuz, raising concerns about ongoing Middle East tensions and oil supply risks.
 
-telegram · zaihuapd · Nov 11, 14:41
+rss · CNBC Finance · Nov 12, 23:29
 
-**「Background」** U.S. export controls restrict the sale of advanced Nvidia AI chips to China, and recent reports allege that Alice Huang used a network of companies in China and Singapore, including Shanghai Century Litong and Megaspeed, to help import these restricted chips despite the ban.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.theinformation.com/articles/jensen-huangs-yearslong-ties-alice-huang-enabled-nvidia-chip-sales-china">How Jensen Huang’s Yearslong Ties to Alice Huang Enabled $7 ...</a></li>
-<li><a href="https://www.theinformation.com/briefings/nvidia-ceo-reportedly-targeted-suspected-chinese-informant">Nvidia CEO Reportedly Targeted By Suspected Chinese Informant</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#semiconductors`, `#export controls`, `#Nvidia`, `#China`, `#trade policy`
-
----
-
-<a id="item-finance-news-4"></a>
-### [Senators Question Prediction Markets on Drug Trials](https://www.cnbc.com/2026/11/11/kalsi-polymarket-prediction-market-senators-hhs-drug-approval.html) ⭐️ 7.0/10
-
-Two U.S. senators have asked the Department of Health and Human Services what steps it is taking to address risks from prediction markets tied to clinical trials and drug approvals, signaling possible regulatory scrutiny but no immediate policy change.
-
-rss · CNBC Finance · Nov 11, 19:16
-
-**「Background」** Prediction market platforms like Kalshi and Polymarket began allowing bets on the outcomes of clinical drug trials and FDA regulatory decisions in mid-2026, raising concerns among some researchers and policymakers about potential ethical and insider trading risks.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.nytimes.com/2026/07/28/business/kalshi-polymarket-prediction-market-drugs.html">Prediction Market Betting on Drug Trials and Approvals Sparks ...</a></li>
-<li><a href="https://www.npr.org/2026/08/07/nx-s1-5922530/patients-betting-kalshi-polymarket-clinical-trials">Kalshi, Polymarket offer bets on clinical trials and FDA ...</a></li>
-<li><a href="https://www.reuters.com/legal/litigation/kalshi-allow-bets-clinical-trials-fda-decisions-2026-07-16/">Kalshi to allow bets on clinical trials, FDA decisions</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#regulation`, `#prediction markets`, `#healthcare policy`, `#biotechnology`, `#insider trading`
-
----
-
-<a id="item-finance-news-5"></a>
-### [Alibaba Plans Hong Kong Listing for Chip Unit T-Head](https://www.cnbc.com/2026/11/11/alibaba-pr.html) ⭐️ 7.0/10
-
-Alibaba announced plans to spin off and publicly list its semiconductor subsidiary T-Head on the Hong Kong Stock Exchange, pending regulatory approval; the company did not disclose the expected date or size of the offering.
-
-rss · CNBC Finance · Nov 11, 07:47
-
-**「Background」** T-Head is Alibaba&\#x27;s semiconductor design unit that mainly develops chips for use within Alibaba&\#x27;s own cloud computing services, rather than selling them widely to other companies. Alibaba has recently increased investment in T-Head as part of a broader push to strengthen China&\#x27;s domestic chip industry amid global supply concerns and technology restrictions.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.scmp.com/tech/big-tech/article/3358032/alibaba-chip-unit-t-head-triples-capital-amid-ai-hardware-bet">Alibaba chip unit T-Head triples capital amid AI hardware bet</a></li>
-<li><a href="https://chips.techbuzzchina.com/companies/alibaba-t-head">Alibaba T-Head | China Chip Stack</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Alibaba`, `#semiconductors`, `#IPO`, `#China tech`, `#regulation`
-
----
-
-<a id="item-finance-news-6"></a>
-### [Nvidia Board Reportedly Preparing to Remove CEO Jensen Huang](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad?mod=tech_lead_pos2) ⭐️ 7.0/10
-
-Nvidia&\#x27;s board is reportedly preparing to remove CEO Jensen Huang following allegations of personal scandals, with the company&\#x27;s stock falling about 8% after hours according to the report. Nvidia has not officially responded to these claims.
-
-telegram · zaihuapd · Nov 11, 23:39
-
-**「Background」** Nvidia&\#x27;s board began an independent investigation after CEO Jensen Huang admitted to extramarital affairs, including one with a person suspected of ties to Chinese intelligence and another with a company executive.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad">Exclusive | Nvidia Is Preparing to Oust CEO Jensen Huang</a></li>
-<li><a href="https://www.wsj.com/cfo-journal/jensen-huang-investigation-rocks-nvidia-as-board-investigates-a0581595">Jensen Huang Investigation Rocks Nvidia as Board Investigates</a></li>
-<li><a href="https://www.reuters.com/world/china/view-nvidia-is-preparing-oust-ceo-jensen-huang-wsj-reports-2026-11-11/">VIEW Nvidia is preparing to oust CEO Jensen Huang, WSJ ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#corporate governance`, `#executive changes`, `#technology`, `#stock movement`
+**Tags**: `#oil markets`, `#geopolitics`, `#Middle East`, `#energy prices`, `#US policy`
 
 ---
