@@ -5,59 +5,57 @@ date: 2026-11-12
 lang: zh
 ---
 
-> 从 48 条内容中筛选出 23 条重要资讯。
+> 从 48 条内容中筛选出 21 条重要资讯。
 
 ---
 
 **科技新闻**
-1. [Nvidia 或将罢免 CEO 黄仁勋](#item-tech-news-1) ⭐️ 9.0/10
-2. [AWS 发布官方本地服务模拟器](#item-tech-news-2) ⭐️ 9.0/10
-3. [Python 之禅作者 Tim Peters 去世](#item-tech-news-3) ⭐️ 8.0/10
-4. [Google 推出 Gemini Decisions API，支持多模态决策输入](#item-tech-news-4) ⭐️ 8.0/10
-5. [AMD 推出 AI 驱动冷内存页闪存换入换出技术](#item-tech-news-5) ⭐️ 8.0/10
-6. [字节跳动拟推类 Muse 智能体并加码视频 AI 投入](#item-tech-news-6) ⭐️ 8.0/10
-7. [美联航禁止 AI 代理为旅客订票](#item-tech-news-7) ⭐️ 7.0/10
+1. [Nvidia 据称准备更换 CEO 黄仁勋](#item-tech-news-1) ⭐️ 9.0/10
+2. [AWS 正式发布本地服务模拟器 aws-emulator](#item-tech-news-2) ⭐️ 9.0/10
+3. [谷歌发布 Gemini Decisions API：支持多模态决策](#item-tech-news-3) ⭐️ 8.0/10
+4. [AMD 推出 AI 驱动内存管理，冷页换闪存降服务器成本](#item-tech-news-4) ⭐️ 8.0/10
+5. [Python 之禅作者 Tim Peters 去世](#item-tech-news-5) ⭐️ 7.0/10
+6. [GitHub Actions 依赖锁定安全实践与局限](#item-tech-news-6) ⭐️ 7.0/10
+7. [苹果提出更高效的 RAG 检索方法](#item-tech-news-7) ⭐️ 7.0/10
 8. [AI 代理发现玛雅遗址实为已知遗址](#item-tech-news-8) ⭐️ 7.0/10
-9. [苹果提出更高效的 RAG 检索方法](#item-tech-news-9) ⭐️ 7.0/10
-10. [AI 生成代码对 Emacs 与开源治理的影响分析](#item-tech-news-10) ⭐️ 7.0/10
-11. [Yogurt：本地 AI 会议转录与摘要开源工具发布](#item-tech-news-11) ⭐️ 7.0/10
-12. [llm 0.37.2 修复 OpenAI API 密钥泄露漏洞](#item-tech-news-12) ⭐️ 7.0/10
-13. [Anthropic IPO 路演视频披露多芯片 AI 基础设施细节](#item-tech-news-13) ⭐️ 7.0/10
-14. [CoRL 机器人论文探索工具上线，收录 2100+ 篇论文](#item-tech-news-14) ⭐️ 7.0/10
-15. [WorkflowArena：最强模型未必是最佳多智能体协调者](#item-tech-news-15) ⭐️ 7.0/10
-16. [Qwen4-Max 预览版上线阿里多款产品](#item-tech-news-16) ⭐️ 7.0/10
-17. [微软专利提出用闲置设备训练 AI](#item-tech-news-17) ⭐️ 7.0/10
+9. [Emacs 与 AI 时代的软件自由讨论](#item-tech-news-9) ⭐️ 7.0/10
+10. [美联航禁止 AI 代理为旅客订票](#item-tech-news-10) ⭐️ 7.0/10
+11. [Anthropic IPO 路演披露多芯片 AI 基础设施细节](#item-tech-news-11) ⭐️ 7.0/10
+12. [CoRL 机器人论文探索工具上线，涵盖 10 年 2100+ 篇论文](#item-tech-news-12) ⭐️ 7.0/10
+13. [WorkflowArena：最强模型未必是最佳协调者](#item-tech-news-13) ⭐️ 7.0/10
+14. [微软专利提出用闲置设备训练 AI](#item-tech-news-14) ⭐️ 7.0/10
+15. [字节跳动宣布类 Muse 智能体计划，目标 2030 年追赶 OpenAI](#item-tech-news-15) ⭐️ 7.0/10
 
 **财经新闻**
 1. [Fed&\#x27;s Goolsbee calls inflation report &\#x27;borderline disturbing&\#x27; as central bank weighs more hikes](#item-finance-news-1) ⭐️ 8.0/10
 2. [离岸信托收益征税过渡期结束，申报税款超 1600 亿元](#item-finance-news-2) ⭐️ 8.0/10
-3. [调查称 24 万颗英伟达被禁 AI 芯片流入中国](#item-finance-news-3) ⭐️ 8.0/10
-4. [英伟达董事会据称准备罢免 CEO 黄仁勋](#item-finance-news-4) ⭐️ 8.0/10
-5. [美国参议员关注药物预测市场并要求监管部门说明措施](#item-finance-news-5) ⭐️ 7.0/10
-6. [阿里巴巴计划分拆并在港上市半导体子公司平头哥](#item-finance-news-6) ⭐️ 7.0/10
+3. [调查称 24 万颗英伟达 AI 芯片疑被协助流入中国](#item-finance-news-3) ⭐️ 8.0/10
+4. [美国参议员关注与药物审批相关的预测市场风险](#item-finance-news-4) ⭐️ 7.0/10
+5. [阿里巴巴计划分拆芯片子公司平头哥在港上市](#item-finance-news-5) ⭐️ 7.0/10
+6. [英伟达董事会据称准备罢免 CEO 黄仁勋](#item-finance-news-6) ⭐️ 7.0/10
 
 ---
 
 ## 科技新闻
 
 <a id="item-tech-news-1"></a>
-### [Nvidia 或将罢免 CEO 黄仁勋](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad) ⭐️ 9.0/10
+### [Nvidia 据称准备更换 CEO 黄仁勋](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad) ⭐️ 9.0/10
 
-据报道，Nvidia 正准备罢免其创始人兼 CEO 黄仁勋（Jensen Huang）。目前尚未公布具体原因，但有社区评论提及此前亚洲媒体曾报道其婚外情。黄仁勋长期主导 Nvidia 的技术和战略方向，此举可能对 AI、硬件及整个科技行业产生重大影响。该消息尚未获得官方确认。
+据报道，Nvidia 正准备更换其创始人兼 CEO 黄仁勋（Jensen Huang）。这一潜在的人事变动将影响 Nvidia 在 AI、硬件及科技行业的战略方向。当前尚无官方公告，具体继任人选和时间表未披露。该消息如属实，将对公司及行业格局产生重大影响。
 
 hackernews · jbredeche · 11月11日 22:31 · [社区讨论](https://news.ycombinator.com/item?id=50459703)
 
-**「背景信息」** 黄仁勋是英伟达（Nvidia）的创始人兼首席执行官，长期以来主导了公司的技术和战略方向。近期多家媒体报道称，英伟达董事会正准备罢免黄仁勋，原因涉及其与两名女性的不正当关系，其中一人被美国情报机构怀疑为中国间谍。这一事件引发了对公司治理、国家安全和企业领导层稳定性的广泛关注。
+**「背景信息」** 黄仁勋（Jensen Huang）自创立以来一直担任英伟达（Nvidia）首席执行官，并被认为是推动公司成为 AI 和硬件领域核心力量的关键人物。近期，黄仁勋因与一名被指控为中国间谍的高管有不当关系而受到调查，并已取消多项公开活动，引发了公司董事会对其领导地位的重新评估。此前，相关丑闻已在亚洲媒体曝光，现阶段公司正面临是否更换 CEO 的重大决策压力。
 
-**「影响」** 如果黄仁勋被罢免，Nvidia 的技术战略和领导层稳定性将面临重大不确定性，可能影响公司在 AI 和 GPU 领域的持续创新及市场地位。相关用户和开发者需关注后续官方声明及潜在管理层变动对产品路线的影响。
+**「影响」** 如果黄仁勋被替换，Nvidia 的长期技术战略和创新方向可能面临调整，尤其是在 AI 和高性能计算领域。对于依赖 Nvidia 产品的开发者和企业用户来说，未来产品路线和支持政策可能出现不确定性。
 
-**「社区讨论」** 部分评论认为，黄仁勋的领导对 Nvidia 的长期技术战略至关重要，质疑是否有足够理由罢免他。也有观点指出，类似公司通常采用双重股权结构保护创始人，Nvidia 此举较为罕见。另有讨论关注事件对美国战略资产安全的影响。
+**「社区讨论」** 有评论认为，黄仁勋的离任将削弱美国在 AI 和半导体领域的战略地位，并可能使中国受益。另有观点指出，创始人主导的公司通常通过双重股权结构保护创始人地位，Nvidia 此举不同寻常，也引发了对继任者能否延续技术领导力的担忧。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad">Exclusive | Nvidia Is Preparing to Oust CEO Jensen Huang</a></li>
-<li><a href="https://www.cbsnews.com/news/nvidia-board-ceo-jensen-huang-china/">Nvidia&#x27;s board preparing to oust CEO Jensen Huang, sources ...</a></li>
-<li><a href="https://www.aol.com/articles/nvidia-preparing-oust-ceo-jensen-223405000.html">Nvidia is preparing to oust CEO Jensen Huang, WSJ reports</a></li>
+<li><a href="https://www.businessinsider.com/jensen-huang-resign-nvidia-ceo-future-debate-2026-11">Will Nvidia CEO Jensen Huang Resign? Leaders Weigh in ...</a></li>
+<li><a href="https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/">Nvidia CEO Jensen Huang&#x27;s affair with alleged Chinese spy: a ...</a></li>
+<li><a href="https://www.theguardian.com/technology/2026/nov/09/jensen-huang-image-nvidia">Jensen Huang’s image has been shattered. Could he be pushed ...</a></li>
 
 </ul>
 </details>
@@ -67,97 +65,69 @@ hackernews · jbredeche · 11月11日 22:31 · [社区讨论](https://news.ycomb
 ---
 
 <a id="item-tech-news-2"></a>
-### [AWS 发布官方本地服务模拟器](https://simonwillison.net/2026/Nov/11/aws-emulator/) ⭐️ 9.0/10
+### [AWS 正式发布本地服务模拟器 aws-emulator](https://simonwillison.net/2026/Nov/11/aws-emulator/) ⭐️ 9.0/10
 
-AWS 正式发布了 aws-emulator，这是一个用于本地测试 AWS 多项服务的官方模拟器，无需付费 API 密钥即可运行。该模拟器由 Rust 编写，开发过程中大量依赖自动化代理，三周内提交近 3 万次。目前在 macOS 和 Windows 上需通过 Docker 运行，尚未提供单一可执行文件。该工具有助于开发者在本地环境中更高效地测试和开发基于 AWS 的应用。
+AWS 正式发布了 aws-emulator，这是一个用于本地测试 AWS 多项服务的官方模拟器，无需付费 API 密钥即可运行。该工具由大量 AI 代理以 Rust 语言开发，目前在 macOS 和 Windows 上需通过 Docker 运行。该模拟器旨在提升云开发的测试效率和可访问性，但目前尚不支持直接下载单一二进制文件，也存在部分安全和权限相关的功能限制。
 
 rss · Simon Willison · 11月11日 21:18
 
-**「背景信息」** AWS Emulator 是亚马逊官方推出的本地模拟器，允许开发者在本地机器上使用与真实 AWS 相同的 CLI 和 SDK 命令，测试几乎所有 AWS 服务。该工具完全由自主 AI 代理用 Rust 语言编写，并作为免费开源项目发布。此前，开发者通常依赖第三方工具（如 LocalStack）或需连接真实 AWS 服务进行测试，存在成本和便利性限制。
+**「背景信息」** AWS Emulator 是亚马逊官方推出的本地仿真工具，允许开发者在本地环境中测试 AWS 的众多服务，无需实际访问云端或使用付费 API 密钥。该工具由数千个自主 AI 代理基于 AWS 官方 API 模型自动生成代码，覆盖 200 多项服务，并通过持续发布进行行为验证。此前，开发者通常依赖第三方工具（如 LocalStack）进行本地测试，但官方仿真器的发布为开发流程带来了更高的兼容性和可靠性。
 
-**「影响」** 开发者可以在本地无需付费即可测试 AWS 服务，显著降低开发和测试成本，但当前对安全策略（如 IAM、KMS 等）的模拟有限，不能完全替代真实环境的安全测试。
+**「影响」** 开发者现在可以在本地无需付费即可测试 AWS 服务，显著降低了开发和测试成本，提高了开发流程的灵活性。但由于模拟器对 IAM、KMS 等安全策略的支持有限，涉及安全策略的测试仍需在真实 AWS 环境中进行。
 
-**「社区讨论」** 部分用户质疑该模拟器是否会长期维护，并指出其安全策略模拟存在局限。也有用户认为官方模拟器若能持续完善，将极大提升开发效率，但建议关键安全场景仍需连接真实 AWS 服务进行验证。
+**「社区讨论」** 有用户质疑该项目是否会长期维护，并提到现有的第三方工具如 Floci 和 Testcontainers 也能实现类似功能。另有评论指出模拟器在安全策略模拟方面存在局限，不能完全替代真实环境测试。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/">Test your applications against AWS locally with AWS Emulator</a></li>
+<li><a href="https://aws.amazon.com/about-aws/whats-new/2026/11/aws-emulator-now-available/">AWS Emulator is now available for building and testing AWS ...</a></li>
+<li><a href="https://www.unite.ai/aws-releases-local-emulator-written-entirely-by-autonomous-ai-agents/">AWS Releases Local Emulator Written Entirely by Autonomous AI ...</a></li>
 <li><a href="https://www.aboutamazon.com/news/aws/how-autonomous-ai-agents-built-aws-emulator">AWS Emulator: a local emulator built 100% by autonomous AI agents</a></li>
 
 </ul>
 </details>
 
-**标签**: `#cloud infrastructure`, `#developer tools`, `#automation`, `#aws`
+**标签**: `#cloud`, `#developer-tools`, `#aws`, `#emulation`, `#infrastructure`
 
 ---
 
 <a id="item-tech-news-3"></a>
-### [Python 之禅作者 Tim Peters 去世](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028) ⭐️ 8.0/10
+### [谷歌发布 Gemini Decisions API：支持多模态决策](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/) ⭐️ 8.0/10
 
-著名 Python 贡献者、《Python 之禅》（The Zen of Python）作者 Tim Peters 去世。他不仅以提出影响深远的 Python 编程哲学著称，还参与了 SpamBayes 反垃圾邮件项目和《Python Cookbook》等重要社区项目。Peters 的去世对 Python 社区及更广泛的软件工程领域都是重大损失。
+谷歌正式推出 Gemini Decisions API，基于新模型 Gemini Decision 1，支持文本、图像、音频、视频和 PDF 等多模态输入，专为工具选择、策略检查和模型路由等封闭式决策场景设计。该 API 可一次性对最多 1000 个问题进行打分，返回概率与置信度，端到端延迟约为 150-250 毫秒。定价为每百万输入 tokens 0.10 美元，输出 token 免费，现已在 Google AI Studio 上线。与 Jev 和 OpenAI 的同类决策模型相比，Gemini 决策模型在多模态支持上具备明显优势，但价格略高于 Jev。
 
-hackernews · ayhanfuat · 11月11日 07:03 · [社区讨论](https://news.ycombinator.com/item?id=50450488)
+hackernews · iamdelirium · 11月11日 18:32 · [社区讨论](https://news.ycombinator.com/item?id=50456791)
 
-**「背景信息」** Tim Peters 是著名的软件工程师和 Python 语言核心贡献者，他于 1999 年在 Python 邮件列表上发布了《The Zen of Python》（Python 之禅），这是一组影响深远的 Python 编程原则。此外，他还为 Python 标准库实现了多个重要模块（如 timsort、doctest 和 timeit），并参与了《Python Cookbook》的编写。Peters 的技术和社区贡献对 Python 语言及其文化产生了深远影响。
+**「背景信息」** Gemini Decisions API 是谷歌推出的决策模型 API，基于 Gemini Decision 1 模型，加入了与 Jev 和 OpenAI 类似的决策模型赛道。与 Jev 仅支持文本和 JSON 输入、OpenAI 支持文本和图像不同，Gemini Decision 1 支持文本、图像、音频、视频和 PDF 等多模态输入，能够处理更多类型的数据和场景。该 API 支持三种问题类型：是/否、选择题和评分量表，并采用与 Jev 相同的术语（如“Noul”表示是/否问题）。
 
-**「影响」** Tim Peters 的去世意味着 Python 社区失去了一位极具影响力的思想领袖和技术推动者。他提出的编程原则和社区精神将继续影响 Python 的设计、开发者文化和最佳实践。
+**「影响」** 开发者和企业现在可以以较低成本在多模态数据（如音视频、PDF）上批量进行自动化决策，显著扩展了 AI 在内容审核、自动标注和复杂策略选择等场景的应用范围。对于需要处理非文本数据的用户，Gemini Decisions API 提供了此前同类产品无法实现的能力，但在仅文本场景下，Jev 仍具备更高性价比。
 
-**「社区讨论」** 多位社区成员回忆了 Tim Peters 对 Python 语言和社区氛围的深远影响，特别是他在《Python 之禅》、SpamBayes 项目和《Python Cookbook》中的贡献。评论者普遍表达了敬意和怀念，认为他不仅提升了技术标准，也促进了社区的包容与讨论氛围。
+**「社区讨论」** 有用户认为 Gemini Decisions API 在支持音频和视频输入方面极具实用价值，尽管价格略高于 Jev，但在多模态场景下优势明显。部分讨论还关注模型如何计算概率，以及实际应用中批量提问带来的成本效益提升。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Zen_of_Python">Zen of Python - Wikipedia</a></li>
-<li><a href="https://lunduke.locals.com/post/5985667/python-bans-prominent-dev-for-enjoying-the-wrong-old-snl-sketch">Python Bans Prominent Dev for Enjoying the Wrong Old SNL Sketch</a></li>
+<li><a href="https://simonwillison.net/2026/Nov/11/gemini-decisions-api/">Gemini Decisions API - simonwillison.net</a></li>
 
 </ul>
 </details>
 
-**标签**: `#python`, `#community`, `#software-engineering`, `#open-source`
+**标签**: `#AI APIs`, `#multimodal AI`, `#decision models`, `#software engineering`
 
 ---
 
 <a id="item-tech-news-4"></a>
-### [Google 推出 Gemini Decisions API，支持多模态决策输入](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/) ⭐️ 8.0/10
+### [AMD 推出 AI 驱动内存管理，冷页换闪存降服务器成本](https://www.theregister.com/systems/2026/11/11/amd-where-were-going-we-dont-need-as-much-dram/5308953) ⭐️ 8.0/10
 
-Google 发布了 Gemini Decisions API（Gemini Decision 1），为开发者提供支持文本、图片、音频、视频和 PDF 的多模态决策模型 API。该 API 支持三种问题类型（是/否、选项选择、评分量表），并采用与 Jev 相同的术语和结构。定价为每百万输入 token 0.10 美元，输出免费，略高于 Jev（0.042 美元），与 OpenAI 的 GPT-6 Luna 决策模型持平。与 Jev（仅支持文本/JSON）和 OpenAI（支持文本和图片）相比，Gemini 的多模态能力是其主要差异。
-
-hackernews · iamdelirium · 11月11日 18:32 · [社区讨论](https://news.ycombinator.com/item?id=50456791)
-
-**「背景信息」** 决策模型 API 是近年来 AI 领域的新兴工具，旨在为开发者提供结构化的决策输出。Jev 是较早专注于决策任务的模型，支持文本和 JSON 输入，并以低价著称。OpenAI 随后推出了支持文本和图片输入的 Decisions API，而 Google 的 Gemini Decision 1 则进一步扩展为支持文本、图片、音频、视频和 PDF 的多模态输入。此前，相关模型主要通过受限输出格式实现决策，但难以直接获得概率分布，这也是新一代决策模型的改进点。
-
-**「影响」** 开发者现在可以利用 Gemini Decisions API 处理音频和视频等非文本输入，实现更复杂的自动化决策场景，尤其适用于需要多模态理解的应用。由于其定价高于 Jev，但功能更丰富，用户需根据实际需求权衡成本与能力。
-
-**「社区讨论」** 有用户认为多模态输入能力极具价值，尤其在音频和视频场景下，但也指出其价格高于同类产品。部分讨论关注模型概率的计算方式及实际应用场景，另有观点认为 AI 决策模型的使用成本已非常低廉，适合大规模问题处理。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://aijev.app/blog/what-is-openai-decision-api">What Is OpenAI Decision API ? Features &amp; Jev Comparison</a></li>
-<li><a href="https://www.firecrawl.dev/blog/openai-decisions-api-vs-jev">OpenAI &#x27;s Decisions API vs Jev : Inside the Decision - Model ...</a></li>
-<li><a href="https://jevtypesafeai.com/gemini-4-vs-jev">Gemini 4 vs Jev — generative LLM vs a decision model (2026)</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI APIs`, `#decision models`, `#Google`, `#multimodal AI`
-
----
-
-<a id="item-tech-news-5"></a>
-### [AMD 推出 AI 驱动冷内存页闪存换入换出技术](https://www.theregister.com/systems/2026/11/11/amd-where-were-going-we-dont-need-as-much-dram/5308953) ⭐️ 8.0/10
-
-AMD 推出基于 AI 的内存管理技术，将冷内存页从 DRAM 动态换出到更便宜的 NVMe 闪存，以降低服务器内存需求。这项技术源自其收购的 Mext，并以软件形式集成，需在购买 Epyc 服务器时一并授权。AMD 声称，即使用闪存替代一半 DRAM，仍可保留最高 99% 的性能，并有望将企业服务器成本最多降低 83%。目前这些数据为 AMD 官方估算，尚无独立验证。
+AMD 推出基于 AI 的内存管理方案，将冷内存页从 DRAM 自动换入更便宜的 NVMe 闪存，以降低服务器对昂贵内存的需求。这项技术基于其收购的 Mext 技术，作为一套软件与 Epyc 服务器配套销售，需单独授权。AMD 声称，即使用闪存替代一半 DRAM，仍可保留最高 99% 的性能，并有望将企业服务器成本最多降低 83%。目前该方案的具体技术细节和独立性能验证尚未公开。
 
 telegram · zaihuapd · 11月11日 11:15
 
-**「背景信息」** AMD 通过收购 Mext 获得了 AI 驱动的预测性内存管理技术。Mext 软件可在操作系统之下，将 DRAM 和本地闪存组合成统一的内存池，并利用 AI 模型预测哪些内存页可以转移到闪存，从而降低对昂贵 DRAM 的依赖。这项技术旨在提升内存密集型计算的经济性，并已集成到 AMD 的服务器产品线中。
-
-**「影响」** 企业在采购 Epyc 服务器并配套 Mext 授权后，有望以更低的内存成本部署服务器，尤其适用于对内存容量需求大但访问模式冷热分明的应用场景。用户需关注实际性能表现与官方宣称是否一致，以及授权模式对总体拥有成本的影响。
+**「背景信息」** AMD 的 MEXT 技术是一种基于 AI 的内存管理软件，能够预测并将不常用（冷）内存页从昂贵的 DRAM 迁移到成本更低的 NVMe 闪存，从而扩展服务器的有效内存容量。该方案通过 AI 算法提前判断哪些内存页即将被需要，将其及时调回 DRAM，以减轻闪存的延迟影响。MEXT 最初由 AMD 于 2022 年推出，旨在降低对高价易失性 DRAM 的依赖，为服务器带来新的性价比选择。
 
 <details><summary>参考链接</summary>
 <ul>
+<li><a href="https://www.guru3d.com/story/amd-mext-uses-flash-to-expand-server-memory-capacity/">AMD MEXT Uses Flash to Expand Server Memory Capacity</a></li>
 <li><a href="https://www.amd.com/en/products/software/mext.html">AMD MEXT Predictive Memory Software</a></li>
 <li><a href="https://wccftech.com/amd-mext-memory-solution-flash-repaces-dram-same-performance/">AMD Unveils MEXT Memory Solution: Leverages Flash To Mitigate...</a></li>
-<li><a href="https://www.igorslab.de/en/amd-acquires-mext-ai-software-flash-storage-ram/">AMD Acquires MEXT for AI -Driven Flash Storage Solutions</a></li>
 
 </ul>
 </details>
@@ -166,93 +136,71 @@ telegram · zaihuapd · 11月11日 11:15
 
 ---
 
-<a id="item-tech-news-6"></a>
-### [字节跳动拟推类 Muse 智能体并加码视频 AI 投入](https://www.bloomberg.com/news/articles/2026-11-11/bytedance-prepares-muse-like-agent-in-push-to-close-ai-gap) ⭐️ 8.0/10
+<a id="item-tech-news-5"></a>
+### [Python 之禅作者 Tim Peters 去世](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028) ⭐️ 7.0/10
 
-字节跳动计划在未来数周内发布一款类似 Meta Muse 的 AI 助手，旨在加强其在 AI 视频领域的竞争力。公司联合创始人张一鸣在内部会议上表示，目标是在 2029 至 2030 年前，在前沿 AI 领域追赶上 OpenAI 和 Anthropic。为此，字节跳动计划最多投入 700 亿美元用于 Seedance 视频 AI 平台的开发，并明确表示不依赖模型蒸馏技术。该举措显示出公司在 AI 领域的长期战略和大规模资金投入。
+著名 Python 贡献者、《Python 之禅》（The Zen of Python）作者 Tim Peters 于 2026 年去世。他不仅以提出 Python 编程哲学而闻名，还参与开发了 SpamBayes 垃圾邮件过滤器，并为 Python 社区和生态系统做出了深远贡献。消息已在 Python 官方社区和相关论坛得到确认。
 
-telegram · zaihuapd · 11月11日 12:31
+hackernews · ayhanfuat · 11月11日 07:03 · [社区讨论](https://news.ycombinator.com/item?id=50450488)
 
-**「背景信息」** Meta 的 Muse 是一款先进的 AI 助手，专注于多模态内容生成，尤其在视频和图像领域表现突出。字节跳动此前已在 AI 视频领域投入研发，并通过 Seedance 平台积累了相关技术基础。当前，全球领先的 AI 实验室如 OpenAI 和 Anthropic 在大模型和多模态智能体方面处于行业前沿，成为字节跳动此次追赶的主要目标。
+**「背景信息」** Tim Peters 是 Python 社区的重要贡献者，他于 1999 年在 Python 邮件列表上发布了著名的“Python 之禅”（Zen of Python），这套原则深刻影响了 Python 语言的设计哲学。此外，他还为 Python 标准库实现了多个核心模块，包括 timsort、doctest 和 timeit，并参与了《Python Cookbook》的编写。Peters 自 Python 早期版本起就积极参与核心开发，对语言的演进产生了深远影响。
+
+**「影响」** Tim Peters 的去世对 Python 社区是一次重大损失，他的理念和代码影响了无数开发者，未来 Python 社区将继续传承其编程哲学和精神。
+
+**「社区讨论」** 社区成员纷纷缅怀 Tim Peters 对 Python 语言和社区的贡献，许多人提到《Python 之禅》和 SpamBayes 项目对他们学习和使用 Python 的深远影响。部分开发者还回忆了与 Tim Peters 合作或交流的经历，称其为睿智且乐于助人的榜样。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://economictimes.indiatimes.com/ai/ai-insights/bytedance-prepares-muse-like-agent-in-push-to-close-ai-gap/articleshow/135734014.cms">ByteDance prepares Meta&#x27;s Muse-like agent in push to close AI ...</a></li>
-<li><a href="https://www.bloomberg.com/news/articles/2026-11-11/bytedance-prepares-muse-like-agent-in-push-to-close-ai-gap">ByteDance Prepares Muse-Like Agent in Push to Close AI Gap</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Zen_of_Python">Zen of Python - Wikipedia</a></li>
+<li><a href="https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028">In Memoriam: Tim Peters 1952–2026 - Core Development...</a></li>
+<li><a href="https://lunduke.locals.com/post/5985667/python-bans-prominent-dev-for-enjoying-the-wrong-old-snl-sketch">Python Bans Prominent Dev for Enjoying the Wrong Old SNL Sketch</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI industry`, `#machine learning`, `#video AI`, `#technology strategy`
+**标签**: `#python`, `#community`, `#software-engineering`, `#history`
+
+---
+
+<a id="item-tech-news-6"></a>
+### [GitHub Actions 依赖锁定安全实践与局限](https://hugovk.dev/blog/2026/lock-github-actions/) ⭐️ 7.0/10
+
+本文介绍了如何通过锁定 GitHub Actions 依赖来降低工作流供应链攻击风险，强调了锁定依赖（如使用 commit hash）在持续集成/持续部署（CI/CD）流程中的安全意义。社区讨论指出，目前的锁定机制仅适用于普通 action 调用，对于可复用工作流和复合 action 仍需手动管理或依赖调用方间接锁定，存在一定局限。此外，部分用户建议同时关注默认权限过宽、缺乏超时和缓存等其他安全隐患。
+
+hackernews · gslin · 11月11日 22:16 · [社区讨论](https://news.ycombinator.com/item?id=50459485)
+
+**「背景信息」** GitHub Actions 是一种流行的持续集成/持续部署（CI/CD）平台，允许开发者通过工作流自动化软件开发流程。为防止供应链攻击，GitHub 于 2026 年引入了工作流依赖锁定（workflow dependency lockfiles）功能，该功能通过将每个依赖的 Action 固定到特定的提交哈希，确保实际运行的代码与审核过的代码一致。这一机制旨在减少因第三方 Action 被篡改或替换而带来的安全风险。
+
+**「影响」** 开发者在采用依赖锁定措施时，需注意其覆盖范围有限，仍需手动管理部分依赖，并结合其他安全实践（如限制权限、设置超时）以提升整体工作流安全性。
+
+**「社区讨论」** 有用户指出，锁定依赖虽然提升了安全性，但仍需信任合并 commit hash 的人已验证其来源，且 GitHub 目前未强制要求不可变标签。部分观点认为，除非无法避免，否则应尽量减少对 GitHub Actions 的依赖，并建议只使用官方或自有组织维护的 action。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://docs.github.com/en/actions/concepts/security/workflow-dependency-lockfiles">Workflow dependency lockfiles - GitHub Docs</a></li>
+
+</ul>
+</details>
+
+**标签**: `#security`, `#devops`, `#github-actions`, `#supply-chain`
 
 ---
 
 <a id="item-tech-news-7"></a>
-### [美联航禁止 AI 代理为旅客订票](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/) ⭐️ 7.0/10
-
-美国联合航空（United Airlines）已禁止人工智能（AI）代理代表旅客预订航班。该政策适用于所有通过自动化 AI 工具进行的订票行为，旨在限制非人工操作的自动化服务介入其售票流程。目前尚未披露具体的技术检测或执行细节，但该禁令已正式生效，影响使用 AI 自动化工具购票的个人和第三方服务。
-
-hackernews · herpderperator · 11月11日 21:24 · [社区讨论](https://news.ycombinator.com/item?id=50458900)
-
-**「背景信息」** 近年来，AI 代理（如自动化脚本和智能助手）在机票预订等消费服务领域的应用逐渐增多。航空公司通常通过自家官网、移动应用和授权代理渠道为旅客提供预订服务，并设有相关政策以管理自动化访问和第三方代理的使用。此次联合航空的禁令是在行业对自动化工具影响和公平性问题持续关注的背景下出台的。
-
-**「影响」** 依赖 AI 代理自动订票的用户和开发者将无法通过这些工具直接在美联航官网或相关渠道完成购票，需转为手动操作或通过传统旅行社等渠道完成交易。
-
-**「社区讨论」** 有用户质疑美联航如何实际阻止个人使用 AI 插件或脚本订票，并表达对商家与消费者关系日益对立的不满。部分评论认为，航司此举是为了防止部分用户通过自动化手段获得价格优势，维护票价体系的公平性。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.united.com/en/us/fly/help-center.html">Help Center | United Airlines</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI policy`, `#automation`, `#industry regulation`, `#travel technology`
-
----
-
-<a id="item-tech-news-8"></a>
-### [AI 代理发现玛雅遗址实为已知遗址](https://pietromiotti.com/latest/maya-site) ⭐️ 7.0/10
-
-一位作者利用 AI 代理分析数据，声称发现了一个未被记录的玛雅遗址，展示了 AI 在考古领域的创新应用。然而，后续确认该遗址早在 2025 年已被 Estrada-Belli 等学者发表论文记录，并非真正的新发现。此次事件引发了关于 AI 辅助考古发现的验证流程和实际影响的讨论。
-
-hackernews · eyvindn · 11月11日 12:05 · [社区讨论](https://news.ycombinator.com/item?id=50452455)
-
-**「背景信息」** 此次发现基于对 NASA 提供的激光雷达（lidar）数据的分析，AI 代理（agents）自动识别出墨西哥境内一个未被官方登记的玛雅遗址。该技术能够在大量地形数据中检测出疑似人造结构，为考古学家提供新的线索。尽管发现者并非考古学家，且该遗址仍需实地考证，但此类 AI 工具已被视为考古领域探索未知遗址的有力补充。
-
-**「影响」** 尽管此次 AI 发现并未带来真正的新遗址，但展示了 AI 工具在考古数据分析中的潜力，也提醒研究者需加强与领域专家的合作与成果核查，避免重复发现。
-
-**「社区讨论」** 部分评论者强调应等待专业考古学家的验证，指出 AI 代理有时会产生误导性结果。也有用户分享了利用激光雷达和 AI 在英国发现新遗址的经验，认为技术推动了考古进展，但实际应用仍需谨慎。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://pietromiotti.com/latest/maya-site/">My AI Agents (Re) discovered a Maya Site in 72 Hours</a></li>
-<li><a href="https://www.theverge.com/ai-artificial-intelligence">Artificial Intelligence | The Verge</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI applications`, `#machine learning`, `#archaeology`, `#technology impact`
-
----
-
-<a id="item-tech-news-9"></a>
 ### [苹果提出更高效的 RAG 检索方法](https://machinelearning.apple.com/research/faster-retrieval) ⭐️ 7.0/10
 
-苹果发布了关于提升检索增强生成（RAG）系统检索效率的新研究，提出了适用于大规模 AI 系统的更快检索机制。该研究聚焦于在处理数亿级别候选项时，通过学习型检索方法提升速度和可扩展性，旨在优化 RAG 在大规模应用场景下的性能。具体技术细节和可用性尚未公开，但该方法主要面向需要高效检索的超大规模应用。
+苹果发布了关于提升检索增强生成（RAG）系统检索效率的研究，旨在解决大规模 AI 应用中的关键扩展性难题。该研究聚焦于更快的检索机制，属于“learned retrieval”范式，适用于需要在数亿条数据中高效检索的超大规模场景。具体技术细节和可用性尚未公开，但该方向已引发业内关于传统与学习型检索方法优劣的讨论。
 
 hackernews · zerop · 11月11日 16:57 · [社区讨论](https://news.ycombinator.com/item?id=50455633)
 
-**「背景信息」** 检索增强生成（Retrieval-Augmented Generation，RAG）是一种让大型语言模型（LLM）能够从外部数据源检索并整合新信息的技术。RAG 通过先检索指定文档集，再生成对用户查询的回答，从而提升模型对最新或特定领域知识的利用能力。苹果此次研究聚焦于提升大规模数据库中检索速度和效率，属于该领域的前沿探索。
+**「背景信息」** 检索增强生成（Retrieval-Augmented Generation，RAG）是一种让大型语言模型（LLM）能够从外部数据源检索并整合新信息的技术。这一方法旨在提升生成式 AI 模型的准确性和可靠性，尤其适用于需要实时或大规模信息检索的应用场景。苹果此次研究聚焦于提升 RAG 系统的检索效率和准确性，回应了当前 AI 应用在扩展性和信息获取方面的关键挑战。
 
-**「影响」** 对于需要处理海量数据的企业和开发者，这项研究有望显著提升 RAG 系统的响应速度和扩展能力，尤其适用于如搜索、推荐等对检索效率要求极高的场景。
-
-**「社区讨论」** 部分开发者认为学习型检索方法在超大规模场景下非常有价值，但也有人质疑其在小规模或特定领域下的实际效果，认为传统方法如 grep 在某些情况下依然更实用。另有观点指出，检索机制可能会引入偏见，影响最终生成内容的质量。
+**「社区讨论」** 部分开发者认为，学习型检索方法在超大规模数据集下具有实际意义，但对中小规模应用价值有限。也有评论指出，检索机制可能会引入偏见，影响最终生成质量，而传统方法如 grep 在某些场景下依然具有竞争力。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Retrieval-augmented_generation">Retrieval-augmented generation - Wikipedia</a></li>
-<li><a href="https://machinelearning.apple.com/research/faster-retrieval">Faster Retrieval for Better, More Efficient RAG - Apple ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Retrieval-augmented_generation">Retrieval - augmented generation - Wikipedia</a></li>
+<li><a href="https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/">What Is Retrieval - Augmented Generation aka RAG | NVIDIA Blogs</a></li>
 
 </ul>
 </details>
@@ -261,102 +209,115 @@ hackernews · zerop · 11月11日 16:57 · [社区讨论](https://news.ycombinat
 
 ---
 
-<a id="item-tech-news-10"></a>
-### [AI 生成代码对 Emacs 与开源治理的影响分析](https://commandlinesystems.com/magic.txt) ⭐️ 7.0/10
+<a id="item-tech-news-8"></a>
+### [AI 代理发现玛雅遗址实为已知遗址](https://pietromiotti.com/latest/maya-site) ⭐️ 7.0/10
 
-一篇分析性文章探讨了 AI 生成代码对 Emacs 及开源软件的影响，重点关注软件自由、信任与项目治理等议题。文章未涉及具体技术变更，而是引发了关于 AI 代码贡献是否应被接受、如何影响协作开发和开源项目未来的深入讨论。该话题在 Emacs 及更广泛的开源社区中引发了广泛争议，反映出 AI 技术对传统软件工程和治理模式带来的挑战。
+一位作者利用 AI 代理分析遥感数据，声称发现了一个可能未被记录的玛雅遗址，展示了 AI 在考古发现中的新应用。然而，后续社区讨论和作者本人确认，该遗址实际上早在 2025 年已被 Estrada-Belli 等学者发表论文记录。此次事件突显了 AI 工具在考古领域的潜力，但也暴露了验证和归属方面的挑战。
+
+hackernews · eyvindn · 11月11日 12:05 · [社区讨论](https://news.ycombinator.com/item?id=50452455)
+
+**「背景信息」** 此次事件的基础是研究者利用 NASA 的激光雷达（lidar）数据，通过 48 个 AI 代理在 1,200 平方公里的玛雅丛林区域进行分析。这些 AI 代理在 72 小时内重新发现了一个包含 8-12 米高金字塔、广场和高台庭院的玛雅古典时期中心遗址。虽然该遗址未被墨西哥官方 INAH 注册，但实际上早在 2025 年 Estrada-Belli 等人的考古论文中已被记录，AI 代理在文献回顾时遗漏了这篇论文。
+
+**「影响」** 对于考古学者和 AI 开发者而言，此事件提醒他们在利用 AI 进行新发现时，需加强与领域专家的合作，并核查现有文献以避免重复发现或误判。
+
+**「社区讨论」** 部分评论者质疑 AI 发现的真实性，强调需由专业考古学家验证。作者也在评论中承认该遗址早已被学界记录，反映出 AI 辅助发现与传统考证之间的落差。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://emergent.sh/news/48-ai-agents-rediscover-mapped-maya-site-nasa">48 AI Agents Rediscover Mapped Maya Site from NASA Lidar</a></li>
+<li><a href="https://www.winzheng.com/en/article/ai-agents-maya-lidar-discovery-72-hours">48 AI Agents Flag a Maya Site in 72 Hours—but Miss a Key Paper</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI applications`, `#remote sensing`, `#archaeology`, `#machine learning`
+
+---
+
+<a id="item-tech-news-9"></a>
+### [Emacs 与 AI 时代的软件自由讨论](https://commandlinesystems.com/magic.txt) ⭐️ 7.0/10
+
+一篇反思性分析文章探讨了 Emacs 在大语言模型（LLM）生成代码的时代所面临的软件自由、代码来源和开发工具未来等问题。文章未宣布具体的技术变更或新工具，而是关注 AI 生成代码对开源项目（如 Emacs）贡献的影响，以及传统开发工具在 AI 辅助开发环境下的地位。讨论涉及对 LLM 生成代码的接受度、软件自由理念的演变，以及开发者社区对未来开发模式的担忧。
 
 hackernews · ggcr · 11月11日 20:26 · [社区讨论](https://news.ycombinator.com/item?id=50458208)
 
-**「背景信息」** 近期，Emacs 社区围绕是否接受由大型语言模型（LLM）生成的代码展开了激烈讨论。目前，GNU Emacs 处于暂时不接受 LLM 生成代码的状态，等待 GNU 项目做出最终政策决定。一些开发者和用户已发起 Human Emacs 项目，明确表示如果 GNU Emacs 解除禁令，他们将基于伦理原因分叉该编辑器，维护不含 LLM 代码的版本。
+**「背景信息」** 近期，部分 Emacs 开发者和用户发起了“Human Emacs”倡议，明确反对将大语言模型（LLM）生成的代码纳入 Emacs 项目，并表示如果 GNU Emacs 解除对 LLM 代码的临时禁令，他们将分叉（fork）该编辑器。该倡议认为，LLM 生成的代码会带来归属权不明、法律风险增加以及项目可维护性下降等问题。当前 GNU Emacs 的政策仅为临时措施，主要是为了解决 LLM 代码的版权不确定性问题。
 
-**「社区讨论」** 部分开发者明确表示将坚持维护不含 LLM 生成代码的 Emacs 版本，强调对软件自由和可控性的重视。也有观点认为 AI 生成代码可能削弱了对代码可理解性的要求，甚至有人认为传统文本编辑器的地位正在被 AI 辅助开发工具取代，社区对 AI 介入开源项目的利弊存在明显分歧。
+**「社区讨论」** 部分开发者表示将坚持维护不含 LLM 生成代码的 Emacs 版本，即使这意味着与 GNU 官方分道扬镳。也有观点认为 AI 生成代码虽然提升了自由度，但牺牲了可理解性和可维护性；另有用户认为 AI 辅助开发已让传统文本编辑器变得不再必要，反映出开发工具使用习惯的转变。
 
 <details><summary>参考链接</summary>
 <ul>
 <li><a href="https://freenode.net/article/emacs-group-vows-fork-if-project-accepts-llm-generated-code">Emacs group vows fork if project accepts LLM-generated code</a></li>
-<li><a href="https://lists.gnu.org/archive/html/emacs-devel/2026-03/msg00425.html">Re: What is the policy/attitude towards LLM contributions in ...</a></li>
+<li><a href="https://emergent.sh/news/human-emacs-fork-proposal-bans-all-llm">Human Emacs Fork Proposal Bans All LLM Contributions</a></li>
+<li><a href="https://lists.gnu.org/archive/html/emacs-devel/2026-10/msg00508.html">Human Emacs - lists.gnu.org</a></li>
 
 </ul>
 </details>
 
-**标签**: `#open source`, `#software engineering`, `#AI ethics`, `#community debate`
+**标签**: `#open source`, `#AI ethics`, `#software engineering`, `#developer tools`
+
+---
+
+<a id="item-tech-news-10"></a>
+### [美联航禁止 AI 代理为旅客订票](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/) ⭐️ 7.0/10
+
+美国联合航空（United Airlines）已禁止 AI 代理（如自动化软件或 AI 助手）代表旅客预订航班。该政策适用于所有通过 AI 代理进行的订票行为，旨在限制自动化工具直接与其预订系统交互。具体执行细节和检测方式尚未公开，但此举反映出航空公司对自动化订票带来的控制权、用户体验和潜在风险的担忧。
+
+hackernews · herpderperator · 11月11日 21:24 · [社区讨论](https://news.ycombinator.com/item?id=50458900)
+
+**「背景信息」** 人工智能代理（AI agents）近年来被越来越多地用于自动化处理在线预订、客户服务等任务。航空公司和其他服务提供商对此类自动化工具的使用持谨慎态度，主要担心客户数据安全、未经授权的交易以及合规性问题。美国联邦航空管理局（FAA）和相关法规对航空公司如何处理预订和客户信息有明确要求，因此航空公司需确保所有预订流程符合这些规定。
+
+**「影响」** 依赖 AI 助手或自动化脚本进行航班预订的用户和开发者将无法通过这些工具直接完成美联航的订票流程，需改为手动操作或通过官方认可的渠道完成预订。
+
+**「社区讨论」** 有用户质疑航空公司如何实际阻止个人使用 AI 工具订票，并表达对商家与消费者关系日益对立的不满。部分评论认为，自动化订票难以满足个性化需求，且人工操作更能避免出错和获得最佳价格。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/">United Airlines bans AI agents from booking flights on behalf ...</a></li>
+<li><a href="https://www.newsmax.com/newsfront/united-airlines-ai-agents-booking-flights/2026/11/11/id/1275977/">United Airlines Bans AI Agents From Booking Flights</a></li>
+<li><a href="https://www.usatoday.com/story/travel/airline-news/2026/11/11/united-ai-travel-agents-booking/92728156007/">United Airlines bans personal AI agents from booking flights</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI agents`, `#automation`, `#consumer technology`, `#industry policy`
 
 ---
 
 <a id="item-tech-news-11"></a>
-### [Yogurt：本地 AI 会议转录与摘要开源工具发布](https://github.com/FrigadeHQ/yogurt) ⭐️ 7.0/10
+### [Anthropic IPO 路演披露多芯片 AI 基础设施细节](https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/) ⭐️ 7.0/10
 
-Yogurt 是一款新发布的免费开源桌面应用，主打隐私保护，作为 Granola 等云端会议转录工具的替代方案。它基于 MIT 许可证，支持 Windows、Mac 和 Linux，利用本地 AI（如 whisper.cpp 和 llama.cpp）在用户设备上完成会议转录、摘要和聊天，无需将数据上传云端。Yogurt 还集成了本地 MCP 服务器，允许用户自行选择是否将笔记分享给外部大模型服务。该应用强调无需注册账号、无云依赖，并针对 UI 体验和硬件适配做了优化。
+Anthropic 在其 IPO 路演视频中首次详细介绍了其多芯片 AI 基础设施战略。公司联合创始人 Tom Brown 透露，Anthropic 现已能在 AWS Trainium、Google TPU、NVIDIA GPU 和 AMD GPU 四大主流芯片上训练和部署 Claude 模型。视频还提到，借助名为 Mythos 的系统，Claude 模型首次在 AMD GPU 上运行仅用三天且几乎无需人工干预。此外，Anthropic 强调其通过不断发现“算力乘数”来提升总有效算力，并展望未来 Claude 可自主发现这些乘数，实现递归自我改进。
 
-hackernews · brownrout · 11月11日 15:33 · [社区讨论](https://news.ycombinator.com/item?id=50454625)
+rss · Simon Willison · 11月11日 15:11
 
-**「背景信息」** Granola 是一款流行的 AI 会议转录工具，主打无需会议机器人、自动通知与隐私保护，支持多种主流会议平台。用户可自主选择转录哪些会议，并通过水印或自动消息提醒与会者，帮助满足不同地区的录音与隐私合规要求。Yogurt 的出现正是在 Granola 及类似云端服务广泛应用的背景下，针对本地处理和开源透明性提出了替代方案。
-
-**「影响」** 对于注重隐私或成本的用户，Yogurt 提供了无需担心数据泄露风险的会议记录与摘要解决方案，尤其适用于法律要求严格的地区或企业环境。开发者和开源社区也可基于其代码进行二次开发或集成。
-
-**「社区讨论」** 有用户指出，Yogurt 的本地处理方式更适合隐私敏感和法律合规需求，并赞赏其默认提醒功能以避免录音法律风险。另有讨论关注其与 Muesli、OpenOats 等其他开源项目的差异，以及产品命名对搜索和推广的影响。
+**「背景信息」** Anthropic 是一家专注于大规模人工智能模型（如 Claude）的公司。此前，主流 AI 公司通常只针对单一芯片平台（如 NVIDIA GPU）优化训练和推理流程。Anthropic 此次在 IPO 路演视频中首次披露，他们采用了横跨 AWS Trainium、Google TPU、NVIDIA GPU 和 AMD GPU 的多芯片策略，这一做法此前在业内较为罕见。根据相关报道，这种策略最初被认为开发和维护成本高昂，但 Anthropic 通过内部工具（如 Mythos）大幅缩短了新平台适配时间。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.granola.ai/">Granola — The AI Notepad for back-to-back meetings</a></li>
-<li><a href="https://www.granola.ai/blog/ai-meeting-transcription-how-it-works-and-which-tools-lead-in-2026">AI meeting transcription: How it works and which tools lead ...</a></li>
-<li><a href="https://docs.granola.ai/help-center/consent-security-privacy/getting-consent">When to Use AI Notetaking: A Guide for Your Team - Granola ...</a></li>
+<li><a href="https://todayforai.com/en/items/art-5672236b-42d">Anthropic IPO Roadshow Reveals Four-Chip Training Strategy</a></li>
+<li><a href="https://www.youtube.com/watch?v=5Ioh4Vw6Krc">Anthropic&#x27;s $2 Trillion IPO: Building the Roadshow Deck with AI Anthropic&#x27;s IPO roadshow video - simonwillison.net Anthropic&#x27;s IPO roadshow video - AI Weekly Malaysia Anthropic launches roadshow for proposed initial public offering Anthropic IPO roadshow reveals multi-chip… · AGI Hunt</a></li>
 
 </ul>
 </details>
 
-**标签**: `#open-source`, `#AI`, `#privacy`, `#productivity-tools`
+**标签**: `#AI infrastructure`, `#IPO`, `#industry news`, `#hardware`
 
 ---
 
 <a id="item-tech-news-12"></a>
-### [llm 0.37.2 修复 OpenAI API 密钥泄露漏洞](https://simonwillison.net/2026/Nov/11/llm/) ⭐️ 7.0/10
+### [CoRL 机器人论文探索工具上线，涵盖 10 年 2100+ 篇论文](https://www.reddit.com/r/MachineLearning/comments/1xtul3j/i_built_an_explorer_of_2100_robotics_papers/) ⭐️ 7.0/10
 
-llm 0.37.2 版本修复了一个涉及 OpenAI 兼容端点的 API 密钥泄露安全问题。该漏洞可能导致用户在配置或使用第三方 OpenAI 兼容 API 时，意外将本地存储的 OpenAI API 密钥发送给其他服务提供商。此次修复针对两种具体情形：一是未存储指定 api\_key\_name 时，二是在带有 responses: true 的模型中使用 -o chat\_completions 1 参数时。该版本现已发布，建议所有使用相关功能的开发者尽快升级。
-
-rss · Simon Willison · 11月11日 17:19
-
-**「背景信息」** llm 是一个开源命令行工具，允许用户通过本地配置与 OpenAI 兼容的 API 端点（包括第三方提供商）进行交互。用户可通过 extra-openai-models.yaml 文件或新引入的 &\#x27;llm openai endpoint add&\#x27; 命令添加和管理这些端点。由于这些端点可能来自不同的服务商，API 密钥的安全管理尤为重要，防止敏感信息泄露。
-
-**「影响」** 受影响的开发者如果继续使用旧版本，存在敏感 OpenAI API 密钥被第三方服务获取的风险。升级到 0.37.2 后，可有效防止密钥意外泄露，保障数据和账户安全。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://freellm.net/config/">Free AI Coding Tool Config Generator — Claude Code... | freellm.net</a></li>
-
-</ul>
-</details>
-
-**标签**: `#security`, `#open source`, `#AI tooling`, `#software release`
-
----
-
-<a id="item-tech-news-13"></a>
-### [Anthropic IPO 路演视频披露多芯片 AI 基础设施细节](https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/) ⭐️ 7.0/10
-
-Anthropic 在其 IPO 路演视频中首次公开了其多芯片 AI 基础设施和业务策略的细节。视频中，联合创始人 Tom Brown 介绍了 Anthropic 如何在 AWS Trainium、Google TPU、NVIDIA GPU 和 AMD GPU 四大主流芯片上训练和部署 Claude 模型。值得注意的是，Anthropic 通过内部工具 Mythos，仅用三天就实现了 Claude 在 AMD GPU 上的运行，几乎无需人工干预。此外，Anthropic 强调其通过不断发现“计算乘数”来提升总有效算力，并提出未来 Claude 有望实现递归自我改进，自动发现更多计算优化方法。
-
-rss · Simon Willison · 11月11日 15:11
-
-**「背景信息」** Anthropic 是一家专注于大规模人工智能模型（如 Claude）的公司，近年来在 AI 行业中以其安全性和多平台部署能力受到关注。此前，Anthropic 曾在 2025 年 9 月的一份技术事故复盘中简要提及其多芯片策略，但未披露具体细节。此次 IPO 路演视频首次系统性公开了其在 AWS Trainium、Google TPU、NVIDIA GPU 和 AMD GPU 等多种硬件平台上训练和部署 AI 模型的技术路径和优势。
-
-**标签**: `#AI industry`, `#hardware`, `#machine learning`, `#technology business`
-
----
-
-<a id="item-tech-news-14"></a>
-### [CoRL 机器人论文探索工具上线，收录 2100+ 篇论文](https://www.reddit.com/r/MachineLearning/comments/1xtul3j/i_built_an_explorer_of_2100_robotics_papers/) ⭐️ 7.0/10
-
-一款新的开源工具已上线，收录了过去十年（2017–2026）CoRL（机器人学习会议）的 2100 多篇机器人论文。该工具为每篇论文提供简要摘要（TLDR）、代码链接、项目主页、arXiv 链接、研究趋势等信息，旨在提升机器人学习领域研究的可访问性和检索效率。开发者还计划未来在此基础上增加自动化研究功能，并欢迎社区贡献新特性。
+一款新的开源工具已发布，收录并索引了过去 10 年（2017–2026）CoRL（机器人学习会议）上的 2100 多篇机器人学论文。该工具为每篇论文提供简要摘要（TLDR）、代码链接、项目主页、arXiv 链接、任务标签、统计数据和研究趋势等功能，旨在提升机器人学习领域研究的可访问性和检索效率。用户可通过网页浏览器访问该工具，并可在 GitHub 上参与贡献或提出新功能建议。
 
 reddit · r/MachineLearning · /u/promptdom · 11月11日 21:42
 
-**「背景信息」** CoRL（Conference on Robot Learning）是机器人学习领域的重要学术会议，每年都会收录大量相关论文。此前，研究者通常需要分别在会议官网、arXiv 或 OpenReview 等平台查找论文、代码和项目页面，缺乏统一的检索和整理工具。corl-explorer 项目正是为了解决这一痛点，提供了按年份、任务和主题分类的 CoRL 论文浏览、摘要、代码和趋势分析等功能，提升了研究资料的可访问性和整理效率。
+**「背景信息」** CoRL（机器人学习大会）是一个每年举办的国际会议，旨在汇聚机器人学与机器学习领域的研究者，关注学习方法在机器人领域中的应用及其与其他机器人技术的交互。该会议自 2017 年以来持续举办，成为机器人学习领域的重要学术交流平台。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://github.com/operatic-ai/corl-explorer/tree/main">GitHub - operatic-ai/corl-explorer: Explore 2,175 robotics ...</a></li>
+<li><a href="https://www.corl.org/contributions">CoRL 2026 - Contributions</a></li>
+<li><a href="https://www.corl2023.org/">CoRL 2023</a></li>
 
 </ul>
 </details>
@@ -365,66 +326,67 @@ reddit · r/MachineLearning · /u/promptdom · 11月11日 21:42
 
 ---
 
-<a id="item-tech-news-15"></a>
-### [WorkflowArena：最强模型未必是最佳多智能体协调者](https://www.reddit.com/r/MachineLearning/comments/1xt9hbe/would_you_pick_your_strongest_model_to_coordinate/) ⭐️ 7.0/10
+<a id="item-tech-news-13"></a>
+### [WorkflowArena：最强模型未必是最佳协调者](https://www.reddit.com/r/MachineLearning/comments/1xt9hbe/would_you_pick_your_strongest_model_to_coordinate/) ⭐️ 7.0/10
 
-根据 WorkflowArena 新基准的实验结果，在多智能体工作流中，单任务表现最强的模型未必是最有效的协调者。具体实验中，Opus 5.5 和 GPT-6 Astra 分别为四个执行模型设计静态工作流，结果 Opus 5.5 的工作流平均提升了执行者 6.41 分，而 GPT-6 Astra 的工作流反而平均降低了 2.53 分，尽管 Astra 在主基准测试中整体性能更强。这表明，仅凭模型自身的任务表现来选择协调者，可能忽略了其组织工作方式对团队实际执行效果的影响。WorkflowArena 基准涵盖 145 个长周期任务和八个领域，专注于多模型协作与分工的实际效果。
+WorkflowArena 的实验结果显示，在多智能体系统中，单体性能最强的模型并不一定是最有效的协调者。具体实验中，Opus 5.5 和 GPT-6 Astra 分别为四个执行模型设计静态工作流，结果 Opus 5.5 的工作流平均提升了执行者 6.41 分，而 GPT-6 Astra 的工作流反而平均降低了 2.53 分，尽管 Astra 在主基准测试中表现更强。这表明，选择协调者时仅凭其单独任务表现可能忽略了其组织工作对团队整体效能的实际影响。WorkflowArena 是 Einsia 团队推出的新基准，涵盖 145 个长周期任务和八个领域，专注于多模型协作与分工的评估。
 
 reddit · r/MachineLearning · /u/OliviaYii · 11月11日 05:25
 
-**「背景介绍」** WorkflowArena 是由 Einsia 团队推出的多智能体工作流基准测试平台，旨在评估前沿 AI 代理在实际工程任务中的协作与分工能力。该基准涵盖多个领域的长周期任务，要求代理自主划分工作并进行任务委派，最终根据交付成果是否满足要求进行评分。与传统的单模型性能评测不同，WorkflowArena 更关注多模型协作下的流程设计与执行效果。
+**「背景介绍」** WorkflowArena 是由 Einsia 团队推出的多智能体工作流编排基准，涵盖 8 个专业领域的 145 个长周期任务。该基准测试模型是否能够为多智能体团队编写可执行的工作流，并允许代理自主划分任务和分工。与以往由基准设计者预设协调结构的方式不同，WorkflowArena 让模型自行决定如何组织和分配工作，从而更真实地评估模型在实际多智能体协作中的协调与分工能力。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://lab.einsia.ai/">Frontier AI Research &amp; Benchmarks | Navers Lab - Einsia</a></li>
-<li><a href="https://github.com/kvenux/workflow-arena">GitHub - kvenux/ workflow - arena : Reproducible benchmark harness...</a></li>
+<li><a href="https://lab.einsia.ai/workflowarena/home.html">WorkflowArena · Executable Workflow Orchestration</a></li>
+<li><a href="https://arxiv.org/pdf/2611.12856">WorkflowArena: Benchmarking Executable Workflow Orchestration ...</a></li>
+<li><a href="https://explainx.ai/blog/workflowarena-multi-agent-orchestration-benchmark-einsia-2026">WorkflowArena: A Benchmark for LLM-Written Agent Workflows</a></li>
 
 </ul>
 </details>
 
-**标签**: `#multi-agent systems`, `#AI coordination`, `#benchmarks`, `#machine learning`
+**标签**: `#multi-agent systems`, `#coordination`, `#benchmarks`, `#machine learning`
 
 ---
 
-<a id="item-tech-news-16"></a>
-### [Qwen4-Max 预览版上线阿里多款产品](https://mp.weixin.qq.com/s/J_zbVHa2R3mmY5KD4v3-bw) ⭐️ 7.0/10
-
-阿里巴巴发布了 Qwen4-Max 预览版，这是其升级版大语言模型，官方称其在知识理解、世界感知、编程（Coding）和智能体（Agentic）能力方面均有提升。Qwen4-Max 已在阿里 Token Plan 首发上线，并提供限时最低 1 折的体验价格。同时，Qoder、千问 App、QwenStudio 等多款产品已接入该新模型。此次发布为预览版，具体技术细节和正式版发布时间尚未披露。
-
-telegram · zaihuapd · 11月11日 02:35
-
-**「背景信息」** Qwen4-Max 是阿里巴巴 Qwen 4 系列中的旗舰大模型，主打复杂编程和智能体任务能力。此前，Qwen3.8-Flash-Next 被官方描述为 Qwen 4 架构的预览版本。Qwen4-Max 预览版现已通过阿里 Token Plan、Qwen Office 及相关工具上线，具备多模态理解、深度推理和工具调用等能力，支持最长 100 万 token 的上下文输入。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.glukhov.org/ai-models/families/qwen-4/">Qwen 4 Is Coming: What&#x27;s Confirmed and What It Means for Local AI</a></li>
-<li><a href="https://www.kucoin.com/news/flash/aliyun-launches-qwen4-max-preview-focused-on-complex-programming">Aliyun Launches Qwen 4 - Max Preview Focused on Complex... | KuCoin</a></li>
-<li><a href="https://www.alibabacloud.com/help/en/model-studio/qwen4-max-preview">qwen 4 - max -preview - Alibaba Cloud Model Studio - Alibaba Cloud...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI models`, `#industry news`, `#large language models`, `#Alibaba`
-
----
-
-<a id="item-tech-news-17"></a>
+<a id="item-tech-news-14"></a>
 ### [微软专利提出用闲置设备训练 AI](https://www.techspot.com/news/114499-microsoft-patent-describes-paying-you-train-ai-idle.html) ⭐️ 7.0/10
 
-微软近日提交了一项专利，提出利用用户同意参与的闲置设备（如服务器、台式机和智能手机）进行分布式 AI 训练。系统会监测设备的 CPU、GPU、内存、温度和功耗等资源状况，在设备低负载或闲置时分配训练任务，并以现金、软件商店积分或模型优先体验等方式补偿用户。目前该专利仅为技术设想，尚未有实际产品或服务落地，具体实施时间和方式尚不明确。
+微软近日提交了一项专利，提出利用用户同意参与的闲置设备（如服务器、台式机和智能手机）进行分布式 AI 训练。系统会监测设备的 CPU、GPU、内存、温度和功耗等资源状况，在设备低负载或空闲时分配训练任务，并根据贡献以现金、软件商店积分或模型优先体验等方式补偿用户。目前该专利尚未实际部署，是否会落地仍不确定。
 
 telegram · zaihuapd · 11月11日 04:45
 
-**「相关背景」** 分布式计算利用多台设备的闲置资源来完成大型任务，早期如 SETI@home 项目已将此方法用于科学计算。近年来，部分公司和项目（如 Calgo）已尝试通过移动应用让用户贡献设备算力参与 AI 计算，但通常未涉及现金或积分补偿。微软此次专利提出结合资源监测与用户激励，旨在提升分布式 AI 训练的可行性和用户参与度。
+**「相关背景」** 分布式计算利用多台设备的闲置资源来完成大型任务，早期如 SETI@home 项目就曾用志愿者电脑分析天文数据。近年来，随着 AI 训练对算力需求激增，如何高效利用现有硬件资源成为业界关注点。微软此次专利提出将 AI 训练任务分配到用户同意参与的闲置设备，并通过现金或积分等方式补偿用户，属于分布式计算和激励机制结合的新探索。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://hitechnectar.com/news-post/calgo-launches-mobile-app-to-support-distributed-ai-computing/">Calgo Launches Mobile App to Support Distributed AI Computing</a></li>
+<li><a href="https://www.techspot.com/news/114499-microsoft-patent-describes-paying-you-train-ai-idle.html">Microsoft patent describes paying you to train AI on your ...</a></li>
+<li><a href="https://cryptobriefing.com/microsoft-patent-idle-computing-power-ai/">Microsoft patent filing describes paying users for idle ...</a></li>
+<li><a href="https://tbreak.com/microsoft-idle-gpu-patent-ai-training/">Microsoft idle GPU patent pays PC owners to train AI</a></li>
 
 </ul>
 </details>
 
-**标签**: `#distributed computing`, `#AI training`, `#patents`, `#resource utilization`
+**标签**: `#distributed-computing`, `#AI-infrastructure`, `#patents`, `#industry-trends`
+
+---
+
+<a id="item-tech-news-15"></a>
+### [字节跳动宣布类 Muse 智能体计划，目标 2030 年追赶 OpenAI](https://www.bloomberg.com/news/articles/2026-11-11/bytedance-prepares-muse-like-agent-in-push-to-close-ai-gap) ⭐️ 7.0/10
+
+字节跳动计划在未来数周内发布一款类似 Meta Muse 的 AI 助手，并宣布将在 Seedance 视频 AI 平台上投入最高 700 亿美元。公司联合创始人张一鸣在内部会议上表示，预计到 2029 或 2030 年才能在前沿 AI 领域与 OpenAI 和 Anthropic 等美国顶尖实验室持平。此次战略明确提出不依赖模型蒸馏技术，强调自主研发。该消息为公司未来发展目标和投资计划，尚未有具体产品或技术细节发布。
+
+telegram · zaihuapd · 11月11日 12:31
+
+**「背景信息」** Meta 于 2026 年 9 月宣布推出 Muse，这是一款能够为用户持续执行任务的个人 AI 智能体，与传统仅进行单轮问答的聊天机器人不同。Muse 旨在帮助用户处理日常事务，实现更高效的任务管理。字节跳动此次计划开发的“类 Muse 智能体”即参考了 Meta Muse 的产品形态和功能定位。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Muse_%28AI_agent%29">Muse (AI agent) - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI industry`, `#strategic investment`, `#AI assistants`, `#video AI`
 
 ---
 
@@ -433,7 +395,7 @@ telegram · zaihuapd · 11月11日 04:45
 <a id="item-finance-news-1"></a>
 ### [Fed&\#x27;s Goolsbee calls inflation report &\#x27;borderline disturbing&\#x27; as central bank weighs more hikes](https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html) ⭐️ 8.0/10
 
-Fed officials react to a higher-than-expected inflation report, signaling possible further interest rate hikes and increased policy uncertainty.
+Fed officials signal heightened concern over persistent inflation after a higher-than-expected CPI report, raising the odds of further and possibly larger interest rate hikes.
 
 rss · CNBC Finance · 11月11日 16:49
 
@@ -444,107 +406,108 @@ rss · CNBC Finance · 11月11日 16:49
 <a id="item-finance-news-2"></a>
 ### [离岸信托收益征税过渡期结束，申报税款超 1600 亿元](https://www.news.cn/20261111/9bcce99c779b4a6197ff45bbbc3e4c50/c.html) ⭐️ 8.0/10
 
-中国离岸信托收益征税的 90 天过渡期已结束，税务总局称累计申报个人所得税超 1600 亿元人民币，其中 10 月当月入库超 1200 亿元，带动全国个人所得税收入同比增长近 90%。
+中国离岸信托收益征税 90 天过渡期已结束，税务总局称累计申报个人所得税超 1600 亿元，其中 10 月单月入库超 1200 亿元。10 月全国个人所得税收入同比增长近 90%。
 
 telegram · zaihuapd · 11月11日 10:35
 
-**「背景」** 2026 年 7 月 24 日，中国财政部和税务总局发布公告，首次对中国税收居民关联的离岸信托收益征税，并设定了 90 天的过渡期以便纳税人申报缴税。此前，离岸信托收益在中国税收体系下监管较为宽松，相关税收政策尚不完善。
+**「背景」** 2026 年 7 月，中国财政部和税务总局发布公告，对中国居民通过离岸信托获得的收益征收个人所得税，并设定了 90 天的过渡期以便纳税人申报和缴税。此前，离岸信托相关收益的税收监管较为宽松，新的规定加强了透明度和合规要求。
 
-**「影响」** 高净值个人和涉足离岸信托的家庭需注意，未按规定申报将面临补缴、滞纳金及稽查风险。
+**「影响」** 高净值个人和相关离岸信托结构面临更严格的税务申报和补缴要求，税务部门将对未申报或申报不实者加大执法力度。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.linkedin.com/pulse/chinas-new-offshore-trust-tax-regime-watershed-moment-sharon-taylor-risuc">China ’s New Offshore Trust Tax Regime: A Watershed Moment for...</a></li>
+<li><a href="https://kpmg.com/cn/en/insights/2026/07/china-tax-alert-05.html">New Individual Income Tax Rules for Offshore Trusts ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#tax policy`, `#offshore trusts`, `#personal income tax`, `#China`
+**标签**: `#tax policy`, `#offshore trusts`, `#China`, `#personal income tax`, `#regulation`
 
 ---
 
 <a id="item-finance-news-3"></a>
-### [调查称 24 万颗英伟达被禁 AI 芯片流入中国](https://www.tomshardware.com/tech-industry/policy/alice-huang-reportedly-instrumental-in-securing-over-usd7-5-billion-of-nvidia-ai-gpu-imports-during-three-year-relationship-with-jensen-huang-helped-move-240-000-banned-chips-into-china-mostly-h100-and-h200) ⭐️ 8.0/10
+### [调查称 24 万颗英伟达 AI 芯片疑被协助流入中国](https://www.tomshardware.com/tech-industry/policy/alice-huang-reportedly-instrumental-in-securing-over-usd7-5-billion-of-nvidia-ai-gpu-imports-during-three-year-relationship-with-jensen-huang-helped-move-240-000-banned-chips-into-china-mostly-h100-and-h200) ⭐️ 8.0/10
 
-据 The Information 调查，黄乐被指协助约 24 万颗被美国禁运的英伟达 AI 芯片（价值约 75 亿美元）流入中国，主要为 H100 和 H200 型号。该调查称相关交易涉及上海世纪利通和新加坡 Megaspeed 等公司。
+据 The Information 报道，黄乐被指协助约 24 万颗受限英伟达 AI 芯片（价值约 75 亿美元）进入中国，涉嫌绕过出口管制。
 
 telegram · zaihuapd · 11月11日 14:41
 
-**「背景」** 美国对高性能 AI 芯片出口中国实施了严格限制，英伟达的 H100 和 H200 等芯片被列入受限名单。此前，相关芯片的出口需获得美国政府许可，旨在防止中国获得先进半导体技术。
+**「背景」** 美国对先进半导体实施出口管制，限制英伟达等公司向中国出口高端 AI 芯片，相关企业和个人因此受到严格审查。此前，上海世纪利通和新加坡 Megaspeed 等公司被指通过复杂的公司网络协助芯片流入中国。
 
 <details><summary>参考链接</summary>
 <ul>
 <li><a href="https://www.theinformation.com/articles/jensen-huangs-yearslong-ties-alice-huang-enabled-nvidia-chip-sales-china">How Jensen Huang’s Yearslong Ties to Alice Huang Enabled $7 ...</a></li>
 <li><a href="https://www.reuters.com/world/china/nvidia-ceos-affair-aided-75-billion-chip-shipments-china-information-reports-2026-11-10/">Nvidia faces deepening scrutiny over China chip ties, CEO ...</a></li>
+<li><a href="https://www.theinformation.com/briefings/nvidia-ceo-reportedly-targeted-suspected-chinese-informant">Nvidia CEO Reportedly Targeted By Suspected Chinese Informant</a></li>
 
 </ul>
 </details>
 
-**标签**: `#semiconductors`, `#export controls`, `#US-China relations`, `#technology industry`
+**标签**: `#semiconductors`, `#export controls`, `#Nvidia`, `#China`, `#trade policy`
 
 ---
 
 <a id="item-finance-news-4"></a>
-### [英伟达董事会据称准备罢免 CEO 黄仁勋](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad?mod=tech_lead_pos2) ⭐️ 8.0/10
+### [美国参议员关注与药物审批相关的预测市场风险](https://www.cnbc.com/2026/11/11/kalsi-polymarket-prediction-market-senators-hhs-drug-approval.html) ⭐️ 7.0/10
 
-据《华尔街日报》报道，英伟达董事会正准备罢免首席执行官黄仁勋，原因是其个人丑闻，消息传出后公司股价盘后大跌约 8%。目前英伟达尚未对此作出正式回应。
+两位美国参议员致信卫生与公众服务部（HHS），要求其说明针对与临床试验和药物审批相关预测市场风险采取的措施，显示出对这些市场可能面临监管审查的信号。信中提及担忧包括科学诚信、参与者激励和内幕交易风险，目前尚未有具体政策变化。
 
-telegram · zaihuapd · 11月11日 23:39
+rss · CNBC Finance · 11月11日 19:16
 
-**「背景」** 黄仁勋是英伟达的创始人兼首席执行官，此前被曝出涉及两段婚外情，其中一名女性被怀疑与中国情报机构有关，导致公司董事会面临管理层和公司治理压力，并启动了独立调查。此前英伟达尚未对此事件作出正式回应。
-
-**「影响」** 如果罢免属实，将对英伟达管理层稳定性及投资者信心产生重大影响。
+**「背景」** 2026 年 7 月，Kalshi 和 Polymarket 等预测市场平台开始允许用户对临床试验结果和美国食品药品监督管理局（FDA）药品审批结果进行押注，引发了监管和伦理方面的关注。此前，这类市场主要面向国际用户，美国监管机构尚未对其进行明确规范。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad">Exclusive | Nvidia Is Preparing to Oust CEO Jensen Huang</a></li>
+<li><a href="https://www.nytimes.com/2026/07/28/business/kalshi-polymarket-prediction-market-drugs.html">Prediction Market Betting on Drug Trials and Approvals Sparks ...</a></li>
+<li><a href="https://www.npr.org/2026/08/07/nx-s1-5922530/patients-betting-kalshi-polymarket-clinical-trials">Kalshi, Polymarket offer bets on clinical trials and FDA ...</a></li>
+<li><a href="https://www.reuters.com/legal/litigation/kalshi-allow-bets-clinical-trials-fda-decisions-2026-07-16/">Kalshi to allow bets on clinical trials, FDA decisions</a></li>
 
 </ul>
 </details>
 
-**标签**: `#corporate governance`, `#executive changes`, `#technology sector`, `#market reaction`
+**标签**: `#regulation`, `#prediction markets`, `#healthcare policy`, `#biotechnology`, `#insider trading`
 
 ---
 
 <a id="item-finance-news-5"></a>
-### [美国参议员关注药物预测市场并要求监管部门说明措施](https://www.cnbc.com/2026/11/11/kalsi-polymarket-prediction-market-senators-hhs-drug-approval.html) ⭐️ 7.0/10
+### [阿里巴巴计划分拆芯片子公司平头哥在港上市](https://www.cnbc.com/2026/11/11/alibaba-pr.html) ⭐️ 7.0/10
 
-两位美国参议员致信卫生与公众服务部（HHS），对与临床试验和药品审批相关的预测市场表达担忧，并要求说明已采取的风险防范措施。
+阿里巴巴宣布计划将其半导体子公司平头哥在香港公开上市，具体上市时间和规模尚未披露。该计划需获得港交所和中国证监会批准。
 
-rss · CNBC Finance · 11月11日 19:16
+rss · CNBC Finance · 11月11日 07:47
 
-**「背景」** Kalshi 和 Polymarket 等平台近期推出了允许用户对临床试验结果和美国食品药品监督管理局（FDA）药品审批进行投注的预测市场，这引发了学者和监管机构对内幕交易和科学诚信风险的担忧。此前，相关市场已因可能影响药物开发流程和患者决策而受到争议。
+**「背景」** T-Head 是阿里巴巴旗下的无工厂半导体设计部门，主要为阿里云开发定制芯片和处理器技术，近年来大幅增加资本投入，旨在提升其在中国本土半导体领域的竞争力。此前，T-Head 的芯片主要用于阿里巴巴自身的云计算服务，而非大规模对外销售。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.npr.org/2026/08/07/nx-s1-5922530/patients-betting-kalshi-polymarket-clinical-trials">Kalshi , Polymarket offer bets on clinical trials and FDA approvals</a></li>
-<li><a href="https://www.nytimes.com/2026/07/28/business/kalshi-polymarket-prediction-market-drugs.html">Prediction Market Betting on Drug Trials and Approvals Sparks...</a></li>
+<li><a href="https://www.scmp.com/tech/big-tech/article/3358032/alibaba-chip-unit-t-head-triples-capital-amid-ai-hardware-bet">Alibaba chip unit T-Head triples capital amid AI hardware bet</a></li>
+<li><a href="https://chips.techbuzzchina.com/companies/alibaba-t-head">Alibaba T-Head | China Chip Stack</a></li>
 
 </ul>
 </details>
 
-**标签**: `#regulation`, `#prediction markets`, `#healthcare policy`, `#drug approval`, `#market oversight`
+**标签**: `#Alibaba`, `#semiconductors`, `#IPO`, `#China tech`, `#regulation`
 
 ---
 
 <a id="item-finance-news-6"></a>
-### [阿里巴巴计划分拆并在港上市半导体子公司平头哥](https://www.cnbc.com/2026/11/11/alibaba-pr.html) ⭐️ 7.0/10
+### [英伟达董事会据称准备罢免 CEO 黄仁勋](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad?mod=tech_lead_pos2) ⭐️ 7.0/10
 
-阿里巴巴宣布计划将其半导体子公司平头哥分拆并在香港上市，具体上市时间和规模尚未披露。该公司已于 9 月 11 日向港交所递交了上市申请，上市仍需获得港交所和中国证监会批准。
+据《华尔街日报》报道，英伟达董事会据称正准备罢免首席执行官黄仁勋，受此消息影响，公司股价盘后下跌约 8%。目前英伟达尚未正式回应该传闻。
 
-rss · CNBC Finance · 11月11日 07:47
+telegram · zaihuapd · 11月11日 23:39
 
-**「背景」** T-Head（平头哥半导体）是阿里巴巴集团旗下的无工厂半导体设计部门，主要为阿里云等内部业务开发处理器和定制芯片，2018 年由阿里巴巴收购的 C-Sky 微系统与达摩院芯片团队合并组建。此前 T-Head 由阿里巴巴支持，未来将独立运营并自负盈亏。
+**「背景」** 此前，英伟达首席执行官黄仁勋被曝与一名被怀疑为中国情报人员的女性及公司内部高管有婚外情，董事会已启动独立调查并面临外界压力。该事件由《华尔街日报》率先报道，尚未获得公司正式回应。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://baike.baidu.com/en/item/Pingtouge+Semiconductor+Co.,+Ltd/22993">Pingtouge Semiconductor Co., Ltd（semiconductor company）_Baiduwi...</a></li>
-<li><a href="https://chips.techbuzzchina.com/companies/alibaba-t-head">Alibaba T-Head | China Chip Stack</a></li>
-<li><a href="https://nextomoro.com/alibaba-t-head/">T-Head Semiconductor | nextomoro</a></li>
+<li><a href="https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad">Exclusive | Nvidia Is Preparing to Oust CEO Jensen Huang</a></li>
+<li><a href="https://www.wsj.com/cfo-journal/jensen-huang-investigation-rocks-nvidia-as-board-investigates-a0581595">Jensen Huang Investigation Rocks Nvidia as Board Investigates</a></li>
+<li><a href="https://www.reuters.com/world/china/view-nvidia-is-preparing-oust-ceo-jensen-huang-wsj-reports-2026-11-11/">VIEW Nvidia is preparing to oust CEO Jensen Huang, WSJ ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Alibaba`, `#semiconductors`, `#IPO`, `#China tech`, `#AI chips`
+**标签**: `#corporate governance`, `#executive changes`, `#technology`, `#stock movement`
 
 ---
