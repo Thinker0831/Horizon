@@ -5,373 +5,437 @@ date: 2026-11-14
 lang: zh
 ---
 
-> 从 45 条内容中筛选出 19 条重要资讯。
+> 从 38 条内容中筛选出 18 条重要资讯。
 
 ---
 
 **科技新闻**
-1. [美国联邦航空局（FAA）全国航班停飞，疑与通信及 AI 系统相关](#item-tech-news-1) ⭐️ 8.0/10
-2. [TorchTitan 上 1 万亿参数 MoE 模型扩展实战经验](#item-tech-news-2) ⭐️ 8.0/10
-3. [前沿 AI 模型几乎满分通过材料科学七项测试，引发长周期评估讨论](#item-tech-news-3) ⭐️ 8.0/10
-4. [交大医学院基因编辑事件调查结果公布](#item-tech-news-4) ⭐️ 8.0/10
-5. [Python 早期贡献者 Tim Peters 去世](#item-tech-news-5) ⭐️ 8.0/10
-6. [微软 Outlook、Teams 全球宕机超 12 小时](#item-tech-news-6) ⭐️ 8.0/10
-7. [Haskell 生态系统技术愿景引发社区热议](#item-tech-news-7) ⭐️ 7.0/10
-8. [发现促进衰老但不引发炎症的蛋白 Granzyme K](#item-tech-news-8) ⭐️ 7.0/10
-9. [ICML 2027 引入双阶段评审及作者-审稿人新规](#item-tech-news-9) ⭐️ 7.0/10
-10. [基于 NLI 与编码器的开源法律冲突检测工具发布](#item-tech-news-10) ⭐️ 7.0/10
-11. [ParaTrace v8 开放权重并在 RAID 榜单排名第五](#item-tech-news-11) ⭐️ 7.0/10
-12. [tamserve：开源实时视频追踪系统降低成本并提升效率](#item-tech-news-12) ⭐️ 7.0/10
-13. [SpaceX 裁撤 Grok Imagine 团队并调整 AI 战略方向](#item-tech-news-13) ⭐️ 7.0/10
-14. [OpenAI 推出 ChatGPT Wallet 支付钱包](#item-tech-news-14) ⭐️ 7.0/10
+1. [SpaceX 成功捕获 Starship，完成第 15 次飞行](#item-tech-news-1) ⭐️ 9.0/10
+2. [SpaceX 星舰第 15 次试飞入轨但助推器爆炸](#item-tech-news-2) ⭐️ 8.0/10
+3. [Cloudflare 开源 AI 代理浏览器 Kitesurf](#item-tech-news-3) ⭐️ 8.0/10
+4. [Meta 因违规读取相册被意大利罚款 8.05 亿欧元](#item-tech-news-4) ⭐️ 8.0/10
+5. [Lovable 应用因配置失误泄露护照信息与 20 万条私信](#item-tech-news-5) ⭐️ 7.0/10
+6. [Project Zero 调整漏洞披露政策：逐步缩短披露窗口至 30 天](#item-tech-news-6) ⭐️ 7.0/10
+7. [DeepSeek V3 核心创新的 JAX 极简实现开源](#item-tech-news-7) ⭐️ 7.0/10
+8. [PyPI 项目页改版，强化安全与溯源信息](#item-tech-news-8) ⭐️ 7.0/10
+9. [Google Antigravity 推出 /teamwork 协作 AI 代理功能](#item-tech-news-9) ⭐️ 7.0/10
+10. [短期价格预测应对比市场隐含预测而非仅用朴素基线](#item-tech-news-10) ⭐️ 7.0/10
+11. [OpenAI 解散机器人团队，转向通用模型驱动机器人](#item-tech-news-11) ⭐️ 7.0/10
+12. [W5000 全球最大无人货机完成首次试飞](#item-tech-news-12) ⭐️ 7.0/10
+13. [新西兰工人抗议 AI 监控如厕时间](#item-tech-news-13) ⭐️ 7.0/10
+14. [Google 高管用 Gemini 让 Windows 11 跑上折叠 iPhone](#item-tech-news-14) ⭐️ 7.0/10
 
 **科技博客**
-1. [NVIDIA cuPhoton 加速黑洞干涉测量的 GPU 实践](#item-tech-blog-1) ⭐️ 8.0/10
-2. [在 Jetson AGX Orin 上用 cuDLA 实现 Python 原生 DLA 推理](#item-tech-blog-2) ⭐️ 7.0/10
+1. [在大型科技公司中寻找工作的意义](#item-tech-blog-1) ⭐️ 6.0/10
 
 **财经新闻**
-1. [黄仁勋辞职引发美中关系紧张与出口管制趋严预期](#item-finance-news-1) ⭐️ 8.0/10
-2. [Lutnick faces questions over Nvidia spy scandal. His sons&\#x27; firm has deep ties to the chipmaker](#item-finance-news-2) ⭐️ 7.0/10
-3. [芝加哥联储主席称美联储需继续应对通胀压力](#item-finance-news-3) ⭐️ 7.0/10
+1. [Anthropic IPO 拒绝中国内地及香港投资者](#item-finance-news-1) ⭐️ 8.0/10
+2. [英伟达高层动荡与国会政策或重塑 AI 板块格局](#item-finance-news-2) ⭐️ 7.0/10
+3. [Cantor Fitzgerald 与 Nvidia 关系因出口调查受关注](#item-finance-news-3) ⭐️ 7.0/10
 
 ---
 
 ## 科技新闻
 
 <a id="item-tech-news-1"></a>
-### [美国联邦航空局（FAA）全国航班停飞，疑与通信及 AI 系统相关](https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247) ⭐️ 8.0/10
+### [SpaceX 成功捕获 Starship，完成第 15 次飞行](https://x.com/i/broadcasts/2brajgZlOKRMka) ⭐️ 9.0/10
 
-美国联邦航空局（FAA）于 2026 年 11 月 13 日下令全国范围内暂停所有出发航班。多方消息显示，此举与 L3Harris Technologies 管理的关键航空通信网络出现故障有关，该网络支持空管与飞行员的无线电通信。部分评论和报道还提及，FAA 近期刚在全国范围内部署了名为 SMART 的 AI 空中交通管制系统，且此次事故可能与该系统的上线或相关通信网络更新有关。目前尚无官方确认具体原因，但事故已导致主要机场大面积延误和取消。
+SpaceX 在 Starship 第 15 次飞行任务结束时，首次成功实现了对 Starship 飞船的捕获回收。这一突破性技术标志着可重复使用火箭技术的重大进展，有望进一步降低航天发射成本并提升任务频率。此次捕获操作的具体细节尚未公开，但其实现意味着 SpaceX 在大型火箭回收领域迈出了关键一步。
 
-hackernews · zulln · 11月13日 21:05 · [社区讨论](https://news.ycombinator.com/item?id=50489641)
+hackernews · ls612 · 11月14日 21:22 · [社区讨论](https://news.ycombinator.com/item?id=50500963)
 
-**「背景信息」** 美国联邦航空管理局（FAA）极少数情况下会发布全国范围的航班停飞令，通常仅在空中交通管制系统出现重大故障时采取。此次事件源于多个空中交通管制中心的通信问题，导致 FAA 下令所有美国机场暂停起飞。FAA 技术人员正在调查具体原因，目前尚未公布详细的技术故障信息。
+**「背景信息」** SpaceX 的 Starship 项目旨在实现完全可重复使用的重型运载火箭。此前，马斯克曾表示，如果第 14 次飞行（Flight 14）成功，将为第 15 次飞行（Flight 15）尝试“捕捉”回收提供条件，并估计首次尝试的成功概率为 50% 到 60%。此次 Flight 15 是首次计划将 Starship 和 Super Heavy 助推器都返回发射场并进行机械捕捉，如果成功，将成为轨道级运载系统首次实现全程回收的重要突破。
 
-**「影响分析」** 此次全国性停飞直接影响了美国所有主要机场的航班起降，造成大规模延误和取消，对航空公司、旅客及相关物流链条带来严重干扰。对于依赖 AI 和关键通信基础设施的航空业来说，此事件暴露了系统集成和升级过程中的潜在风险，相关部门和企业需重新评估 AI 系统与传统通信网络的兼容性和可靠性。
+**「影响」** 对于航天行业而言，这一成就将推动可重复使用火箭技术的普及，可能显著降低未来太空任务的经济门槛，并激励更多企业和工程师投入相关研发。
 
-**「社区讨论」** 部分社区成员认为，AI 空管系统的全国推广与通信网络的更新可能存在协同失误，导致系统崩溃和通信中断。也有用户指出，信息极为稀缺，官方和媒体尚未给出明确解释，现场机场和旅客只能通过零散渠道获取延误信息，凸显了危机沟通和透明度的不足。
+**「社区讨论」** 有评论认为这一成就将激励新一代工程师投身航天领域，也有人讨论了与芯片制造等其他高端工程领域的难度对比。此外，有观点指出，采用捕获而非着陆腿的方案是为了解决大型火箭自降落时的结构和重量难题。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.nytimes.com/live/2026/11/13/us/ground-stop-nationwide-flights-faa">Live Updates: FAA Declares Rare Nationwide Ground Stop of Flights</a></li>
-<li><a href="https://www.axios.com/2026/11/13/faa-nationwide-ground-stop">FAA issues nationwide ground stop due to &quot;extraordinary...&quot;</a></li>
-<li><a href="https://www.dailymail.com/news/article-16291587/FAA-groundstop-live.html">New AI traffic control system is may be possible cause of groundstop</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Starship_flight_15">Starship flight 15 - Wikipedia</a></li>
+<li><a href="https://www.spacex.com/launches/starship-flight-15">Starship Flight 15 - SpaceX</a></li>
 
 </ul>
 </details>
 
-**标签**: `#infrastructure`, `#AI systems`, `#aviation`, `#incident response`
+**标签**: `#aerospace`, `#engineering`, `#hardware`, `#industry`
 
 ---
 
 <a id="item-tech-news-2"></a>
-### [TorchTitan 上 1 万亿参数 MoE 模型扩展实战经验](https://www.reddit.com/r/MachineLearning/comments/1xvce5h/scaling_to_1t_moe_on_torchtitan_p/) ⭐️ 8.0/10
+### [SpaceX 星舰第 15 次试飞入轨但助推器爆炸](https://www.spacex.com/launches/starship-flight-15) ⭐️ 8.0/10
 
-该帖子详细介绍了在 TorchTitan 平台上，利用 GH200 GPU 成功扩展并训练了 1 万亿参数的 Mixture-of-Experts \(MoE\) 模型，单卡吞吐量达到约 1300 tokens/s，共使用 384 张 GPU。作者分享了分布式训练中的具体优化策略，包括采用 FSDP（全分布式数据并行）与节点内专家并行、优化通信与内存管理、切换优化器（Muon 替代 Adam）、以及精度与通信带宽权衡等。文中还披露了实际遇到的性能瓶颈、内存分配问题及其解决方法，并对 TorchTitan 框架做出了贡献性改进。该经验为在公共 Hopper 代 GPU 超算上进行大规模模型训练提供了可复现的技术路径和实测数据。
+SpaceX 于 2026 年 11 月 13 日进行了星舰第 15 次试飞，飞船成功入轨并部署了 26 颗 Starlink V3 卫星，其中 3 颗配备摄像头用于隔热瓦检查。原计划助推器和飞船均由发射塔机械臂夹住回收（“塔捕”），但助推器因技术问题未能返场，在墨西哥湾受控溅落并爆炸，未实现双回收。飞船将在轨约 22 小时后尝试人类首次轨道级飞船塔捕。具体助推器爆炸原因尚未公布。
 
-reddit · r/MachineLearning · /u/f14-bertolotti · 11月13日 16:28
+telegram · zaihuapd · 11月14日 03:03
 
-**「背景信息」** Mixture-of-Experts（MoE）是一种深度学习模型架构，通过将不同的专家网络分配给不同输入，实现参数规模极大的模型训练。TorchTitan 是一个高性能分布式训练平台，支持在如 GH200 这类高端 GPU 上进行大规模模型训练。JUPITER 超级计算机采用 GH200 GPU，并配备高速 NVLink、Grace-Hopper C2C 链路和 InfiniBand 网络，为前沿 AI 训练提供硬件基础。
+**「背景信息」** SpaceX 的星舰（Starship）项目旨在实现完全可重复使用的重型运载火箭系统，显著降低太空发射成本。此前，SpaceX 已多次尝试通过发射塔机械臂（俗称“筷子”）回收助推器和飞船，但此前均未实现轨道级飞船的塔捕。此次第 15 次试飞原计划首次同时尝试助推器和飞船的塔捕回收，标志着可重复使用技术的关键进展。
 
-**标签**: `#large-scale-models`, `#machine-learning-infrastructure`, `#deep-learning`, `#hardware`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=Kus39IK-ZvQ">SPACE X STARSHIP FLIGHT 15 LIVE | First-Ever Orbital... - YouTube</a></li>
+<li><a href="https://www.bbc.com/news/live/cq0k683l3dz3t">SpaceX successfully catches part of Starship rocket on... - BBC News</a></li>
+<li><a href="https://www.thenews.com.pk/latest/1423616-spacexs-starship-reaches-key-milestone-in-15th-test-flight-and-landing-attempt">SpaceX ’s Starship reaches key milestone in 15 th test flight and...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#hardware`, `#space technology`, `#computer systems`, `#industry news`
 
 ---
 
 <a id="item-tech-news-3"></a>
-### [前沿 AI 模型几乎满分通过材料科学七项测试，引发长周期评估讨论](https://www.reddit.com/r/MachineLearning/comments/1xvgf6h/four_frontier_models_scored_978100_on_a_7part/) ⭐️ 8.0/10
+### [Cloudflare 开源 AI 代理浏览器 Kitesurf](https://www.phoronix.com/news/Cloudflare-Kitesurf-Open-Source) ⭐️ 8.0/10
 
-四个前沿 AI 模型（Gemini 4 Carbon、Gemini 4 Hydrogen、Claude Opus 5.5、Claude Fable 5.2）在一项涵盖材料科学日常研究任务的七部分综合测试中，平均得分为 97.8–100 分。测试内容包括数据处理、物理计算、论文批判、实验设计等，所有模型均在高性能设置下进行三次独立测试，均通过了隐藏陷阱和复杂任务。此次结果显示，当前顶级模型在有明确流程和标准答案的技术任务上已接近饱和，推动社区关注如何评估 AI 在长周期、开放性任务中的表现。作者计划开发更长周期、带有预算和突发事件的模拟实验室评测，并向社区征询长周期任务评分和人类基线测量的经验。
+Cloudflare 以 Apache 2.0 协议开源了 Kitesurf，这是一款专为 AI 代理设计的无状态浏览器。Kitesurf 基于 Cloudflare Workers 构建，无需传统浏览器容器即可解析 HTML、处理 CSS 并执行 JavaScript。与 Chromium 等重量级浏览器相比，Kitesurf 占用更少的 CPU 和内存资源，并支持在全球 Workers 网络上弹性扩展。相关源代码现已在 GitHub 上公开。
 
-reddit · r/MachineLearning · /u/v\_aravind · 11月13日 18:58
+telegram · zaihuapd · 11月14日 09:33
 
-**「背景信息」** 近年来，AI 模型在专业领域基准测试中的表现不断提升，尤其是在科学研究和技术任务中。此前已有如 FrontierScience、METR time horizons 和 PaperBench 等基准，主要评估 AI 在已知流程和有限范围内的能力。随着模型在这些标准化任务上接近满分，业界开始关注如何评估 AI 在更开放、长周期、需要持续决策和自我纠错的复杂任务中的表现。
+**「背景信息」** Kitesurf 是 Cloudflare 推出的新型无状态浏览器，专为 AI 代理设计，运行于 Cloudflare Workers 平台之上。与传统的桌面浏览器引擎（如 Chromium）不同，Kitesurf 舍弃了人类用户常用的功能（如标签页、主题、扩展和像素级渲染），专注于 AI 代理所需的可扩展性、性能和成本效率。此前，Kitesurf 已以测试版形式免费提供，旨在为 AI 自动化场景提供更轻量的浏览器解决方案。
 
-**标签**: `#AI evaluation`, `#benchmarks`, `#materials science`, `#frontier models`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://developers.cloudflare.com/browser-run/kitesurf/">Kitesurf · Cloudflare Browser Run docs</a></li>
+<li><a href="https://blog.cloudflare.com/kitesurf/">Introducing Kitesurf: The agent-first browser that runs in V8 ...</a></li>
+<li><a href="https://developers.cloudflare.com/changelog/post/2026-08-06-kitesurf/">Introducing Kitesurf, an agent-first browser on Browser Run</a></li>
+
+</ul>
+</details>
+
+**标签**: `#open source`, `#AI agents`, `#cloud infrastructure`, `#web automation`
 
 ---
 
 <a id="item-tech-news-4"></a>
-### [交大医学院基因编辑事件调查结果公布](https://mp.weixin.qq.com/s/p0iC3tcI1yr10EBl2NjUvg) ⭐️ 8.0/10
+### [Meta 因违规读取相册被意大利罚款 8.05 亿欧元](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10321080) ⭐️ 8.0/10
 
-上海官方公布了交大医学院基因编辑事件的调查结果。调查确认，涉事团队在临床前研究、伦理审查和知情同意等环节存在严重缺陷，部分人员还收受家属财物约 106 万元。主要责任人仇某某、杨某被开除并取消相关资格 5 年，相关机构被要求整改并受到行政处罚。该事件涉及一名罕见病患儿，2025 年接受基因编辑疗法后死亡，相关论文于 2026 年发表在《自然》杂志。
+意大利隐私监管机构对 Meta 处以 8.05 亿欧元罚款，原因是其 Facebook Android 应用在未经明确同意的情况下，读取了约 2000 万意大利用户的相册照片、视频及元数据。涉事功能为 2023 年上线的相册推荐，默认开启且授权提示不具体。监管机构要求 Meta 在 60 天内将该功能改为默认关闭，并单独征得用户同意，否则不得对未授权用户启用该功能。
 
-telegram · zaihuapd · 11月13日 09:24
+telegram · zaihuapd · 11月14日 14:37
 
-**「事件背景」** 基因编辑技术近年来在医学领域应用不断扩展，但其伦理和监管问题一直备受关注。此前，国内外曾发生多起因基因编辑导致伦理争议和监管问责的事件，促使相关部门加强对临床研究的审批和监督。本次事件涉及罕见病患儿定制基因编辑疗法，最终因医疗并发症死亡，引发社会对基因编辑伦理和合规流程的再次关注。
+**「背景信息」** Meta 因其 Facebook Android 应用的“相册推荐”功能被意大利隐私监管机构处以高额罚款。该功能自 2023 年上线，允许应用在未经用户明确同意的情况下访问手机相册中的照片和视频。意大利数据保护局指出，Meta 未能向约 2000 万用户充分披露或征得具体授权，违反了欧盟隐私法规。
 
-**「影响」** 此次调查结果将对中国基因编辑领域的伦理审查和监管提出更高要求，相关从业人员和机构需加强合规管理，避免类似事件再次发生。
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.politico.eu/article/italy-hits-meta-with-e805m-fine-over-privacy-law-violation/">Italy hits Meta with €805m fine over privacy law violation</a></li>
+<li><a href="https://abcnews.com/Technology/wireStory/meta-fined-887-million-italy-android-gallery-photos-138145127">Meta fined $887M in Italy over Android gallery photos, videos ...</a></li>
+<li><a href="https://www.bbc.com/news/articles/cwn83gxemk35o">Italy fines Meta €805m over accessing users&#x27; photos - BBC</a></li>
 
-**标签**: `#gene editing`, `#bioethics`, `#regulation`, `#technology policy`
+</ul>
+</details>
+
+**标签**: `#privacy`, `#regulation`, `#technology industry`, `#software engineering`
 
 ---
 
 <a id="item-tech-news-5"></a>
-### [Python 早期贡献者 Tim Peters 去世](https://x.com/Itsfoss/status/2120957452937998716) ⭐️ 8.0/10
+### [Lovable 应用因配置失误泄露护照信息与 20 万条私信](https://www.crissyfield.de/research/lovable-en/) ⭐️ 7.0/10
 
-Python 社区早期贡献者 Tim Peters 于 74 岁去世。Peters 是 Timsort 排序算法的作者、《Python 之禅》（PEP 20）的撰写者，并曾在 Python 软件基金会董事会任职 13 年。他被认为是 Python 的第二位真实用户，对 Python 的设计和社区文化有深远影响。此消息由 Python 创造者 Guido van Rossum 公布。
+Lovable 系列应用因 API 密钥配置错误和后端平台（Supabase）默认安全设置不当，导致用户敏感数据（包括护照信息和超过 20 万条私信）被公开访问。此次事件暴露了在流行云后端平台上，开发者未更改默认配置时可能带来的严重数据泄露风险。该问题涉及到 Supabase 早期为降低用户上手门槛而做出的安全权衡，部分项目至今仍受影响。
 
-telegram · zaihuapd · 11月13日 09:55
+hackernews · armcat · 11月14日 17:43 · [社区讨论](https://news.ycombinator.com/item?id=50499017)
 
-**「背景介绍」** Tim Peters 是 Python 社区的重要早期贡献者，他于 1999 年在 Python 邮件列表上发布了著名的《Python 之禅》（PEP 20），总结了 Python 设计的核心哲学。此外，他还是 Timsort 排序算法的作者，该算法被广泛应用于 Python 及其他编程语言中。Peters 长期担任 Python 软件基金会董事会成员，对 Python 语言的发展和社区文化产生了深远影响。
+**「背景信息」** Lovable 是一个基于 AI 的应用开发平台，允许用户快速生成和部署应用。近期研究显示，约 16 万个 Lovable 平台生成的应用因后端 Supabase 数据库配置不当，导致包括护照号码、支付信息和聊天记录在内的敏感数据无需登录即可被公开访问。这些问题源于数据库默认配置过于宽松，未强制要求身份验证，造成大规模数据泄露隐患。
+
+**「实际影响」** 受影响用户的敏感信息已被公开暴露，开发者需立即检查并修正 API 密钥和数据库访问权限，尤其是在使用 Supabase 等平台时，避免采用不安全的默认配置。
+
+**「社区讨论」** 部分评论认为此次事件本质上是开发者主动或被动公开数据，而非传统意义上的黑客入侵。也有观点指出 Supabase 平台默认配置存在责任，呼吁平台应采用更安全的默认策略，尤其是在 AI 生成应用大量涌现的背景下。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Zen_of_Python">Zen of Python - Wikipedia</a></li>
-<li><a href="https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028">In Memoriam: Tim Peters 1952–2026 - Core Development...</a></li>
+<li><a href="https://cybernews.com/security/lovable-ai-apps-expose-personal-information/">Lovable AI apps exposed sensitive data in open databases ...</a></li>
+<li><a href="https://www.techzine.eu/news/security/145550/thousands-of-lovable-apps-are-leaking-personal-data/">Thousands of Lovable apps are leaking personal data</a></li>
 
 </ul>
 </details>
 
-**标签**: `#python`, `#open-source`, `#community`, `#software-engineering`
+**标签**: `#security`, `#data breach`, `#software engineering`, `#cloud platforms`
 
 ---
 
 <a id="item-tech-news-6"></a>
-### [微软 Outlook、Teams 全球宕机超 12 小时](https://www.reuters.com/technology/microsoft-365-outlook-down-thousands-us-users-downdetector-shows-2026-11-12/) ⭐️ 8.0/10
+### [Project Zero 调整漏洞披露政策：逐步缩短披露窗口至 30 天](https://projectzero.google/2026/11/disclosure-policy.html) ⭐️ 7.0/10
 
-微软 Outlook、Teams 和 Copilot 于 11 月 13 日经历了持续超过 12 小时的全球性宕机，影响了企业和政府的通信。微软表示故障源于服务器问题，未检测到恶意活动，目前已扩大修复范围并出现恢复迹象。此次事件波及澳大利亚、日本、美国部分政府机构、欧交所 Euronext 及台湾金融机构等。值得注意的是，这是微软 365 服务今年内的第二次大规模中断。
+Google Project Zero 宣布将逐步缩短其漏洞公开披露窗口：自即日起为 90 天，2027 年 2 月 2 日缩短至 60 天，2028 年 1 月 3 日进一步缩短至 30 天。该政策适用于所有 Project Zero 报告的安全漏洞，要求厂商和开源项目在更短时间内响应和修复问题。此次调整为正式公告，明确了具体的时间表和执行节点。
 
-telegram · zaihuapd · 11月13日 12:21
+hackernews · hacb · 11月14日 11:13 · [社区讨论](https://news.ycombinator.com/item?id=50496051)
 
-**「背景」** 微软 365 是微软面向企业和政府用户的云办公套件，包含 Outlook、Teams 和 Copilot 等核心服务。此前，这些服务已成为全球范围内企业通信和协作的基础工具。根据多家媒体报道，此次宕机主要由服务器设置问题引发，微软未发现恶意攻击迹象，并正持续推进恢复工作。
+**「背景信息」** Google Project Zero 最初采用的是“90+30”漏洞披露政策，即厂商在收到漏洞报告后有 90 天时间修复漏洞，随后还有 30 天的宽限期供用户部署补丁。近年来，Project Zero 还试行过提前非技术性披露信号，以减少上游补丁延迟问题。此次政策调整是在原有 90 天披露窗口基础上的进一步收紧。
 
-**「影响」** 受此次宕机影响，部分金融机构不得不临时采用传真等传统方式确认交易，部分政府和企业通信中断，显示出对微软云服务依赖的潜在风险和业务连续性挑战。
+**「影响」** 受影响的厂商和开源项目需加快漏洞修复流程，否则漏洞将在更短时间内被公开披露，可能增加未修补漏洞被利用的风险。安全团队和开发者需调整响应机制以适应更严格的披露时限。
+
+**「社区讨论」** 有评论认为 90 天窗口过长，支持更快披露以提升安全性，但也有人指出开源项目资源有限，缩短窗口可能带来压力。部分讨论还涉及漏洞发现方应协助厂商修复漏洞，以避免披露政策被滥用为市场策略工具。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://gulfbusiness.com/en/2026/tech/microsoft-outage-cause-outlook-teams-restoration-november-2026/">Microsoft outage : What went wrong and when will Outlook , Teams ...</a></li>
-<li><a href="https://www.euronews.com/2026/11/12/microsoft-outage-hits-outlook-teams-and-copilot-disrupting-thousands">Microsoft outage latest: &#x27;Continued recovery progress... | Euronews</a></li>
-<li><a href="https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports">Microsoft scrambles to fix global outage affecting Teams and Outlook</a></li>
+<li><a href="https://www.penligent.ai/hackinglabs/ai-vulnerability-disclosure-is-breaking-the-old-patch-window/">AI Vulnerability Disclosure Is Breaking the Old Patch Window</a></li>
+<li><a href="https://www.3foldit.com/2025/08/16/google-tightens-security-timelines-through-faster-alerts/">Google Tightens Security Timelines Through Faster... | 3Fold IT, LLC</a></li>
 
 </ul>
 </details>
 
-**标签**: `#outage`, `#cloud services`, `#enterprise IT`, `#incident response`, `#reliability`
+**标签**: `#security`, `#vulnerability-disclosure`, `#software-engineering`, `#policy`
 
 ---
 
 <a id="item-tech-news-7"></a>
-### [Haskell 生态系统技术愿景引发社区热议](https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078) ⭐️ 7.0/10
+### [DeepSeek V3 核心创新的 JAX 极简实现开源](https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax) ⭐️ 7.0/10
 
-Haskell 社区发布了一份关于 Haskell 生态系统的技术愿景，旨在推动语言发展、生态完善及更广泛的应用。该愿景引发了关于 Haskell 在现代软件工程中的定位、采用障碍以及在 AI 和跨平台开发等领域潜力的深入讨论。虽然这不是一次具体的功能发布，但为 Haskell 的未来方向和生态挑战提供了宝贵的社区反馈。讨论内容涵盖了语言的严格性、可移植性、调试体验等核心议题。
+开发者 VaibhaavTiwari 发布了一个约 200 行纯 JAX 代码的 DeepSeek V3 核心创新实现，开源于 GitHub。该项目重现了 DeepSeek V3 的三大关键技术：多头潜在注意力（Multi-head Latent Attention）、基于偏置的专家混合（mixture-of-experts with bias-based load balancing）、以及多 token 预测，便于学习和理解现代语言模型架构。模型体量为 3620 万参数，支持在 MacBook Air M5（24GB）等本地硬件上训练，并兼容如 ROCm+JAX 的 AMD 显卡环境。该实现主要面向希望深入理解语言模型原理和 JAX 框架的开发者和研究者。
 
-hackernews · cosmic\_quanta · 11月13日 14:43 · [社区讨论](https://news.ycombinator.com/item?id=50484235)
+hackernews · VaibhaavTiwari · 11月14日 15:04 · [社区讨论](https://news.ycombinator.com/item?id=50497589)
 
-**「背景」** Haskell 是一种以函数式编程为核心的编程语言，因其类型系统和抽象能力受到学术界和部分工业界的青睐。近年来，Haskell 社区一直在讨论如何提升其生态系统的可用性、跨平台能力以及在现代软件工程中的应用范围。此次提出的技术愿景旨在为 Haskell 的未来发展方向提供指导，并回应社区对生态系统完善和实际应用需求的关注。
+**「背景介绍」** DeepSeek V3 是一种大规模混合专家（Mixture-of-Experts, MoE）语言模型，总参数量达 6710 亿，但每个 token 仅激活约 370 亿参数，从而兼顾了效率与能力。其架构创新包括多头潜在注意力（Multi-head Latent Attention, MLA）和 DeepSeekMoE 结构，这些技术旨在提升推理效率和训练成本效益。此前的 DeepSeek V2 已对这些方法进行了验证。
 
-**「社区讨论」** 有用户认为 Haskell 的严格性和简洁性适合 AI 领域，但生态和工具链限制了其普及。另有观点指出，Haskell 缺乏像 JavaScript 那样的跨平台能力，影响了其通用性。部分开发者分享了在 Haskell 中实现高性能 CAD 文件处理和引入实时调试工具的经验，认为生态正在逐步改善。
+**「影响」** 该项目为希望在本地硬件（包括 AMD 显卡）上动手实践和学习现代大模型架构的开发者提供了一个简洁、易于理解的参考实现，降低了学习和实验门槛。用户可直接在非 NVIDIA 平台上运行和训练模型，便于探索和定制。
 
-**标签**: `#programming languages`, `#Haskell`, `#ecosystem`, `#community debate`
+**「社区讨论」** 有用户反馈该项目是首个能在 Fedora+ROCm+JAX 环境下端到端运行的深度学习项目，极大便利了 AMD 显卡用户。作者本人也强调了从零实现模型有助于深入理解架构创新，社区成员普遍认为该项目具有很高的学习和动手价值。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://deepwiki.com/deepseek-ai/DeepSeek-V3/1.2-model-architecture-overview">Model Architecture Overview | deepseek-ai/DeepSeek-V3 | DeepWiki</a></li>
+<li><a href="https://arxiv.org/pdf/2412.19437">DeepSeek-V3 Technical Report - arXiv.org</a></li>
+<li><a href="https://arxiv.org/html/2412.19437v1">DeepSeek-V3 Technical Report - arXiv.org</a></li>
+
+</ul>
+</details>
+
+**标签**: `#machine-learning`, `#jax`, `#language-models`, `#open-source`
 
 ---
 
 <a id="item-tech-news-8"></a>
-### [发现促进衰老但不引发炎症的蛋白 Granzyme K](https://www.nature.com/articles/d41586-026-03638-3) ⭐️ 7.0/10
+### [PyPI 项目页改版，强化安全与溯源信息](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/) ⭐️ 7.0/10
 
-研究人员发现了一种名为 Granzyme K 的蛋白质，它能够促进组织衰老，但不会引发炎症反应。这一发现加深了对衰老机制的理解，表明组织衰老可以与免疫衰老和系统性炎症（inflammaging）相分离。目前的研究结果主要基于动物模型，尚未在人体中得到验证。
+PyPI 已正式上线新版项目页面，突出显示更清晰的安全信号和包溯源信息，旨在提升 Python 包供应链的透明度。此次更新适用于所有 PyPI 用户，页面将直接展示包的签名、发布来源等安全相关信息，帮助开发者和用户更好地评估包的可信度。新版页面已全面部署，无需额外操作即可体验。
 
-hackernews · gumby · 11月13日 19:25 · [社区讨论](https://news.ycombinator.com/item?id=50488470)
+hackernews · rbanffy · 11月14日 15:40 · [社区讨论](https://news.ycombinator.com/item?id=50497892)
 
-**「背景」** 衰老通常被认为与慢性炎症（即“炎症性衰老”）密切相关，许多已知的衰老驱动因子都与免疫系统活化和炎症反应有关。此前，科学界尚未发现能够在不引发炎症的情况下单独促进组织衰老的蛋白质。Granzyme K 是一种由免疫细胞分泌的蛋白酶，过去主要被研究于其在免疫反应中的作用。
+**「背景信息」** PyPI（Python Package Index）是 Python 生态中最主要的软件包仓库。此次页面改版是在 2026 年 7 月宣布的一系列用户界面更新计划的延续，旨在通过用户调研反馈，提升安全信号的展示方式和包详情的可读性。新版项目页面增加了安全标签页，集中展示发布来源状态和每个文件的证明信息，帮助用户验证发布文件的来源。
 
-**「影响」** 对于生物学和衰老研究领域的科学家来说，这一发现为开发针对组织衰老的新型干预手段提供了潜在靶点，但实际应用还需进一步研究，特别是在人类中的相关性和安全性。
+**「影响」** 开发者和包使用者现在可以更直观地识别包的安全状态和来源信息，有助于防范供应链攻击和提升依赖管理的安全性。部分用户可能需关注自身发布流程与签名机制的兼容性，尤其是在采用 CI/CD 自动化发布时。
 
-**「社区讨论」** 有评论者指出该研究目前仅在小鼠中得到验证，强调其对人类衰老的影响尚不明确。另有用户引用论文摘要，强调 Granzyme K 缺失能够显著减缓器官衰老，但不会影响免疫系统的衰老或引发炎症。
+**「社区讨论」** 有用户担忧安全信号的实现依赖于大型云服务，可能导致中心化和平台锁定；也有用户支持 sigstore 等无密钥签名方式，希望更多 CI/CD 服务能支持相关安全标准。部分评论指出，此更新主要提升了对被篡改项目的检测能力，但对原本就带有恶意的项目无能为力。
 
-**标签**: `#aging`, `#biotechnology`, `#research`, `#biology`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/">PyPI&#x27;s redesigned project pages with clearer security signals ...</a></li>
+<li><a href="https://news.lavx.hu/article/pypi-redesigns-project-pages-with-clearer-security-signals">PyPI redesigns project pages with clearer security signals</a></li>
+<li><a href="https://blog.pypi.org/archive/2026/">2026 - The Python Package Index Blog</a></li>
+
+</ul>
+</details>
+
+**标签**: `#package-management`, `#security`, `#open-source`, `#python`
 
 ---
 
 <a id="item-tech-news-9"></a>
-### [ICML 2027 引入双阶段评审及作者-审稿人新规](https://www.reddit.com/r/MachineLearning/comments/1xvkxbj/icml_2027_changes_d/) ⭐️ 7.0/10
+### [Google Antigravity 推出 /teamwork 协作 AI 代理功能](https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/) ⭐️ 7.0/10
 
-ICML 2027 会议将实施新的双阶段论文评审流程：首先由领域主席（AC）决定论文是否进入完整评审，若拟拒稿需高级领域主席（SAC）确认，并于 2 月 23 日前向作者提供简要理由。此外，每位作者最多只能参与 20 篇投稿，每篇论文必须指定一位作者作为互惠审稿人（每人最多负责 6 篇），且有 3 篇及以上投稿的作者必须加入程序委员会。若不符合规定，论文可能被直接拒稿。每位作者仅有一次机会参与没有合格互惠审稿人的论文，旨在遏制作者数量激增和分担审稿压力。
+Google 的 Antigravity 平台新增了 /teamwork 功能，允许用户在科学与工程任务中利用多个 AI 代理协作完成复杂工作流。该功能支持动态组建多代理团队，旨在提升 AI 在科研和工程领域的实际应用能力。虽然目前尚未成为行业范式转变，但这一工具为 AI 辅助的复杂问题求解带来了实用性提升。官方表示该功能正在持续改进，并计划为外部用户不断推送更新。
 
-reddit · r/MachineLearning · /u/Gravitist · 11月13日 21:53
+hackernews · acossta · 11月14日 13:20 · [社区讨论](https://news.ycombinator.com/item?id=50496811)
 
-**「背景信息」** 国际机器学习大会（ICML）是机器学习领域最重要的学术会议之一，汇聚了全球人工智能和机器学习领域的研究者。近年来，随着该领域的快速发展，ICML 等顶级会议的论文投稿量持续激增，导致评审负担加重，影响了评审质量和会议运作效率。ICML 自 1980 年首次举办以来，已成为推动机器学习学术交流和研究进展的核心平台。
+**「背景信息」** Antigravity 的 /teamwork 功能是一种多智能体协作系统，允许在 Google Antigravity 平台上部署多个 AI 代理团队，共同完成大型项目、跨文件重构以及复杂的科研任务。该功能最早在 2026 年 Google I/O 上宣布，旨在通过让 AI 代理相互提案、批评和完善彼此的工作，实现与人类专家的深度协作，提升数学、化学、系统软件和机器学习工程等领域的研究效率。近期，Google 正在将这些工具向外部用户开放。
 
-**「影响」** 这些新规将显著限制作者的投稿数量，并强制作者承担更多审稿责任，有望缓解长期存在的审稿人负担过重问题。研究者需提前协调互惠审稿人安排，否则可能影响论文投稿资格。
+**「影响」** 科研人员和工程师可以通过 /teamwork 功能更高效地组织和管理多代理协作，从而加快项目推进速度并降低对传统跨学科团队的依赖。用户需关注官方后续发布的使用细节和改进说明，以便充分利用该功能。
+
+**「社区讨论」** 有用户认为 /teamwork 的多代理协作模式与现有的 Claude 动态工作流类似，并质疑 Antigravity 的自动化程度和功能进度。也有观点认为该功能有望显著提升研发效率，减少对传统团队结构的依赖，但部分用户反映缺乏具体的使用指导。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/International_Conference_on_Machine_Learning">International Conference on Machine Learning - Wikipedia</a></li>
-<li><a href="https://icml.cc/">2027 Conference - ICML 2027</a></li>
+<li><a href="https://antigravity.google/docs/teamwork/">Teamwork agent teams (/teamwork) | Google Antigravity Docs</a></li>
+<li><a href="https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/">Advancing science &amp; engineering with Antigravity’s /teamwork</a></li>
+<li><a href="https://antigravity.google/blog/teamwork-when-ai-becomes-a-research-partner">Teamwork: when AI becomes a research partner - antigravity.google</a></li>
 
 </ul>
 </details>
 
-**标签**: `#machine learning`, `#conference policy`, `#peer review`, `#research community`
+**标签**: `#AI agents`, `#collaborative tools`, `#software engineering`, `#research platforms`
 
 ---
 
 <a id="item-tech-news-10"></a>
-### [基于 NLI 与编码器的开源法律冲突检测工具发布](https://www.reddit.com/r/MachineLearning/comments/1xuzv6d/how_to_make_a_legorastyle_legal_conflict_detector/) ⭐️ 7.0/10
+### [短期价格预测应对比市场隐含预测而非仅用朴素基线](https://www.reddit.com/r/MachineLearning/comments/1xw6fk9/should_shorthorizon_price_forecasting_papers/) ⭐️ 7.0/10
 
-一款开源法律冲突检测工具现已发布，采用仅基于编码器模型和自然语言推理（NLI）的方案，实现了高效的法律文档冲突检测。该工具通过将文档分解为条款并进行向量化、筛选、配对和冲突评分，避免了生成式模型在大规模文档比对中的高成本和幻觉问题。整个流程在处理大型文档对时可在 20 秒内完成，且支持 MIT 协议免费商用。用户可根据指南替换模型或调整架构，灵活性较高。
+一篇讨论帖指出，许多短期加密货币和大宗商品价格预测论文通常只与 ARIMA、随机游走等朴素基线进行对比，而很少与市场隐含预测（如期权隐含波动率或众包预测）进行基准测试。作者认为，市场隐含预测已整合大量公开信息，因此仅仅优于随机游走并不能证明模型的实际价值。此外，帖子还批评大多数论文只关注点预测，而忽视了区间覆盖等更有意义的评估指标。
 
-reddit · r/MachineLearning · /u/ladyofcode · 11月13日 05:48
+reddit · r/MachineLearning · /u/happypeanut-t · 11月14日 16:23
 
-**「背景信息」** Legora 是一款面向法律专业人士的 AI 工具，旨在提升文档审查、法律研究和合同起草等工作的效率。它通过协作式 AI 支持团队与机器的协同工作，帮助律师更快地完成审查和建议。此前，类似 Legora 的法律冲突检测工具多依赖生成式大模型，而本次开源方案则采用了仅基于编码器模型和自然语言推理（NLI）的技术路径。
+**「背景」** 在金融市场中，短期价格预测模型常用 ARIMA、随机游走等传统方法作为基线进行性能对比。市场隐含预测（如期权市场的隐含波动率）则反映了市场参与者对未来价格的集体预期，通常被认为是更难超越的参考标准。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://legora.com/product/aos">Legora</a></li>
-<li><a href="https://www.youtube.com/watch?v=H4iOV0yEV_I">LTH Product Briefing - Legora - YouTube</a></li>
-
-</ul>
-</details>
-
-**标签**: `#machine learning`, `#natural language processing`, `#legal tech`, `#open source`
+**标签**: `#machine learning`, `#forecasting`, `#financial markets`, `#evaluation methods`
 
 ---
 
 <a id="item-tech-news-11"></a>
-### [ParaTrace v8 开放权重并在 RAID 榜单排名第五](https://www.reddit.com/r/MachineLearning/comments/1xv4ldx/open_weights_paratrace_v8_raidtuned_5th_on_the/) ⭐️ 7.0/10
+### [OpenAI 解散机器人团队，转向通用模型驱动机器人](https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/) ⭐️ 7.0/10
 
-ParaTrace v8（基于 Ettin-1B 编码器和 ModernBERT 架构）的开放权重现已发布，并在 RAID 基准测试排行榜上以 1%误报率下实现 99.20%的真实阳性率（TPR），排名第五。该模型专为 RAID 数据集调优，采用 512-token 窗口，并在 RAID 训练集微调后进行了困难样本训练。模型以 CC BY-NC-SA 4.0 协议开放，适用于研究用途，但由于其针对性调优，在普通文本检测 AI 生成内容时表现有限，容易漏检 AI 文本或误判人类文本。
+OpenAI 已解散其独立的机器人团队，将相关研究员分配至更通用的研究团队。公司表示，随着 GPT-6 Astra 等通用前沿模型能够直接操控机器人执行任务，已无需专门的机器人团队。此前 OpenAI 曾于 2020 年解散过机器人团队，2024 年重建并与 Figure 合作，但该合作已于 2025 年 2 月终止。目前 OpenAI 仍在自研人形机器人，计划于 2027 年首次公开展示。
 
-reddit · r/MachineLearning · /u/AltruisticCouple3491 · 11月13日 10:39
+telegram · zaihuapd · 11月14日 04:00
 
-**「背景信息」** ParaTrace v8 是基于 ModernBERT 架构的 Ettin-1B 编码器，专为 RAID 基准测试集进行了微调。RAID（Robust AI-generated text Identification Dataset）是当前用于评估 AI 生成文本检测模型性能的重要公开基准，排行榜以低误报率下的真实阳性率（TPR@FPR）为主要指标。此前，AI 生成文本检测领域的开源模型较少能在 RAID 榜单上取得前列成绩，因此 ParaTrace v8 的开源和高分表现对研究社区具有参考价值。
+**「背景」** OpenAI 曾于 2020 年首次解散机器人团队，原因包括缺乏足够的数据集来有效训练强化学习模型。2024 年，OpenAI 重建了机器人团队，并与 Figure 等公司展开合作，但该合作于 2025 年初终止。此次再次解散机器人团队，标志着 OpenAI 在机器人领域的战略重心从专门团队转向依赖通用大模型直接驱动机器人。
 
-**标签**: `#AI Detection`, `#NLP`, `#Open Source`, `#Machine Learning`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://robotbelt.com/six-years-after-walking-away-openai-is-back-building-robots-e04/">Six years after walking away, OpenAI is back building robots , and this...</a></li>
+<li><a href="https://www.therobotreport.com/openai-abandons-robotics-research/">Why OpenAI decided to abandon robotics research</a></li>
+
+</ul>
+</details>
+
+**标签**: `#OpenAI`, `#robotics`, `#AI models`, `#industry strategy`
 
 ---
 
 <a id="item-tech-news-12"></a>
-### [tamserve：开源实时视频追踪系统降低成本并提升效率](https://www.reddit.com/r/MachineLearning/comments/1xuvxke/i_built_tamserve_to_make_realtime_video_tracking/) ⭐️ 7.0/10
+### [W5000 全球最大无人货机完成首次试飞](https://www.ithome.com/1/027/068.htm) ⭐️ 7.0/10
 
-tamserve 是一个开源的实时视频追踪系统，支持先进的分割模型（如 SAM 2.1、EdgeTAM），可在多摄像头场景下共享模型副本，显著降低 GPU 内存占用并提升运行效率。与 Meta 官方代码相比，tamserve 在 RTX 4090 上每摄像头每天的成本降低约 2 倍（30fps 下为 $1.07 对比 $2.40），速度最高提升 3.8 倍，且保持相同精度。该系统支持动态添加或移除追踪对象、摄像头自动重连，并可横向扩展至多 GPU，适合大规模部署。
+白鲸航线宣布，W5000 大型无人货运飞机已在内蒙古完成首次技术验证试飞，涵盖爬升、平飞、转弯、下降和着陆等全部科目。W5000 号称全球最大业载无人货机，最大起飞重量 10.8 吨，最大业载 5 吨，设计航程 2600 公里，采用涡桨动力和自主驾驶、地面监控模式。企业计划于 2027 年上半年完成适航取证。该机型支持一个机组同时远程监控 6 至 7 架飞机。
 
-reddit · r/MachineLearning · /u/Chunkymunkey642069 · 11月13日 02:23
+telegram · zaihuapd · 11月14日 05:00
 
-**「背景信息」** 实时视频跟踪通常依赖于先进的分割模型（如 SAM 2.1、EdgeTAM），这些模型能够在每一帧中精确地分割目标，但在实际部署时存在高内存消耗和成本问题，尤其是在多摄像头场景下。Meta 等公司的开源实现会为每个摄像头实例化模型并缓存所有帧，导致 GPU 内存迅速耗尽，限制了系统的可扩展性和持续运行能力。降低内存占用和单摄像头成本、提升多摄像头并发能力，是实际应用中亟需解决的技术难题。
+**「背景介绍」** W5000 无人货运飞机由白鲸航线公司研发，于 2023 年 10 月首次在常州生产基地下线。该机型采用双涡桨动力，最大起飞重量为 10.8 吨，最大业载 5 吨，货舱空间超过 65 立方米，设计用于远距离大宗货物运输，旨在推动无人航空物流的发展。
 
-**标签**: `#computer vision`, `#open source`, `#video tracking`, `#machine learning tools`
+**「影响」** 此次试飞成功表明大型无人货运飞机在技术上已具备实际应用潜力，有望推动物流行业自动化和远距离货物运输效率提升。相关企业和物流运营商可关注后续适航取证进展及实际商用部署。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://min.news/en/news/cfe0c3ae6ca05b8caa92c833edc30725.html">Data on the world&#x27;s largest unmanned cargo aircraft - iMedia</a></li>
+<li><a href="https://dronexl.co/2024/10/27/chinese-firm-unveils-5-ton-payload-cargo-drone/?feed_id=12499&amp;_unique_id=671edc49d3d49">Chinese Firm Unveils Massive 5-Ton Payload Cargo Drone</a></li>
+<li><a href="https://www.chinadaily.com.cn/a/202410/22/WS6717074aa310f1265a1c8dd2.html">Firm unveils unmanned cargo drone - Chinadaily.com.cn</a></li>
+
+</ul>
+</details>
+
+**标签**: `#autonomous systems`, `#hardware`, `#AI applications`, `#logistics`
 
 ---
 
 <a id="item-tech-news-13"></a>
-### [SpaceX 裁撤 Grok Imagine 团队并调整 AI 战略方向](https://weibo.com/1642634100/RreMyi69Y) ⭐️ 7.0/10
+### [新西兰工人抗议 AI 监控如厕时间](https://www.independent.co.uk/news/world/australasia/new-zealand-workers-ai-bathroom-breaks-b3084317.html) ⭐️ 7.0/10
 
-SpaceX 已于上周裁撤了 Grok Imagine 团队约 60 名研发人员，仅保留少量人员维持该视频与图像生成工具的基本运转。Grok Imagine 产品目前仍可正常使用，但专职团队解散后其未来发展存在不确定性。此次调整发生在 SpaceX 以 2500 亿美元股票收购 xAI，并于 8 月以 600 亿美元收购 AI 代码初创公司 Cursor 之后，显示公司战略重心已转向 AI 代码工具和智能体领域。
+新西兰最大零售商 The Warehouse 集团奥克兰和基督城配送中心的 300 多名工人本周举行抗议，反对公司使用 AI 监控员工如厕时间，并担忧自动化带来的大规模裁员和隐私侵犯。工会称员工因如厕时间被追踪甚至受到训斥，有人因强忍如厕发生意外，公司则否认相关指控，称所用扫描技术并非 AI，且与如厕无关。公司还表示，引入机器人和无人机尚未导致裁员，但未来岗位无法保证，将尽量协商并提供再培训。此次抗议凸显了 AI 和自动化在物流行业应用引发的劳动权益和隐私争议。
 
-telegram · zaihuapd · 11月13日 15:00
+telegram · zaihuapd · 11月14日 06:15
 
-**「背景信息」** SpaceX 由埃隆·马斯克于 2002 年创立，最初专注于降低太空飞行成本和推进火箭及航天器技术。近年来，SpaceX 逐步涉足人工智能领域，并通过收购和内部研发推动相关产品和团队的发展。
-
-**「影响」** Grok Imagine 的现有用户短期内仍可继续使用该产品，但由于专职团队已被解散，后续功能更新和技术支持可能会受到影响，用户需关注产品未来的可用性和维护情况。
+**「背景信息」** 近年来，全球范围内越来越多企业在仓储、物流等行业引入 AI 技术进行员工管理和自动化操作。部分公司利用 AI 或相关数据系统监控员工行为，包括工作效率和休息时间，引发了关于隐私权和劳动权益的广泛争议。此前有报道指出，AI 驱动的监控系统可能加剧员工压力，并引发工人对被过度管理和岗位流失的担忧。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/SpaceX">SpaceX - Wikipedia</a></li>
+<li><a href="https://www.theguardian.com/technology/2026/may/11/ai-worker-control-surveillance">Forget the AI job apocalypse. AI ’s real threat is worker ... | The Guardian</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI industry`, `#corporate strategy`, `#machine learning`, `#technology business`
+**标签**: `#AI ethics`, `#workplace automation`, `#labor rights`, `#technology industry`
 
 ---
 
 <a id="item-tech-news-14"></a>
-### [OpenAI 推出 ChatGPT Wallet 支付钱包](https://openai.com/index/introducing-chatgpt-wallet/) ⭐️ 7.0/10
+### [Google 高管用 Gemini 让 Windows 11 跑上折叠 iPhone](https://www.windowslatest.com/2026/11/14/windows-11-can-run-on-apples-foldable-iphone-and-googles-ai-boss-proved-it-using-gemini-years-after-microsoft-gave-up-on-windows-phones/) ⭐️ 7.0/10
 
-OpenAI 正式发布了 ChatGPT Wallet 支付钱包，与美国运通、万事达和 Visa 等主要信用卡网络合作，实现 AI 智能体协助的安全支付。该服务现已通过 dots 面向美国 18 岁以上的 ChatGPT Pro 订阅用户开放，且需使用美国发行的银行卡。每笔交易都需用户逐项核对商品与金额，并通过 Face ID 或指纹进行安全验证，支付网络会下发代替真实卡号的支付令牌。此举旨在提升支付安全性，避免暴露真实卡号。
+Google AI Studio 产品设计负责人 Ammaar Reshi 利用 Gemini 4 Carbon 和开源项目 WindowsiOS，在无需越狱的情况下，将 Windows 11 24H2 本地运行在苹果折叠手机 iPhone Duo 上，并公开了操作视频。该方案通过 JIT 翻译运行 ARM64 代码，并借助微软 Prism 支持部分传统应用，镜像体积约为 12 GB。实现过程还需 Apple Silicon Mac 及相关开发工具。
 
-telegram · zaihuapd · 11月13日 15:43
+telegram · zaihuapd · 11月14日 06:52
 
-**「背景信息」** ChatGPT Wallet 是 OpenAI 与美国运通、万事达和 Visa 合作开发的支付工具，旨在为用户提供更安全的 AI 辅助支付体验。该钱包最初仅面向美国的 ChatGPT Pro 订阅用户开放，并通过 dots 平台实现。用户在支付时无需暴露真实卡号，而是使用支付网络生成的令牌进行交易，每笔交易都需通过生物识别等方式进行安全验证。
-
-**「影响」** 美国的 ChatGPT Pro 用户现在可以在不暴露真实卡号的情况下，通过 AI 协助完成更安全的支付流程，但目前仅限于美国发行卡和特定用户群体，其他地区和普通用户暂无法使用。
+**「背景信息」** Windows 11 是微软为 PC 和部分 ARM 设备开发的操作系统，原生并不支持在 iOS 设备上运行。此前，运行 Windows 系统在苹果硬件上通常需要越狱或依赖虚拟化工具。此次演示依托于开源项目 WindowsiOS，通过 ARM64 虚拟化和 JIT 翻译技术，使 Windows 11 能在未越狱的苹果折叠 iPhone Duo 上本地运行，并借助 Google Gemini 4 Carbon AI 工具协助开发。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://openai.com/index/introducing-chatgpt-wallet/">Introducing ChatGPT Wallet | OpenAI</a></li>
-<li><a href="https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html">OpenAI &#x27;s ChatGPT Wallet allows &#x27;dots&#x27; AI agents to make purchases</a></li>
-<li><a href="https://vc.ru/chatgpt/3254374-openai-zapuskayut-chatgpt-wallet-dlya-bezopasnykh-pokupok-v-ssha">OpenAI представила ChatGPT Wallet , чтобы... — ChatGPT на vc.ru</a></li>
+<li><a href="https://www.windowslatest.com/2026/11/14/windows-11-can-run-on-apples-foldable-iphone-and-googles-ai-boss-proved-it-using-gemini-years-after-microsoft-gave-up-on-windows-phones/">Windows 11 can run on Apple’s foldable iPhone, and Google’s ...</a></li>
+<li><a href="https://techgenyz.com/windows-11-iphone-duo-gemini-4-carbon/">Windows 11 on iPhone Duo: How Gemini 4 Carbon Helped Make It ...</a></li>
+<li><a href="https://news.cocoloop.cn/en/2026/11/windows-11-iphone-duo-gemini/">Agents Put Windows 11 on a Folding iPhone in Two Hours</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI applications`, `#fintech`, `#security`, `#OpenAI`
+**标签**: `#cross-platform`, `#operating systems`, `#AI tools`, `#hardware integration`
 
 ---
 
 ## 科技博客
 
 <a id="item-tech-blog-1"></a>
-### [NVIDIA cuPhoton 加速黑洞干涉测量的 GPU 实践](https://developer.nvidia.com/blog/run-gpu-powered-black-hole-interferometry-with-nvidia-cuphoton/) ⭐️ 8.0/10
+### [在大型科技公司中寻找工作的意义](https://seangoedecke.com/how-to-find-meaning-in-large-tech-companies/) ⭐️ 6.0/10
 
-rss · NVIDIA CUDA Technical Blog · 11月13日 21:17
+rss · Sean Goedecke · 11月14日 00:00
 
-**「背景」** 黑洞成像极具挑战性，因为它们距离遥远且在天空中极其微小，传统望远镜难以直接观测。事件视界望远镜（EHT）通过全球多台射电望远镜组成的甚长基线干涉阵（VLBI），以极高的数据速率记录信号，重建黑洞周围气体的射电图像。随着下一代 EHT（ngEHT）计划扩展观测站点，数据量和处理复杂度进一步提升，传统 CPU 相关器难以满足高吞吐量和实时性的需求。
+**「背景」** 作者关注于为何许多工程师在大型科技公司中感到不满，表面原因似乎是组织性失调阻碍了他们做想做的事，但他认为问题更深层。许多工程师对混乱和低效有本能的厌恶，甚至不愿意去理解或绕开这些障碍，这种厌恶类似于对凌乱环境的反感。
 
-**「方案」** 作者介绍了 NVIDIA cuPhoton.xBeam 如何利用 GPU 加速 VLBI 数据的相关处理。xBeam 作为 FX 相关器，首先将望远镜录制的 VDIF 数据按时间索引并并行读取，利用 GPU 执行延迟校正、快速傅里叶变换（FFT）、基线间的交叉乘积与累加，最终输出可用于后续成像的复能见度。xBeam 支持 GPUDirect Storage，能直接将磁盘数据高效传输到 GPU 内存，极大提升 I/O 带宽。在 NVIDIA Vera Rubin NVL72 系统上，64 块 GPU 处理 10TB 数据仅需 70 秒，比传统 x86 CPU 快约 460 倍。xBeam 通过分片（shard）机制横向扩展，支持多 GPU 多节点协同处理，并提供 Python 接口和命令行工具，便于集成到自动化科学工作流。虽然 xBeam 不负责从站点位置计算延迟，也不模拟光线绕黑洞传播，但其结果已通过 CPU 相关器 DiFX 验证，能与主流 VLBI 后处理工具链兼容。
+**「方案」** 作者借用小说《Anathem》中“无意义之书”的比喻，指出在大型公司中，工程师常被迫投入精力于看似重要但实则空洞的事务，如 OKR、内部培训等，这种“扮演投入”的过程容易让人产生疏离感和虚无感。面对这种困境，作者建议减少对工作的哲学化思考，多关注生活中真实重要的事物，比如家庭、健康和兴趣。但他也强调，大型科技公司的工作本身并非毫无意义。即使只是让一款企业软件变得稍微好用一点，也能让数百万用户受益，每修复一个小问题都能累计节省大量用户时间。虽然在大公司推动改进极其困难，常常需要应对繁琐流程和政治博弈，但正因如此，这种改善才尤为有价值。作者认为，若能容忍混乱、保持生活的丰富性，并以健康的距离感对待职场政治，大公司同样能成为意义的源泉。
 
-**「启示」** 作者认为，cuPhoton.xBeam 显著提升了 VLBI 数据相关处理的速度和可扩展性，为大规模射电天文观测和实时科学实验提供了 GPU 加速的高效解决方案，其设计理念也可迁移到其他科学数据分析领域。
+**「启示」** 作者认为，在大型科技公司中，即便面对组织混乱和琐碎事务，工程师依然可以通过在规模上产生微小但广泛的积极影响，获得真实的职业意义和满足感。
 
-**标签**: `#GPU computing`, `#radio astronomy`, `#interferometry`, `#scientific data processing`, `#parallel computing`
-
----
-
-<a id="item-tech-blog-2"></a>
-### [在 Jetson AGX Orin 上用 cuDLA 实现 Python 原生 DLA 推理](https://developer.nvidia.com/blog/run-native-dla-inference-in-python-on-nvidia-jetson-agx-orin-using-cudla/) ⭐️ 7.0/10
-
-rss · NVIDIA CUDA Technical Blog · 11月13日 18:57
-
-**「背景」** 边缘 AI 应用常常需要在有限的算力和功耗预算下运行多个神经网络。NVIDIA Jetson AGX Orin 集成了专用的深度学习加速器（DLA），可将部分推理任务从 GPU 卸载到 DLA，提高能效并释放 GPU 资源。然而，传统 DLA 推理接口主要面向 C++，Python 开发者难以直接利用 DLA 硬件，限制了灵活性和开发效率。
-
-**「方案」** 作者介绍了如何通过 cuda.bindings.cudla 模块在 Python 中直接调用 cuDLA API，实现 Jetson AGX Orin 上的原生 DLA 推理。该模块自 CUDA Python 13.3.0 起提供，是对底层 C++ cuDLA API 的 Cython 封装，允许开发者用 Python 管理 DLA 设备、加载编译好的模型、分配和注册显存、提交推理任务并同步结果。整个流程包括：用 TensorRT 的 trtexec 工具将 ONNX 模型编译为 DLA 可执行的 loadable 文件（如.bin），在 Python 中初始化 CUDA 和 DLA 设备，加载模型后通过 API 自动获取输入输出张量的描述信息（如 shape、size、格式），据此分配显存并注册到 DLA。输入数据预处理后异步拷贝到 GPU，推理任务通过 CUDA 流提交，DLA 与 GPU 可在同一流中协作。推理完成后，输出结果以 numpy 数组形式回读，便于后续 Python 生态处理。所有 cuDLA API 调用均以 Python 异常方式报告错误，便于集成标准异常处理和资源清理。整个流程对模型结构无感，适用于任意 DLA 兼容网络，且无需手动硬编码张量信息。
-
-**「启示」** cuDLA Python 绑定让开发者无需 C++即可在 Jetson AGX Orin 上高效、灵活地实现 DLA 推理，极大提升了边缘 AI 应用的开发体验和可移植性。
-
-**标签**: `#NVIDIA Jetson`, `#DLA`, `#Python bindings`, `#Edge AI`, `#Inference workflow`
+**标签**: `#engineering culture`, `#organizational behavior`, `#motivation`, `#tech industry`
 
 ---
 
 ## 财经新闻
 
 <a id="item-finance-news-1"></a>
-### [黄仁勋辞职引发美中关系紧张与出口管制趋严预期](https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html) ⭐️ 8.0/10
+### [Anthropic IPO 拒绝中国内地及香港投资者](https://m.economictimes.com/markets/us-stocks/news/anthropic-ipo-share-orders-from-china-are-said-to-be-rebuffed/articleshow/135809948.cms) ⭐️ 8.0/10
 
-英伟达 CEO 黄仁勋因与涉嫌中国间谍的绯闻辞职，引发美国国会关注并可能导致美国对华技术出口管制进一步收紧。分析人士预计国会有很大可能在年底前加强相关出口限制。
+Anthropic 首次公开募股（IPO）将不接受中国内地及香港投资者下单，知情人士称此举与国际武器贸易条例（ITAR）出口管制有关。公司计划以 1.4 万亿美元估值募资至多 904 亿美元，发行定价日为 11 月 18 日。
 
-rss · CNBC Finance · 11月13日 02:56
+telegram · zaihuapd · 11月14日 10:18
 
-**「背景」** 黄仁勋是英伟达（Nvidia）的联合创始人，自 1993 年起担任公司总裁兼首席执行官，直到 2026 年 11 月因间谍指控相关丑闻辞职。英伟达是全球最有价值的科技公司之一，在美中科技竞争中处于核心地位。
+**「背景」** 此前，SpaceX 等美国高科技公司在上市时也因美国出口管制（如国际武器贸易条例 ITAR）而限制中国内地和香港投资者参与，Anthropic 的产品目前在这些地区也无法使用。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Jensen_Huang">Jensen Huang - Wikipedia</a></li>
+<li><a href="https://the-decoder.com/banks-bar-chinese-and-hong-kong-investors-from-anthropic-ipo-over-us-export-controls/">Banks bar Chinese and Hong Kong investors from Anthropic IPO ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#US-China relations`, `#semiconductors`, `#corporate governance`, `#export controls`, `#policy risk`
+**标签**: `#IPO`, `#technology`, `#regulation`, `#capital markets`, `#China`
 
 ---
 
 <a id="item-finance-news-2"></a>
-### [Lutnick faces questions over Nvidia spy scandal. His sons&\#x27; firm has deep ties to the chipmaker](https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html) ⭐️ 7.0/10
+### [英伟达高层动荡与国会政策或重塑 AI 板块格局](https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html) ⭐️ 7.0/10
 
-Cantor Fitzgerald and its leadership face scrutiny over their ties to Nvidia amid U.S. government concerns about AI chip exports to China and potential conflicts of interest.
+英伟达 CEO 辞职及公司股价下跌引发市场关注，分析师预计美国国会由民主党主导后，10%至 20%的数据中心建设计划可能被取消。ETF 专家称，这些变化正在影响 AI 和半导体相关股票及 ETF 表现。
 
-rss · CNBC Finance · 11月13日 23:42
+rss · CNBC Finance · 11月14日 15:50
 
-**标签**: `#Nvidia`, `#Cantor Fitzgerald`, `#US-China relations`, `#regulation`, `#technology`
+**「背景」** 英伟达（Nvidia）创始人兼首席执行官黄仁勋近日辞职，同时美国国会在民主党掌控下正考虑对数据中心建设进行限制，这两项变动对人工智能和半导体行业产生重大影响。此前，英伟达一直是 AI 芯片领域的领导者，数据中心则是 AI 算力的基础设施。
+
+**「影响」** 科技和 AI 相关企业、半导体行业及相关 ETF 投资者将直接受到英伟达管理层变动和政策调整的影响，可能导致资金流向和市场格局变化。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=-X5VHEMgICI">Jensen Huang Resigns , Data Centers Face Political... - YouTube</a></li>
+<li><a href="https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html">Nvidia CEO Jensen Huang resigns : Live updates</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Nvidia`, `#AI`, `#semiconductors`, `#ETF`, `#policy`
 
 ---
 
 <a id="item-finance-news-3"></a>
-### [芝加哥联储主席称美联储需继续应对通胀压力](https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html) ⭐️ 7.0/10
+### [Cantor Fitzgerald 与 Nvidia 关系因出口调查受关注](https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html) ⭐️ 7.0/10
 
-芝加哥联储主席古尔斯比表示，近期通胀数据表明美联储“肯定还有工作要做”，市场预计下次联邦公开市场委员会（FOMC）会议可能加息 0.25 个百分点。古尔斯比称通胀持续高于美联储 2%的目标，且近期未见改善迹象。
+美国政府对 Cantor Fitzgerald 及其领导层与 Nvidia 的关系展开审查，因担忧芯片出口中国问题及 Nvidia CEO 辞职；据 CNBC 分析，Cantor 持有的 Nvidia 股票在 2025 年 9 月至 2026 年 3 月间减少了 49%。
 
-rss · CNBC Finance · 11月13日 14:22
+rss · CNBC Finance · 11月13日 23:42
 
-**「背景」** 美联储（美国中央银行）一直将 2%的通胀率作为其长期目标，但近期数据显示美国通胀持续高于这一目标，促使决策者讨论是否需要进一步加息以遏制物价上涨。
+**「背景」** 坎托·菲茨杰拉德（Cantor Fitzgerald）是一家华尔街金融机构，曾由现任美国商务部长霍华德·卢特尼克（Howard Lutnick）领导，目前由其儿子布兰登和凯尔管理。近期，该公司报告其持有的英伟达（Nvidia）股票数量在 2025 年 9 月至 2026 年 3 月间下降近一半，引发外界对其与英伟达及中美芯片出口监管关系的关注。此前，卢特尼克因对英伟达芯片出口中国的监管态度较为温和而受到批评。
 
-**标签**: `#Federal Reserve`, `#inflation`, `#monetary policy`, `#interest rates`, `#economic data`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html">Howard Lutnick ’s sons’ Nvidia ties amid Jensen Huang China spy...</a></li>
+<li><a href="https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html">Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher...</a></li>
+<li><a href="https://www.cbsnews.com/news/lutnick-nvidia-ai-chips-china/">Lutnick should have prevented the diversion of sensitive Nvidia AI...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#regulation`, `#semiconductors`, `#corporate governance`, `#US-China relations`, `#financial institutions`
 
 ---
