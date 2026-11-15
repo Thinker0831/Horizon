@@ -5,371 +5,384 @@ date: 2026-11-15
 lang: en
 ---
 
-> From 38 items, 15 important content pieces were selected
+> From 34 items, 16 important content pieces were selected
 
 ---
 
 **Technology News**
-1. [SpaceX Achieves First Starship Tower Catch on Flight 15](#item-tech-news-1) ⭐️ 9.0/10
-2. [Lovable Apps Leak Passport Data and 200K+ Messages via Security Flaw](#item-tech-news-2) ⭐️ 8.0/10
-3. [Cloudflare Open-Sources Kitesurf AI Agent Browser](#item-tech-news-3) ⭐️ 8.0/10
-4. [Italy Fines Meta €805M for Facebook Album Access Violations](#item-tech-news-4) ⭐️ 8.0/10
-5. [Google Antigravity /teamwork Enhances Collaborative AI Workflows](#item-tech-news-5) ⭐️ 7.0/10
-6. [PyPI Launches Redesigned Project Pages with Enhanced Security Signals](#item-tech-news-6) ⭐️ 7.0/10
-7. [Minimal DeepSeek V3 Model in Pure JAX Released](#item-tech-news-7) ⭐️ 7.0/10
-8. [Project Zero to Shorten Vulnerability Disclosure Window](#item-tech-news-8) ⭐️ 7.0/10
-9. [TimeCues Studio: Free Open-Source Music Annotation Tool Released](#item-tech-news-9) ⭐️ 7.0/10
-10. [Debate on Baselines for Short-Horizon Price Forecasting Papers](#item-tech-news-10) ⭐️ 7.0/10
-11. [OpenAI Disbands Robotics Team, Shifts to General AI Models for Robots](#item-tech-news-11) ⭐️ 7.0/10
-12. [W5000 Unmanned Cargo Aircraft Completes Test Flight](#item-tech-news-12) ⭐️ 7.0/10
-13. [Windows 11 Runs Natively on Foldable iPhone via Gemini and WindowsiOS](#item-tech-news-13) ⭐️ 7.0/10
+1. [SpaceX Starship Achieves First Orbital Return Tower Catch](#item-tech-news-1) ⭐️ 9.0/10
+2. [Meta FAIR &amp; NYU: Vision Encoder Pretraining Optional, Vision-Only Params Essential in MLLMs](#item-tech-news-2) ⭐️ 8.0/10
+3. [Multiplayer Game Uses Local World Models for Real-Time Rendering](#item-tech-news-3) ⭐️ 8.0/10
+4. [Meituan Open-Sources LongCat-2.5, Trained Without NVIDIA GPUs](#item-tech-news-4) ⭐️ 8.0/10
+5. [Huawei Cloud Releases Open-Source Pangu-2.1-Pro Model](#item-tech-news-5) ⭐️ 8.0/10
+6. [MacBook Pro OLED Displays Raise PWM Flicker Concerns](#item-tech-news-6) ⭐️ 7.0/10
+7. [Microsoft 365 Outage Implicated in Hotel Chlorine Gas Incident](#item-tech-news-7) ⭐️ 7.0/10
+8. [Tool Achieves 5x Faster cudaMemcpy on B300 GPUs](#item-tech-news-8) ⭐️ 7.0/10
+9. [Training-Free Early Exit for Reasoning Models via Output Layer Edit](#item-tech-news-9) ⭐️ 7.0/10
+10. [Marimba: Open-Source Lightweight Speech Decision Model Released](#item-tech-news-10) ⭐️ 7.0/10
+11. [Hackathon Tool Aligns Wikipedia Sentences Across Languages and Time](#item-tech-news-11) ⭐️ 7.0/10
+12. [TimeCues Studio: Open-Source Music Structure Annotation Tool Released](#item-tech-news-12) ⭐️ 7.0/10
+13. [Tesla Cybercab Requires $299/Month Subscription to Operate](#item-tech-news-13) ⭐️ 7.0/10
+14. [Allegations of Anthropic, US Officials Targeting Nvidia&\#x27;s Jensen Huang](#item-tech-news-14) ⭐️ 7.0/10
 
 **Financial News**
-1. [Anthropic IPO Bars Mainland China and Hong Kong Investors](#item-finance-news-1) ⭐️ 8.0/10
-2. [Nvidia CEO Resignation and Congressional Shift Affect AI Stocks and ETFs](#item-finance-news-2) ⭐️ 7.0/10
+1. [Cantor Fitzgerald Faces Scrutiny Over Nvidia Ties Amid U.S.-China Tech Concerns](#item-finance-news-1) ⭐️ 7.0/10
+2. [US Judge Allows DRAM Price-Fixing Lawsuit Against Chipmakers to Proceed](#item-finance-news-2) ⭐️ 7.0/10
 
 ---
 
 ## Technology News
 
 <a id="item-tech-news-1"></a>
-### [SpaceX Achieves First Starship Tower Catch on Flight 15](https://www.spacex.com/launches/starship-flight-15) ⭐️ 9.0/10
+### [SpaceX Starship Achieves First Orbital Return Tower Catch](https://www.spacex.com/launches/starship-flight-15) ⭐️ 9.0/10
 
-SpaceX successfully caught its Starship vehicle using the launch tower&\#x27;s mechanical arms at the end of Flight 15, marking the first time a human-made orbital-class spacecraft has been recovered this way. The mission launched from Texas, completed approximately 14 orbits and 22.5 hours in space, and deployed 26 Starlink V3 satellites before returning to be caught by the tower. The Super Heavy booster, however, failed to return to the tower and was lost in a controlled splashdown. This achievement demonstrates a significant advance in large-scale spacecraft reusability, though full two-stage recovery was not accomplished.
+SpaceX&\#x27;s Starship completed its 15th test flight, successfully returning from orbit and being captured for the first time by the launch tower&\#x27;s mechanical arms at the Texas launch site. The mission lasted approximately 22.5 hours, included about 14 orbits of Earth, and also deployed 26 new Starlink V3 satellites. While the Starship vehicle was recovered via tower catch, the Super Heavy booster was not recovered as planned and splashed down in the Gulf of Mexico. This marks a significant technical milestone in large spacecraft reusability, though simultaneous recovery of both stages was not achieved.
 
-hackernews · ls612 · Nov 14, 21:22 · [Discussion](https://news.ycombinator.com/item?id=50500963)
+telegram · zaihuapd · Nov 14, 23:49
 
-**「Background」** SpaceX&\#x27;s Starship program aims to develop a fully reusable, orbital-class launch system, with both the booster \(Super Heavy\) and the spacecraft \(Starship\) designed for recovery and reuse. Prior to Flight 15, SpaceX had attempted but not yet succeeded in catching either stage with the launch tower&\#x27;s mechanical arms, known as &quot;chopsticks.&quot; The successful catch of Starship itself during Flight 15 marks the first time this recovery method has been achieved, following earlier tests where the booster or ship either landed elsewhere or was lost.
-
-**「Impact」** SpaceX&\#x27;s successful tower catch of Starship paves the way for rapid turnaround and potential cost reductions in orbital launches, as it eliminates the need for ocean landings or ground recovery for the upper stage. However, operational reliability and full two-stage reusability remain to be proven in future flights.
-
-**「Community Discussion」** Commenters compared Starship&\#x27;s achievement to the Space Shuttle, noting improvements in safety and reusability, and highlighted the potential for dramatically lower launch costs if both stages can be reliably caught and reflown. Some expressed excitement about the engineering milestone, while others pointed out that further progress is needed to achieve full two-stage recovery and rapid reusability.
+**「Background」** SpaceX has been developing the Starship system as a fully reusable spacecraft designed for orbital missions and rapid turnaround. Previous Starship test flights focused on suborbital hops, controlled landings, and partial recovery, but had not achieved a full orbital return with capture by ground-based infrastructure. The use of mechanical arms on the launch tower to catch the returning vehicle is intended to reduce refurbishment time and costs compared to traditional landing methods.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.youtube.com/watch?v=VEvzBhRyB94">SpaceX Catches Starship for the First Time Ending Flight Test 15</a></li>
-<li><a href="https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-chopsticks-double-catch-super-heavy-ship">SpaceX launches Starship on ambitious 22-hour Flight 15 ... | Space</a></li>
+<li><a href="https://www.foxbusiness.com/technology/spacex-makes-history-starship-spacecraft-caught-launch-tower-first-time">SpaceX makes history with first -ever Starship spacecraft catch at...</a></li>
+<li><a href="https://www.nine.com.au/world-news/usa/spacex-s-starship-captured-by-launch-pad-arms-in-a-dramatic-first-as-it-returns-from-orbit-20261115-p61e8f.html">SpaceX ’s Starship captured by launch pad arms in a dramatic first as...</a></li>
+<li><a href="https://www.nytimes.com/2026/11/14/science/spacex-starship-first-catch.html">SpaceX Makes History With Successful Rocket Catch in Texas</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#spaceflight`, `#hardware`, `#systems engineering`, `#industry impact`
+**Tags**: `#space technology`, `#hardware`, `#automation`, `#industry news`
 
 ---
 
 <a id="item-tech-news-2"></a>
-### [Lovable Apps Leak Passport Data and 200K+ Messages via Security Flaw](https://www.crissyfield.de/research/lovable-en/) ⭐️ 8.0/10
+### [Meta FAIR &amp; NYU: Vision Encoder Pretraining Optional, Vision-Only Params Essential in MLLMs](https://www.reddit.com/r/MachineLearning/comments/1xx1k2o/meta_fair_nyu_unbundling_multimodal_vision/) ⭐️ 8.0/10
 
-A security vulnerability in Lovable apps exposed sensitive user data, including passport details and over 200,000 private messages, due to insufficient row-level security controls. The flaw was linked to default configurations in platforms like Supabase, which did not enforce strict access controls by default for existing projects. Lovable&\#x27;s Head of Security stated that their platform scans apps for such issues and offers automated fixes, but the incident highlights gaps in both platform defaults and developer practices. The issue has prompted discussion about the need for more secure defaults and automated security tooling in cloud-based and AI-generated applications.
+Meta FAIR and NYU conducted a large-scale study training over 200 multimodal large language models \(MLLMs\) from scratch to isolate the effects of vision encoder design choices. They found that separate pretraining of the vision encoder is optional—encoders trained from scratch with the LLM perform as well as those with extensive pretraining, even when pretraining is &\#x27;free.&\#x27; However, allocating parameters exclusively for vision processing is essential: models without vision-only parameters consistently underperform and require about three times more compute to match performance. The placement of vision processing \(as a separate encoder or fused into early LLM layers\) is flexible, as long as vision-only parameters are present.
 
-hackernews · armcat · Nov 14, 17:43 · [Discussion](https://news.ycombinator.com/item?id=50499017)
+reddit · r/MachineLearning · /u/trungh98 · Nov 15, 17:38
 
-**「Background」** Lovable is an AI-powered app development platform that enables users to quickly generate web applications, often using Supabase as a backend database. In November 2026, security researchers scanned over 159,000 Lovable-generated apps and discovered that many had databases left open without authentication, exposing sensitive data such as passport numbers, payment details, and private messages. The root cause was identified as missing or insufficient database access rules, rather than a direct hack of the Lovable platform itself.
+**「Background」** Multimodal large language models \(MLLMs\) combine vision and language processing, typically using a vision encoder to process images before integrating with a language model. There has been ongoing debate in the research community about whether vision encoders require separate pretraining and how their parameters should be allocated for optimal performance. Previous models have varied widely in their approach, with some omitting the encoder, others training it from scratch, and some relying on extensive pretraining, making it difficult to isolate the effects of each design choice.
 
-**「Impact」** Users of Lovable apps had their sensitive information, including passport details and private messages, exposed to unauthorized access. Developers using platforms like Supabase should review and update their security configurations, especially row-level security settings, to prevent similar breaches.
-
-**「Community Discussion」** Community members debated the responsibility between app developers and platform providers, with some attributing blame to Supabase&\#x27;s insecure defaults and others emphasizing the need for better developer awareness. The Lovable security lead highlighted their automated scanning and fix tools, while others called for stricter platform defaults and more robust automated security checks.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://cybernews.com/security/lovable-ai-apps-expose-personal-information/">Lovable AI apps exposed sensitive data in open databases ...</a></li>
-<li><a href="https://dev.to/yashvikothari/lovable-data-leak-2026-24664-ai-apps-exposed-80000-user-records-via-supabase-2l7a">Lovable Data Leak 2026: 24,664 AI Apps Exposed 80,000+ User ...</a></li>
-<li><a href="https://startupfortune.com/lovable-ai-apps-left-passport-and-payment-data-open-to-anyone/">Lovable AI Apps Left Passport and Payment Data Open to ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#security`, `#data breach`, `#application development`, `#cloud platforms`
+**Tags**: `#multimodal-models`, `#vision-encoders`, `#machine-learning-research`, `#model-architecture`, `#AI`
 
 ---
 
 <a id="item-tech-news-3"></a>
-### [Cloudflare Open-Sources Kitesurf AI Agent Browser](https://www.phoronix.com/news/Cloudflare-Kitesurf-Open-Source) ⭐️ 8.0/10
+### [Multiplayer Game Uses Local World Models for Real-Time Rendering](https://www.reddit.com/r/MachineLearning/comments/1xx4ta3/we_made_a_multiplayer_game_where_each_players/) ⭐️ 8.0/10
 
-Cloudflare has released Kitesurf, an open-source, stateless browser designed specifically for AI agents, under the Apache 2.0 license. Built on Cloudflare Workers, Kitesurf can parse HTML, handle CSS, and execute JavaScript without requiring a traditional browser container. The project aims to provide a lightweight and efficient alternative to Chromium, using less CPU and memory, and is designed to scale on Cloudflare&\#x27;s global Workers network. The source code is now available on GitHub.
+A new multiplayer game prototype allows each player&\#x27;s view to be generated in real time by a world model running locally on their GPU. The system uses a diffusion transformer trained on nearly 4,000 hours of CS:GO bot match data, with all player perspectives and inputs aligned at 16 Hz. Game state is synchronized by a lightweight server, but all rendering is performed client-side using the AI model. The open beta is free, requires an RTX 3080 or better \(with an experimental Mac build\), and is currently limited to a single small map and pistols only.
 
-telegram · zaihuapd · Nov 14, 09:33
+reddit · r/MachineLearning · /u/bengal7ion · Nov 15, 19:46
 
-**「Background」** Traditional web browsers like Chromium are resource-intensive and not optimized for automated or AI-driven tasks. Cloudflare developed Kitesurf as a lightweight, stateless browser engine specifically designed for AI agents, allowing efficient web interaction without the overhead of a full browser. Built on Cloudflare Workers, Kitesurf can be deployed globally and is now open source under the Apache 2.0 license, enabling broader experimentation and adoption.
+**「Background」** Diffusion transformers are a type of generative model that combine the strengths of diffusion processes—where noise is gradually added and then removed to generate data—with transformer architectures, which excel at modeling sequences and dependencies. World models, in this context, are machine learning systems trained to predict or simulate the next state or visual frame of an environment based on previous states and actions, enabling agents to &\#x27;imagine&\#x27; or render possible futures. Recent research has shown that diffusion-based world models can produce visually detailed and temporally coherent predictions, making them suitable for tasks like video generation and, as in this project, real-time rendering in interactive environments.
 
-**「Impact」** Developers building AI agents that interact with the web can now leverage Kitesurf for more resource-efficient browsing tasks, potentially reducing infrastructure costs and improving scalability compared to using full browser engines like Chromium.
+**「Impact」** Developers and researchers can experiment with a novel architecture for multiplayer games, where AI-generated views are rendered locally, potentially reducing server load and enabling new forms of gameplay and graphics. The released dataset and open beta provide resources for further research in machine learning-driven game environments.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://blog.cloudflare.com/kitesurf-open-source/">Kitesurf is now open source | Cloudflare Blog</a></li>
-<li><a href="https://www.everydev.ai/tools/kitesurf">Kitesurf - Headless Browser for AI Agents | EveryDev. ai</a></li>
+<li><a href="https://arxiv.org/pdf/2412.03572">Navigation World Models</a></li>
+<li><a href="https://github.com/eloialonso/diamond">GitHub - eloialonso/diamond: DIAMOND ( DIffusion As a Model Of...)</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#open-source`, `#AI agents`, `#web browsers`, `#cloud infrastructure`
+**Tags**: `#machine learning`, `#world models`, `#diffusion models`, `#multiplayer gaming`, `#computer systems`
 
 ---
 
 <a id="item-tech-news-4"></a>
-### [Italy Fines Meta €805M for Facebook Album Access Violations](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10321080) ⭐️ 8.0/10
+### [Meituan Open-Sources LongCat-2.5, Trained Without NVIDIA GPUs](https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/) ⭐️ 8.0/10
 
-The Italian privacy regulator has fined Meta €805 million for Facebook&\#x27;s Android app accessing approximately 20 million Italian users&\#x27; photo albums, videos, and metadata without explicit consent. The violation centers on a photo album recommendation feature introduced in 2023, which was enabled by default and used a vague authorization prompt. Meta is required to change the feature to be opt-in, with explicit user consent, within 60 days or face a ban on the feature for users who have not provided valid authorization.
+Meituan has open-sourced the LongCat-2.5 model, a large-scale multimodal agent designed for complex, multi-step tasks, particularly in programming. The model was trained entirely on Huawei Ascend accelerators, with no use of NVIDIA GPUs, and is released under the MIT license, allowing commercial use. LongCat-2.5 activates approximately 48 billion parameters per token, supports text, image, and video input, and achieved a score of 88.4 on Terminal Bench v2.1, slightly below Claude Opus 5&\#x27;s 89.1. The model weights are now publicly available.
 
-telegram · zaihuapd · Nov 14, 14:37
+telegram · zaihuapd · Nov 15, 11:08
 
-**「Background」** The Italian Data Protection Authority fined Meta for a feature in the Facebook Android app that accessed users&\#x27; photo and video galleries without obtaining specific consent. This feature, introduced in 2023, was enabled by default and provided only a general authorization prompt, rather than clear, explicit consent for accessing personal media. The regulatory action addresses concerns over privacy and user consent in mobile app design, particularly regarding access to sensitive personal data such as photos and videos.
+**「Background」** LongCat-2.5 is a multimodal agent model developed by Meituan, designed for complex, long-horizon tasks and capable of processing text, images, and video. The model features approximately 48 billion active parameters per token and supports a context window of up to 1 million tokens. It was released in November 2026 and is notable for its open-source MIT license and claimed exclusive use of Huawei Ascend accelerators for training, rather than NVIDIA GPUs.
 
-**「Impact」** Facebook Android users in Italy will see the album recommendation feature disabled by default, and Meta must obtain clear, separate consent before enabling it for any user. Developers and privacy teams at Meta will need to update consent flows and default settings to comply with the regulator&\#x27;s order.
+**「Impact」** Developers and organizations now have access to a high-capacity, commercially usable AI model that was trained without reliance on NVIDIA hardware, offering a viable alternative for those affected by hardware supply constraints or seeking to diversify their AI infrastructure.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://apnews.com/article/italy-meta-android-facebook-feature-9b3073c52464d5cd0e8facbc57285194">Italy fines Meta $887M over access to users&#x27; photos | AP News</a></li>
-<li><a href="https://abcnews.com/Technology/wireStory/meta-fined-887-million-italy-android-gallery-photos-138145127">Meta fined $887M in Italy over Android gallery photos, videos ...</a></li>
-<li><a href="https://www.politico.eu/article/italy-hits-meta-with-e805m-fine-over-privacy-law-violation/">Italy hits Meta with €805m fine over privacy law violation</a></li>
+<li><a href="https://www.longcatai.org/">LongCat AI - LongCat - 2 . 5 Native Multimodal Agent Model (1.6T)</a></li>
+<li><a href="https://llm-stats.com/models/longcat-2.5">LongCat - 2 . 5 Benchmarks, Pricing &amp; Context Window</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#privacy`, `#regulation`, `#mobile development`, `#technology industry`
+**Tags**: `#open source`, `#large language models`, `#hardware alternatives`, `#AI research`, `#China tech`
 
 ---
 
 <a id="item-tech-news-5"></a>
-### [Google Antigravity /teamwork Enhances Collaborative AI Workflows](https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/) ⭐️ 7.0/10
+### [Huawei Cloud Releases Open-Source Pangu-2.1-Pro Model](https://mp.weixin.qq.com/s/8JfFmscBTDl_mPQMycD8Nw) ⭐️ 8.0/10
 
-Google has introduced advances to the Antigravity /teamwork feature, which enables collaborative, multi-agent AI workflows for science and engineering tasks. The update showcases examples in mathematics, science, coding, and engineering, but represents incremental progress rather than a major shift. The feature is available to external users, with ongoing improvements and plans for more dynamic agent team-building. Some community members note that the current capabilities lag behind competing tools and lack certain automation features.
+Huawei Cloud has released the open-source Pangu-2.1-Pro model on its MaaS \(Model-as-a-Service\) platform. This model is optimized for AI agent development, AI coding, and inference efficiency, with specific enhancements for HarmonyOS ArkTS development and Ascend hardware operator generation. It integrates with Huawei&\#x27;s AgentArts, CodeArts, and OfficeAce products. Pricing for inference is set at 0.8 RMB per million input tokens, 3.2 RMB per million output tokens, and 0.016 RMB per million input tokens for cache hits.
 
-hackernews · acossta · Nov 14, 13:20 · [Discussion](https://news.ycombinator.com/item?id=50496811)
+telegram · zaihuapd · Nov 15, 16:03
 
-**「Background」** Google Antigravity is a software development platform where AI agents autonomously write, run, and test code. The /teamwork feature in Antigravity enables the deployment of collaborative multi-agent teams to handle large projects, complex research, and multi-file code refactoring. This framework, first announced at Google I/O and updated in August 2026, allows agents to propose, critique, and refine each other&\#x27;s work over extended periods, leveraging Google&\#x27;s advanced Gemini 3.7 Flash model.
+**「Background」** Huawei Cloud previously offered the openPangu-2.0-Pro model, a large Mixture-of-Experts \(MoE\) AI model trained on Ascend hardware, with 505 billion total parameters and a 512k context length. However, as of November 1, Huawei Cloud announced it would discontinue sales and phase out services for Pangu 2.0 models by November 30, recommending users transition to alternative models. The launch of openPangu-2.1-Pro follows this discontinuation, providing an updated and open-source option for users on the MaaS platform.
 
-**「Impact」** Researchers and engineers using Antigravity can now experiment with more collaborative, agent-based workflows, but may encounter limitations compared to other platforms, such as missing automation modes and less mature dynamic workflow features.
-
-**「Community Discussion」** Some users are optimistic about the potential for AI-driven teamwork to accelerate research and development, while others express frustration over unclear usage instructions and the feature&\#x27;s lag behind alternatives like Claude dynamic workflows. There is also discussion about the need for more detailed documentation and automation capabilities.
+**「Impact」** Developers building on HarmonyOS or targeting Ascend hardware can now leverage an open-source, production-grade AI model with tailored support for their platforms, potentially reducing integration effort and cost. The transparent pricing model also allows organizations to estimate and manage inference costs more effectively.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Google_Antigravity">Google Antigravity - Wikipedia</a></li>
-<li><a href="https://antigravity.google/docs/teamwork/">Teamwork agent teams (/teamwork) | Google Antigravity Docs</a></li>
-<li><a href="https://antigravity.google/blog/teamwork-when-ai-becomes-a-research-partner">Teamwork: when AI becomes a research partner - antigravity.google</a></li>
+<li><a href="https://huggingface.co/openpangu/openPangu-2.0-Pro/blob/main/README_EN.md">README_EN.md · openpangu/ openPangu - 2 .0- Pro at main</a></li>
+<li><a href="https://www.kucoin.com/news/flash/huawei-cloud-to-discontinue-pangu-2-0-models-recommends-deepseek-and-glm-alternatives">Huawei Cloud to Discontinue Pangu 2 .0 Models ... | KuCoin</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI systems`, `#collaborative workflows`, `#software engineering`, `#multi-agent systems`
+**Tags**: `#open source`, `#AI models`, `#cloud platforms`, `#software engineering`
 
 ---
 
 <a id="item-tech-news-6"></a>
-### [PyPI Launches Redesigned Project Pages with Enhanced Security Signals](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/) ⭐️ 7.0/10
+### [MacBook Pro OLED Displays Raise PWM Flicker Concerns](https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/) ⭐️ 7.0/10
 
-PyPI has released redesigned project pages that now display clearer security and provenance signals for Python packages. These updates are live and aim to improve package trust and supply chain transparency by making it easier for users to assess the authenticity and security of packages. The new interface highlights provenance information, such as whether a package was published using trusted workflows or includes cryptographic signatures. This change is intended for all PyPI users, including developers and organizations relying on open-source Python packages.
+Recent MacBook Pro models with OLED displays have drawn criticism for their use of low-frequency pulse-width modulation \(PWM\) to control screen brightness, with reports suggesting PWM frequencies as low as 240Hz or 480Hz. This has raised usability concerns for users sensitive to flicker, as lower PWM frequencies can cause eye strain, headaches, or discomfort. Technical debate continues over the exact implementation, with some suggesting the effective frequency may be higher due to tandem OLED panel design, but the issue remains significant for those affected by display flicker.
 
-hackernews · rbanffy · Nov 14, 15:40 · [Discussion](https://news.ycombinator.com/item?id=50497892)
+hackernews · MacAnorak · Nov 15, 13:15 · [Discussion](https://news.ycombinator.com/item?id=50506719)
 
-**「Background」** PyPI \(Python Package Index\) is the primary repository for Python packages, and provenance refers to verifiable information about the origin and build process of a package release. According to PyPI&\#x27;s documentation, provenance is shared via attestations, which provide a record of how and where a release file was built or published. The recent redesign of PyPI project pages now includes a dedicated Security tab that displays provenance confirmations for each release file, with a &\#x27;Full provenance&\#x27; label shown when all files have attestations.
+**「Background」** OLED \(Organic Light Emitting Diode\) displays often use pulse-width modulation \(PWM\) to control brightness, which can introduce flicker at certain frequencies. Some users are sensitive to this flicker, experiencing eye strain or discomfort, especially at lower PWM frequencies. Reports and discussions in Apple and third-party forums have highlighted that this issue is not unique to MacBook Pro, as similar concerns have been raised for other OLED devices across brands.
 
-**「Impact」** Developers and organizations can now more easily evaluate the trustworthiness of Python packages on PyPI, potentially reducing the risk of supply chain attacks. However, some users may need to adapt their publishing workflows to take full advantage of the new provenance and security features.
+**「Impact」** Users sensitive to display flicker may experience increased eye strain or discomfort when using the new MacBook Pro OLED models, especially at lower brightness settings where PWM effects are more pronounced. Developers and hardware designers may need to consider alternative dimming methods or higher PWM frequencies to accommodate sensitive users.
 
-**「Community Discussion」** Some community members praised the move toward clearer provenance and keyless signing, hoping for broader support across CI/CD providers. Others expressed concern that the emphasis on centralized trust and reliance on major cloud providers could lead to lock-in and reduce the openness of the Python ecosystem.
+**「Community Discussion」** Commenters debated the actual PWM frequency, with some arguing that the effective rate could be as high as 960Hz due to the tandem OLED design, while others expressed surprise that Apple would use such low frequencies. Several users shared personal experiences with flicker sensitivity and discussed broader issues with display technologies, such as color rendering and motion blur.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://docs.pypi.org/using-pypi/package-security/provenance/">Checking Provenance (package origin) - PyPI User Documentation</a></li>
-<li><a href="https://habr.com/ru/companies/codescoring/articles/1107380/">[46. 2026 ] Обзор новых правил безопасности в пакетных... / Хабр</a></li>
+<li><a href="https://discussions.apple.com/thread/254749941?page=2">Severe Eye Strain due to OLED PWM Dimming - Apple Community</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#python`, `#security`, `#open-source`, `#software-supply-chain`
+**Tags**: `#hardware`, `#display technology`, `#user experience`, `#Apple`
 
 ---
 
 <a id="item-tech-news-7"></a>
-### [Minimal DeepSeek V3 Model in Pure JAX Released](https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax) ⭐️ 7.0/10
+### [Microsoft 365 Outage Implicated in Hotel Chlorine Gas Incident](https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html) ⭐️ 7.0/10
 
-A new open-source project provides a minimal implementation of the DeepSeek V3 deep learning model in approximately 200 lines of pure JAX code. This concise version is designed for accessibility, enabling users to study, experiment with, and adapt the model without the overhead of large frameworks or complex dependencies. The project is particularly notable for its compatibility with ROCm, allowing users with AMD GPUs to run and train the model locally. This release is aimed at learners, researchers, and practitioners interested in understanding modern deep learning architectures from first principles.
+A Microsoft 365 outage prevented safety alert emails from being delivered at a hotel, contributing to a chlorine gas leak that resulted in the poisoning of 15 guests. The hotel&\#x27;s automated dosing system over-dispensed chlorine into a pool, and the maintenance safety system&\#x27;s email alert was not received due to the outage. This incident has sparked debate about the risks of relying solely on cloud-based communication for safety-critical operations. The event highlights the need for redundant and resilient system architectures in environments where physical safety is at stake.
 
-hackernews · VaibhaavTiwari · Nov 14, 15:04 · [Discussion](https://news.ycombinator.com/item?id=50497589)
+hackernews · DeepLogin · Nov 15, 18:36 · [Discussion](https://news.ycombinator.com/item?id=50509411)
 
-**「Background」** DeepSeek V3 is a large-scale Mixture-of-Experts \(MoE\) language model featuring 671 billion total parameters, with only 37 billion activated per token for efficiency. It introduces architectural innovations such as Multi-head Latent Attention \(MLA\) and the DeepSeekMoE framework, aiming for faster inference and cost-effective training. The model and its technical details are fully open-sourced, enabling the community to study and experiment with its design.
+**「Background」** A Microsoft 365 \(Outlook\) outage prevented automated safety alert emails from reaching staff at Hotel Ling Bao in Phantasialand, Germany. The hotel&\#x27;s maintenance safety system was designed to send email warnings if the pool&\#x27;s chlorine dosing system malfunctioned. When the dosing system over-dispensed chlorine, the lack of email alerts due to the outage meant staff were unaware of the hazard, resulting in 15 guests being exposed to chlorine gas.
 
-**「Impact」** Users with AMD GPUs and ROCm support can now run and experiment with a modern deep learning model using JAX, which previously posed compatibility challenges. The minimal codebase also serves as an educational resource for those seeking to understand or extend DeepSeek V3 without navigating large, complex repositories.
+**「Impact」** Organizations operating safety-critical systems that depend on cloud-based communication channels may face significant operational risks if those services become unavailable. This incident demonstrates the necessity of implementing backup notification methods and fail-safe mechanisms to prevent harm when primary systems fail.
 
-**「Community Discussion」** Commenters praised the project for its educational value and simplicity, with one user highlighting successful end-to-end training on an AMD RX 7600 XT using ROCm and JAX. Others expressed appreciation for the opportunity to learn from a first-principles implementation and discussed the benefits of visual and interactive model representations.
+**「Community Discussion」** Commenters overwhelmingly argue that the hotel&\#x27;s reliance on a single cloud-based email system for safety alerts was a critical design flaw, not Microsoft&\#x27;s fault. Several participants stress that safety-critical systems require redundant, independent alerting mechanisms, and that cloud outages should not be able to cause physical harm.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://deepwiki.com/deepseek-ai/DeepSeek-V3/1.2-model-architecture-overview">Model Architecture Overview | deepseek-ai/DeepSeek-V3 | DeepWiki</a></li>
-<li><a href="https://www.deepseek.com/en/news/deepseek-v3/">Introducing DeepSeek-V3</a></li>
-<li><a href="https://arxiv.org/abs/2412.19437">[2412.19437] DeepSeek-V3 Technical Report - arXiv.org DeepSeek-V3 Technical Report - arXiv.org deepseek-ai/DeepSeek-V3 · Hugging Face DeepSeek-V3 - Hugging Face GitHub - deepseek-ai/DeepSeek-V3 · GitHub</a></li>
+<li><a href="https://www.yahoo.com/news/world/articles/microsoft-365-outage-leads-chlorine-154113086.html?fr=sycsrp_catchall">Microsoft 365 outage leads to chlorine gas poisoning of 15 ...</a></li>
+<li><a href="https://windowsforum.com/news/outlook-outage-blocked-phantasialand-pool-alerts-before-chlorine-incident-injured-15.452435/">Outlook Outage Blocked Phantasialand Pool Alerts Before ...</a></li>
+<li><a href="https://techbytes.app/posts/microsoft-365-outage-leads-to-chlorine-gas-poisoning-of-15/">Microsoft 365 outage leads to chlorine gas poisoning of 15 ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#machine-learning`, `#jax`, `#open-source`, `#deep-learning`
+**Tags**: `#cloud reliability`, `#system architecture`, `#IoT`, `#safety-critical systems`
 
 ---
 
 <a id="item-tech-news-8"></a>
-### [Project Zero to Shorten Vulnerability Disclosure Window](https://projectzero.google/2026/11/disclosure-policy.html) ⭐️ 7.0/10
+### [Tool Achieves 5x Faster cudaMemcpy on B300 GPUs](https://www.reddit.com/r/MachineLearning/comments/1xx2n25/making_cudamemcpy_5x_faster_on_a_b300_p/) ⭐️ 7.0/10
 
-Google Project Zero has announced a phased reduction in its vulnerability disclosure window: starting immediately, vulnerabilities will be disclosed 90 days after reporting to vendors, moving to 60 days on February 2, 2027, and then to 30 days on January 3, 2028. This policy applies to all vulnerabilities reported by Project Zero and is intended to accelerate the patching and public awareness of security issues. The change affects both open source and commercial software vendors, who will have less time to address reported vulnerabilities before public disclosure.
+A new tool has been released that accelerates cudaMemcpy pageable memory transfers on B300 GPUs, achieving a reported 5x speedup. In a benchmark copying a 1 GB tensor between CPU and GPU using PyTorch, transfer speeds increased from 10.2 GB/s to 51.5 GB/s when using the tool. The tool is available with code and documentation for practitioners seeking to optimize data movement in machine learning workflows on B300 hardware.
 
-hackernews · hacb · Nov 14, 11:13 · [Discussion](https://news.ycombinator.com/item?id=50496051)
+reddit · r/MachineLearning · /u/makneeee · Nov 15, 18:20
 
-**「Background」** Since 2021, Google Project Zero has operated under a &quot;90 + 30&quot; vulnerability disclosure policy, giving vendors 90 days to fix reported vulnerabilities and an additional 30 days for patch rollout before public disclosure. This policy aimed to balance encouraging faster patching with allowing vendors sufficient time to protect users. The evolving threat landscape, particularly with AI-assisted vulnerability discovery and exploitation, has prompted Project Zero to reconsider these timelines.
+**「Background」** cudaMemcpy is a core CUDA API function used to transfer data between host \(CPU\) and device \(GPU\) memory, with performance often limited by whether the host memory is pageable or pinned. Pageable memory transfers are typically slower than pinned memory transfers due to additional overhead in memory management. The cudamemcpy-tuner tool, recently released by developer maknee, specifically targets and accelerates pageable cudaMemcpy transfers on Nvidia B300 GPUs, reportedly increasing throughput from 10.2 GB/s to 51 GB/s.
 
-**「Impact」** Software vendors will need to accelerate their vulnerability response and patch development processes to meet the shorter disclosure timelines, or risk having unpatched vulnerabilities publicly disclosed. Organizations relying on affected software may face increased exposure if vendors cannot meet the new deadlines.
-
-**「Community Discussion」** Some commenters argue that immediate disclosure would be more effective in compelling vendors to fix vulnerabilities, while others express concern that certain projects, such as Ubuntu, may struggle to meet the shortened timelines. There is also discussion about whether companies discovering vulnerabilities should provide vendors with the same tools or access used in their research.
+**「Impact」** Users running machine learning workloads on B300 GPUs can significantly reduce data transfer bottlenecks by adopting this tool, potentially improving overall training and inference throughput when large tensors are moved between CPU and GPU.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://projectzero.google/2026/11/disclosure-policy.html">Policy and Disclosure: 2026 Edition - Project Zero</a></li>
+<li><a href="https://agihunt.info/en/p/1a1e07bf9febb7c90bad763fb45">cudamemcpy-tuner speeds up pageable cudaMemcpy… · AGI Hunt</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#security`, `#vulnerability-disclosure`, `#software-industry`, `#policy`
+**Tags**: `#GPU`, `#performance`, `#machine-learning`, `#tools`
 
 ---
 
 <a id="item-tech-news-9"></a>
-### [TimeCues Studio: Free Open-Source Music Annotation Tool Released](https://www.reddit.com/r/MachineLearning/comments/1xwh3mw/acm_multimedia_2026_timecues_studio_a_free/) ⭐️ 7.0/10
+### [Training-Free Early Exit for Reasoning Models via Output Layer Edit](https://www.reddit.com/r/MachineLearning/comments/1xx1xdm/trainingfree_early_exit_for_reasoning_models_a/) ⭐️ 7.0/10
 
-TimeCues Studio is a newly released, free, open-source web application for annotating music structure on a beat-locked timeline. It supports collaborative annotation, algorithm comparison \(including built-in detectors like allin1 and MSAF\), and export to formats such as Audacity labels, MIDI, and JSON. The tool provides visualizations including separated stems, spectrograms, and color-coded waveforms, and is available under the MIT license. Users can run it locally with Docker Compose or try a demo version without registration.
+A Reddit post introduces a training-free method to enable early exit in reasoning models by modifying a single row in the output layer weights corresponding to the &lt;/think&gt; token. This approach uses a linear probe, computed via linear discriminant analysis, to detect when the model is only re-checking answers and boosts the probability of emitting &lt;/think&gt; at that point. The method requires no additional training or inference-time code and is implemented by directly editing the model weights. Small-scale tests on Qwen3.5-4B and DeepSeek V4.1 Flash showed significant reductions in token usage \(up to 84% less &\#x27;thinking&\#x27;\) with no loss in accuracy on math and coding tasks, though the evaluation sample size is limited.
 
-reddit · r/MachineLearning · /u/SapirCa · Nov 14, 23:59
+reddit · r/MachineLearning · /u/Good-Presentation-23 · Nov 15, 17:52
 
-**「Background」** Music structure annotation is a key task in music information retrieval and machine learning, involving the labeling of sections, cues, and other features within audio tracks. Existing tools often lack integrated support for collaborative annotation, algorithm comparison, and export to multiple formats. TimeCues Studio was developed to address these needs, providing a web-based, open-source workspace where users can annotate music, evaluate detection algorithms, and prototype new methods within a unified environment.
+**「Background」** Early exit techniques for reasoning models aim to reduce unnecessary computation by allowing models to stop generating tokens once a solution is reached, rather than continuing to &\#x27;think&\#x27; or double-check answers. Recent research has proposed training-free dynamic early exit methods, enabling large language models \(LLMs\) to self-truncate their chain-of-thought \(CoT\) sequences without additional training or complex modifications. These approaches are motivated by the observation that models often continue reasoning after the correct answer is found, leading to inefficiency.
+
+**「Impact」** Developers using compatible reasoning models can potentially reduce inference costs and latency by applying this weight-editing technique, as it allows models to stop generating unnecessary intermediate reasoning steps without retraining or custom inference logic. However, the method&\#x27;s effectiveness and generalizability beyond the tested math and coding tasks remain to be validated on larger and more diverse datasets.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2609.10338">[2609.10338] TimeCues Studio : A Workspace for Music Annotation ...</a></li>
+<li><a href="https://arxiv.org/pdf/2504.15895v2">Dynamic Early Exit in Reasoning Models - arXiv.org</a></li>
+<li><a href="https://arxiv.org/html/2504.15895v1">Dynamic Early Exit in Reasoning Models - arXiv.org</a></li>
+<li><a href="https://openreview.net/forum?id=NpU7ZXafRi">Dynamic Early Exit in Reasoning Models - OpenReview</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#machine learning`, `#large language models`, `#model optimization`, `#reasoning`
+
+---
+
+<a id="item-tech-news-10"></a>
+### [Marimba: Open-Source Lightweight Speech Decision Model Released](https://www.reddit.com/r/MachineLearning/comments/1xwzsm4/marimba_a_system_one_model_for_speech_r/) ⭐️ 7.0/10
+
+Marimba is a newly released open-source speech model designed for efficient, typed decision-making tasks such as yes/no answers, choices, or scoring based on audio input. Built on a frozen Qwen3-ASR-0.6B backbone, Marimba supports zero-shot speech analysis for word and language queries, as well as voice activity detection, turn endings, speaker changes, and speaker count. The model, code, and benchmarks are publicly available under the Apache-2.0 license, and installation is possible via pip. A supporting paper is expected on arXiv soon.
+
+reddit · r/MachineLearning · /u/solanotodesch · Nov 15, 16:30
+
+**「Background」** Automatic speech recognition \(ASR\) models convert spoken language into text and are commonly evaluated by their accuracy, speed, and ability to handle various speech tasks. Recent open-source ASR models, such as Qwen3-ASR-0.6B, provide a foundation for building specialized systems by offering pretrained weights and architectures. Marimba builds on this trend by using a frozen ASR backbone to enable efficient, multi-task speech analysis with open access to code and model weights.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://huggingface.co/spaces/hf-audio/open_asr_leaderboard">Open ASR Leaderboard - a Hugging Face Space by hf-audio</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#speech-recognition`, `#open-source`, `#machine-learning`, `#model-release`
+
+---
+
+<a id="item-tech-news-11"></a>
+### [Hackathon Tool Aligns Wikipedia Sentences Across Languages and Time](https://www.reddit.com/r/MachineLearning/comments/1xwttxo/hackathon_project_for_mariadbs_wikipedia_through/) ⭐️ 7.0/10
+
+A hackathon project called Parallax enables users to align and compare Wikipedia articles across Finnish, Swedish, German, English, Russian, Estonian, and Ukrainian editions at any historical date. The system stores every article revision in system-versioned tables, splits them into sentences, and embeds each unique sentence using bge-m3 vectors. Sentence similarity is computed using vector distance and further judged by Gemini 3.8 Flash to classify matches, contradictions, or differences, with verdicts cached for efficiency. The tool demonstrates high recall for retrieval but notes that the LLM-based judging component is only partially validated, with manual checks showing top-1 accuracy of 57% and top-5 accuracy of 89% on a small sample.
+
+reddit · r/MachineLearning · /u/Loxbey · Nov 15, 12:03
+
+**「Background」** Hackathons are short, intensive events where participants rapidly develop software solutions, often in response to a specific challenge or theme. The MariaDB &quot;Wikipedia Through Time&quot; challenge encouraged the use of MariaDB&\#x27;s system-versioned tables, which allow tracking and querying historical data changes, to analyze Wikipedia&\#x27;s multilingual and evolving content. This project leverages these database features alongside modern machine learning techniques such as sentence embeddings and vector search to align and compare Wikipedia articles across languages and time.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Hackathon">Hackathon - Wikipedia</a></li>
+<li><a href="https://github.com/danielbacsur/junction-x-wikipedia-hackathon">GitHub - danielbacsur/junction-x-wikipedia-hackathon: A time ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#machine learning`, `#databases`, `#natural language processing`, `#multilingual`, `#open source`
+
+---
+
+<a id="item-tech-news-12"></a>
+### [TimeCues Studio: Open-Source Music Structure Annotation Tool Released](https://www.reddit.com/r/MachineLearning/comments/1xwh3mw/acm_multimedia_2026_timecues_studio_a_free/) ⭐️ 7.0/10
+
+TimeCues Studio is a newly released, free, open-source web application for annotating music structure on a beat-locked timeline. It supports collaborative workflows, visualizes separated stems and spectrograms, and allows users to compare algorithmic segmentations \(such as allin1 and MSAF\) against manual annotations. The tool exports annotations in formats compatible with Audacity, MIDI, and JSON, and is available under the MIT license. Users can run it locally via Docker Compose or try a demo version without registration.
+
+reddit · r/MachineLearning · /u/SapirCa · Nov 14, 23:59
+
+**「Background」** Music structure annotation is a key task in music information retrieval, enabling researchers to label and analyze sections, boundaries, and features within audio tracks. Existing tools often lack integrated workflows for both manual annotation and algorithmic evaluation, making it challenging for teams to compare detection algorithms against human-labeled data. TimeCues Studio was developed to address these needs by providing a collaborative, open-source workspace that supports both annotation and algorithm prototyping within a single web application.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://arxiv.org/html/2609.10338">TimeCues Studio : A Workspace for Music Annotation and Algorithm...</a></li>
 <li><a href="https://github.com/sapirca/timecues-studio">GitHub - sapirca/ timecues - studio · GitHub</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#open source`, `#music information retrieval`, `#machine learning tools`, `#data annotation`
-
----
-
-<a id="item-tech-news-10"></a>
-### [Debate on Baselines for Short-Horizon Price Forecasting Papers](https://www.reddit.com/r/MachineLearning/comments/1xw6fk9/should_shorthorizon_price_forecasting_papers/) ⭐️ 7.0/10
-
-A discussion post questions the common practice in short-horizon price forecasting research of benchmarking models only against naive baselines such as ARIMA or random walk. The author suggests that papers should also compare their models to market-implied forecasts, such as those derived from options-implied volatility or crowd-sourced prediction markets, which incorporate more public information. The post also critiques the focus on point forecast metrics like RMSE, arguing that interval coverage is more informative for assets like Bitcoin. No new research or policy change is announced; the post highlights a methodological gap in current evaluation standards.
-
-reddit · r/MachineLearning · /u/happypeanut-t · Nov 14, 16:23
-
-**「Background」** In financial forecasting, especially for assets like cryptocurrencies and commodities, researchers often use simple statistical models or naive approaches as baselines to evaluate new machine learning models. Market-implied forecasts, such as those inferred from options prices, reflect the collective expectations and information of market participants, potentially providing a more challenging and realistic benchmark.
-
-**Tags**: `#machine learning`, `#finance`, `#forecasting`, `#research methodology`
-
----
-
-<a id="item-tech-news-11"></a>
-### [OpenAI Disbands Robotics Team, Shifts to General AI Models for Robots](https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/) ⭐️ 7.0/10
-
-OpenAI has dissolved its dedicated robotics team and reassigned its researchers to broader AI research groups. The company stated that its latest general-purpose AI models, such as GPT-6 Astra, are now capable of directly controlling robots, eliminating the need for a specialized robotics team. OpenAI maintains that robotics remains central to its long-term vision and continues to develop humanoid robots internally, with a public demonstration targeted for 2027. This move follows the termination of OpenAI&\#x27;s partnership with Figure in February 2025 and marks a strategic shift toward leveraging advanced general AI for embodied tasks.
-
-telegram · zaihuapd · Nov 14, 04:00
-
-**「Background」** OpenAI previously maintained a dedicated robotics team focused on developing specialized AI for robotic control. According to recent reports, the company has now reassigned these researchers to broader AI research groups, citing advancements in general-purpose AI models that can directly operate robots. This shift follows earlier cycles of forming and dissolving robotics teams at OpenAI, as well as collaborations with external robotics firms.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://casrai.org/news/openai-disbands-robotics-team-2026">OpenAI Disbands Its Robotics Team: What It Means — CASRAI</a></li>
-<li><a href="https://tech.yahoo.com/ai/articles/exclusive-openai-disbands-stand-alone-170530559.html">Exclusive: OpenAI disbands its stand-alone robotics team as ...</a></li>
-<li><a href="https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/">Exclusive: OpenAI disbands stand-alone robotics team as ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#OpenAI`, `#robotics`, `#AI models`, `#industry news`
-
----
-
-<a id="item-tech-news-12"></a>
-### [W5000 Unmanned Cargo Aircraft Completes Test Flight](https://www.ithome.com/1/027/068.htm) ⭐️ 7.0/10
-
-The W5000, described as the world&\#x27;s largest unmanned cargo aircraft, has successfully completed a technical verification test flight in Inner Mongolia. The aircraft features a maximum takeoff weight of 10.8 tons, a payload capacity of 5 tons, and a range of 2,600 kilometers. It uses turboprop power and operates autonomously with ground-based monitoring, allowing one crew to supervise 6–7 aircraft simultaneously. The manufacturer expects to obtain airworthiness certification in the first half of 2027.
-
-telegram · zaihuapd · Nov 14, 05:00
-
-**「Background」** The W5000 is an unmanned cargo aircraft developed by Air White Whale \(Beijing\) Technology, designed as a twin-turboprop drone with a maximum takeoff weight of 10.8 tons and a payload capacity of 5 tons. It features an upper monoplane design, a rectangular fuselage, and a low horizontal tailplane, with an internal cargo space exceeding 65 cubic meters. The aircraft is intended to serve as an efficient, low-cost platform for air logistics, aiming to set new standards in unmanned cargo transport.
-
-**「Impact」** Organizations in logistics and freight transport could benefit from the W5000&\#x27;s ability to autonomously deliver medium truck-sized loads over long distances, potentially reducing labor costs and increasing operational flexibility once certified.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.chinadaily.com.cn/a/202410/22/WS6717074aa310f1265a1c8dd2.html">Firm unveils unmanned cargo drone - Chinadaily.com.cn</a></li>
-<li><a href="https://interestingengineering.com/innovation/china-worlds-largest-cargo-drone">World’s largest cargo drone with 5-ton payload capacity unveiled</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#autonomous systems`, `#hardware`, `#aviation`, `#AI applications`
+**Tags**: `#open-source`, `#music information retrieval`, `#machine learning tools`, `#data annotation`
 
 ---
 
 <a id="item-tech-news-13"></a>
-### [Windows 11 Runs Natively on Foldable iPhone via Gemini and WindowsiOS](https://www.windowslatest.com/2026/11/14/windows-11-can-run-on-apples-foldable-iphone-and-googles-ai-boss-proved-it-using-gemini-years-after-microsoft-gave-up-on-windows-phones/) ⭐️ 7.0/10
+### [Tesla Cybercab Requires $299/Month Subscription to Operate](https://www.tesla.com/configurator/api/v4/terms?category=autonomy_subs&amp;amp;locale=en_US&amp;amp;model=cc&amp;amp;saleType=Sale) ⭐️ 7.0/10
 
-Ammaar Reshi, Google AI Studio&\#x27;s product design lead, demonstrated Windows 11 24H2 running natively on Apple&\#x27;s foldable iPhone Duo using Gemini 4 Carbon and the open source WindowsiOS project. This setup does not require jailbreaking and uses JIT translation to run ARM64 code, with partial support for legacy Windows applications via Microsoft&\#x27;s Prism. The Windows 11 image is approximately 12 GB and requires an Apple Silicon Mac and development tools for installation. This demonstration was shared publicly through an operational video.
+Tesla has announced that its new Cybercab autonomous vehicle will require a $299 monthly subscription for operation, in addition to a $29,990 purchase price. If the subscription is not paid, the vehicle will be disabled and cannot be driven. Tesla reserves the right to change the subscription price with one month&\#x27;s notice and can suspend or cancel service for non-payment or policy violations, including a one-week autonomous driving suspension after three warnings. The Cybercab is restricted to designated areas and cannot be used on unauthorized ride-hailing, delivery, or rental platforms.
 
-telegram · zaihuapd · Nov 14, 06:52
+telegram · zaihuapd · Nov 15, 01:10
 
-**「Background」** Running Windows on non-Microsoft hardware has long been a technical challenge, especially on Apple&\#x27;s iOS devices due to their locked-down environment and ARM architecture. The open source WindowsiOS project enables Windows 11 ARM64 to run at near-native speed on modern, non-jailbroken iOS devices by using just-in-time \(JIT\) code translation, without relying on Apple&\#x27;s Hypervisor.framework. This approach builds on recent advances in ARM64 compatibility and cross-platform virtualization, making it possible to run full Windows environments on devices like the foldable iPhone Duo.
+**「Background」** Tesla&\#x27;s Cybercab is a new autonomous vehicle model that requires users to pay a $299 monthly subscription for autonomous driving capabilities. This subscription is mandatory for vehicle operation and covers features such as unsupervised driving and premium connectivity, but excludes insurance, charging, and registration. The agreement also restricts use to personal, non-commercial purposes and allows Tesla to remotely disable the vehicle if the subscription lapses or terms are violated.
+
+**「Impact」** Buyers of the Tesla Cybercab must budget for ongoing subscription costs or risk losing access to vehicle operation, and must comply with strict usage policies to avoid service interruptions.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://github.com/ammaarreshi/WindowsiOS">GitHub - ammaarreshi/ WindowsiOS : Native Windows 11 ARM64 on...</a></li>
+<li><a href="https://www.notateslaapp.com/news/5015/teslas-cybercab-autonomy-subscription-everything-included">Tesla’s Cybercab Autonomy Subscription: Everything Included</a></li>
+<li><a href="https://electrek.co/2026/11/14/tesla-cybercab-autonomy-subscription-agreement-terms/">Tesla Cybercab&#x27;s autonomy agreement is insane: $299/mo or it ...</a></li>
+<li><a href="https://teslanorth.com/2026/11/13/tesla-cybercab-autonomy-subscription-terms/">Tesla Cybercab Terms Require a Paid Monthly Subscription</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#cross-platform`, `#operating systems`, `#AI tools`, `#hardware`
+**Tags**: `#autonomous vehicles`, `#AI`, `#business models`, `#hardware`, `#technology industry`
+
+---
+
+<a id="item-tech-news-14"></a>
+### [Allegations of Anthropic, US Officials Targeting Nvidia&\#x27;s Jensen Huang](https://www.washingtonpost.com/technology/2026/11/13/behind-jensen-huangs-spy-scandal-shadow-war-trumps-ear-china/) ⭐️ 7.0/10
+
+A Washington Post report alleges that Nvidia founder Jensen Huang&\#x27;s departure was influenced by a coordinated effort involving US officials and possibly Anthropic, amid intensifying US-China AI chip tensions. The article claims Huang had previously lobbied for relaxed chip export controls to China and publicly criticized US &\#x27;China hawks,&\#x27; angering national security officials. Anthropic is suspected of tipping off journalists about a related scandal, due to its lobbying for stricter export controls and technical restrictions on AI chips. These claims are based on investigative reporting and speculation, with no direct confirmation from the parties involved.
+
+telegram · zaihuapd · Nov 15, 08:08
+
+**「Background」** Jensen Huang, the CEO of Nvidia, has been a prominent figure in lobbying against stricter U.S. export controls on AI chips to China, reportedly leveraging his connections with former President Trump. Recent investigative reporting and political maneuvering, including interventions by Senator Rubio and alleged leaks from industry insiders, have intensified scrutiny on Huang and Nvidia. This comes amid heightened U.S.-China tensions over AI technology and ongoing debates in Washington about imposing tougher restrictions on chip exports and requiring built-in tracking mechanisms in advanced hardware.
+
+**「Impact」** If the reported lobbying and behind-the-scenes maneuvering are accurate, US policy on AI chip exports may become even stricter, potentially affecting Nvidia&\#x27;s business in China and prompting new technical requirements such as mandatory tracking features in AI hardware.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.washingtonpost.com/technology/2026/11/13/behind-jensen-huangs-spy-scandal-shadow-war-trumps-ear-china/">Behind Jensen Huang’s spy scandal, a shadow war for Trump’s ...</a></li>
+<li><a href="https://www.washingtonpost.com/business/2026/11/10/nvidia-jensen-huang-investigation-china-spy/4a250c1c-dd2e-11f1-912c-4fbb80d73f7f_story.html">Alleged spy plot targeting CEO Jensen Huang raises questions ...</a></li>
+<li><a href="https://www.politico.com/news/2026/11/10/nvidia-ceos-spy-scandal-tilts-capitol-hills-chip-fight-01160548">Nvidia loses ground in Washington chip fight after CEO spy ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI policy`, `#hardware`, `#industry news`, `#US-China relations`
 
 ---
 
 ## Financial News
 
 <a id="item-finance-news-1"></a>
-### [Anthropic IPO Bars Mainland China and Hong Kong Investors](https://m.economictimes.com/markets/us-stocks/news/anthropic-ipo-share-orders-from-china-are-said-to-be-rebuffed/articleshow/135809948.cms) ⭐️ 8.0/10
+### [Cantor Fitzgerald Faces Scrutiny Over Nvidia Ties Amid U.S.-China Tech Concerns](https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html) ⭐️ 7.0/10
 
-Anthropic will not accept IPO share orders from investors in mainland China or Hong Kong, citing export control regulations, as it seeks to raise up to $90.4 billion at a $1.4 trillion valuation according to sources.
+Cantor Fitzgerald and its leadership are under scrutiny for their relationship with Nvidia after U.S. officials raised concerns about technology exports to China and possible conflicts of interest involving Commerce Secretary Howard Lutnick and his sons&\#x27; firm; there is no evidence of illegal activity, but Cantor&\#x27;s reported Nvidia shareholdings fell by 49% from September 2025 to March 2026, according to CNBC analysis.
 
-telegram · zaihuapd · Nov 14, 10:18
+rss · CNBC Finance · Nov 15, 19:58
 
-**「Background」** Anthropic is a U.S.-based artificial intelligence company, and its IPO is reportedly excluding investors from mainland China and Hong Kong due to U.S. export control regulations known as ITAR, which restrict certain technology-related investments from these regions.
+**「Background」** Howard Lutnick, now U.S. Commerce Secretary, and his department have faced criticism for taking a softer approach toward Nvidia as concerns grew about the company&\#x27;s AI chip sales to firms like Megaspeed, which is suspected of helping China obtain advanced American technology.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://finance.yahoo.com/markets/stocks/articles/anthropic-ipo-reportedly-closed-china-174510000.html?fr=sycsrp_catchall">Anthropic IPO Reportedly Closed To China, Hong Kong Buyers ...</a></li>
-<li><a href="https://the-decoder.com/banks-bar-chinese-and-hong-kong-investors-from-anthropic-ipo-over-us-export-controls/">Banks bar Chinese and Hong Kong investors from Anthropic IPO ...</a></li>
-<li><a href="https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ipo-share-orders-from-china-are-said-to-be-rebuffed">Anthropic IPO Share Orders From China Are Said to Be Rebuffed</a></li>
+<li><a href="https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html">Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#IPO`, `#regulation`, `#technology`, `#capital markets`, `#geopolitics`
+**Tags**: `#Nvidia`, `#Cantor Fitzgerald`, `#US-China relations`, `#Technology policy`, `#Corporate governance`
 
 ---
 
 <a id="item-finance-news-2"></a>
-### [Nvidia CEO Resignation and Congressional Shift Affect AI Stocks and ETFs](https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html) ⭐️ 7.0/10
+### [US Judge Allows DRAM Price-Fixing Lawsuit Against Chipmakers to Proceed](https://www.tomshardware.com/tech-industry/big-tech/judge-denies-motion-to-dismiss-dram-price-fixing-lawsuit-against-micron-samsung-and-sk-hynix-says-chipmakers-acted-like-hawks-flying-in-formation-finds-evidence-of-dram-collusion-plausible-after-500-percent-price-surge) ⭐️ 7.0/10
 
-Nvidia&\#x27;s CEO Jensen Huang has resigned and ETF experts say a Democratic-controlled Congress could slow data center expansion, with Yorkville Ives estimating that 10% to 20% of planned data centers may not be built. Nvidia shares ended the week at $162.85, their longest losing streak since 2012, while AMD and Broadcom gained nearly 13% each.
+A US judge denied Micron, Samsung, and SK Hynix&\#x27;s request to dismiss a class action lawsuit alleging they colluded to fix DRAM memory chip prices, citing plausible evidence of coordinated action after prices rose up to 500% in one year according to the plaintiffs.
 
-rss · CNBC Finance · Nov 14, 15:50
+telegram · zaihuapd · Nov 15, 16:39
 
-**「Background」** Nvidia&\#x27;s founder and CEO Jensen Huang resigned on November 12, 2026, and the company&\#x27;s chief financial officer Colette Kress was appointed interim CEO, amid increased political attention on technology regulation and data centers in the U.S. Congress.
+**「Background」** Micron, Samsung, and SK Hynix are major memory chip makers accused in a U.S. class action lawsuit of coordinating to restrict DRAM supply and inflate prices since 2022.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-CEO-Transition/">NVIDIA Corporation - NVIDIA Announces CEO Transition</a></li>
+<li><a href="https://finance.yahoo.com/technology/articles/judge-denies-motion-dismiss-dram-152445837.html?fr=sycsrp_catchall">Judge denies motion to dismiss DRAM price-fixing lawsuit ...</a></li>
+<li><a href="https://wccftech.com/federal-judge-rejects-memory-makers-defense-samsung-micron-sk-hynix-dram-shortage-lawsuit/">Federal Judge Rejects Memory Makers’ Defense To ... - Wccftech</a></li>
+<li><a href="https://hoodline.com/2026/11/judge-lets-dram-price-fixing-suit-against-samsung-micron-sk-hynix-move-forward/">Judge Allows DRAM Price-Fixing Suit Vs Samsung, Micron, SK Hynix</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Nvidia`, `#AI`, `#ETFs`, `#Tech Regulation`, `#Market Reaction`
+**Tags**: `#antitrust`, `#semiconductors`, `#legal`, `#price fixing`
 
 ---

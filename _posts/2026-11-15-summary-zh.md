@@ -5,367 +5,376 @@ date: 2026-11-15
 lang: zh
 ---
 
-> 从 38 条内容中筛选出 15 条重要资讯。
+> 从 34 条内容中筛选出 16 条重要资讯。
 
 ---
 
 **科技新闻**
-1. [SpaceX 星舰首次实现轨道级机械臂捕获回收](#item-tech-news-1) ⭐️ 9.0/10
-2. [Lovable 应用曝出护照信息与 20 万条私信数据泄露](#item-tech-news-2) ⭐️ 8.0/10
-3. [Cloudflare 开源 AI 代理浏览器 Kitesurf](#item-tech-news-3) ⭐️ 8.0/10
-4. [Meta 因违规读取相册被意大利罚款 8.05 亿欧元](#item-tech-news-4) ⭐️ 8.0/10
-5. [Google Antigravity 推出 /teamwork 协作 AI 工作流功能](#item-tech-news-5) ⭐️ 7.0/10
-6. [PyPI 项目页改版，强化安全与溯源信息](#item-tech-news-6) ⭐️ 7.0/10
-7. [DeepSeek V3：约 200 行纯 JAX 实现开源](#item-tech-news-7) ⭐️ 7.0/10
-8. [Project Zero 调整漏洞披露周期至 30 天](#item-tech-news-8) ⭐️ 7.0/10
-9. [TimeCues Studio：开源音乐结构标注与算法评测工具发布](#item-tech-news-9) ⭐️ 7.0/10
-10. [短期价格预测论文应对比市场隐含预测基线](#item-tech-news-10) ⭐️ 7.0/10
-11. [OpenAI 解散机器人团队，转向通用模型驱动机器人](#item-tech-news-11) ⭐️ 7.0/10
-12. [W5000 全球最大无人货机完成试飞](#item-tech-news-12) ⭐️ 7.0/10
-13. [Google 高管用 Gemini 让 Windows 11 跑上折叠 iPhone](#item-tech-news-13) ⭐️ 7.0/10
+1. [SpaceX 星舰首次实现轨道返回后机械臂捕获](#item-tech-news-1) ⭐️ 9.0/10
+2. [Meta FAIR 与 NYU：多模态视觉编码器设计系统性研究](#item-tech-news-2) ⭐️ 8.0/10
+3. [多人游戏用本地世界模型实时生成玩家视角](#item-tech-news-3) ⭐️ 8.0/10
+4. [美团开源 LongCat-2.5，未用英伟达 GPU 训练](#item-tech-news-4) ⭐️ 8.0/10
+5. [华为云发布开源盘古模型 openPangu-2.1-Pro](#item-tech-news-5) ⭐️ 8.0/10
+6. [MacBook Pro OLED 屏幕 PWM 闪烁问题引发关注](#item-tech-news-6) ⭐️ 7.0/10
+7. [Microsoft 365 故障致酒店 15 人氯气中毒](#item-tech-news-7) ⭐️ 7.0/10
+8. [B300 上 cudaMemcpy 可提速 5 倍的新工具发布](#item-tech-news-8) ⭐️ 7.0/10
+9. [推理模型训练免早停新方法：线性探针嵌入输出层](#item-tech-news-9) ⭐️ 7.0/10
+10. [Marimba：开源高效语音决策模型发布](#item-tech-news-10) ⭐️ 7.0/10
+11. [多语言维基百科历史版本句子比对工具发布](#item-tech-news-11) ⭐️ 7.0/10
+12. [TimeCues Studio：开源音乐结构标注工具发布](#item-tech-news-12) ⭐️ 7.0/10
+13. [特斯拉 Cybercab 推出 299 美元/月自动驾驶强制订阅](#item-tech-news-13) ⭐️ 7.0/10
+14. [传 Anthropic 与美官员联手推动黄仁勋下台及 AI 芯片出口限制](#item-tech-news-14) ⭐️ 7.0/10
 
 **财经新闻**
-1. [Anthropic IPO 拒绝中国内地及香港投资者](#item-finance-news-1) ⭐️ 8.0/10
-2. [英伟达 CEO 辞职与国会监管影响 AI 相关股票](#item-finance-news-2) ⭐️ 7.0/10
+1. [坎托·菲茨杰拉德与英伟达关系引发美国政府审查](#item-finance-news-1) ⭐️ 7.0/10
+2. [美法官允许美光、三星等 DRAM 价格操纵案继续审理](#item-finance-news-2) ⭐️ 7.0/10
 
 ---
 
 ## 科技新闻
 
 <a id="item-tech-news-1"></a>
-### [SpaceX 星舰首次实现轨道级机械臂捕获回收](https://www.spacex.com/launches/starship-flight-15) ⭐️ 9.0/10
+### [SpaceX 星舰首次实现轨道返回后机械臂捕获](https://www.spacex.com/launches/starship-flight-15) ⭐️ 9.0/10
 
-SpaceX 于 2026 年 11 月 13 日完成了星舰（Starship）第 15 次试飞，首次实现了轨道级飞船由发射塔机械臂直接捕获回收。飞船在绕地球约 14 圈、飞行约 22.5 小时后返回得州基地，被机械臂成功夹住，未采用落地或落海方式。此次任务还部署了 26 颗新一代星链 V3 卫星，但超重型助推器因技术问题未能回收，最终在墨西哥湾溅落并爆炸。该成果标志着 SpaceX 在大型航天器可重复使用技术上取得重大突破，但双回收目标尚未实现。
+SpaceX 宣布，星舰在第 15 次试飞中首次实现了轨道返回后由发射塔机械臂直接捕获，飞船完成约 22.5 小时飞行并绕地球 14 圈后安全返回得克萨斯州发射基地。这一突破标志着 SpaceX 在大型航天器回收与重复使用技术上取得了重要进展。本次任务还成功部署了 26 颗新一代星链 V3 卫星，但超重型助推器未能按计划回收，最终在墨西哥湾溅落，未实现两级同时回收。
 
-hackernews · ls612 · 11月14日 21:22 · [社区讨论](https://news.ycombinator.com/item?id=50500963)
+telegram · zaihuapd · 11月14日 23:49
 
-**「背景信息」** SpaceX 的星舰（Starship）项目旨在实现大型航天器的完全可重复使用，降低太空运输成本。此前，SpaceX 已多次尝试通过发射塔机械臂（俗称“筷子”）捕获返回的助推器和飞船，但均未完全成功。本次第 15 次试飞是首次实现星舰飞船轨道返回后由机械臂直接捕获，标志着该技术取得关键性突破。
-
-**「影响」** 此次机械臂捕获星舰的成功，为未来实现完全可重复使用的轨道级运载系统奠定了基础，有望大幅降低太空发射成本并提升任务频率。开发者和航天机构可关注后续双回收与重复飞行的进展，以评估其对商业航天和卫星部署的实际影响。
-
-**「社区讨论」** 有评论认为，星舰的设计实现了航天飞机未能完成的完全可重复使用目标，并避免了历史上的重大安全隐患。部分用户指出，若热防护系统表现良好，未来实现双回收和多次复用将极大改变航天经济格局，开启新纪元。
+**「背景」** 此前，SpaceX 的星舰项目一直致力于实现大型航天器的可重复使用。传统上，火箭回收多采用降落伞或推进器着陆等方式，但直接由发射塔机械臂捕获返回的航天器尚属首次。此次捕获不仅验证了机械臂捕捉技术的可行性，也为未来更高频次、低成本的航天发射奠定了基础。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.youtube.com/watch?v=VEvzBhRyB94">SpaceX Catches Starship for the First Time Ending Flight Test 15</a></li>
-<li><a href="https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-chopsticks-double-catch-super-heavy-ship">SpaceX launches Starship on ambitious 22-hour Flight 15 ... | Space</a></li>
+<li><a href="https://www.foxbusiness.com/technology/spacex-makes-history-starship-spacecraft-caught-launch-tower-first-time">SpaceX makes history with first -ever Starship spacecraft catch at...</a></li>
+<li><a href="https://www.nine.com.au/world-news/usa/spacex-s-starship-captured-by-launch-pad-arms-in-a-dramatic-first-as-it-returns-from-orbit-20261115-p61e8f.html">SpaceX ’s Starship captured by launch pad arms in a dramatic first as...</a></li>
+<li><a href="https://www.nytimes.com/2026/11/14/science/spacex-starship-first-catch.html">SpaceX Makes History With Successful Rocket Catch in Texas</a></li>
 
 </ul>
 </details>
 
-**标签**: `#spaceflight`, `#hardware`, `#systems engineering`, `#industry impact`
+**标签**: `#space technology`, `#hardware`, `#automation`, `#industry news`
 
 ---
 
 <a id="item-tech-news-2"></a>
-### [Lovable 应用曝出护照信息与 20 万条私信数据泄露](https://www.crissyfield.de/research/lovable-en/) ⭐️ 8.0/10
+### [Meta FAIR 与 NYU：多模态视觉编码器设计系统性研究](https://www.reddit.com/r/MachineLearning/comments/1xx1k2o/meta_fair_nyu_unbundling_multimodal_vision/) ⭐️ 8.0/10
 
-Lovable 应用因行级安全（Row-Level Security）配置不足，导致用户护照信息和超过 20 万条私信等敏感数据被暴露。此次安全漏洞揭示了平台默认配置（如 Supabase）和自动化开发工具在安全性上的不足。Lovable 官方表示，其平台已内置自动扫描和修复功能，用户可选择自动修复或阻止存在安全问题的应用上线。社区讨论聚焦于平台方和开发者在安全责任上的分工，以及云平台默认安全策略的合理性。
+Meta FAIR 与纽约大学（NYU）对多模态大语言模型（MLLMs）中的视觉编码器设计进行了系统性分析，训练了 200 多个模型，统一数据和算力预算。研究发现，视觉编码器的单独预训练并非必要，无论采用对比学习、自监督或图像字幕等多种预训练目标，最终在视觉问答（VQA）任务上与从零训练的编码器表现相当。相反，模型必须为视觉分支分配专用参数，否则在所有规模下性能显著下降，且需要约三倍算力才能追平。
 
-hackernews · armcat · 11月14日 17:43 · [社区讨论](https://news.ycombinator.com/item?id=50499017)
+reddit · r/MachineLearning · /u/trungh98 · 11月15日 17:38
 
-**「事件背景」** Lovable 是一个 AI 驱动的应用开发平台，允许用户快速生成和部署 Web 应用。2026 年 11 月，安全研究人员扫描了超过 15 万个由 Lovable 平台生成的应用，发现大量数据库未设置登录验证，导致护照号码、支付信息、聊天记录等敏感数据被公开访问。此次数据泄露的根本原因在于数据库访问规则缺失，而非 Lovable 平台本身被黑客入侵，且与 Supabase 等云数据库平台的默认配置有关。
+**「背景介绍」** 多模态大语言模型（MLLMs）通常结合视觉编码器和语言模型，以实现图文理解等任务。此前，业界在视觉编码器的设计上存在分歧：有的模型（如 Gemma 4 12B）去除了视觉编码器，有的（如 Kimi K3）则从头训练编码器，还有的（如 Inkling 2 Small）重新引入了编码器。主流做法往往将视觉编码器单独预训练，并在多模态训练中固定或微调，但不同模型的数据、算力和训练流程差异较大，导致难以直接比较各自设计选择的优劣。
 
-**「实际影响」** 受影响用户的敏感数据（包括护照信息和私信）已被泄露，开发者需关注平台默认安全配置并主动加强安全措施。使用 Supabase 等平台的项目应检查并修正默认的安全策略，防止类似问题再次发生。
-
-**「社区讨论」** Lovable 安全负责人强调平台已提供自动扫描和修复工具，但有用户指出 Supabase 的默认配置存在历史遗留问题，部分老项目仍未修复。部分评论认为，AI 生成应用因部署门槛低、数量多，成为数据泄露的高风险对象，平台应提升默认安全标准。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://cybernews.com/security/lovable-ai-apps-expose-personal-information/">Lovable AI apps exposed sensitive data in open databases ...</a></li>
-<li><a href="https://dev.to/yashvikothari/lovable-data-leak-2026-24664-ai-apps-exposed-80000-user-records-via-supabase-2l7a">Lovable Data Leak 2026: 24,664 AI Apps Exposed 80,000+ User ...</a></li>
-<li><a href="https://startupfortune.com/lovable-ai-apps-left-passport-and-payment-data-open-to-anyone/">Lovable AI Apps Left Passport and Payment Data Open to ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#security`, `#data breach`, `#application development`, `#cloud platforms`
+**标签**: `#multimodal-models`, `#vision-encoders`, `#machine-learning-research`, `#model-architecture`, `#AI`
 
 ---
 
 <a id="item-tech-news-3"></a>
-### [Cloudflare 开源 AI 代理浏览器 Kitesurf](https://www.phoronix.com/news/Cloudflare-Kitesurf-Open-Source) ⭐️ 8.0/10
+### [多人游戏用本地世界模型实时生成玩家视角](https://www.reddit.com/r/MachineLearning/comments/1xx4ta3/we_made_a_multiplayer_game_where_each_players/) ⭐️ 8.0/10
 
-Cloudflare 已以 Apache 2.0 协议开源了 Kitesurf，这是一款专为 AI 代理设计的无状态浏览器。Kitesurf 基于 Cloudflare Workers 构建，无需传统浏览器容器即可解析 HTML、处理 CSS 并执行 JavaScript。与 Chromium 等传统浏览器相比，Kitesurf 占用更少的 CPU 和内存资源，并可在全球 Workers 网络上弹性扩展。相关源代码现已在 GitHub 上公开。
+一个多人游戏原型现已开放测试，玩家需使用 RTX 3080 或更高配置的显卡（也有实验性 Mac 版本），每位玩家的游戏视角由本地运行的世界模型和扩散变换器实时生成。该模型基于近 4,000 小时、10 人 CS:GO 机器人对战的公开数据集训练，所有 POV 和输入以 16 Hz 对齐。游戏通过轻量级服务器同步状态，玩家本地根据服务器状态、操作和前一帧生成画面。目前仅支持一张小地图和手枪，细节表现有限，但已可多人游玩。数据集和测试版均已开放下载。
 
-telegram · zaihuapd · 11月14日 09:33
+reddit · r/MachineLearning · /u/bengal7ion · 11月15日 19:46
 
-**「背景信息」** Kitesurf 是 Cloudflare 专为 AI 代理开发的实验性无头浏览器引擎，旨在为 AI 系统提供高效的网页交互能力。它完全基于 Cloudflare Workers 构建，最初作为 Cloudflare Agents Week 的一部分发布，并已以开源形式提供，允许开发者本地运行或在 Cloudflare Workers 上自行部署。
+**「背景介绍」** 扩散变换器（Diffusion Transformer）是一种结合了扩散模型和变换器架构的生成式人工智能方法，近年来被用于图像生成和世界建模等任务。世界模型（World Model）指的是通过机器学习方法对环境动态进行建模，使得智能体能够基于模型预测未来状态或生成环境视图。此前，扩散模型已被证明在生成高保真视觉细节方面具有优势，尤其是在强化学习和游戏环境的模拟中。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://blog.cloudflare.com/kitesurf-open-source/">Kitesurf is now open source | Cloudflare Blog</a></li>
-<li><a href="https://www.everydev.ai/tools/kitesurf">Kitesurf - Headless Browser for AI Agents | EveryDev. ai</a></li>
+<li><a href="https://arxiv.org/pdf/2412.03572">Navigation World Models</a></li>
+<li><a href="https://github.com/eloialonso/diamond">GitHub - eloialonso/diamond: DIAMOND ( DIffusion As a Model Of...)</a></li>
 
 </ul>
 </details>
 
-**标签**: `#open-source`, `#AI agents`, `#web browsers`, `#cloud infrastructure`
+**标签**: `#machine learning`, `#world models`, `#diffusion models`, `#multiplayer gaming`, `#computer systems`
 
 ---
 
 <a id="item-tech-news-4"></a>
-### [Meta 因违规读取相册被意大利罚款 8.05 亿欧元](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10321080) ⭐️ 8.0/10
+### [美团开源 LongCat-2.5，未用英伟达 GPU 训练](https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/) ⭐️ 8.0/10
 
-意大利隐私监管机构对 Meta 处以 8.05 亿欧元罚款，原因是其 Facebook Android 应用在未经用户具体同意的情况下，读取了约 2000 万意大利用户的相册照片、视频及元数据。涉事功能为 2023 年上线的相册推荐，默认开启且授权提示不明确。监管机构要求 Meta 在 60 天内将该功能改为默认关闭，并单独征得用户同意，否则不得对未有效授权的用户启用该功能。
+美团 LongCat 团队正式开源了 LongCat-2.5 多模态智能体模型的权重，并采用 MIT 许可证，允许商用。官方声明该模型全程使用华为升腾加速卡训练，未用英伟达 GPU。LongCat-2.5 支持文本、图像和视频输入，每个 token 激活约 480 亿参数，在 Terminal Bench v2.1 测试中得分 88.4，略低于 Claude Opus 5 的 89.1。该模型专为自主完成复杂多步骤任务（如编程）设计。
 
-telegram · zaihuapd · 11月14日 14:37
+telegram · zaihuapd · 11月15日 11:08
 
-**「背景」** Meta 旗下 Facebook 的 Android 应用于 2023 年推出了相册推荐功能，该功能默认开启，并在用户授权提示上未做到足够明确和具体。意大利隐私监管机构认定该功能在未经用户明确同意的情况下访问了约 2000 万意大利用户的相册照片、视频及元数据，违反了欧盟数据保护法规（GDPR）中关于用户知情同意的要求。
+**「背景信息」** LongCat-2.5 是美团推出的一款原生多模态大模型，专为长时序智能体任务（如复杂编程）设计。该模型支持文本、图像和视频输入，单 token 激活约 480 亿参数，具备 100 万 token 的上下文窗口。此前，主流大模型训练多依赖英伟达 GPU，而 LongCat-2.5 全程采用华为升腾加速卡，体现了中国在 AI 算力自主化方面的探索。
 
-**「影响」** 受此处罚影响，Meta 需对 Facebook Android 应用在意大利的相册推荐功能进行调整，开发团队必须实现默认关闭并单独征求用户同意的机制，否则该功能将无法对未授权用户开放。其他地区的开发者和平台也需关注类似隐私合规风险，避免因默认授权或授权提示不明确而受到监管处罚。
+**「影响」** 开发者和企业可在无需英伟达 GPU 的情况下，基于中国本土硬件复现和部署该模型，降低了对特定硬件供应链的依赖，并可合法商用。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://apnews.com/article/italy-meta-android-facebook-feature-9b3073c52464d5cd0e8facbc57285194">Italy fines Meta $887M over access to users&#x27; photos | AP News</a></li>
-<li><a href="https://abcnews.com/Technology/wireStory/meta-fined-887-million-italy-android-gallery-photos-138145127">Meta fined $887M in Italy over Android gallery photos, videos ...</a></li>
-<li><a href="https://www.politico.eu/article/italy-hits-meta-with-e805m-fine-over-privacy-law-violation/">Italy hits Meta with €805m fine over privacy law violation</a></li>
+<li><a href="https://www.longcatai.org/">LongCat AI - LongCat - 2 . 5 Native Multimodal Agent Model (1.6T)</a></li>
+<li><a href="https://llm-stats.com/models/longcat-2.5">LongCat - 2 . 5 Benchmarks, Pricing &amp; Context Window</a></li>
 
 </ul>
 </details>
 
-**标签**: `#privacy`, `#regulation`, `#mobile development`, `#technology industry`
+**标签**: `#open source`, `#large language models`, `#hardware alternatives`, `#AI research`, `#China tech`
 
 ---
 
 <a id="item-tech-news-5"></a>
-### [Google Antigravity 推出 /teamwork 协作 AI 工作流功能](https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/) ⭐️ 7.0/10
+### [华为云发布开源盘古模型 openPangu-2.1-Pro](https://mp.weixin.qq.com/s/8JfFmscBTDl_mPQMycD8Nw) ⭐️ 8.0/10
 
-Google 的 Antigravity 平台现已推出 /teamwork 功能，支持科学与工程领域的多智能体协作式 AI 工作流。该功能允许多个 AI 代理在数学、科学、编程和工程任务中协同工作，展示了在复杂任务分解和团队自动化方面的进步。虽然官方博客展示了实际应用案例，但社区认为该功能目前的进展属于渐进式提升，尚未实现颠覆性突破。/teamwork 功能正持续迭代，未来将支持更动态的智能体团队构建。
+华为云于 11 月 15 日在 MaaS 模型即服务平台上线了开源盘古模型 openPangu-2.1-Pro，重点提升了 Agent 开发、AI 编码和推理优化能力。该模型基于 10 万余条专项数据优化了 Skills 触发与工具调用，特别适配鸿蒙 ArkTS 开发和升腾算子生成，并已集成至智果 AgentArts、码道 CodeArts、果办 OfficeAce 等产品。推理输入费用为 0.8 元/百万 tokens，输出为 3.2 元/百万 tokens，缓存命中输入仅需 0.016 元/百万 tokens。该模型以开源形式发布，面向开发者和企业用户。
 
-hackernews · acossta · 11月14日 13:20 · [社区讨论](https://news.ycombinator.com/item?id=50496811)
+telegram · zaihuapd · 11月15日 16:03
 
-**「背景信息」** Google Antigravity 是谷歌推出的软件开发平台，允许人工智能代理以不同程度的自主性编写、运行和测试代码。其 /teamwork 功能支持在 Antigravity 平台上部署协作型多智能体团队，用于处理大型项目、多文件重构和复杂研究任务。2026 年 8 月，谷歌首次公开介绍了 Teamwork 作为多智能体编排框架，强调代理之间可以自主提出、批判和完善彼此的工作，这一能力基于 Gemini 3.7 Flash 模型的发布。
+**「背景信息」** openPangu-2.1-Pro 是华为云 MaaS 平台推出的开源盘古模型的升级版本。此前，openPangu-2.0-Pro 作为 MoE（混合专家）模型，基于升腾硬件训练，拥有 5050 亿总参数和 18 亿激活参数，支持 512k 上下文长度，并以 34 万亿 tokens 进行预训练。2023 年 11 月初，华为云曾宣布将逐步下线 Pangu 2.0 相关模型，建议用户迁移至其他替代方案，因此 2.1-Pro 的上线为用户提供了新的升级选择。
 
-**「影响」** 科学家和工程师可利用 /teamwork 功能更高效地组织和自动化复杂项目中的多角色 AI 协作，但当前用户需关注其与其他平台（如 Claude 动态工作流）的差异及功能局限，实际应用时可能仍需人工指导。
-
-**「社区讨论」** 部分用户认为 /teamwork 在多智能体协作方面有潜力，但与现有工具相比仍显落后，缺乏自动模式等关键功能。也有观点认为，该功能有望简化跨学科协作流程，让领域专家更快实现项目目标。
+**「影响」** 开发者和企业可利用 openPangu-2.1-Pro 在华为云平台上更高效地进行 AI Agent 开发和 AI 编码，尤其是在鸿蒙系统和升腾硬件环境下，降低了推理成本并提升了工具集成度。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Google_Antigravity">Google Antigravity - Wikipedia</a></li>
-<li><a href="https://antigravity.google/docs/teamwork/">Teamwork agent teams (/teamwork) | Google Antigravity Docs</a></li>
-<li><a href="https://antigravity.google/blog/teamwork-when-ai-becomes-a-research-partner">Teamwork: when AI becomes a research partner - antigravity.google</a></li>
+<li><a href="https://huggingface.co/openpangu/openPangu-2.0-Pro/blob/main/README_EN.md">README_EN.md · openpangu/ openPangu - 2 .0- Pro at main</a></li>
+<li><a href="https://www.kucoin.com/news/flash/huawei-cloud-to-discontinue-pangu-2-0-models-recommends-deepseek-and-glm-alternatives">Huawei Cloud to Discontinue Pangu 2 .0 Models ... | KuCoin</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI systems`, `#collaborative workflows`, `#software engineering`, `#multi-agent systems`
+**标签**: `#open source`, `#AI models`, `#cloud platforms`, `#software engineering`
 
 ---
 
 <a id="item-tech-news-6"></a>
-### [PyPI 项目页改版，强化安全与溯源信息](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/) ⭐️ 7.0/10
+### [MacBook Pro OLED 屏幕 PWM 闪烁问题引发关注](https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/) ⭐️ 7.0/10
 
-PyPI 已正式上线新版项目页面，重点提升了安全信号和溯源信息的展示。此次更新为所有 Python 包用户提供更清晰的包签名、来源和可信度指示，旨在增强开源依赖的信任度和供应链透明度。新版页面现已对所有项目开放，用户可直接在页面上查看相关安全与溯源标识。该功能主要面向开发者、维护者及依赖 Python 包的组织。
+新款 MacBook Pro 采用 OLED 屏幕，但其脉宽调制（PWM）频率较低，导致部分用户出现视觉不适和闪烁敏感问题。文章分析了 PWM 频率（如 240Hz、480Hz、960Hz）及其对用户体验的影响，并指出 OLED 屏幕在高端笔记本普及后，相关健康和可用性问题日益突出。社区讨论涉及技术细节、用户主观体验以及对苹果产品设计选择的质疑。该问题主要影响对屏幕闪烁敏感的用户，尤其是在低亮度或特定使用场景下。
 
-hackernews · rbanffy · 11月14日 15:40 · [社区讨论](https://news.ycombinator.com/item?id=50497892)
+hackernews · MacAnorak · 11月15日 13:15 · [社区讨论](https://news.ycombinator.com/item?id=50506719)
 
-**「背景信息」** PyPI（Python Package Index）是 Python 社区最主要的软件包托管和分发平台。此前，PyPI 已引入了“provenance”（来源证明）机制，通过可验证的声明（attestations）记录每个发布文件的构建或发布细节，以提升包的安全性和可追溯性。此次页面改版进一步将这些安全和来源信号以更直观的方式展示在项目页面上，便于用户判断包的可信度和供应链安全状况。
+**「背景信息」** OLED 显示屏常采用脉宽调制（PWM）来调节亮度，这种方式会导致屏幕在低亮度下出现肉眼可见或不可见的闪烁。部分用户对 PWM 闪烁高度敏感，可能出现眼睛疲劳、头痛等不适症状。随着 OLED 屏幕在高端笔记本（如 MacBook Pro）中的普及，关于 PWM 闪烁对用户体验影响的讨论也日益增多，苹果社区和其他品牌用户均有类似反馈。
 
-**「影响」** 开发者和组织可以更直观地识别包的安全状态和来源信息，从而降低因依赖被篡改或来源不明包而带来的供应链风险。部分用户需关注自身 CI/CD 流程与 PyPI 新增的签名和溯源机制的兼容性。
+**「影响」** 对闪烁敏感的用户在使用新款 MacBook Pro OLED 屏幕时，可能会出现眼睛疲劳、注意力难以集中等不适症状，部分用户甚至可能因此无法正常使用该设备。开发者和硬件设计师需关注 PWM 频率设置对用户健康的潜在影响。
 
-**「社区讨论」** 有用户担忧新机制可能导致过度依赖中心化云服务，影响生态多样性；也有开发者支持 sigstore 等无密钥签名方式的普及，期待更多 CI/CD 服务商支持相关安全标准。部分意见指出，当前溯源机制主要防范被劫持的项目，但对本身恶意的包无能为力。
+**「社区讨论」** 有用户质疑实际 PWM 频率的测量方法和解释，认为 OLED 屏幕的 PWM 行为比部分测试结果更复杂。部分评论者分享了自身对屏幕闪烁的敏感体验，并对苹果采用低 PWM 频率的决策表示惊讶和担忧。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://docs.pypi.org/using-pypi/package-security/provenance/">Checking Provenance (package origin) - PyPI User Documentation</a></li>
-<li><a href="https://habr.com/ru/companies/codescoring/articles/1107380/">[46. 2026 ] Обзор новых правил безопасности в пакетных... / Хабр</a></li>
+<li><a href="https://discussions.apple.com/thread/254749941?page=2">Severe Eye Strain due to OLED PWM Dimming - Apple Community</a></li>
 
 </ul>
 </details>
 
-**标签**: `#python`, `#security`, `#open-source`, `#software-supply-chain`
+**标签**: `#hardware`, `#display technology`, `#user experience`, `#Apple`
 
 ---
 
 <a id="item-tech-news-7"></a>
-### [DeepSeek V3：约 200 行纯 JAX 实现开源](https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax) ⭐️ 7.0/10
+### [Microsoft 365 故障致酒店 15 人氯气中毒](https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html) ⭐️ 7.0/10
 
-一位开发者在 GitHub 上发布了 DeepSeek V3 的极简纯 JAX 实现，代码量约 200 行，旨在为学习和实验现代深度学习模型提供便捷入口。该项目无需依赖复杂框架，适合希望深入理解模型原理的开发者和研究者，尤其对 JAX 和 ROCm 用户友好。该实现并非官方发布，而是社区成员基于公开信息的简化复现，主要用于教育和实验目的。
+由于 Microsoft 365 服务中断，某酒店的安全系统未能通过电子邮件及时发出氯气过量警报，导致自动加药系统向泳池过量投放氯气，最终造成 15 名住客中毒。此次事件暴露出该酒店安全关键系统对云端邮件服务的高度依赖，缺乏本地或多渠道冗余机制。该事故引发了业界对安全系统架构设计和云服务可靠性的广泛讨论。
 
-hackernews · VaibhaavTiwari · 11月14日 15:04 · [社区讨论](https://news.ycombinator.com/item?id=50497589)
+hackernews · DeepLogin · 11月15日 18:36 · [社区讨论](https://news.ycombinator.com/item?id=50509411)
 
-**「背景介绍」** DeepSeek V3 是一种大规模混合专家（Mixture-of-Experts, MoE）语言模型，总参数量达 6710 亿，但每个 token 实际激活的参数仅为 370 亿，从而兼顾了模型能力与推理效率。其架构采用了多头潜在注意力（Multi-head Latent Attention, MLA）和 DeepSeekMoE 技术，这些创新最早在 DeepSeek V2 中得到验证。DeepSeek V3 以高效推理和成本效益为目标，相关模型和论文已完全开源。
+**「事件背景」** 据报道，德国一家酒店的桑拿区维护安全系统依赖于 Microsoft 365（Outlook）发送自动警报邮件。当酒店泳池的加药系统发生故障，导致过量投放氯气时，原本应通过邮件通知工作人员的安全警报因 Microsoft 365 云服务中断未能送达，最终导致 15 名客人吸入氯气受伤。此次事件凸显了关键安全系统对云服务依赖的风险。
 
-**「影响」** 对于希望在非 NVIDIA 硬件（如 AMD 显卡）上使用 JAX 进行深度学习实验的用户，该项目提供了可行的端到端训练起点，降低了环境配置和模型理解的门槛。部分用户反馈在 Fedora+ROCm 环境下可顺利运行，并分享了相关配置经验。
+**「实际影响」** 受影响的酒店需重新评估其安全系统的通信和报警机制，增加本地备份或多渠道通知手段，以防止类似因云服务中断导致的安全事故再次发生。
 
-**「社区讨论」** 评论者普遍认为该项目极具教育价值，便于从第一性原理学习模型结构和推理过程。一些用户分享了在 AMD 显卡和 ROCm 环境下的成功运行经验，并指出该实现对非 CUDA 用户尤其有用。
+**「社区讨论」** 多位评论者认为，安全关键系统完全依赖单一云服务是严重的设计失误，强调应采用更具弹性和冗余的架构。部分技术人员指出，酒店应对自身系统负责，而不应将责任归咎于云服务提供商。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://deepwiki.com/deepseek-ai/DeepSeek-V3/1.2-model-architecture-overview">Model Architecture Overview | deepseek-ai/DeepSeek-V3 | DeepWiki</a></li>
-<li><a href="https://arxiv.org/abs/2412.19437">[2412.19437] DeepSeek-V3 Technical Report - arXiv.org DeepSeek-V3 Technical Report - arXiv.org deepseek-ai/DeepSeek-V3 · Hugging Face DeepSeek-V3 - Hugging Face GitHub - deepseek-ai/DeepSeek-V3 · GitHub</a></li>
+<li><a href="https://www.yahoo.com/news/world/articles/microsoft-365-outage-leads-chlorine-154113086.html?fr=sycsrp_catchall">Microsoft 365 outage leads to chlorine gas poisoning of 15 ...</a></li>
+<li><a href="https://windowsforum.com/news/outlook-outage-blocked-phantasialand-pool-alerts-before-chlorine-incident-injured-15.452435/">Outlook Outage Blocked Phantasialand Pool Alerts Before ...</a></li>
+<li><a href="https://techbytes.app/posts/microsoft-365-outage-leads-to-chlorine-gas-poisoning-of-15/">Microsoft 365 outage leads to chlorine gas poisoning of 15 ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#machine-learning`, `#jax`, `#open-source`, `#deep-learning`
+**标签**: `#cloud reliability`, `#system architecture`, `#IoT`, `#safety-critical systems`
 
 ---
 
 <a id="item-tech-news-8"></a>
-### [Project Zero 调整漏洞披露周期至 30 天](https://projectzero.google/2026/11/disclosure-policy.html) ⭐️ 7.0/10
+### [B300 上 cudaMemcpy 可提速 5 倍的新工具发布](https://www.reddit.com/r/MachineLearning/comments/1xx2n25/making_cudamemcpy_5x_faster_on_a_b300_p/) ⭐️ 7.0/10
 
-Google Project Zero 宣布将逐步缩短其漏洞披露窗口：自 2027 年 2 月 2 日起，漏洞将在报告给厂商后 60 天公开，自 2028 年 1 月 3 日起缩短至 30 天。目前政策为 90 天。该政策适用于所有被 Project Zero 报告的安全漏洞，旨在加快厂商修复安全问题的速度。
+一款新工具实现了在 B300 GPU 上对 cudaMemcpy pageable 传输速度的显著提升，实测将 1GB 张量从 CPU 传输到 GPU 的速度从 10.2 GB/s 提升到 51.5 GB/s，提升约 5 倍。该工具已开源，并提供了详细的代码和基准测试，适用于需要高效数据搬运的机器学习工作流。
 
-hackernews · hacb · 11月14日 11:13 · [社区讨论](https://news.ycombinator.com/item?id=50496051)
+reddit · r/MachineLearning · /u/makneeee · 11月15日 18:20
 
-**「背景信息」** 自 2021 年以来，Google Project Zero 一直采用“90+30”漏洞披露政策，即厂商有最多 90 天时间修复漏洞，外加 30 天的补丁推广期。该政策旨在推动厂商更快修复安全问题，并确保用户能及时获得补丁。随着 AI 辅助漏洞发现和利用技术的发展，威胁环境发生了变化，促使 Project Zero 重新评估披露窗口的合理性。
-
-**「影响」** 受影响的软件厂商和开源项目需在更短时间内修复被报告的安全漏洞，否则漏洞细节将在 30 至 60 天后公开，增加了未及时修复时的安全风险和舆论压力。
-
-**「社区讨论」** 有评论认为部分厂商（如 Ubuntu）可能难以在更短周期内完成修复，也有人主张应立即披露漏洞以促使厂商尽快响应。另有观点担忧大型公司可能借此策略推动自家产品的采用。
+**「背景介绍」** cudaMemcpy 是 NVIDIA CUDA 平台中用于在主机（CPU）和设备（GPU）之间传输数据的核心 API，尤其在机器学习等高性能计算场景中广泛使用。传统上，pageable 内存的 cudaMemcpy 传输速度受限，尤其在 B300 等 GPU 上，通常只能达到约 10 GB/s 的速率。近期有开发者发布了名为 cudamemcpy-tuner 的开源工具，显著提升了 B300 上 pageable cudaMemcpy 的传输速度。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://projectzero.google/2026/11/disclosure-policy.html">Policy and Disclosure: 2026 Edition - Project Zero</a></li>
+<li><a href="https://agihunt.info/en/p/1a1e07bf9febb7c90bad763fb45">cudamemcpy-tuner speeds up pageable cudaMemcpy… · AGI Hunt</a></li>
 
 </ul>
 </details>
 
-**标签**: `#security`, `#vulnerability-disclosure`, `#software-industry`, `#policy`
+**标签**: `#GPU`, `#performance`, `#machine-learning`, `#tools`
 
 ---
 
 <a id="item-tech-news-9"></a>
-### [TimeCues Studio：开源音乐结构标注与算法评测工具发布](https://www.reddit.com/r/MachineLearning/comments/1xwh3mw/acm_multimedia_2026_timecues_studio_a_free/) ⭐️ 7.0/10
+### [推理模型训练免早停新方法：线性探针嵌入输出层](https://www.reddit.com/r/MachineLearning/comments/1xx1xdm/trainingfree_early_exit_for_reasoning_models_a/) ⭐️ 7.0/10
 
-TimeCues Studio 是一款免费开源的网页应用，专为音乐结构标注和算法评测设计，现已发布。该工具支持在节拍对齐的时间线上标注歌曲的各类结构（如段落、提示、循环等），并可与算法（如 allin1 和 MSAF）输出进行对比评测。用户可单独或协作完成标注，并支持导出为 Audacity 标签、MIDI 或 JSON 格式。该项目采用 MIT 许可证，支持 Docker 一键部署，并提供在线演示和详细文档。
+一项 Reddit 帖子提出了一种无需训练即可实现推理模型早停的新方法：通过线性探针（linear probe）直接修改输出层中&lt;/think&gt;标记对应的权重行。该方法仅需一次性编辑权重文件，无需额外推理代码，适用于如 Qwen3.5-4B 和 DeepSeek V4.1 Flash 等模型。实测在数学和代码任务中，模型在保持准确率的同时，平均减少了 40%至 84%的推理 token 数。该方法的创新点在于将探针直接嵌入输出层权重，无需额外组件，且可在原始模型推理记录上离线评估效果。
 
-reddit · r/MachineLearning · /u/SapirCa · 11月14日 23:59
+reddit · r/MachineLearning · /u/Good-Presentation-23 · 11月15日 17:52
 
-**「背景介绍」** 音乐结构标注是音乐信息检索（MIR）领域的重要任务，涉及对音频文件中不同部分（如段落、重复、过渡等）进行人工或自动化标记。此前，研究人员常用如 Audacity 等通用音频编辑器进行标注，或依赖各自开发的工具，缺乏专为音乐结构标注和算法评测设计的开源协作平台。TimeCues Studio 正是在此背景下开发，旨在为算法开发团队和研究者提供统一的标注、算法对比和原型测试环境。
+**「背景介绍」** 在大语言模型（LLM）进行链式推理（CoT）时，模型常常在找到正确答案后继续生成大量冗余的“思考”内容。为提升推理效率，近期已有研究提出了无需额外训练的动态早停方法，使模型在推理量足够时自动提前终止生成。这类方法通常通过分析隐藏状态，判断模型是否已完成主要推理任务，从而实现早停。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2609.10338">[2609.10338] TimeCues Studio : A Workspace for Music Annotation ...</a></li>
+<li><a href="https://arxiv.org/pdf/2504.15895v2">Dynamic Early Exit in Reasoning Models - arXiv.org</a></li>
+<li><a href="https://arxiv.org/html/2504.15895v1">Dynamic Early Exit in Reasoning Models - arXiv.org</a></li>
+<li><a href="https://openreview.net/forum?id=NpU7ZXafRi">Dynamic Early Exit in Reasoning Models - OpenReview</a></li>
+
+</ul>
+</details>
+
+**标签**: `#machine learning`, `#large language models`, `#model optimization`, `#reasoning`
+
+---
+
+<a id="item-tech-news-10"></a>
+### [Marimba：开源高效语音决策模型发布](https://www.reddit.com/r/MachineLearning/comments/1xwzsm4/marimba_a_system_one_model_for_speech_r/) ⭐️ 7.0/10
+
+Marimba 是一个基于 Qwen3-ASR-0.6B 冻结骨干的开源语音分析模型，专为高效、轻量级的语音决策任务设计。该模型支持零样本（zero-shot）语音识别、语音活动检测、说话人变化与数量判断等多种语音相关任务，并已开放代码、模型权重和基准测试，采用 Apache-2.0 许可证。用户可通过 pip 安装 marimba-audio 并在线体验。Marimba 适用于需要快速、结构化语音决策的开发者和研究者。
+
+reddit · r/MachineLearning · /u/solanotodesch · 11月15日 16:30
+
+**「背景」** 自动语音识别（ASR）模型近年来在语音理解和处理任务中广泛应用，常见评估指标包括词错误率、推理速度和模型体积。Qwen3-ASR-0.6B 是一款开源的中小型语音识别模型，支持多种语音任务。Marimba 基于该模型，结合零样本推理和多任务能力，进一步拓展了语音模型在决策型任务中的应用场景。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://huggingface.co/spaces/hf-audio/open_asr_leaderboard">Open ASR Leaderboard - a Hugging Face Space by hf-audio</a></li>
+
+</ul>
+</details>
+
+**标签**: `#speech-recognition`, `#open-source`, `#machine-learning`, `#model-release`
+
+---
+
+<a id="item-tech-news-11"></a>
+### [多语言维基百科历史版本句子比对工具发布](https://www.reddit.com/r/MachineLearning/comments/1xwttxo/hackathon_project_for_mariadbs_wikipedia_through/) ⭐️ 7.0/10
+
+在 Espoo 举办的 Junction 黑客松上，一个名为 Parallax 的项目实现了对维基百科七种语言（芬兰语、瑞典语、德语、英语、俄语、爱沙尼亚语和乌克兰语）历史版本的句子级比对。该工具利用系统版本表存储 87 万余条修订，将每个句子嵌入为 1024 维向量，并通过 SQL 查询结合向量相似度和 Gemini 3.8 Flash 大模型进行跨语言、跨时间点的内容对齐和差异分析。项目还对模型判别准确性进行了初步人工评估，并开源了代码和演示。该方案主要面向需要多语言、时序文本分析的数据库和机器学习社区。
+
+reddit · r/MachineLearning · /u/Loxbey · 11月15日 12:03
+
+**「背景信息」** MariaDB 是一个开源关系型数据库管理系统，支持系统版本表（system-versioned tables），可用于追踪数据随时间的变化。Hackathon 是一种短时间内集中协作开发项目的活动，通常持续 24 至 48 小时。本项目是在 Junction 2026 黑客松上为 MariaDB 的“Wikipedia Through Time”挑战开发，结合了向量检索和系统版本表技术以实现多语言、多版本的维基百科内容比对。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/MariaDB">MariaDB - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Hackathon">Hackathon - Wikipedia</a></li>
+<li><a href="https://github.com/danielbacsur/junction-x-wikipedia-hackathon">GitHub - danielbacsur/junction-x-wikipedia-hackathon: A time ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#machine learning`, `#databases`, `#natural language processing`, `#multilingual`, `#open source`
+
+---
+
+<a id="item-tech-news-12"></a>
+### [TimeCues Studio：开源音乐结构标注工具发布](https://www.reddit.com/r/MachineLearning/comments/1xwh3mw/acm_multimedia_2026_timecues_studio_a_free/) ⭐️ 7.0/10
+
+TimeCues Studio 是一款新发布的免费开源 Web 应用，专为音乐结构详细标注和算法评测设计。该工具支持基于节拍的时间线标注、分轨可视化、算法对比（如 allin1 和 MSAF）、协作工作流，并可导出为 Audacity 标签、MIDI 或 JSON 格式。用户可通过 Docker Compose 一键部署，或直接在线体验，无需注册。该项目采用 MIT 许可证，适用于音乐信息检索、机器学习模型训练及音视频同步等场景。
+
+reddit · r/MachineLearning · /u/SapirCa · 11月14日 23:59
+
+**「背景介绍」** 音乐结构标注是音乐信息检索（MIR）领域的重要任务，涉及对音频文件中不同部分（如段落、重复、过渡等）进行精确标记。此前，研究人员和开发者常用如 Audacity 等通用音频编辑器或自建脚本进行标注，但这些工具通常缺乏专为结构标注和算法评测设计的功能。TimeCues Studio 作为一个开源的网络应用，旨在为算法开发团队和音乐分析研究者提供集成的标注、算法对比和原型开发环境，支持团队协作和多种导出格式。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://arxiv.org/html/2609.10338">TimeCues Studio : A Workspace for Music Annotation and Algorithm...</a></li>
 <li><a href="https://github.com/sapirca/timecues-studio">GitHub - sapirca/ timecues - studio · GitHub</a></li>
 
 </ul>
 </details>
 
-**标签**: `#open source`, `#music information retrieval`, `#machine learning tools`, `#data annotation`
-
----
-
-<a id="item-tech-news-10"></a>
-### [短期价格预测论文应对比市场隐含预测基线](https://www.reddit.com/r/MachineLearning/comments/1xw6fk9/should_shorthorizon_price_forecasting_papers/) ⭐️ 7.0/10
-
-一则讨论帖质疑当前短期价格预测论文普遍采用的基线方法，建议应将市场隐含预测（如期权隐含波动率或众包预测）作为更有意义的对比基线，而不仅仅是与随机游走、ARIMA 等简单模型比较。发帖者指出，许多论文只关注点预测的 RMSE，而忽视了区间预测的覆盖率，这在如比特币等高波动资产中更为重要。该观点强调，若无法超越市场自身的预测，模型优于简单基线的意义有限。帖子还提出数据可得性可能是阻碍此类基线普及的原因之一。
-
-reddit · r/MachineLearning · /u/happypeanut-t · 11月14日 16:23
-
-**「背景」** 在金融时间序列预测领域，学术论文常用随机游走、ARIMA 等传统模型作为基线进行性能对比。然而，市场隐含预测（如期权价格反映的市场预期）已被广泛认为整合了大量公开信息，代表了市场参与者的集体智慧。
-
-**标签**: `#machine learning`, `#finance`, `#forecasting`, `#research methodology`
-
----
-
-<a id="item-tech-news-11"></a>
-### [OpenAI 解散机器人团队，转向通用模型驱动机器人](https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/) ⭐️ 7.0/10
-
-OpenAI 已解散其独立的机器人团队，将相关研究员重新分配至更通用的研究团队。公司表示，随着 GPT-6 Astra 等通用前沿模型已能直接操控机器人执行任务，已无需专门的机器人团队。此前 OpenAI 曾于 2024 年重建机器人团队并与 Figure 合作，但该合作已于 2025 年 2 月终止。目前 OpenAI 仍在自研人形机器人，计划于 2027 年首次公开展示。
-
-telegram · zaihuapd · 11月14日 04:00
-
-**「背景信息」** OpenAI 近年来一直在机器人领域进行探索，曾于 2020 年解散过一次机器人团队，2024 年又重建团队并与 Figure 合作，但该合作于 2025 年初终止。此次调整的背景是，OpenAI 认为其最新的通用 AI 模型（如 GPT-6 Astra）已具备直接操控机器人执行任务的能力，因此不再需要专门的机器人团队。公司将相关研究员分配到更广泛的研究方向，旨在加速机器人相关技术的发展。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://casrai.org/news/openai-disbands-robotics-team-2026">OpenAI Disbands Its Robotics Team: What It Means — CASRAI</a></li>
-<li><a href="https://tech.yahoo.com/ai/articles/exclusive-openai-disbands-stand-alone-170530559.html">Exclusive: OpenAI disbands its stand-alone robotics team as ...</a></li>
-<li><a href="https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/">Exclusive: OpenAI disbands stand-alone robotics team as ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#OpenAI`, `#robotics`, `#AI models`, `#industry news`
-
----
-
-<a id="item-tech-news-12"></a>
-### [W5000 全球最大无人货机完成试飞](https://www.ithome.com/1/027/068.htm) ⭐️ 7.0/10
-
-白鲸航线宣布，W5000 大型无人货运飞机在内蒙古成功完成技术验证试飞，涵盖爬升、平飞、转弯、下降和着陆等全部科目。W5000 号称全球最大业载无人货机，最大起飞重量 10.8 吨，最大业载 5 吨，设计航程 2600 公里，采用涡桨动力和自主驾驶、地面监控模式。企业计划于 2027 年上半年完成适航取证。该机组设计允许一组人员同时监控 6 至 7 架飞机。
-
-telegram · zaihuapd · 11月14日 05:00
-
-**「背景介绍」** W5000 是由白鲸航线（Air White Whale）研发的大型无人货运飞机，采用双涡桨动力，最大起飞重量为 10.8 吨，最大业载 5 吨，货舱容积超过 65 立方米。此前，该机型于 2024 年 10 月首次在常州生产基地亮相，定位为高效、低成本的无人空中物流平台，旨在推动货运无人机在长距离运输领域的应用。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.chinadaily.com.cn/a/202410/22/WS6717074aa310f1265a1c8dd2.html">Firm unveils unmanned cargo drone - Chinadaily.com.cn</a></li>
-<li><a href="https://interestingengineering.com/innovation/china-worlds-largest-cargo-drone">World’s largest cargo drone with 5-ton payload capacity unveiled</a></li>
-<li><a href="https://dronexl.co/nn/2024/10/27/chinese-firm-unveils-5-ton-payload-cargo-drone/">Chinese Firm Unveils Massive 5-Ton Payload Cargo Drone</a></li>
-
-</ul>
-</details>
-
-**标签**: `#autonomous systems`, `#hardware`, `#aviation`, `#AI applications`
+**标签**: `#open-source`, `#music information retrieval`, `#machine learning tools`, `#data annotation`
 
 ---
 
 <a id="item-tech-news-13"></a>
-### [Google 高管用 Gemini 让 Windows 11 跑上折叠 iPhone](https://www.windowslatest.com/2026/11/14/windows-11-can-run-on-apples-foldable-iphone-and-googles-ai-boss-proved-it-using-gemini-years-after-microsoft-gave-up-on-windows-phones/) ⭐️ 7.0/10
+### [特斯拉 Cybercab 推出 299 美元/月自动驾驶强制订阅](https://www.tesla.com/configurator/api/v4/terms?category=autonomy_subs&amp;amp;locale=en_US&amp;amp;model=cc&amp;amp;saleType=Sale) ⭐️ 7.0/10
 
-Google AI Studio 产品设计负责人 Ammaar Reshi 利用 Gemini 4 Carbon 和开源项目 WindowsiOS，在苹果折叠手机 iPhone Duo 上本地运行了 Windows 11 24H2，并公开了操作视频。该方案无需越狱，通过 JIT 翻译运行 ARM64 代码，并借助微软 Prism 支持部分传统 Windows 应用。安装镜像约 12 GB，需配合 Apple Silicon Mac 及开发工具。此次演示展示了跨平台系统移植和 AI 工具在操作系统兼容性上的新突破。
+特斯拉正式公布了 Cybercab 自动驾驶订阅协议，要求用户在支付 29,990 美元购车款后，每月还需支付 299 美元订阅费，否则车辆将无法运行。特斯拉有权提前一个月通知调整订阅价格，若用户欠费或违规使用，可能被暂停或取消订阅，累计三次警告将导致自动驾驶功能停用一周。Cybercab 仅允许在指定区域内运营，且禁止未经授权接入网约车、配送或租赁平台。
 
-telegram · zaihuapd · 11月14日 06:52
+telegram · zaihuapd · 11月15日 01:10
 
-**「相关背景」** WindowsiOS 是一个开源项目，旨在让微软 Windows 11 ARM64 版本以接近原生的 JIT 速度在未越狱的现代 iOS 设备上运行。据其官方仓库介绍，该项目已在折叠屏 iPhone Duo（iPhone 19，搭载 Apple A20 Pro，iOS 27 TXM）上完成端到端验证，无需使用 Hypervisor.framework。Gemini 4 Carbon 是 Google 的一款 AI 工具，在此次演示中被用于辅助开发和部署该系统移植方案。
+**「背景信息」** 特斯拉 Cybercab 是一款专为自动驾驶设计的两座车型，用户需支付 29,990 美元购车款，并每月额外支付 299 美元的强制订阅费以启用无人驾驶功能。该订阅不仅涵盖自动驾驶，还包括高级联网、轮胎和挡风玻璃服务及道路救援，但保险、充电和车辆注册需用户自理。若未按时续费或违反协议，车辆将被远程停用，且仅允许在特定区域内运营，禁止接入未经授权的网约车、配送或租赁平台。
+
+**「影响」** Cybercab 车主必须持续支付订阅费用才能正常使用车辆，且需遵守严格的运营和平台接入限制，否则将面临功能停用等处罚。这对用户的用车自由度和成本控制提出了新的挑战。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://github.com/ammaarreshi/WindowsiOS">GitHub - ammaarreshi/ WindowsiOS : Native Windows 11 ARM64 on...</a></li>
-<li><a href="https://www.ixbt.com/news/2026/11/15/gemini-4-carbon-za-dva-casa-prevratila-iphone-duo-v-noutbuk-s-windows-11-daze-dzeilbreik-ne-ponadobilsia.html">Gemini 4 Carbon за два часа превратила iPhone Duo в ноутбук...</a></li>
+<li><a href="https://www.notateslaapp.com/news/5015/teslas-cybercab-autonomy-subscription-everything-included">Tesla’s Cybercab Autonomy Subscription: Everything Included</a></li>
+<li><a href="https://electrek.co/2026/11/14/tesla-cybercab-autonomy-subscription-agreement-terms/">Tesla Cybercab&#x27;s autonomy agreement is insane: $299/mo or it ...</a></li>
+<li><a href="https://teslanorth.com/2026/11/13/tesla-cybercab-autonomy-subscription-terms/">Tesla Cybercab Terms Require a Paid Monthly Subscription</a></li>
 
 </ul>
 </details>
 
-**标签**: `#cross-platform`, `#operating systems`, `#AI tools`, `#hardware`
+**标签**: `#autonomous vehicles`, `#AI`, `#business models`, `#hardware`, `#technology industry`
+
+---
+
+<a id="item-tech-news-14"></a>
+### [传 Anthropic 与美官员联手推动黄仁勋下台及 AI 芯片出口限制](https://www.washingtonpost.com/technology/2026/11/13/behind-jensen-huangs-spy-scandal-shadow-war-trumps-ear-china/) ⭐️ 7.0/10
+
+据《华盛顿邮报》报道，英伟达创始人黄仁勋的离职疑似与美国国安官员和 Anthropic 高管的幕后操作有关。报道称，黄仁勋因反对对华 AI 芯片出口限制并与特朗普关系密切，激怒了美国鹰派，促使参议员鲁比奥等人通过 CIA 情报向总统施压。与此同时，Anthropic 被怀疑向媒体提供调查线索，推动对黄仁勋不利的报道。当前，国会正借此事件推动更严厉的 AI 芯片出口管制和芯片追踪技术立法，但相关指控尚未获得当事方回应，具体细节仍存疑。
+
+telegram · zaihuapd · 11月15日 08:08
+
+**「背景信息」** 近期，英伟达创始人兼前 CEO 黄仁勋卷入间谍丑闻，引发美国政界和科技行业关注。据《华盛顿邮报》报道，参议员鲁比奥等对华强硬派利用情报推动对黄仁勋的调查，削弱了其在华盛顿反对芯片出口限制的影响力。与此同时，Anthropic 等 AI 公司一直积极游说白宫，主张加强对华芯片出口管控，并推动在 GPU 芯片中加入追踪和防走私技术。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.washingtonpost.com/technology/2026/11/13/behind-jensen-huangs-spy-scandal-shadow-war-trumps-ear-china/">Behind Jensen Huang’s spy scandal, a shadow war for Trump’s ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI policy`, `#hardware`, `#industry news`, `#US-China relations`
 
 ---
 
 ## 财经新闻
 
 <a id="item-finance-news-1"></a>
-### [Anthropic IPO 拒绝中国内地及香港投资者](https://m.economictimes.com/markets/us-stocks/news/anthropic-ipo-share-orders-from-china-are-said-to-be-rebuffed/articleshow/135809948.cms) ⭐️ 8.0/10
+### [坎托·菲茨杰拉德与英伟达关系引发美国政府审查](https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html) ⭐️ 7.0/10
 
-Anthropic 首次公开募股（IPO）将不接受中国内地及香港投资者下单，知情人士称此举与国际武器贸易条例（ITAR）相关的出口管制有关。公司计划以 1.4 万亿美元估值募资至多 904 亿美元，IPO 定价日为 11 月 18 日，次日上市。
+坎托·菲茨杰拉德及其领导层因与英伟达的关系受到美国政府审查，尤其是在 2025 年 9 月至 2026 年 3 月期间，该公司报告持有的英伟达股票数量下降了 49%，据 CNBC 分析称。美国政府担忧技术出口至中国及潜在利益冲突，目前尚无证据表明存在非法行为。
 
-telegram · zaihuapd · 11月14日 10:18
+rss · CNBC Finance · 11月15日 19:58
 
-**「背景」** 此前，受美国国际武器贸易条例（ITAR）等出口管制影响，SpaceX 等公司上市时也曾对中国内地和香港投资者实施类似限制。
+**「背景」** 美国商务部长霍华德·卢特尼克因其与英伟达（Nvidia）的关系以及对人工智能芯片出口中国的监管态度受到批评。近期，英伟达 CEO 黄仁勋因与涉嫌协助中国获取美国 AI 芯片的 Megaspeed 公司高管关系曝光而辞职，进一步加剧了相关争议。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://the-decoder.com/banks-bar-chinese-and-hong-kong-investors-from-anthropic-ipo-over-us-export-controls/">Banks bar Chinese and Hong Kong investors from Anthropic IPO ...</a></li>
+<li><a href="https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html">Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher...</a></li>
+<li><a href="https://www.newsweek.com/scott-bessent-howard-lutnick-nvidia-scandal-12712195">Scott Bessent Puts Howard Lutnick on Spot Over Nvidia ... - Newsweek</a></li>
 
 </ul>
 </details>
 
-**标签**: `#IPO`, `#regulation`, `#technology`, `#capital markets`, `#geopolitics`
+**标签**: `#Nvidia`, `#Cantor Fitzgerald`, `#US-China relations`, `#Technology policy`, `#Corporate governance`
 
 ---
 
 <a id="item-finance-news-2"></a>
-### [英伟达 CEO 辞职与国会监管影响 AI 相关股票](https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html) ⭐️ 7.0/10
+### [美法官允许美光、三星等 DRAM 价格操纵案继续审理](https://www.tomshardware.com/tech-industry/big-tech/judge-denies-motion-to-dismiss-dram-price-fixing-lawsuit-against-micron-samsung-and-sk-hynix-says-chipmakers-acted-like-hawks-flying-in-formation-finds-evidence-of-dram-collusion-plausible-after-500-percent-price-surge) ⭐️ 7.0/10
 
-英伟达 CEO 辞职和美国国会可能加强对数据中心的监管，引发 AI 相关股票和 ETF（交易型基金）出现波动，其中 Roundhill Neocloud ETF 自 2026 年 8 月上市以来累计下跌 39%。分析师预计，如果英伟达面临持续压力，其他 AI 芯片公司如 AMD 和 Alphabet 可能受益。
+美国法官驳回了美光、三星和 SK 海力士关于撤销 DRAM 价格操纵集体诉讼的动议，认为存在三家公司合谋的合理证据。该案指控三家芯片制造商在一年内多次同步限制供应，导致 DRAM 价格最高上涨 500%。
 
-rss · CNBC Finance · 11月14日 15:50
+telegram · zaihuapd · 11月15日 16:39
 
-**「背景」** 2026 年 11 月，英伟达（Nvidia）创始人兼首席执行官黄仁勋宣布辞职，由公司执行副总裁兼首席财务官 Colette Kress 担任临时 CEO。此前，市场对美国国会可能加强对数据中心和芯片出口的监管已有关注。
+**「背景」** 此前，三家主要内存芯片制造商美光、三星和 SK 海力士被指控自 2022 年以来通过协调减少 DRAM（动态随机存取存储器）供应，涉嫌操纵价格，导致美国消费者和小企业提起集体诉讼。此次法官驳回撤诉动议，意味着案件将进入进一步审理阶段。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.theguardian.com/technology/live/2026/nov/13/nvidia-jensen-huang-to-testify-before-congress-live-latest-updates">Calls for crackdown on China chip exports – as it happened | Nvidia</a></li>
-<li><a href="https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-CEO-Transition/">NVIDIA Corporation - NVIDIA Announces CEO Transition</a></li>
+<li><a href="https://finance.yahoo.com/technology/articles/judge-denies-motion-dismiss-dram-152445837.html?fr=sycsrp_catchall">Judge denies motion to dismiss DRAM price-fixing lawsuit ...</a></li>
+<li><a href="https://wccftech.com/federal-judge-rejects-memory-makers-defense-samsung-micron-sk-hynix-dram-shortage-lawsuit/">Federal Judge Rejects Memory Makers’ Defense To ... - Wccftech</a></li>
+<li><a href="https://hoodline.com/2026/11/judge-lets-dram-price-fixing-suit-against-samsung-micron-sk-hynix-move-forward/">Judge Allows DRAM Price-Fixing Suit Vs Samsung, Micron, SK Hynix</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Nvidia`, `#AI`, `#ETFs`, `#Tech Regulation`, `#Market Reaction`
+**标签**: `#antitrust`, `#semiconductors`, `#legal`, `#price fixing`
 
 ---
