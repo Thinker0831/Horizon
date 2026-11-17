@@ -5,369 +5,363 @@ date: 2026-11-17
 lang: en
 ---
 
-> From 45 items, 24 important content pieces were selected
+> From 48 items, 23 important content pieces were selected
 
 ---
 
 **Technology News**
-1. [Alibaba Qwen4-Max 24T Model Launched, Smaller Models to Be Open Sourced](#item-tech-news-1) ⭐️ 9.0/10
-2. [Major Brands Hit by Malware via Optimizely Tag Management](#item-tech-news-2) ⭐️ 8.0/10
-3. [Marimba: Efficient Multi-Task Speech Analysis with Frozen ASR Encoder](#item-tech-news-3) ⭐️ 8.0/10
-4. [Amazon: AI Agents Using Artex Framework Steal API Keys](#item-tech-news-4) ⭐️ 8.0/10
-5. [US Closes Remote Access Loophole for Advanced AI Chip Exports](#item-tech-news-5) ⭐️ 8.0/10
-6. [Shandong University Team Presents Conditional Proof of Goldbach Conjecture](#item-tech-news-6) ⭐️ 8.0/10
-7. [Carnegie Mellon Releases Free CS Courses on YouTube](#item-tech-news-7) ⭐️ 7.0/10
-8. [Jiff 1.0: New Datetime Library for Rust Released](#item-tech-news-8) ⭐️ 7.0/10
-9. [Microsoft Email Outage Traced to July Software Defect](#item-tech-news-9) ⭐️ 7.0/10
-10. [JPMorgan Chase Outage Disrupts US Online Banking Services](#item-tech-news-10) ⭐️ 7.0/10
-11. [Real-Time Jazz Partner Uses Sampling-Time Steering, No Fine-Tuning](#item-tech-news-11) ⭐️ 7.0/10
-12. [Apple Plans 2027 Smart Glasses Without AR Display](#item-tech-news-12) ⭐️ 7.0/10
-13. [Tencent Urges Flatter Teams and Fewer Managers for AI Era](#item-tech-news-13) ⭐️ 7.0/10
-14. [Tencent Hunyuan Releases Hy4 Flash Model with Lower Costs](#item-tech-news-14) ⭐️ 7.0/10
-15. [Ten Nations Sign San Francisco Declaration on AI Supply Chain Security](#item-tech-news-15) ⭐️ 7.0/10
-16. [Apple Intelligence and AI Usage Limits Launch in China](#item-tech-news-16) ⭐️ 7.0/10
+1. [Optimizely Breach Led to Malware on Major Sites](#item-tech-news-1) ⭐️ 8.0/10
+2. [Marimba Speech Model: Multi-Task Queries with Single Frozen Encoder](#item-tech-news-2) ⭐️ 8.0/10
+3. [US Closes Remote Access Loophole for Advanced AI Chips](#item-tech-news-3) ⭐️ 8.0/10
+4. [Shandong University Team Presents Conditional Proof of Goldbach Conjecture](#item-tech-news-4) ⭐️ 8.0/10
+5. [Carnegie Mellon Releases Full CS Courses on YouTube for Free](#item-tech-news-5) ⭐️ 7.0/10
+6. [Windows 11 Telemetry Now Tracks Developer Tools Usage](#item-tech-news-6) ⭐️ 7.0/10
+7. [Jiff 1.0: New Stable Datetime Library for Rust](#item-tech-news-7) ⭐️ 7.0/10
+8. [Real-Time Jazz Partner Uses Sampling-Time Steering, No Fine-Tuning](#item-tech-news-8) ⭐️ 7.0/10
+9. [Apple Launches Large-Scale Health AI Usage Study in US](#item-tech-news-9) ⭐️ 7.0/10
+10. [Tencent Urges AI-Driven Restructuring, Fewer Management Roles](#item-tech-news-10) ⭐️ 7.0/10
+11. [Tencent Hunyuan Releases Hy4 Flash Model with Lower Costs](#item-tech-news-11) ⭐️ 7.0/10
+12. [Ten Nations Sign San Francisco Declaration on AI Supply Chain Security](#item-tech-news-12) ⭐️ 7.0/10
+13. [Amazon Reports AI Agents Stealing API Keys via Artex Framework](#item-tech-news-13) ⭐️ 7.0/10
+14. [Apple Intelligence Beta Launches on Chinese iPad and Mac](#item-tech-news-14) ⭐️ 7.0/10
 
 **Technology Blog**
 1. [Accelerating Molecular Dynamics with NVIDIA cuPotential](#item-tech-blog-1) ⭐️ 8.0/10
 
 **Financial News**
-1. [China&\#x27;s October Economic Growth Slows Further](#item-finance-news-1) ⭐️ 8.0/10
+1. [China&\#x27;s October Economic Slowdown Deepens as Key Indicators Miss Forecasts](#item-finance-news-1) ⭐️ 8.0/10
 2. [Intel and CEO Face Shareholder Lawsuit After Stock Plunge](#item-finance-news-2) ⭐️ 8.0/10
 3. [Berkshire Hathaway Raises Delta Stake, Cuts Bank of America Holding](#item-finance-news-3) ⭐️ 7.0/10
 4. [U.S. Crude Oil Drops to $85 as Middle East Exports Recover](#item-finance-news-4) ⭐️ 7.0/10
-5. [Nvidia CEO Resignation and Congressional Shift Affect AI Investments](#item-finance-news-5) ⭐️ 7.0/10
-6. [Cantor Fitzgerald&\#x27;s Nvidia Stake and Leadership Ties Face Scrutiny Amid Spy Allegations](#item-finance-news-6) ⭐️ 7.0/10
+5. [Nvidia CEO Resignation and Congressional Shift May Reshape AI Sector](#item-finance-news-5) ⭐️ 7.0/10
+6. [Cantor Fitzgerald Faces Scrutiny Over Nvidia Ties Amid U.S. Intelligence Concerns](#item-finance-news-6) ⭐️ 7.0/10
 7. [China Sees Net Outflow of Foreign Direct Investment in Q3 2026](#item-finance-news-7) ⭐️ 7.0/10
+8. [Nvidia Board Not Considering Jensen Huang&\#x27;s Return as CEO](#item-finance-news-8) ⭐️ 7.0/10
 
 ---
 
 ## Technology News
 
 <a id="item-tech-news-1"></a>
-### [Alibaba Qwen4-Max 24T Model Launched, Smaller Models to Be Open Sourced](https://mp.weixin.qq.com/s/pJUt0xwD6H-WMyzd8TjZaQ) ⭐️ 9.0/10
+### [Optimizely Breach Led to Malware on Major Sites](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/) ⭐️ 8.0/10
 
-Alibaba has officially launched Qwen4-Max, a new flagship large language model featuring a sparse Mixture-of-Experts \(MoE\) architecture with 24 trillion parameters. The model natively supports vision tasks and million-token context windows, and demonstrates strong performance in programming and long-context tasks. Qwen4-Max reduces average per-task costs from 26.58 yuan to 11.16 yuan \(a 58% decrease\) and halves token consumption compared to its predecessor, with API pricing also lowered. Alibaba announced plans to open source smaller Qwen4 models and release their weights in the future.
+Optimizely, a widely used web optimization service, was compromised, resulting in malware being served to users of major platforms including Zoom and GitLab. The attack exploited the third-party script supply chain, allowing malicious code to be injected into high-profile websites. The incident exposed critical vulnerabilities in delegating script management to non-engineering teams and highlighted the risks of relying on external vendors for script delivery. The breach affected users visiting these sites while the compromised scripts were active.
 
-telegram · zaihuapd · Nov 16, 02:52
+hackernews · kristjansson · Nov 16, 23:00 · [Discussion](https://news.ycombinator.com/item?id=50524767)
 
-**「Background」** Qwen4-Max is Alibaba&\#x27;s latest and most advanced model in the Qwen series, following previous iterations of large language models developed by the company. It is available through Alibaba&\#x27;s QwenCloud platform and can be accessed via API and other Alibaba services. The model supports multimodal input \(image, text, video\) and offers a million-token context window, positioning it as a flagship offering for enterprise and developer use.
+**「Background」** Optimizely Web is a widely used website testing and optimization platform that allows organizations to run experiments and manage scripts on their sites. On November 16, 2026, attackers compromised Optimizely&\#x27;s platform and injected malicious JavaScript, which was then served to visitors of at least 178 major organizations, including Zoom, GitLab, BBC, CNN, Salesforce, and others. The malicious code reportedly swapped cryptocurrency wallet addresses and skimmed card details entered by users, highlighting the risks associated with third-party script supply chains.
 
-**「Impact」** Developers and enterprises can now access Qwen4-Max with improved cost efficiency and advanced capabilities, particularly for programming and long-context applications. The planned open-sourcing of smaller models will further broaden access and enable community-driven research and deployment.
+**「Impact」** Organizations using Optimizely or similar third-party script services face increased risk of supply chain attacks, and may need to audit their dependencies, implement stricter controls, or consider self-hosting critical scripts to mitigate future incidents.
+
+**「Community Discussion」** Commenters criticized the practice of allowing non-engineering teams to manage third-party scripts, citing it as a root cause for bloated and insecure websites. Others argued that both vendors like Optimizely and large sites should enforce stronger security checks and consider self-hosting scripts to reduce exposure to such attacks.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://aimlapi.com/models/alibaba-qwen4-max">Qwen 4 Max API: Pricing and Benchmarks</a></li>
-<li><a href="https://www.alibabacloud.com/blog/alibaba-unveils-qwen4-max-new-ai-teammate-for-work-creativity-and-discovery_603783">Alibaba Unveils Qwen 4 - Max : New AI... - Alibaba Cloud Community</a></li>
+<li><a href="https://shiftdelete.net/en/optimizely-malware">Optimizely Malware Hit 178 Sites: What It Stole and What to Do</a></li>
+<li><a href="https://cybersecuritynews.com/optimizely-websites-hijacked/">Hackers Infect 178 Major Websites via Optimizely to Steal ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#large language models`, `#artificial intelligence`, `#model architecture`, `#open source`, `#industry news`
+**Tags**: `#security`, `#web-infrastructure`, `#supply-chain`, `#incident-response`
 
 ---
 
 <a id="item-tech-news-2"></a>
-### [Major Brands Hit by Malware via Optimizely Tag Management](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/) ⭐️ 8.0/10
+### [Marimba Speech Model: Multi-Task Queries with Single Frozen Encoder](https://www.reddit.com/r/MachineLearning/comments/1xxsqro/marimba_a_system_one_model_for_speech_r/) ⭐️ 8.0/10
 
-A significant malware incident has affected some of the world&\#x27;s largest brands through a compromise in Optimizely, a widely used third-party tag management service. Attackers leveraged Optimizely&\#x27;s tag infrastructure to inject malicious scripts into client websites, exposing visitors to malware without compromising the brands&\#x27; own servers. The incident highlights the risks inherent in relying on third-party scripts and tag managers for website functionality. Optimizely&\#x27;s status page currently reports a partial outage affecting recommendations tracking and reporting.
-
-hackernews · martinald · Nov 16, 21:08 · [Discussion](https://news.ycombinator.com/item?id=50523300)
-
-**「Background」** Optimizely is a widely used digital experience platform that allows marketers and product teams to add scripts and run experiments on websites without heavy engineering involvement. This convenience, common to tag management and experimentation tools, introduces security risks because third-party scripts can be injected into production sites and executed in users&\#x27; browsers. Previous incidents, such as the SolarWinds Orion compromise, have shown how attackers can exploit trusted third-party services to distribute malware to many organizations.
-
-**「Impact」** Organizations using Optimizely for tag management may have unknowingly exposed their website visitors to malware, even if their own infrastructure remained uncompromised. Security teams should urgently review their use of third-party tag managers and audit all externally loaded scripts.
-
-**「Community Discussion」** Commenters note that the risk of third-party tag managers like Optimizely and Google Tag Manager has long been a concern, as they allow non-engineering staff to inject scripts that can introduce vulnerabilities. Some users criticize the quality of reporting on the incident, emphasizing that even a secure origin server cannot protect visitors if the tag layer is compromised.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.optimizely.com/products">Optimizely One products - DXP</a></li>
-<li><a href="https://www.g2.com/products/optimizely-web-experimentation/reviews">Optimizely Web Experimentation Reviews 2026 : Details , Pricing... | G2</a></li>
-<li><a href="https://www.zdnet.com/article/partial-lists-of-organizations-infected-with-sunburst-malware-released-online/">Partial lists of organizations infected with Sunburst malware ... - ZDNET</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#security`, `#web development`, `#third-party services`, `#incident response`
-
----
-
-<a id="item-tech-news-3"></a>
-### [Marimba: Efficient Multi-Task Speech Analysis with Frozen ASR Encoder](https://www.reddit.com/r/MachineLearning/comments/1xxsqro/marimba_a_system_one_model_for_speech_r/) ⭐️ 8.0/10
-
-Marimba is a new speech analysis system that uses a single frozen Qwen3-ASR-0.6B encoder to answer various types of questions about audio, such as term detection, language identification, turn-end detection, and speaker change/count. The system achieves strong results across several benchmarks, matching or outperforming the much larger Qwen3-Omni \(30B-A3B\) model on 6 out of 9 tests, and demonstrates high accuracy in language ID and speaker change tasks. Marimba operates in a zero-shot manner for term detection and does not require training on specific terms. However, it does not generalize to unseen tasks like scene classification and has some limitations in turn-end detection compared to specialized models.
+Marimba is a new speech model that enables users to ask typed questions about audio—such as term detection, language identification, turn end, and speaker change/count—and receive calibrated probabilistic answers, all using a single frozen Qwen3-ASR-0.6B encoder per 8-second audio window. The model supports zero-shot term detection without term-specific training and achieves competitive or superior results to the much larger Qwen3-Omni 30B model on most tested benchmarks, including perfect language ID on FLEURS and strong speaker change detection. Marimba&\#x27;s code and weights are available under Apache-2.0, and a demo is provided. However, the model does not generalize to unseen tasks like scene classification and has some limitations on turn-end detection outside its training distribution.
 
 reddit · r/MachineLearning · /u/solanotodesch · Nov 16, 15:47
 
-**「Background」** Automatic Speech Recognition \(ASR\) systems convert spoken language into text, and recent advances have leveraged large pretrained models for multiple speech-related tasks. Marimba builds on this by using a single frozen encoder from Qwen3-ASR-0.6B, a model from the Qwen family, to handle diverse speech analysis tasks by routing different question types to specialized answer paths. This approach contrasts with traditional systems that often require separate models or fine-tuning for each task.
+**「Background」** Marimba is introduced as a speech model that uses a single frozen encoder \(Qwen3-ASR-0.6B\) to answer various types of audio-related queries, such as term detection, language identification, turn-end detection, and speaker change/count, without requiring term-specific training. It is benchmarked against Qwen3-Omni, a much larger \(30B parameter\) multimodal model designed for diverse input types including audio, and demonstrates competitive or superior performance on several speech tasks. The comparison highlights Marimba&\#x27;s efficiency and versatility in multi-task speech analysis, especially given its smaller model size and zero-shot capabilities.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://www.alphaxiv.org/abs/2611.18330">Marimba : A System One Model for Speech | alphaXiv</a></li>
-<li><a href="https://huggingface.co/Qwen">Org profile for Qwen on Hugging Face, the AI community building the...</a></li>
+<li><a href="https://huggingface.co/collections/Qwen/qwen3-omni">Qwen 3 - Omni - a Qwen Collection</a></li>
+<li><a href="https://github.locker/QwenLM/Qwen3-Omni">Qwen 3 - Omni on GitHub (QwenLM/ Qwen 3 - Omni ) — FAQ &amp; Similar...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#speech-recognition`, `#machine-learning`, `#AI-systems`, `#research`
+**Tags**: `#speech-recognition`, `#machine-learning`, `#AI-models`, `#research`
 
 ---
 
-<a id="item-tech-news-4"></a>
-### [Amazon: AI Agents Using Artex Framework Steal API Keys](https://cybernews.com/security/amazon-autonomous-cybercrime-artex-framework/) ⭐️ 8.0/10
+<a id="item-tech-news-3"></a>
+### [US Closes Remote Access Loophole for Advanced AI Chips](https://www.reuters.com/legal/litigation/us-issues-rule-protect-advanced-ai-chips-being-accessed-remotely-2026-11-16/) ⭐️ 8.0/10
 
-Amazon reports that attackers used the open-source Artex penetration testing framework to drive AI agents that autonomously steal API keys from publicly exposed AI applications such as LiteLLM and Dify. The stolen keys were verified and pooled to fund further large model API calls, creating a self-sustaining attack loop. The activity began on October 3 and was intercepted and blocked by Amazon&\#x27;s MadPot honeynet on November 5. Amazon attributes the operation with moderate confidence to a China-linked threat group and has notified potentially affected AWS customers.
-
-telegram · zaihuapd · Nov 16, 13:00
-
-**「Background」** The Artex framework is an open-source penetration testing tool designed to automate offensive security workflows using AI models. It supports multi-agent large language model \(LLM\) systems and is written in Go with a Next.js frontend. Artex enables attackers to coordinate AI agents for tasks such as credential harvesting and exploitation of exposed applications, making it a powerful tool for both security testing and, as reported, malicious activity.
-
-**「Impact」** Developers and organizations running publicly accessible AI applications face increased risk of automated API key theft, which can lead to unauthorized usage and potential financial loss. Immediate review and tightening of API key exposure and access controls are advised for affected platforms.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/">AI-driven, large-scale nation-state campaign using ARTEX enables...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI security`, `#API security`, `#cybersecurity`, `#cloud infrastructure`
-
----
-
-<a id="item-tech-news-5"></a>
-### [US Closes Remote Access Loophole for Advanced AI Chip Exports](https://www.reuters.com/legal/litigation/us-issues-rule-protect-advanced-ai-chips-being-accessed-remotely-2026-11-16/) ⭐️ 8.0/10
-
-The US Department of Commerce has issued a new interim final rule extending export controls on advanced AI chips and servers to include restrictions on remote access. This measure aims to prevent entities in restricted countries, such as China, from circumventing existing controls by accessing advanced chips hosted in third-country data centers. The rule also introduces licensing requirements for re-exporting AI chips to Indonesia, Malaysia, Singapore, Thailand, and Brazil. The regulation was drafted with input from the Treasury Department and National Security Council.
+The US Department of Commerce has issued a new interim final rule extending export controls on advanced AI chips and servers to include restrictions on remote access. This measure aims to prevent entities from bypassing existing export bans by accessing US-origin AI hardware via third-country data centers. The rule, drafted with input from the Treasury and National Security Council, also requires export licenses for re-exporting AI chips to Indonesia, Malaysia, Singapore, Thailand, and Brazil. These changes further tighten controls on China&\#x27;s access to advanced AI technology.
 
 telegram · zaihuapd · Nov 16, 14:44
 
-**「Background」** The United States has previously implemented export controls on advanced AI chips and related hardware to limit access by certain countries, particularly China. These controls aimed to prevent the transfer of cutting-edge technology that could have military or strategic uses. However, loopholes allowed some entities to access restricted chips remotely via data centers in third countries, prompting the need for this new rule to address such workarounds.
+**「Background」** The United States has previously imposed export controls to restrict China&\#x27;s access to advanced AI chips, primarily by limiting direct sales and shipments. However, these measures were undermined by a loophole that allowed remote access to such chips via data centers in third countries. The new rules specifically target this workaround by extending export controls to cover remote access, aiming to prevent Chinese entities from using advanced AI hardware hosted outside their borders.
 
-**「Impact」** Organizations providing cloud-based AI services or hosting advanced AI chips will need to ensure compliance with the new remote access restrictions, potentially requiring technical and legal changes to their operations. Companies exporting or re-exporting AI chips to the newly listed countries must now apply for licenses, which may delay or limit business opportunities in those regions.
+**「Impact」** Organizations and cloud providers must now ensure that advanced US AI chips cannot be accessed remotely from restricted countries, potentially requiring technical changes to data center operations and stricter compliance checks. Companies exporting or re-exporting AI chips to several Southeast Asian countries and Brazil will face new licensing requirements, increasing administrative burdens and possibly delaying shipments.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.bloomberg.com/news/articles/2026-11-16/us-moves-to-limit-remote-access-to-advanced-ai-chips">US Moves to Curb China’s Remote Access to Nvidia’s AI Chips</a></li>
+<li><a href="https://edition.cnn.com/2026/11/16/politics/ai-chips-restrictions-china">Trump administration tightens restrictions on flow of AI chips ahead of...</a></li>
+<li><a href="https://reason.com/2026/11/16/trumps-new-chip-export-rule-targets-china-but-exempts-tiktoks-parent-company/">Trump’s new chip export rule exempts TikTok’s parent company</a></li>
+
+</ul>
+</details>
 
 **Tags**: `#AI hardware`, `#export controls`, `#technology policy`, `#international regulation`
 
 ---
 
-<a id="item-tech-news-6"></a>
+<a id="item-tech-news-4"></a>
 ### [Shandong University Team Presents Conditional Proof of Goldbach Conjecture](https://mrc.sdu.edu.cn/info/1018/2193.htm) ⭐️ 8.0/10
 
-A team from Shandong University, led by Li Jiamin and Liu Jianya, has published the first conditional proof of the binary Goldbach conjecture for all sufficiently large even numbers. Their result holds under the assumption that the Generalized Riemann Hypothesis \(GRH\) and one of two additional spectral hypotheses are true. The proof also specifies that the two primes summing to the even number must each fall between one-third and two-thirds of that number. This approach differs from classical sieve and circle methods and does not constitute an unconditional proof; the GRH alone is insufficient for the result.
+A team from Shandong University, led by Li Jiamin and Liu Jianya, has presented the first conditional proof of the binary Goldbach conjecture for all sufficiently large even numbers. Their result holds under the assumption that the Generalized Riemann Hypothesis \(GRH\) for Dirichlet L-functions is true and that one of two additional spectral hypotheses is satisfied. The proof also specifies that the two primes summing to the even number must each fall between one-third and two-thirds of that number. This approach uses novel techniques distinct from classical sieve and circle methods, but it does not constitute an unconditional proof, and the GRH alone is not sufficient for the result.
 
 telegram · zaihuapd · Nov 16, 16:01
 
-**「Background」** The binary Goldbach conjecture is a longstanding unsolved problem in mathematics, proposing that every even integer greater than 2 can be expressed as the sum of two prime numbers. Conditional proofs in mathematics rely on the assumption that certain other unproven hypotheses, such as the Generalized Riemann Hypothesis \(GRH\), are true. Previous work has established partial results or conditional proofs for subsets of even numbers, but a conditional proof covering all sufficiently large even numbers, as claimed here, is unprecedented.
+**「Background」** The binary Goldbach conjecture is a famous unsolved problem in mathematics, proposing that every even integer greater than 2 can be expressed as the sum of two prime numbers. Despite being easy to state and verified for many cases, it has resisted a general proof for nearly three centuries. Conditional proofs, which rely on unproven assumptions such as the Generalized Riemann Hypothesis, have been explored as partial progress toward resolving the conjecture.
 
-**Tags**: `#mathematics`, `#theory`, `#research`, `#Goldbach conjecture`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.thinkacademy.ca/blog/blog/2026/08/06/goldbach-conjecture-guide/">The Goldbach Conjecture : Math&#x27;s Most Famous Unsolved Problem</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#mathematics`, `#theory`, `#research`, `#algorithms`
+
+---
+
+<a id="item-tech-news-5"></a>
+### [Carnegie Mellon Releases Full CS Courses on YouTube for Free](https://www.cs.cmu.edu/learn/) ⭐️ 7.0/10
+
+Carnegie Mellon University has begun releasing full-semester computer science course lectures for free on YouTube, with one course premiering each day during launch week and more planned for January. The initiative covers a range of topics, including foundational and advanced courses, and is supported by student-developed tools that automate much of the video production process. While similar to earlier efforts by institutions like MIT, CMU&\#x27;s approach emphasizes breadth and up-to-date content. Courseware such as projects and feedback mechanisms are planned for future release.
+
+hackernews · pcompeau · Nov 16, 20:43 · [Discussion](https://news.ycombinator.com/item?id=50522980)
+
+**「Background」** Carnegie Mellon University has previously offered free computer science educational resources, such as the CS Academy, which provides an interactive curriculum for high school students. Other leading universities, including MIT and Harvard, have also made full computer science courses available online at no cost. This broader movement toward open-access technical education has made high-quality learning materials more widely accessible.
+
+**「Impact」** Students, self-learners, and educators worldwide now have free access to high-quality, current CMU computer science lectures, including advanced topics that are often unavailable outside formal enrollment. The planned addition of courseware and feedback tools could further enhance the value for independent learners seeking a more complete educational experience.
+
+**「Community Discussion」** Commenters praised the inclusion of advanced courses and highlighted the importance of supporting materials like projects and feedback for effective learning. Some alumni and learners expressed excitement about specific courses and requested additional offerings, while others noted that strong fundamentals remain crucial even in the age of AI.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=hztO5vaBTRs">Demonstration of Carnegie Mellon CS Academy - YouTube</a></li>
+<li><a href="https://www.openculture.com/freeonlinecourses">1,700 Free Online Courses from Top Universities | Open Culture</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#computer-science-education`, `#open-access`, `#software-engineering`, `#artificial-intelligence`
+
+---
+
+<a id="item-tech-news-6"></a>
+### [Windows 11 Telemetry Now Tracks Developer Tools Usage](https://xusheng.dev/posts/windows-coding-agent-telemetry/) ⭐️ 7.0/10
+
+Windows 11 has begun collecting telemetry data specifically about which coding agents and developer tools are used on the system. This data collection is active by default and has raised privacy concerns among developers, as it potentially exposes sensitive information about development workflows and tool preferences. The change affects all Windows 11 users, particularly software engineers and developers who rely on the platform for their work.
+
+hackernews · cwaffles · Nov 16, 22:58 · [Discussion](https://news.ycombinator.com/item?id=50524736)
+
+**「Background」** Telemetry refers to the automatic collection and transmission of data from software or devices back to the vendor, often for diagnostics or product improvement. Windows 10 and Windows 11 have both included built-in telemetry features, which have been criticized for collecting extensive user data by default. Tools and guides exist to help users reduce or block telemetry on Windows systems, reflecting ongoing privacy concerns among users and developers.
+
+**「Impact」** Developers concerned about privacy may reconsider their choice of operating system, with some already discussing or planning a switch to Linux to avoid such telemetry. This could lead to increased adoption of alternative platforms among privacy-conscious users.
+
+**「Community Discussion」** Several commenters report switching from Windows to Linux due to privacy concerns and note that Linux now offers strong compatibility for both gaming and development. Others share resources and advice for migrating to Linux, emphasizing that the transition is easier than many expect.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://github.com/N0tHorizon/WindowsTelemetryBlocker">N0tHorizon/WindowsTelemetryBlocker: A PowerShell based tool to...</a></li>
+<li><a href="https://www.youtube.com/watch?v=-E-WC_UvHXE">Windows 11 : Kill Telemetry , Widgets &amp; Bloat - YouTube</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#privacy`, `#operating-systems`, `#developer-tools`, `#software-engineering`
 
 ---
 
 <a id="item-tech-news-7"></a>
-### [Carnegie Mellon Releases Free CS Courses on YouTube](https://www.cs.cmu.edu/learn/) ⭐️ 7.0/10
+### [Jiff 1.0: New Stable Datetime Library for Rust](https://burntsushi.net/jiff/) ⭐️ 7.0/10
 
-Carnegie Mellon University has begun releasing full-semester computer science courses for free on YouTube, with one new course premiering each day during launch week and more planned for January. The initiative covers a range of topics, including advanced subjects like machine learning systems, and leverages student-built tools to automate much of the video production process. While similar to MIT&\#x27;s earlier open courseware efforts, CMU&\#x27;s approach emphasizes ongoing expansion and streamlined content creation. The materials are available to anyone, but comprehensive courseware such as projects and feedback mechanisms are still in development.
-
-hackernews · pcompeau · Nov 16, 20:43 · [Discussion](https://news.ycombinator.com/item?id=50522980)
-
-**「Background」** Carnegie Mellon University \(CMU\) is recognized for its strong computer science program and has a history of contributing to open education. Other leading institutions, such as MIT, have previously released full-semester course materials online, setting a precedent for this type of educational resource sharing. CMU&\#x27;s new initiative builds on this tradition by leveraging automation tools to streamline the production and release of comprehensive course content.
-
-**「Impact」** Learners and educators worldwide now have free access to high-quality, current CMU computer science lectures, including advanced topics that are often less available in open courseware. However, the lack of accompanying projects and feedback may limit the effectiveness for those seeking a complete course experience.
-
-**「Community Discussion」** Commenters praised the inclusion of advanced courses like ML Systems and expressed hope for more graduate-level content, while others emphasized the need for supporting materials such as projects and feedback to maximize learning value. Some noted that strong fundamentals remain crucial even in the age of AI, and welcomed the automation of course production as a way to expand offerings.
-
-**Tags**: `#open-education`, `#computer-science`, `#online-learning`, `#machine-learning`
-
----
-
-<a id="item-tech-news-8"></a>
-### [Jiff 1.0: New Datetime Library for Rust Released](https://burntsushi.net/jiff/) ⭐️ 7.0/10
-
-Jiff 1.0 is a newly released datetime library for the Rust programming language, authored by burntsushi. It is positioned as an alternative to the widely used but often criticized &\#x27;chrono&\#x27; library, aiming to address longstanding pain points in Rust&\#x27;s datetime handling. The release introduces improved APIs and design decisions, and has already attracted significant attention and discussion within the Rust community. Jiff is openly documented as not being the right tool for every use case, reflecting a pragmatic approach to library design.
+Jiff 1.0 is a newly released, stable datetime library for the Rust programming language. Authored by a respected developer, it offers an alternative to the widely used Chrono library, aiming to address long-standing pain points in Rust&\#x27;s date and time handling. The 1.0 release signals production readiness and a thoughtfully designed API, with explicit acknowledgment that Jiff may not suit every use case. This release is available now for Rust developers seeking a modern, stable datetime solution.
 
 hackernews · burntsushi · Nov 16, 16:53 · [Discussion](https://news.ycombinator.com/item?id=50519744)
 
-**「Background」** Rust has historically relied on libraries like &\#x27;chrono&\#x27; and &\#x27;time&\#x27; for datetime handling, but these have faced criticism for API design and limitations. Jiff is a new datetime library for Rust that aims to address common issues, particularly by making time zone handling a core part of its API and simplifying daylight saving time management. The library is designed to help developers avoid common pitfalls and improve the overall experience of working with dates and times in Rust.
+**「Background」** Rust has historically relied on libraries like Chrono and time for date and time handling, but these have faced criticism for API design and limitations, especially around time zone support and daylight saving time. Jiff was created to address these issues by making time zone handling a core part of its API and by aiming for a more robust and user-friendly experience. The library offers features such as customizable support for Rust&\#x27;s standard library, optional serde integration, and the ability to embed the Time Zone Database directly into binaries.
 
-**「Impact」** Rust developers now have a new option for datetime handling that may offer a more thoughtfully designed API and address frustrations with chrono. Projects that have struggled with chrono&\#x27;s limitations or maintenance issues may consider evaluating or migrating to Jiff, though compatibility and feature coverage should be assessed for each use case.
+**「Impact」** Rust developers now have a stable, production-ready alternative to Chrono for date and time handling, potentially reducing frustration with legacy APIs and enabling more robust time-sensitive or scientific applications. Projects that have struggled with Chrono&\#x27;s limitations or API design may consider migrating to Jiff, though careful evaluation of compatibility and feature coverage is advised.
 
-**「Community Discussion」** A former chrono maintainer expressed relief and gratitude for Jiff, citing burnout from attempts to improve chrono&\#x27;s API amid resistance. Other users praised Jiff&\#x27;s clear documentation about its intended scope and its professional approach to acknowledging limitations, while some raised questions about support for specialized time scales and user-friendly timezone handling.
+**「Community Discussion」** Some developers, including a former Chrono maintainer, expressed relief and gratitude for Jiff&\#x27;s release, citing burnout and frustration with Chrono&\#x27;s API stagnation. Others praised Jiff&\#x27;s professional approach in acknowledging its limitations and not aiming to be a universal solution, while some users remain satisfied with Chrono and recommend evaluating Jiff based on specific project needs.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://burntsushi.net/jiff/">A datetime library for Rust - Andrew Gallant&#x27;s Blog</a></li>
-<li><a href="https://docs.rs/jiff/latest/jiff/_documentation/design/index.html">jiff ::_documentation::design - Rust</a></li>
+<li><a href="https://github.com/burntsushi/jiff">GitHub - BurntSushi/ jiff : A datetime library for Rust that encourages...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#rust`, `#datetime`, `#libraries`, `#open-source`
+**Tags**: `#rust`, `#datetime`, `#libraries`, `#software engineering`
+
+---
+
+<a id="item-tech-news-8"></a>
+### [Real-Time Jazz Partner Uses Sampling-Time Steering, No Fine-Tuning](https://www.reddit.com/r/MachineLearning/comments/1xxkyh3/steering_a_pretrained_music_transformer_at/) ⭐️ 7.0/10
+
+A new real-time jazz accompaniment system, &\#x27;duetto,&\#x27; uses the pretrained Anticipatory Music Transformer \(Thickstun et al., 2023\) and steers its output at sampling time through rule-based logit editing, rather than fine-tuning the model. This approach allows the system to interactively accompany a live MIDI keyboard player, masking or biasing possible outputs based on musical context and player input. The system achieves low-latency performance \(as low as 12 ms/note on a 3080 Ti\) and is available as open-source code for noncommercial use. Limitations include occasional drift from the player and a delicate balance between rule-based control and model creativity.
+
+reddit · r/MachineLearning · /u/GGAllin43 · Nov 16, 09:19
+
+**「Background」** The Anticipatory Music Transformer is a pretrained model designed for music generation tasks, including accompaniment and infilling, and was trained on the Lakh MIDI dataset. It supports controllable music generation by allowing users to guide outputs through prompts or control inputs, without requiring retraining or fine-tuning. The model&\#x27;s architecture and sampling methods enable flexible manipulation of generated music, making it suitable for interactive applications such as real-time accompaniment.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://arxiv.org/abs/2306.08620">[2306.08620] Anticipatory Music Transformer - arXiv.org</a></li>
+<li><a href="https://crfm.stanford.edu/2023/06/16/anticipatory-music-transformer.html">Anticipatory Music Transformer: A Controllable Infilling ...</a></li>
+<li><a href="https://github.com/jthickstun/anticipation">GitHub - jthickstun/anticipation: Anticipatory Autoregressive ... Anticipatory Music Transformer - arXiv.org Anticipatory Music Transformer - G-CLef @ CMU Anticipation and the Anticipatory Music Transformer Anticipatory Music Transformer - John Thickstun</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#machine learning`, `#music AI`, `#transformers`, `#real-time systems`
 
 ---
 
 <a id="item-tech-news-9"></a>
-### [Microsoft Email Outage Traced to July Software Defect](https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026) ⭐️ 7.0/10
+### [Apple Launches Large-Scale Health AI Usage Study in US](https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/) ⭐️ 7.0/10
 
-A major Microsoft email outage was caused by a software defect introduced in a July update. The issue went undetected because the company&\#x27;s testing environment did not match the scale and configuration of its production systems, allowing a concurrency bug to slip through. Microsoft has now traced the outage to this specific defect, raising concerns about the adequacy of their testing practices for critical infrastructure.
+Apple, in partnership with clinical AI platform OpenEvidence, has launched the Apple Health AI Usage Study in the United States. The study aims to recruit up to 200,000 US residents aged 21 or older who own an iPhone 15 Pro or newer running iOS 26 or later, to examine how users interact with conversational health AI and to assess trust and understanding. The research data will not be used to train AI models, and the application is not intended for diagnosis or treatment purposes.
 
-hackernews · Bender · Nov 16, 13:18 · [Discussion](https://news.ycombinator.com/item?id=50517321)
+telegram · zaihuapd · Nov 16, 05:01
 
-**「Background」** Microsoft operates large-scale email and cloud infrastructure relied upon by enterprises worldwide. Software updates and patches are routinely deployed to maintain security and functionality, but differences between testing and production environments can sometimes allow defects to go undetected until they cause major outages.
+**「Background」** Conversational health AI refers to artificial intelligence systems designed to interact with users through natural language to provide health-related information or support. Apple has previously integrated health features into its devices, but this is the first large-scale study by Apple specifically focused on how users interact with conversational health AI, conducted in partnership with OpenEvidence. The study will use a dedicated app and is not intended for diagnosis or treatment, nor will the collected data be used to train AI models.
 
-**「Impact」** Enterprise customers relying on Microsoft&\#x27;s email services experienced significant disruption, and the incident highlights the risk of insufficiently representative testing environments for large-scale infrastructure. Organizations may need to review their own testing and deployment practices to avoid similar failures.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/">announced the launch of an Apple Health AI Usage Study</a></li>
+<li><a href="https://www.livemint.com/technology/apps/apple-launches-ai-health-study-app-in-partnership-with-openevidence-who-can-participate-and-how-it-works-11794798693805.html">Apple launches AI health study app in partnership with ... - Mint</a></li>
+<li><a href="https://explainx.ai/blog/apple-health-ai-usage-study-openevidence-2026">Apple Health AI Study: 200K Users, OpenEvidence (2026 ...</a></li>
 
-**「Community Discussion」** Commenters noted that such outages are common in large organizations and drew parallels to complex recovery procedures in other industries, like power grid management. Some questioned the use of Windows for critical infrastructure roles and debated whether the cost-saving trade-off of less robust testing environments is acceptable.
+</ul>
+</details>
 
-**Tags**: `#outage`, `#software reliability`, `#incident response`, `#enterprise systems`
+**Tags**: `#healthcare AI`, `#industry initiative`, `#user study`, `#Apple`
 
 ---
 
 <a id="item-tech-news-10"></a>
-### [JPMorgan Chase Outage Disrupts US Online Banking Services](https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda) ⭐️ 7.0/10
+### [Tencent Urges AI-Driven Restructuring, Fewer Management Roles](https://weibo.com/1642634100/RrCqPwhiS) ⭐️ 7.0/10
 
-A major technical outage at JPMorgan Chase caused widespread online banking disruptions for several major US banks, including issues with card transactions, branch operations, and digital access. The incident affected users&\#x27; ability to access accounts and perform transactions, with some reports suggesting possible links to cloud or database infrastructure failures. The outage follows similar recent incidents in the financial sector, though the exact technical cause has not been confirmed. Service availability appeared to vary by region, with some users reporting normal access while others experienced significant downtime.
+Tencent&\#x27;s executive office has called for a company-wide shift toward AI-driven innovation, urging all core business teams to &\#x27;restart entrepreneurship&\#x27; for the AI era. The directive emphasizes organizational flattening, reducing management layers, and restructuring teams into smaller, more agile units. Leadership stated that not as many management positions are needed in the future and called for breaking down internal silos and traditional territorial mindsets. The announcement signals a significant internal strategy adjustment but does not detail specific implementation timelines or affected roles.
 
-hackernews · samk3nny · Nov 16, 18:31 · [Discussion](https://news.ycombinator.com/item?id=50521045)
+telegram · zaihuapd · Nov 16, 06:32
 
-**「Background」** JPMorgan Chase is one of the largest U.S. banking institutions, formed through the merger of several major banks since 1996. It provides a wide range of financial services, including online banking, credit cards, mortgages, and commercial banking. Outages at such institutions can have significant ripple effects across the financial sector due to their scale and interconnectedness.
-
-**「Impact」** Customers of affected banks faced interruptions in accessing online banking, card services, and potentially in-person branch support, leading to delays in financial transactions and heightened concerns about the reliability of digital banking infrastructure.
-
-**「Community Discussion」** Commenters debated the root causes, with some drawing parallels to a recent Revolut outage attributed to Google Cloud and speculating about cloud or database failures. Others highlighted broader concerns about systemic reliability, quality assurance practices, and the increasing frequency of large-scale outages affecting critical services.
+**「Background」** Tencent has recently intensified its focus on AI-driven organizational transformation, following a broader trend among major Chinese tech companies. According to recent reports, Tencent leadership has publicly emphasized the need for comprehensive restructuring to adapt to the AI era, including flattening management layers and shifting significant portions of its workforce toward AI-related roles. This follows internal speeches and company-wide communications urging teams to embrace new ways of working and reduce traditional management hierarchies.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.m.wikipedia.org/wiki/JPMorgan_Chase">JPMorgan Chase - Wikipedia</a></li>
-<li><a href="https://banking.jpmorgan.com/">Credit Card, Mortgage, Banking, Auto | Chase Online | Chase.com</a></li>
+<li><a href="https://eu.36kr.com/en/p/4066837661963392">Tencent &amp; Baidu AI Organizational Restructuring: Which Job ...</a></li>
+<li><a href="https://en.sedaily.com/world/2026/11/13/tencent-to-shift-half-of-staff-to-ai-businesses-in-sweeping">Tencent to Shift Half of Staff to AI Businesses in Sweeping ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#outage`, `#banking`, `#cloud-infrastructure`, `#systems-reliability`
+**Tags**: `#AI strategy`, `#organizational change`, `#technology industry`, `#management`
 
 ---
 
 <a id="item-tech-news-11"></a>
-### [Real-Time Jazz Partner Uses Sampling-Time Steering, No Fine-Tuning](https://www.reddit.com/r/MachineLearning/comments/1xxkyh3/steering_a_pretrained_music_transformer_at/) ⭐️ 7.0/10
-
-A new open-source project called duetto enables real-time jazz accompaniment using the pretrained Anticipatory Music Transformer without any model fine-tuning. Instead, it steers the model at sampling time by manipulating logits with rule-based constraints and musical phrase quoting, allowing interactive performance with a MIDI keyboard. The system achieves low-latency operation \(12–18 ms/note on a 3080 Ti\) and can run on consumer hardware, though balancing model creativity and rule adherence remains challenging. The approach demonstrates practical, real-time control of a music transformer for live jazz interaction.
-
-reddit · r/MachineLearning · /u/GGAllin43 · Nov 16, 09:19
-
-**「Background」** The Anticipatory Music Transformer is a neural network model introduced in 2023 for music generation tasks, including accompaniment and infilling, trained on the Lakh MIDI dataset. Unlike standard autoregressive models, it is designed to handle interleaved event and control sequences, enabling more flexible and controlled music generation. This model can generate high-quality accompaniments and supports control tasks without requiring retraining for each new use case.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://paperswithcode.co/paper/2306.08620">Anticipatory Music Transformer (arXiv...) | Papers with Code</a></li>
-<li><a href="https://chrisdonahue.com/publication/23-06-anticipatory/">Anticipatory Music Transformer | Chris Donahue</a></li>
-<li><a href="https://huggingface.co/papers/2306.08620">Paper page - Anticipatory Music Transformer</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#machine learning`, `#music AI`, `#transformers`, `#open source`, `#real-time systems`
-
----
-
-<a id="item-tech-news-12"></a>
-### [Apple Plans 2027 Smart Glasses Without AR Display](https://www.bloomberg.com/news/newsletters/2026-11-15/apple-siri-ai-app-integrations-power-smart-glasses-iphone-duo-2-face-id-plan) ⭐️ 7.0/10
-
-Apple is reportedly targeting a 2027 release for its first smart glasses, codenamed N50. The initial version will focus on deep Siri and iPhone integration but will not include an AR display. The device will require pairing with a recent iPhone and will not support Android; third-party apps will continue to run on the phone rather than the glasses. The prototype is thinner than Meta&\#x27;s second-generation Ray-Ban glasses and features a three-pin magnetic charging system, but software and AI development delays could push back the launch.
-
-telegram · zaihuapd · Nov 16, 02:13
-
-**「Background」** Apple&\#x27;s N50 smart glasses are positioned as a follow-up to the company&\#x27;s previous wearable and AR efforts, such as the Vision Pro headset. Unlike full-featured AR devices, the N50 is expected to focus on Siri and iPhone integration, prioritizing practicality and privacy over immersive AR experiences. The device is reportedly designed to compete with products like Meta&\#x27;s Ray-Ban smart glasses, offering a lightweight form factor and AI features without an AR display.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://5thscape.com/blog/apple-smart-glasses-privacy/">Apple Smart Glasses 2027 : Why Privacy Beats... - 5thscape Blog</a></li>
-<li><a href="https://applemagazine.com/apple-smart-glasses-2027-n50-revolutionizes-ar/">Apple Smart Glasses N 50 : A Step Toward... - AppleMagazine</a></li>
-<li><a href="https://pasqualepillitteri.it/en/news/12305/apple-cuts-vision-pro-jobs-smart-glasses-2027">Apple Cuts 200 Vision Pro Jobs, Smart Glasses Coming in 2027</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#hardware`, `#wearables`, `#apple`, `#ai-integration`, `#industry-news`
-
----
-
-<a id="item-tech-news-13"></a>
-### [Tencent Urges Flatter Teams and Fewer Managers for AI Era](https://weibo.com/1642634100/RrCqPwhiS) ⭐️ 7.0/10
-
-Tencent&\#x27;s executive office has issued a directive calling for company-wide restructuring to adapt to the AI era, emphasizing the need for flatter organizational structures and fewer management positions. The announcement, published in Tencent&\#x27;s internal culture communication, instructs core business teams to &\#x27;re-start&\#x27; with a zero-based mindset, reorganizing into small, agile units. The leadership specifically stated that not as many management roles are needed in the future and called for breaking down entrenched silos and territory-based thinking. The company also plans to redesign management and workflows using AI.
-
-telegram · zaihuapd · Nov 16, 06:32
-
-**「Background」** Tencent is a major Chinese technology conglomerate known for its influence in internet services, gaming, and digital platforms. As one of the world&\#x27;s largest technology companies, its organizational changes often signal broader trends in the tech industry. The company&\#x27;s leadership directives can have significant ripple effects on management practices and technology adoption across the sector.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Tencent">Tencent - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#industry`, `#AI`, `#organizational-change`, `#technology-leadership`
-
----
-
-<a id="item-tech-news-14"></a>
 ### [Tencent Hunyuan Releases Hy4 Flash Model with Lower Costs](https://mp.weixin.qq.com/s/5yBbf-ctYziM5r0i6Y17lA) ⭐️ 7.0/10
 
-Tencent Hunyuan has launched the Hy4 flash model, featuring 224 billion total parameters \(12 billion active\), multimodal support, and a 1 million token context window. The model is now available via Tencent Cloud&\#x27;s TokenHub, WorkBuddy, and Yuanbao platforms, with API pricing significantly reduced compared to Hy4—input at 0.5 RMB and output at 2 RMB per million tokens, and just 0.02 RMB when cache is hit. Tencent claims Hy4 flash offers slightly better overall performance than Hy4 preview, with single-task costs as low as 1/13 of Hy4 preview and 1/20 of Hy4. The company plans to open source the model, and is offering WorkBuddy free until November 30 and API access at half price.
+Tencent Hunyuan has launched the Hy4 flash model, featuring 224 billion total parameters \(12 billion activated\), multimodal support, and a 1 million token context window. The API pricing is significantly reduced compared to both Hy4 and Hy4 preview, with input tokens priced at 0.5 RMB per million and output at 2 RMB per million, and cache hits costing only 0.02 RMB. The company claims the model&\#x27;s overall performance is slightly better than Hy4 preview, and the cost per task is as low as 1/13 of Hy4 preview and 1/20 of Hy4. Hy4 flash is already available on Tencent Cloud&\#x27;s TokenHub, WorkBuddy, and Yuanbao, with plans for open-sourcing and temporary discounts until November 30.
 
 telegram · zaihuapd · Nov 16, 07:17
 
-**「Background」** Tencent Hunyuan previously released the Hy4 model, a large-scale mixture-of-experts \(MoE\) language model with 770 billion parameters and a 1 million token context window. The Hy4 model was first previewed in August 2026 and fully released in November 2026, targeting high-end AI tasks with open-weight availability. The new Hy4 flash model introduces a lower-cost, more efficient alternative with 224 billion total parameters and 12 billion active parameters, expanding the Hunyuan lineup to address broader use cases and pricing needs.
+**「Background」** Tencent Hunyuan previously released the Hy4 model, a 770B parameter mixture-of-experts \(MoE\) large language model with a 1 million token context window, available through Tencent Cloud services and other platforms. The new Hy4 flash model introduces a lower-cost alternative with 224B total parameters and 12B active parameters, aiming to provide more affordable access to large language model capabilities for daily tasks. This release continues Tencent&\#x27;s strategy of offering scalable AI solutions with varying performance and pricing tiers.
 
-**「Impact」** Developers and organizations using Tencent&\#x27;s AI services can now access a more cost-effective and capable model for daily tasks, potentially lowering operational expenses and enabling broader adoption of large-context, multimodal AI applications.
+**「Impact」** Organizations and developers using Tencent Hunyuan models for daily AI tasks can now achieve substantial cost savings and access improved capabilities, especially for large-context and multimodal applications. Early adopters benefit from additional discounts and free access on select platforms until the end of November.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://www.eesel.ai/blog/tencent-hy4">Tencent Hunyuan Hy 4 : specs, benchmarks, and pricing... | eesel AI</a></li>
 <li><a href="https://www.binance.com/en/square/post/11-16-2026-tencent-hunyuan-launches-hy4-flash-with-224b-parameters-and-12b-active-388785367980171">Tencent Hunyuan Launches Hy 4 Flash With 224B Parameters and...</a></li>
-<li><a href="https://ai-tldr.dev/models/hunyuan-hy4/">Hunyuan Hy 4 — Tencent &#x27;s Vision and Computer-Use LLM | AI/TLDR</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI models`, `#cloud services`, `#pricing`, `#multimodal`, `#open source`
+**Tags**: `#large language models`, `#AI industry`, `#model deployment`, `#cost optimization`
 
 ---
 
-<a id="item-tech-news-15"></a>
+<a id="item-tech-news-12"></a>
 ### [Ten Nations Sign San Francisco Declaration on AI Supply Chain Security](https://www.state.gov/releases/office-of-the-spokesman/2026/11/the-san-francisco-declaration-on-the-secure-foundations-of-enduring-prosperity/) ⭐️ 7.0/10
 
-On November 15, the United States and nine other countries—including Australia, India, Israel, Japan, South Korea, Qatar, Singapore, the United Arab Emirates, and the United Kingdom—signed the San Francisco Declaration. This agreement commits the signatories to jointly protect sensitive technologies and critical infrastructure supporting superintelligence \(SI\) supply chains. The declaration establishes five working groups focused on policy innovation, SI applications in key sectors, full-stack supply chain collaboration, safe harbors and security hubs, and SI safety and resilience. The initiative is aimed at strengthening economic and national security through coordinated international efforts.
+On November 15, the United States and nine other countries—including Australia, India, Israel, Japan, South Korea, Qatar, Singapore, the United Arab Emirates, and the United Kingdom—signed the San Francisco Declaration. This agreement establishes a framework for international cooperation to secure the supply chain and critical infrastructure supporting superintelligence \(SI\) technologies. The declaration creates five working groups focused on innovation policy, SI applications in key sectors, end-to-end supply chain collaboration, security hubs, and SI safety and resilience. The announcement outlines policy intentions and organizational structures, but does not specify immediate technical implementations or regulatory changes.
 
 telegram · zaihuapd · Nov 16, 10:40
 
-**「Background」** The San Francisco Declaration is a new international agreement focused on securing the supply chain and critical infrastructure for superintelligence \(SI\) technologies. It brings together the United States and nine other countries to coordinate policy and technical efforts in response to growing concerns about the security and resilience of AI-related technologies. The declaration establishes five working groups to address innovation policy, SI applications, supply chain collaboration, security hubs, and SI safety and resilience.
-
-**Tags**: `#AI policy`, `#supply chain`, `#international cooperation`, `#infrastructure security`
-
----
-
-<a id="item-tech-news-16"></a>
-### [Apple Intelligence and AI Usage Limits Launch in China](https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription) ⭐️ 7.0/10
-
-Apple Intelligence features are now available to users in China on iPad and Mac devices running iPadOS 27.3 beta 2 or macOS 27.3 beta 2. This rollout also includes a security patch that fixes a file sandbox escape vulnerability across all Apple operating systems. Additionally, Apple has introduced daily usage limits for certain advanced Siri AI and Apple Intelligence features in iOS 27.3, iPadOS 27.3, and macOS 27.3 beta 2, restricting cloud-based advanced requests such as multi-step personal context queries and image generation/editing, while basic Siri commands remain unlimited and free.
-
-telegram · zaihuapd · Nov 16, 20:12
-
-**「Background」** Apple Intelligence is a suite of AI-powered features integrated into Apple&\#x27;s operating systems, including iPadOS and macOS. Some advanced capabilities, such as multi-step Siri requests and image generation or editing, rely on server-side processing and are subject to daily usage limits. These features are available on supported devices running the latest beta versions of Apple&\#x27;s operating systems.
-
-**「Impact」** Chinese users and developers testing the latest Apple OS betas will gain access to new AI features but may encounter daily limits on advanced Siri and Apple Intelligence capabilities, potentially affecting workflows that rely on frequent or complex AI interactions.
+**「Background」** The San Francisco Declaration is a new international agreement signed by ten countries, including the United States, aimed at securing the supply chain and critical infrastructure for superintelligence \(SI\) and AI technologies. This declaration establishes a framework for cooperation through five dedicated working groups focused on innovation policy, SI applications, supply chain collaboration, security hubs, and SI safety and resilience. The agreement reflects growing concerns about the security and durability of AI-related supply chains as foundational to national and economic security.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://support.apple.com/en-us/121115">Get started with the next generation of Apple Intelligence</a></li>
-<li><a href="https://www.apple.com/apple-intelligence/">Apple Intelligence and Siri - Apple</a></li>
+<li><a href="https://www.state.gov/releases/office-of-the-spokesman/2026/11/the-san-francisco-declaration-on-the-secure-foundations-of-enduring-prosperity/">The San Francisco Declaration on the Secure Foundations of ...</a></li>
+<li><a href="https://currentaffairs.adda247.com/ten-countries-sign-san-francisco-declaration-2026-to-secure-ai-supply-chains/">Ten Countries Sign San Francisco Declaration 2026 ... - adda247</a></li>
+<li><a href="https://explainx.ai/blog/pax-silica-joint-ai-supply-chain-list-san-francisco-declaration-november-2026">Pax Silica AI Supply Chain List: Who Signed (2026 ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Apple`, `#AI`, `#operating systems`, `#security`, `#product updates`
+**Tags**: `#AI policy`, `#supply chain`, `#international cooperation`, `#technology industry`
+
+---
+
+<a id="item-tech-news-13"></a>
+### [Amazon Reports AI Agents Stealing API Keys via Artex Framework](https://cybernews.com/security/amazon-autonomous-cybercrime-artex-framework/) ⭐️ 7.0/10
+
+Amazon has reported that attackers used the open-source Artex penetration testing framework to drive AI agents that autonomously steal API keys from publicly exposed AI applications such as LiteLLM and Dify. The stolen keys were verified and pooled to fund further large language model usage, creating a self-sustaining attack loop. The activity began on October 3 and was intercepted by Amazon&\#x27;s MadPot honeypot network on November 5. Amazon attributes the campaign with moderate confidence to a China-linked threat group and has notified potentially affected AWS customers.
+
+telegram · zaihuapd · Nov 16, 13:00
+
+**「Background」** Artex is an open-source penetration testing framework designed to automate security assessments, but it has recently been repurposed by attackers to conduct AI-driven cyberattacks. The FBI and other security organizations have warned that Artex can be used by malicious actors to automate the exploitation of vulnerabilities, including stealing sensitive data such as API keys from exposed applications. The tool&\#x27;s open-source nature and availability have made it a target for abuse, leading to its removal from GitHub, though unofficial copies remain accessible.
+
+**「Impact」** Organizations running publicly accessible AI applications face increased risk of API key theft and misuse, especially if using open-source frameworks like LiteLLM or Dify. Immediate review and tightening of API key exposure and access controls are advised for affected users.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/">FBI warns ARTEX AI hacking tool is powering global cyberattacks</a></li>
+<li><a href="https://www.malwarebytes.com/blog/ai/2026/11/criminals-are-using-artex-ai-agents-to-speed-up-cyberattacks-fbi-warns">Criminals are using ARTEX AI agents to speed up cyberattacks , FBI...</a></li>
+<li><a href="https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html">CERT-In Flags AI -Driven Attacks as Backdoored ARTEX Exposes 62...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI security`, `#API security`, `#cybersecurity`, `#cloud services`
+
+---
+
+<a id="item-tech-news-14"></a>
+### [Apple Intelligence Beta Launches on Chinese iPad and Mac](https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription) ⭐️ 7.0/10
+
+Apple Intelligence features are now available to users in China on iPad and Mac devices running iPadOS 27.3 beta 2 or macOS 27.3 beta 2. This update also patches a file sandbox escape vulnerability affecting all Apple operating systems. Additionally, Apple is testing daily usage limits for advanced Siri AI and Apple Intelligence features on iOS 27.3, iPadOS 27.3, and macOS 27.3 beta 2, restricting cloud-based advanced functions such as multi-step personal context requests and image generation/editing, while basic Siri commands remain unlimited and free.
+
+telegram · zaihuapd · Nov 16, 20:12
+
+**「Background」** Apple Intelligence is Apple&\#x27;s suite of AI-powered features integrated into its operating systems. These features were initially introduced to Chinese users on the iPhone with the first iOS 27.3 beta, and have now been expanded to iPad and Mac devices through the iPadOS 27.3 and macOS 27.3 beta updates. This expansion follows regulatory approval and a phased rollout strategy in China.
+
+**「Impact」** Chinese users and developers can now test Apple Intelligence features on supported beta software, but may encounter daily limits on advanced AI capabilities, potentially affecting workflows that rely on frequent or complex Siri interactions.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.macrumors.com/2026/11/16/ipad-mac-apple-intelligence-china/">iPad and Mac Get Apple Intelligence in China in 27.3 Betas</a></li>
+<li><a href="https://appleinsider.com/articles/26/11/09/apple-intelligence-registered-for-ipad-mac-use-in-china">Apple Intelligence registered for iPad, Mac use in China</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Apple`, `#AI`, `#security`, `#operating systems`
 
 ---
 
@@ -378,134 +372,173 @@ telegram · zaihuapd · Nov 16, 20:12
 
 rss · NVIDIA CUDA Technical Blog · Nov 16, 22:30
 
-**「Background」** Molecular dynamics \(MD\) simulations are foundational in fields like chemistry and biology, but their performance is often limited by the computational cost of evaluating long-range interactions, especially under periodic boundary conditions. While GPUs have long accelerated MD, evolving hardware and the complexity of optimizing kernels for heterogeneous systems have made it increasingly challenging for developers to maintain both speed and accuracy.
+**「Background」** Molecular dynamics \(MD\) simulations are foundational in fields like physics, chemistry, and biology, but their performance is often limited by the computational cost of evaluating long-range interactions, especially under periodic boundary conditions. While GPUs have long accelerated MD, evolving hardware and the complexity of optimizing kernels for heterogeneous systems have made it increasingly challenging for developers to maintain both speed and accuracy, particularly for classical forcefields.
 
-**「Solution」** The author introduces NVIDIA cuPotential, a modular library designed to address these bottlenecks by providing flexible, high-performance primitives for MD simulations. cuPotential offers both direct and reciprocal space utilities, such as cutoff-based interaction evaluators and charge spreading functions, and integrates seamlessly with OpenMM via a dedicated plugin. The integration process is straightforward: users replace OpenMM’s nonbonded force and integrator with cuPotential’s counterparts, enabling drop-in acceleration with minimal code changes. Benchmarking across a range of GPUs and system sizes \(24,000–400,000 atoms\) shows substantial speedups—over 3x on the latest NVIDIA Blackwell GPUs and 2x or more on others—without sacrificing accuracy. The library’s scientific advances include new C2 continuous splitting and spreading functions, developed in collaboration with D. E. Shaw Research and the Flatiron Institute, which allow for reduced real-space cutoffs and grid sizes while maintaining or improving force accuracy and minimizing energy drift. Detailed error and energy drift analyses confirm that cuPotential not only matches but often surpasses standard methods like PME in both accuracy and stability, particularly for challenging systems such as highly nonpolar or membrane environments. However, the current plugin is optimized for solvated, uniform-density systems in rectangular boxes and does not yet support features like LJPME or triclinic geometries.
+**「Solution」** The author introduces NVIDIA cuPotential, a modular library providing accurate, flexible primitives for MD simulations, designed to be easily integrated—especially with OpenMM—via a C API and plugin system. cuPotential supplies both direct and reciprocal space utilities, including advanced cutoff-based interaction evaluators and charge spreading functions, aiming for drop-in acceleration with minimal code changes. The article details the build and integration process within a Conda environment, and demonstrates usage through sample systems \(DHFR, BACE, ApoA1\) under standard simulation conditions. Benchmarking across a range of NVIDIA GPUs shows substantial speedups \(often 2–3x or more\) for systems from 24,000 to 400,000 atoms. Technically, cuPotential advances accuracy and efficiency by implementing new C2 continuous splitting and spreading functions, developed in collaboration with D. E. Shaw Research and the Flatiron Institute, which outperform traditional Ewald and PME methods in both force accuracy and energy drift. The library enables reduced real-space cutoffs and grid sizes without sacrificing accuracy, and significantly improves dispersion energy calculations—by several orders of magnitude—compared to conventional approaches. Rigorous error and energy drift analyses confirm that cuPotential&\#x27;s kernels are not a dominant source of simulation error, even over long timescales.
 
-**「Takeaway」** NVIDIA cuPotential delivers significant acceleration and improved accuracy for molecular dynamics simulations by modularizing and optimizing key computational kernels, making advanced GPU performance accessible with minimal integration effort. Its rigorous error analysis and scientific innovations set a new standard for both speed and reliability in large-scale MD workflows.
+**「Takeaway」** NVIDIA cuPotential delivers substantial acceleration and improved accuracy for molecular dynamics simulations by providing modular, high-performance primitives that are straightforward to integrate, setting a new standard for both speed and reliability in GPU-accelerated MD workflows.
 
-**Tags**: `#molecular-dynamics`, `#gpu-acceleration`, `#numerical-accuracy`, `#openmm`, `#benchmarking`
+**Tags**: `#molecular-dynamics`, `#gpu-acceleration`, `#numerical-methods`, `#benchmarking`, `#simulation-software`
 
 ---
 
 ## Financial News
 
 <a id="item-finance-news-1"></a>
-### [China&\#x27;s October Economic Growth Slows Further](https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html) ⭐️ 8.0/10
+### [China&\#x27;s October Economic Slowdown Deepens as Key Indicators Miss Forecasts](https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html) ⭐️ 8.0/10
 
-China&\#x27;s economy slowed further in October 2026, with retail sales rising just 0.4% year-over-year and industrial output up 4.8%, both missing analyst forecasts for 0.8% and 5.3% growth, respectively. Fixed-asset investment for January–October shrank 8.1% from the previous year, a deeper decline than the expected 7% drop.
+China&\#x27;s retail sales rose 0.4% year-over-year in October 2026, missing analysts&\#x27; forecast of 0.8%, while industrial output grew 4.8%, below the expected 5.3%, and fixed-asset investment for January–October shrank 8.1% versus a projected 7% decline. These figures signal a worsening slowdown and increased reliance on exports, according to analysts.
 
 rss · CNBC Finance · Nov 16, 03:53
 
-**「Background」** China, the world&\#x27;s second-largest economy, has experienced rapid growth since economic reforms began in 1978, but recent years have seen challenges such as a property market downturn and weaker domestic demand affecting its economic performance.
+**「Background」** In September, China&\#x27;s retail sales and industrial output had shown stronger growth, with retail sales rising 1.1% and industrial output increasing 5.5% from a year earlier, both higher than the October figures that missed analyst expectations.
+
+**「Impact」** The weaker-than-expected data may affect Chinese households and businesses by dampening consumer confidence and investment, while global markets could face increased risks due to China&\#x27;s growing dependence on exports.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/China">China - Wikipedia</a></li>
+<li><a href="https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html">China ’s slowdown deepens in October as key economic data ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#China`, `#macroeconomics`, `#economic data`, `#trade`, `#investment`
+**Tags**: `#China economy`, `#economic data`, `#retail sales`, `#industrial output`, `#trade`
 
 ---
 
 <a id="item-finance-news-2"></a>
 ### [Intel and CEO Face Shareholder Lawsuit After Stock Plunge](https://www.investing.com/news/stock-market-news/intel-sued-by-shareholders-following-29-stock-plunge-5028171) ⭐️ 8.0/10
 
-Intel and its CEO are facing a shareholder class action lawsuit alleging they concealed weak PC demand and inventory problems, after the company issued a disappointing fourth-quarter forecast and its stock fell 28.6% the next day, erasing about $140 billion in market value.
+Intel and its CEO are being sued by shareholders who allege the company hid weak PC demand and inventory problems, after Intel&\#x27;s October 29 earnings forecast missed expectations and its stock fell 28.6%, erasing about $140 billion in market value.
 
 telegram · zaihuapd · Nov 16, 11:10
 
-**「Background」** Intel is a major U.S. technology company known for producing computer processors and related hardware.
+**「Background」** Intel recently reported weaker-than-expected earnings and forecasts, mainly due to falling demand for personal computers and excess inventory, which led to a sharp drop in its stock price and prompted the shareholder lawsuit.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Intel">Intel - Wikipedia</a></li>
+<li><a href="https://wccftech.com/intel-ceo-lip-bu-tan-named-defendant-class-action-lawsuit-pc-sales-slowdown/">Intel CEO Lip-Bu Tan Named As Defendant In New Class-Action...</a></li>
+<li><a href="https://www.kucoin.com/news/flash/intel-q3-net-profit-falls-18-amid-pc-demand-weakness-shares-drop-over-21-post-market">Intel &#x27;s Q3 net profit falls 18% amid weak PC demand , shares ... | KuCoin</a></li>
+<li><a href="https://www.bbc.com/news/articles/cw62p42p288do">Investors sue chip giant Intel after 29% stock plunge</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#lawsuit`, `#earnings`, `#technology`, `#stock market`, `#corporate governance`
+**Tags**: `#corporate litigation`, `#earnings`, `#technology sector`, `#stock market`, `#investor impact`
 
 ---
 
 <a id="item-finance-news-3"></a>
 ### [Berkshire Hathaway Raises Delta Stake, Cuts Bank of America Holding](https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html) ⭐️ 7.0/10
 
-Berkshire Hathaway increased its stake in Delta Air Lines by 12% and reduced its Bank of America holding by nearly 6% in the third quarter of 2026, according to company disclosures.
+Berkshire Hathaway increased its stake in Delta Air Lines by 12% and reduced its Bank of America holdings by nearly 6% in the third quarter of 2026. These portfolio changes reflect the company&\#x27;s latest investment decisions during a period of market volatility.
 
 rss · CNBC Finance · Nov 16, 23:01
 
-**「Background」** Berkshire Hathaway is a large investment company known for making significant changes to its stock portfolio, and it has a history of holding major stakes in both airlines and banks.
+**「Background」** Berkshire Hathaway, a large investment company, regularly adjusts its stock holdings and in the third quarter increased its stake in Delta Air Lines while reducing its position in Bank of America, reflecting its ongoing portfolio management strategy.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.kiplinger.com/investing/stocks/warren-buffett-stocks-berkshire-hathaway-portfolio">Here Are the Current Berkshire Hathaway Stock Holdings | Kiplinger</a></li>
+<li><a href="https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html">Berkshire Hathaway raised its stake in Delta in the third ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#institutional investors`, `#equity markets`, `#portfolio management`, `#airlines`, `#banking`
+**Tags**: `#Berkshire Hathaway`, `#stock holdings`, `#Delta Air Lines`, `#Bank of America`, `#institutional investment`
 
 ---
 
 <a id="item-finance-news-4"></a>
 ### [U.S. Crude Oil Drops to $85 as Middle East Exports Recover](https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html) ⭐️ 7.0/10
 
-U.S. crude oil prices fell to $85.39 a barrel on Monday as Middle East exports recovered, reversing earlier supply concerns, according to the International Energy Agency&\#x27;s latest forecast.
+U.S. crude oil prices fell to $85 a barrel on Monday as Middle East exports recovered, reversing earlier supply deficit forecasts according to the International Energy Agency. The IEA now expects global oil supply to exceed demand by 1.7 million barrels per day in the fourth quarter of 2026.
 
 rss · CNBC Finance · Nov 16, 22:19
 
-**「Background」** Earlier in 2026, oil exports from the Middle East were disrupted by regional conflict, but recent recovery in shipments through the Strait of Hormuz has increased global supply, leading the International Energy Agency \(IEA\) to forecast a surplus for the fourth quarter of 2026 compared to its previous expectation of a deficit.
+**「Background」** Earlier in 2026, Middle East oil exports had been disrupted by regional conflicts, but recent reports show shipments are recovering and approaching pre-war levels despite ongoing security risks.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.benzinga.com/markets/commodities/26/11/63273939/iea-sees-first-oil-surplus-since-iran-war-as-gulf-supply-rebounds">IEA Oil Surplus: First Since Iran War As Gulf Exports Surge - Benzinga</a></li>
-<li><a href="https://www.arabnews.com/middle-east/iea-oil-market-returning-to-surplus-as-gulf-exports-recover-3011670">IEA : Oil market returning to surplus as Gulf exports recover</a></li>
+<li><a href="https://www.iea.org/reports/oil-market-report-october-2026">Oil Market Report - October 2026 - IEA</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#oil markets`, `#commodities`, `#Middle East`, `#IEA forecast`, `#energy supply`
+**Tags**: `#oil prices`, `#energy markets`, `#Middle East exports`, `#IEA forecast`, `#commodities`
 
 ---
 
 <a id="item-finance-news-5"></a>
-### [Nvidia CEO Resignation and Congressional Shift Affect AI Investments](https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html) ⭐️ 7.0/10
+### [Nvidia CEO Resignation and Congressional Shift May Reshape AI Sector](https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html) ⭐️ 7.0/10
 
-Nvidia&\#x27;s CEO Jensen Huang resigned, and Yorkville Ives lowered its price target for Nvidia stock to $225 from $300 after the announcement, while ETF experts say a Democratic-controlled Congress could slow data center expansion by up to 20%. These changes are prompting shifts in AI sector investments and ongoing market volatility.
+Nvidia&\#x27;s CEO Jensen Huang has resigned and the company&\#x27;s stock posted its longest losing streak since 2012, while ETF experts say a Democratic-controlled Congress could slow data center expansion by up to 20%, potentially benefiting rival chipmakers and large technology firms. These developments are based on commentary from ETF managers and analysts following Nvidia&\#x27;s leadership turmoil and recent U.S. election results.
 
 rss · CNBC Finance · Nov 16, 12:13
 
-**「Background」** Nvidia is a leading supplier of chips for artificial intelligence, and recent political changes have given Democrats control of Congress, raising the possibility of new limits on data center growth.
+**「Background」** Nvidia CEO Jensen Huang resigned after being linked to a suspected Chinese asset, prompting national security concerns and calls for answers from Congress, which is also considering new policies affecting data centers and the AI sector.
 
-**Tags**: `#Nvidia`, `#AI`, `#ETF`, `#Tech Policy`, `#Market Reaction`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://thehill.com/homenews/senate/6217057-congress-jensen-huang-nvidia-national-security/">Jensen Huang resigns from Nvidia amid China spying scandal as ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Nvidia`, `#AI`, `#ETF`, `#Tech Stocks`, `#Policy`
 
 ---
 
 <a id="item-finance-news-6"></a>
-### [Cantor Fitzgerald&\#x27;s Nvidia Stake and Leadership Ties Face Scrutiny Amid Spy Allegations](https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html) ⭐️ 7.0/10
+### [Cantor Fitzgerald Faces Scrutiny Over Nvidia Ties Amid U.S. Intelligence Concerns](https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html) ⭐️ 7.0/10
 
-Cantor Fitzgerald&\#x27;s reported Nvidia shareholdings fell by nearly 50% from September 2025 to March 2026, as the firm and its leadership faced scrutiny over ties to Nvidia and U.S. intelligence concerns about chip exports to China. Nvidia CEO Jensen Huang resigned amid these pressures, and there is no evidence Cantor&\#x27;s trading was linked to nonpublic information or intelligence warnings.
+Cantor Fitzgerald and its leadership are under scrutiny after U.S. officials raised intelligence concerns and imposed new export restrictions, with the firm reporting a 49% decline in its Nvidia share holdings between September 2025 and March 2026 according to CNBC analysis. There is no evidence of wrongdoing, but questions have been raised about possible conflicts of interest due to Cantor&\#x27;s ongoing business ties to Nvidia and its leadership.
 
 rss · CNBC Finance · Nov 16, 12:14
 
-**「Background」** Cantor Fitzgerald is a major Wall Street firm that was led by Howard Lutnick before he became U.S. Commerce Secretary in 2025; his sons now run the firm, which has held significant investments in Nvidia, a leading U.S. chipmaker, amid ongoing U.S.-China technology tensions.
+**「Background」** Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to U.S. Commerce Secretary Howard Lutnick and his family&\#x27;s financial ties to Nvidia, especially as Lutnick faces bipartisan criticism for not blacklisting Megaspeed, a company suspected of sending Nvidia&\#x27;s AI chips to China, despite ongoing U.S. export restrictions and intelligence concerns.
 
-**Tags**: `#Nvidia`, `#Cantor Fitzgerald`, `#U.S.-China relations`, `#financial regulation`, `#conflict of interest`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html">Howard Lutnick&#x27;s sons&#x27; Nvidia ties amid Jensen Huang China ...</a></li>
+<li><a href="https://www.firstpost.com/explainers/nvidia-scandal-why-is-trump-commerce-secretary-howard-lutnick-under-fire-14060250.html">Nvidia scandal: Why is Trump’s Commerce Secretary Howard ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Nvidia`, `#Cantor Fitzgerald`, `#regulation`, `#conflict of interest`, `#technology`
 
 ---
 
 <a id="item-finance-news-7"></a>
 ### [China Sees Net Outflow of Foreign Direct Investment in Q3 2026](https://cn.nikkei.com/china/ceconomy/64726-2026-11-16-09-03-25.html) ⭐️ 7.0/10
 
-Foreign direct investment in China turned into a net outflow of $900 million in the third quarter of 2026, reversing four consecutive quarters of net inflows according to official data.
+Foreign direct investment in China turned into a net outflow of $900 million in the third quarter of 2026, according to official data, marking the first quarterly net outflow in a year.
 
 telegram · zaihuapd · Nov 16, 05:29
 
-**「Background」** Foreign direct investment \(FDI\) measures the net flow of capital from foreign investors into a country, and a net outflow means more money is leaving than entering through such investments.
+**「Background」** Foreign direct investment \(FDI\) measures the net inflow of investment from foreign companies into a country, and a net outflow means more capital is leaving than entering; China had previously reported positive FDI for four consecutive quarters before this reversal.
 
-**Tags**: `#China`, `#foreign investment`, `#economic data`, `#capital flows`
+**Tags**: `#China`, `#foreign direct investment`, `#capital flows`, `#economic data`
+
+---
+
+<a id="item-finance-news-8"></a>
+### [Nvidia Board Not Considering Jensen Huang&\#x27;s Return as CEO](https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html) ⭐️ 7.0/10
+
+Nvidia&\#x27;s board is reportedly not considering Jensen Huang&\#x27;s return as CEO and has hired a law firm to investigate his conduct for possible national security and company confidentiality risks, according to unnamed sources cited by CNBC.
+
+telegram · zaihuapd · Nov 17, 01:39
+
+**「Background」** Nvidia&\#x27;s board recently hired the law firm Wachtell, Lipton, Rosen &amp; Katz to investigate CEO Jensen Huang&\#x27;s conduct, focusing on potential risks to national security and company confidentiality.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.cnbc.com/2026/11/10/nvidia-wachtell-lipton-huang-affair.html">Nvidia hires law firm Wachtell Lipton to lead Jensen Huang ...</a></li>
+<li><a href="https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html">Nvidia board not considering bringing Huang back as CEO: Source</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Nvidia`, `#corporate governance`, `#executive leadership`, `#technology sector`
 
 ---
